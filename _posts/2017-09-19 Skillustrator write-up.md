@@ -25,7 +25,7 @@ We used Angular 2 for the front-end, and a PostgreSQL database in the backend.
 
 All of these technologies work great in Docker, so we put the UI, API and database engine all in their own containers. This allowed us to spin up the app and start developing very quickly, with one command and without having to install anything except Docker.
 
-We were able to deploy the entire application in their containers to Azure Container Service and Azure VMs. We tried both for experimentation.
+We were able to deploy the entire application in their containers very efficiently to Azure Container Service and Azure VMs. We tried both for experimentation.
 
 ## What's Next
 
