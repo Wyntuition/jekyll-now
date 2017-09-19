@@ -15,6 +15,8 @@ For example, you can tag skills into a general category. Let's use tech as an ex
 
 Another example would be you would like to build a new application at your organization with a nice front-end, so you go to Skillustrator to search out all the people who have Angular, TypeScript and ES2017, or one of those or some combination.
 
+We also wanted a chance to exercise the net .NET Core technologies and see how they played with non-Windows technologies and servers.
+
 ## How did we do it?
 
 We created the app using Microsoft's newer ASP.NET Core framework. This is a very streamlined web framework that allows cross-platform development. We used it to develop the APIs for the application. Since it was cross-platform, we had people contributing from Mac and Windows. Imagine that in a .NET world!
@@ -27,4 +29,6 @@ We were able to deploy the entire application in their containers to Azure Conta
 
 ## What's Next
 
-We will be looking to add features to Skillustrator as we start to understand what would be most useful. We had a good experiecne with Docker so we will be using that more in the .NET world, and Azure is really moving quickly so we're excited to try newer and even more efficient things like Docker for Azure.
+We had a good experiecne with ASP.NET Core on both Mac and Windows. We are excited to use it more, including leveraging .NET Standard. We also had a good experience with Docker so we will be using that more in the .NET world, and Azure is really moving quickly so we're excited to try newer and even more efficient things like Docker for Azure.
+
+We were interviewed on Channel9 about our experiecnes putting a containerized ASP.NET Core application in Azure. You can watch that [here](https://news.google.com) for more details.
