@@ -3,6 +3,10 @@ layout: post
 title: Why We Wrote the Skillustrator app
 ---
 
+## Skillustrator, an open source skills application built with ASP.NET Core, Angular & Docker deployed on Azure
+
+[GitHub repo](https://github.com/excellalabs/skillustrator)
+
 We like to be in touch with Microsoft since we are enthusiastic about their .NET technology, especially the newer open source, cross-platform .NET Core. Therefore we found out they had a program where you can submit an idea for an app, and if chosen, they will help you write it with the latest Microsoft technologies. So I gathered ideas from my creative colleagues, and one from Sean Killeen was chosen - Skillustrator.
 
 ## Why Skillustrator
