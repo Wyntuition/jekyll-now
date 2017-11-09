@@ -1,5 +1,3 @@
-ssh -i wv-gfe.pem ubuntu@10.193.185.18
-
 ===TODAY===
 - Docker director
 - godaddy. review greminders for timely ones
@@ -26,3 +24,6 @@ ssh -i wv-gfe.pem ubuntu@10.193.185.18
 
 - **Q's w/ VQ**
     - No sync ahead of time for DMS. Continous repl?
+
+
+ssh -i wv-gfe.pem ubuntu@10.193.185.18
