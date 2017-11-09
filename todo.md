@@ -1,5 +1,10 @@
 ssh -i wv-gfe.pem ubuntu@10.193.185.18
 
+===TODAY===
+- Docker director
+-godaddy. review greminders for timely ones
+
+
 - Pipeline for DM:
     1. Trigger DMS job (infra too)
     1. Load databases if not exists, create schemas
@@ -19,3 +24,6 @@ ssh -i wv-gfe.pem ubuntu@10.193.185.18
 
 - MSB
     - how to pass compose env vars to docker run in jenkins?
+
+
+- ???+++ how does auth work: from xyz to xyz
