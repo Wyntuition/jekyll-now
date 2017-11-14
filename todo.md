@@ -1,9 +1,9 @@
 ===TODAY===
-- Docker director
+- Docker director, reply to Christine
 - godaddy. review greminders for timely ones
 
 
-
+- what classes shoudl I take to help me get into grad school?
 
 
 - +CL infra checklst: app name, urls, logs, accounts, envs, monitoring,
