@@ -1,7 +1,8 @@
 ===TODAY===
 
 - BILLS
-- move to 1 onenote
+- slack, email catch up
+- move to 1 onenote, greminders, etc
 - USCIS
     - work schema deleted on every migrate run? Where is it used?
 
