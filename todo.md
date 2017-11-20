@@ -1,8 +1,14 @@
 ===TODAY===
+
 - BILLS
 - Hyatt Rewards - 534844297I
 - Docker director, reply to Christine
 - godaddy. review greminders for timely ones
+- USCIS
+    - work schema deleted on every migrate run? Where is it used?
+
+    - vis-279:
+        - pull data from DMS MOD
 
 - xpert agenda 
     - microservices workshop idea
