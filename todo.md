@@ -1,9 +1,7 @@
 ===TODAY===
 
 - BILLS
-- Hyatt Rewards - 534844297I
-- Docker director, reply to Christine
-- godaddy. review greminders for timely ones
+- move to 1 onenote
 - USCIS
     - work schema deleted on every migrate run? Where is it used?
 
