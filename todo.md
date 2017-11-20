@@ -3,15 +3,8 @@
 - BILLS
 - slack, email catch up
 - move to 1 onenote, greminders, etc
-- USCIS
-    - work schema deleted on every migrate run? Where is it used?
 
-    - vis-279:
-        - pull data from DMS MOD
-
-
-
-- xpert agenda, discussions with themes (i.e. 6 month plan, upcoming themes & trends, personal project)
+- xpert agenda send out, discussions with themes (i.e. 6 month plan, upcoming themes & trends, personal project)
     - Clear outcomes.
         - 6 month plan, tie our own plans to overall xpert plan/Excella goal
             - Current business - get feedback. Collaboration. Updates from what paths people are going on? Balance b/t indiv. projects & collaboration. Review Excella initiatives, do we need to pick up anything?
