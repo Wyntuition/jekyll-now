@@ -10,11 +10,28 @@
     - vis-279:
         - pull data from DMS MOD
 
-- xpert agenda 
-    - microservices workshop idea
-    - collaborate around projects. Idea gathering.
-    - Go through what we've been working on, upcoming plans
-    - ?? FADI notes
+
+
+- xpert agenda, discussions with themes (i.e. 6 month plan, upcoming themes & trends, personal project)
+    - Clear outcomes.
+        - 6 month plan, tie our own plans to overall xpert plan/Excella goal
+            - Current business - get feedback. Collaboration. Updates from what paths people are going on? Balance b/t indiv. projects & collaboration. Review Excella initiatives, do we need to pick up anything?
+            - SDSA tasks?
+        - Should we meet monthly, ad-hoc?
+        - Align Trends
+            - Example: microservices workshop idea, how to get into AI?
+        - Ideas for collaborating around projects? Tech issues across xperts to collaborate on? Assignments for xperts, come up with a few projects? Where op for growth in different services areas, by xpert?
+        
+
+
+
+
+
+        
+
+
+
+
 
 -DU Roles
 
