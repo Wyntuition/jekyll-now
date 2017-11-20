@@ -1,6 +1,21 @@
 ===TODAY===
+- BILLS
+- Hyatt Rewards - 534844297I
 - Docker director, reply to Christine
 - godaddy. review greminders for timely ones
+
+- xpert agenda 
+    - microservices workshop idea
+    - collaborate around projects. Idea gathering.
+    - Go through what we've been working on, upcoming plans
+    - ?? FADI notes
+
+-DU Roles
+
+    - Director of Technical Direction
+    - Director of Thought Leadership
+
+
 
 
 - what classes shoudl I take to help me get into grad school?
@@ -27,3 +42,9 @@
 
 
 ssh -i wv-gfe.pem ubuntu@10.193.185.18
+
+
+
+INFO:
+
+- Zoom account: https://excella.zoom.us/j/6837590826
