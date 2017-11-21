@@ -14,7 +14,16 @@
             - Example: microservices workshop idea, how to get into AI?
         - Ideas for collaborating around projects? Tech issues across xperts to collaborate on? Assignments for xperts, come up with a few projects? Where op for growth in different services areas, by xpert?
         
+-PD
 
+    - CS computational-related theory
+    - AI
+        - alphago
+        - ML - 
+            - testing
+            - 
+    - python programming, dist. computing, infra
+    - proper architecture? test exercises?
 
 
 
