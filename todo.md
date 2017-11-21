@@ -13,7 +13,8 @@
         - Align Trends
             - Example: microservices workshop idea, how to get into AI?
         - Ideas for collaborating around projects? Tech issues across xperts to collaborate on? Assignments for xperts, come up with a few projects? Where op for growth in different services areas, by xpert?
-        
+
+-tbuc: szwe w57p cixb        
 -PD
 
     - CS computational-related theory
