@@ -1,9 +1,10 @@
 ===TODAY===
 
+- white tie tails
 - BILLS
 - slack, email catch up
 - org notebooks; move to 1 onenote, greminders, etc
-- car 
+- car
 
 - xpert agenda send out, discussions with themes (i.e. 6 month plan, upcoming themes & trends, personal project)
     - Clear outcomes.
