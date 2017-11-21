@@ -2,7 +2,8 @@
 
 - BILLS
 - slack, email catch up
-- move to 1 onenote, greminders, etc
+- org notebooks; move to 1 onenote, greminders, etc
+- car 
 
 - xpert agenda send out, discussions with themes (i.e. 6 month plan, upcoming themes & trends, personal project)
     - Clear outcomes.
