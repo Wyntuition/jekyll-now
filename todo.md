@@ -1,10 +1,20 @@
 ===TODAY===
 
-- white tie tails
-- BILLS
+- this weekend? Ivy, other events? Tues to Pville?
+
 - slack, email catch up
-- org notebooks; move to 1 onenote, greminders, etc
-- car
+- 1 in work & on phone? org notebooks; move to 1 onenote, greminders, etc.
+- PD org, below, other notes, to 1 note
+- Review Hub
+    - Events org.
+    - music news worked in
+    - Deep industry, dev, AI, IT overall/strategic. Hobby Industry (ie solar, e music, comp)
+
+- Bill EOM
+
+-USVIS 
+    -ETL Pipeline:
+        - re-run-all, create database on nonprod & go. Jenkinsfile -> re-run-all script
 
 - xpert agenda send out, discussions with themes (i.e. 6 month plan, upcoming themes & trends, personal project)
     - Clear outcomes.
@@ -17,7 +27,9 @@
         - Ideas for collaborating around projects? Tech issues across xperts to collaborate on? Assignments for xperts, come up with a few projects? Where op for growth in different services areas, by xpert?
 
 -tbuc: szwe w57p cixb        
--PD
+
+
+-PD    
 
     - CS computational-related theory
     - AI
