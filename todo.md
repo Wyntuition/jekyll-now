@@ -2,6 +2,7 @@
 
 - this weekend? Ivy, other events? Tues to Pville?
 
+- A.M. - call bank about VV check
 - slack, email catch up
 - 1 in work & on phone? org notebooks; move to 1 onenote, greminders, etc.
 - PD org, below, other notes, to 1 note
@@ -11,9 +12,11 @@
     - Deep industry, dev, AI, IT overall/strategic. Hobby Industry (ie solar, e music, comp)
 
 - Bill EOM
++-m tasks - backup to cloud check
+-photos - org ones to display, frame layout, additional frames for living room
 
 -USVIS 
-    -ETL Pipeline:
+    -ETL Pipeline increment:
         - re-run-all, create database on nonprod & go. Jenkinsfile -> re-run-all script
 
 - xpert agenda send out, discussions with themes (i.e. 6 month plan, upcoming themes & trends, personal project)
