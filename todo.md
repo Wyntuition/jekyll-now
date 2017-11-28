@@ -87,6 +87,20 @@ ssh -i wv-gfe.pem ubuntu@10.193.185.18
 
 
 
+### Tech Leadership Structure
+
+Goals
+- Foster efficiency via collaboration for thought leadership activities at Excella. Coordinate visions, plans and efforts to create the most value. 
+
+- Envision, map, plan and disseminate technical trends, visions, upcoming project needs and efficiency areas to lead into initiatives, projects and topics among thought leaders. 
+
+- Technical projects strategy across Excella - the bench, thought leaders, service areas, showcases and protoypes
+    - Prototype & architectural guidance artifacts for new projects, how we do things, and for ramp up
+    - 
+
+
+
+
 INFO:
 
 - Zoom account: https://excella.zoom.us/j/6837590826
