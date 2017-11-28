@@ -13,7 +13,7 @@
     - Envision, map, plan and disseminate technical trends, visions, upcoming project needs and efficiency areas to lead into initiatives, projects and topics among thought leaders.
     - Communicate with business folks for what solutions and efficiencies are possibly from new tech advancements
     - Produce materials to highlight key new tech and Excella's capabilities in them (i.e. tech radar, the right white papers, blogs, workshops, talks that align with what other parts of the org are doing)
-- Technical Project Strategy
-    - Prototype & architectural guidance artifacts for new projects, how we do things, and for ramp up
-    - Keep updated on tech trends and try new buzz-worthy stacks and tools as they come out. Educate and guide tech strategy based on this. 
-    - Prototype new tech and ways to use tech, i.e. a chatbot for answering common questions as a guide, to help jumpstart new disciplines.
+    - Technical Project Strategy
+      - Prototype & architectural guidance artifacts for new projects, how we do things, and for ramp up
+      - Keep updated on tech trends and try new buzz-worthy stacks and tools as they come out. Educate and guide tech strategy based on this. 
+      - Prototype new tech and ways to use tech, i.e. a chatbot for answering common questions as a guide, to help jumpstart new disciplines.
