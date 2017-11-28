@@ -2,11 +2,11 @@
 
 ## Goals
 
-- Foster efficiency via collaboration for thought leadership activities at Excella. Coordinate visions, plans and efforts to create the most value.
-
-- Guide thought leaders into projects useful to maintaining thought leadership and Excella's roadmap
-- Brainstorm project ideas and vet with thought leaders. Align with learning upcoming tech, PD and Excella project needs.
-- Guide PD for thought leaders
+- Foster efficiency via collaboration for thought leadership activities at Excella.
+  - Coordinate visions, plans and efforts to create the most value.
+  - Guide thought leaders into projects useful to maintaining thought leadership and Excella's roadmap
+  - Brainstorm project ideas and vet with thought leaders. Align with learning upcoming tech, PD and Excella project needs.
+  - Guide PD for thought leaders
 
 - Guide technical strategy across Excella - the bench, thought leaders, service areas, showcases and protoypes
   - Technical Vision
