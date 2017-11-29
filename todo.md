@@ -1,6 +1,8 @@
 ===TODAY===
 
 - this weekend? Ivy, other events? Tues to Pville?
+- benefits
+-call cigna; then pay
 
 - mth with Dean and Glenn, initiate PD process
 - A.M. - call bank about VV check
