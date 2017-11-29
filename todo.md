@@ -2,6 +2,7 @@
 
 - this weekend? Ivy, other events? Tues to Pville?
 
+- mth with Dean and Glenn, initiate PD process
 - A.M. - call bank about VV check
 - slack, email catch up
 - 1 in work & on phone? org notebooks; move to 1 onenote, greminders, etc.
