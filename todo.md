@@ -20,19 +20,16 @@
 - FSA acct
 
 -xpert agenda send out (see notes below)
+-photos to Bob
 - [VV check
-
 - 1 in work & on phone? org notebooks; move to 1 onenote, greminders, etc.
-
-
 - Review Hub
     - Events org.
     - music news worked in
     - Deep industry, dev, AI, IT overall/strategic. Hobby Industry (ie solar, e music, comp). AI newsletter. 
 
-- Bill EOM
 +-m tasks - backup to cloud check
--photos - org ones to display, frame layout, additional frames for living room
+-+ house list: photos - org ones to display, frame layout, additional frames for living room
 
 ===USVIS ===
     - Docker in Pipeline. PR branches.
