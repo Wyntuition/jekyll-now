@@ -12,6 +12,13 @@
     - python programming, dist. computing, infra
     - proper architecture? test exercises?
 
+===PROJECTS NOW===
+- donkey car
+- AI programs (Excella bot via chatterbot and Lex), book, CURRIC
+- Speakers, remodeling, 
+- winter long versitle coat?
+- dress shoes
+- car
 
 ===TODAY===
 
