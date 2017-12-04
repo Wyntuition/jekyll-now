@@ -1,26 +1,44 @@
+==PD ROUTINE==
+
+- Katas
+    - Functional, JS, Python, algo
+
+    - CS computational-related theory
+    - AI
+        - alphago
+        - ML - 
+            - testing
+            - 
+    - python programming, dist. computing, infra
+    - proper architecture? test exercises?
+
+
 ===TODAY===
 
 - this weekend? Ivy, other events? Tues to Pville?
-- benefits
--call cigna; then pay
-
-- mth with Dean and Glenn, initiate PD process
-- A.M. - call bank about VV check
-- slack, email catch up
-- 1 in work & on phone? org notebooks; move to 1 onenote, greminders, etc.
 - PD org, below, other notes, to 1 note
+- FSA acct
+
+-xpert agenda send out (see notes below)
+- [VV check
+
+- 1 in work & on phone? org notebooks; move to 1 onenote, greminders, etc.
+
+
 - Review Hub
     - Events org.
     - music news worked in
-    - Deep industry, dev, AI, IT overall/strategic. Hobby Industry (ie solar, e music, comp)
+    - Deep industry, dev, AI, IT overall/strategic. Hobby Industry (ie solar, e music, comp). AI newsletter. 
 
 - Bill EOM
 +-m tasks - backup to cloud check
 -photos - org ones to display, frame layout, additional frames for living room
 
--USVIS 
-    -ETL Pipeline increment:
-        - re-run-all, create database on nonprod & go. Jenkinsfile -> re-run-all script
+===USVIS ===
+    - Docker in Pipeline. PR branches.
+
+
+===NOTES===
 
 - xpert agenda send out, discussions with themes (i.e. 6 month plan, upcoming themes & trends, personal project)
     - Clear outcomes.
@@ -35,30 +53,7 @@
 -tbuc: szwe w57p cixb        
 
 
--PD    
 
-    - CS computational-related theory
-    - AI
-        - alphago
-        - ML - 
-            - testing
-            - 
-    - python programming, dist. computing, infra
-    - proper architecture? test exercises?
-
-
-
-
-        
-
-
-
-
-
--DU Roles
-
-    - Director of Technical Direction
-    - Director of Thought Leadership
 
 
 
@@ -70,12 +65,6 @@
 - MSB
     - how to pass compose env vars to docker run in jenkins?
 
-- Pipeline for DM:
-    1. Trigger DMS job (infra too)
-    1. Load databases if not exists, create schemas
-    1. Seed legacy data
-    1. ? Run integration tests in test environment
-    1. Run migrations, run complete-process integration tests
 
     https://github.com/jenkinsci/pipeline-examples/tree/master/jenkinsfile-examples/nodejs-build-test-deploy-docker-notify
 
@@ -90,16 +79,7 @@ ssh -i wv-gfe.pem ubuntu@10.193.185.18
 
 
 
-### Tech Leadership Structure
 
-Goals
-- Foster efficiency via collaboration for thought leadership activities at Excella. Coordinate visions, plans and efforts to create the most value. 
-
-- Envision, map, plan and disseminate technical trends, visions, upcoming project needs and efficiency areas to lead into initiatives, projects and topics among thought leaders. 
-
-- Technical projects strategy across Excella - the bench, thought leaders, service areas, showcases and protoypes
-    - Prototype & architectural guidance artifacts for new projects, how we do things, and for ramp up
-    - 
 
 
 
