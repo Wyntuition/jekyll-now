@@ -19,6 +19,8 @@
 - PD org, below, other notes, to 1 note
 - FSA acct
 - org foundations list. Make levels of generality: highest level knock out in next few months & list categories (way of life/spirituality/bios, histories, literatures, arts, etc. High level knowledge of key concepts.)
+- update Routine Quik List/org
+    -+music read (dive into liked artists, news, review playlists)
 
 -xpert agenda send out (see notes below)
 -photos to Bob
