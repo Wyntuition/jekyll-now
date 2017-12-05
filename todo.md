@@ -35,6 +35,7 @@
 - update Routine Quik List/org
     -+music read (dive into liked artists, news, review playlists)
 
++Glenn info: https://trello.com/b/Bf8Ohhro/personal-development
 -xpert agenda send out (see notes below)
 -photos to Bob
 - [VV check
