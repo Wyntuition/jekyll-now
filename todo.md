@@ -11,14 +11,16 @@
             - 
     - python programming, dist. computing, infra
     - proper architecture? test exercises?
+- Increment PD Plan
 
 ====ALL====
     - Sing & backup, keyboard play-along, with songs & w/synths
 
-
-===PROJECTS NOW===
+====PROJECTS NOW====
 - donkey car
-- AI programs (Excella bot via chatterbot and Lex), book, CURRIC
+- career exploration
+    - AI programs (Excella bot via chatterbot and Lex), book, CURRIC
+    - problem exploration (sw arch, AI testing, AI dev, )
 - Speakers, remodeling, 
 - winter long versitle coat?
 - dress shoes
@@ -26,7 +28,7 @@
 
 +++RESEARCH+++
 - AI for:
-    - Automated testing, 
+    - Automated testing, dev
 - Volitility-based arch
 
 ===TODAY===
