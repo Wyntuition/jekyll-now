@@ -38,6 +38,7 @@
     - [ ] TODO's (plus gTodos)
     - [ ] clean up hub; find way to sync to uscis & mobile
     - [ ] find central to do: system not blocked on both, with to do items, so I can have alerts for ones needing regular review? MD-based task list app?
+        - needs to work on mobile, any computer
 - [p] fix BOA
 
 - QCON VIDS: rc car, web assembly, etc
