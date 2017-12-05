@@ -21,6 +21,7 @@
 - career exploration
     - AI programs (Excella bot via chatterbot and Lex), book, CURRIC
     - problem exploration (sw arch, AI testing, AI dev, data analytics, model-based design/TDK/math sw engineering)
+    - Excella bot
 - Speakers, remodeling, 
 - winter long versitle coat?
 - dress shoes
