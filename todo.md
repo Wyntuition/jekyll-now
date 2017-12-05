@@ -20,8 +20,14 @@
 - dress shoes
 - car
 
++++RESEARCH+++
+- AI for:
+    - Automated testing, 
+- Volitility-based arch
+
 ===TODAY===
 
+- TODO's (plus gTodos)
 - this weekend? Ivy, other events? Tues to Pville?
 - PD org, below, other notes, to 1 note
 - FSA acct
