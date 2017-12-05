@@ -39,6 +39,7 @@
 - clean up hub; find way to sync to uscis & mobile
 - fix BOA
 
+- QCON VIDS: rc car, web assembly, etc
 + Blog? ML/Data analytics tools landscape: Kafka, MQ, Spark, Hive, R, Hadoop, Hortonworks, event sourcing, real-time
 - this weekend? Ivy, other events? Tues to Pville?
 - PD org, below, other notes, to 1 note
