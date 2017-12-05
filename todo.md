@@ -1,5 +1,5 @@
-==PD ROUTINE==
-
+==ROUTINE==
+====PD====
 - Katas
     - Functional, JS, Python, algo
 
@@ -11,6 +11,10 @@
             - 
     - python programming, dist. computing, infra
     - proper architecture? test exercises?
+
+====ALL====
+    - Sing & backup, keyboard play-along, with songs & w/synths
+
 
 ===PROJECTS NOW===
 - donkey car
