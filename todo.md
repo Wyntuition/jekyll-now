@@ -33,6 +33,7 @@
 - Volitility-based arch
 
 ===TODAY===
+- photos to Bob
 
 - TODO's (plus gTodos)
 - this weekend? Ivy, other events? Tues to Pville?
@@ -44,8 +45,6 @@
 
 +Glenn info: https://trello.com/b/Bf8Ohhro/personal-development
 -xpert agenda send out (see notes below)
--photos to Bob
-- [VV check
 - 1 in work & on phone? org notebooks; move to 1 onenote, greminders, etc.
 - Review Hub
     - Events org.
