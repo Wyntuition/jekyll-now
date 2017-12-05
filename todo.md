@@ -26,6 +26,7 @@
 - winter long versitle coat?
 - dress shoes
 - car
+- sandbox: deep app w/techniques (real-time streaming, event sourcing, ms, CQRS, v-based arch, ...)
 
 +++RESEARCH+++
 - AI for:
