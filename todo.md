@@ -34,8 +34,10 @@
 
 ===TODAY===
 - photos to Bob
+- qcon blog (org main todo)
+    - TODO's (plus gTodos)
 
-- TODO's (plus gTodos)
++ Blog? ML/Data analytics tools landscape: Kafka, MQ, Spark, Hadoop, Hortonworks, event sourcing, real-time
 - this weekend? Ivy, other events? Tues to Pville?
 - PD org, below, other notes, to 1 note
 - FSA acct
