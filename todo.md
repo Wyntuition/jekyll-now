@@ -35,6 +35,7 @@
 
 ===TODAY===
 - [p] fix BOA
+- pd plan stuff to Glenn
 
 - [ ] photos to Bob
 - [ ] qcon blog (org main todo)
