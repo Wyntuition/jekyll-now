@@ -2,21 +2,19 @@
 
 ==ROUTINE==
 ====PD====
+- ORG PD 
 - Katas
     - Functional, JS, Python, algo
 
     - CS computational-related theory
     - AI
-        - alphago
-        - ML - 
-            - testing
-            - 
+        - ML testing 
     - python programming, dist. computing, infra
     - proper architecture? test exercises?
 - Increment PD Plan
 
 ====ALL====
-    - Sing & backup, keyboard play-along, with songs & w/synths
+    - Sing/backup, keyboard play-along, with songs & w/synths
 
 ====PROJECTS NOW====
 - donkey car
