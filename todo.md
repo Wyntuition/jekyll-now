@@ -38,6 +38,7 @@
 - pd plan stuff to Glenn
 
 - [p] invite people to Docker demo
+- [ ] get sandbox (aws etc) going: AKS cluster, EC2 instance for ssh, some front-ends, architectures, way to easily deploy from github, jenkinsfile
 - [ ] photos to Bob
 - [ ] qcon blog (org main todo)
     - [ ] TODO's (plus gTodos)
@@ -82,7 +83,7 @@
             - Example: microservices workshop idea, how to get into AI?
         - Ideas for collaborating around projects? Tech issues across xperts to collaborate on? Assignments for xperts, come up with a few projects? Where op for growth in different services areas, by xpert?
 
--tbuc: szwe w57p cixb        
+-tbuc: szwe w57p cixb
 
 
 
