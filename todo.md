@@ -37,6 +37,7 @@
 - [p] fix BOA
 - pd plan stuff to Glenn
 
+- [p] invite people to Docker demo
 - [ ] photos to Bob
 - [ ] qcon blog (org main todo)
     - [ ] TODO's (plus gTodos)
