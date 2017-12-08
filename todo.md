@@ -37,6 +37,7 @@
 - [p] fix BOA
 - pd plan stuff to Glenn
 
+- [ ] get sandbox (aws etc) going: AKS cluster, EC2 instance for ssh, some front-ends, architectures, way to easily deploy from github, jenkinsfile 
 - [ ] photos to Bob
 - [ ] qcon blog (org main todo)
     - [ ] TODO's (plus gTodos)
