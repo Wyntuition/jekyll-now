@@ -50,14 +50,22 @@
 ===USVIS ===
     - Docker in Pipeline. PR branches.
 
+# Provide a GitHub access token for pulling data files from eve-data. The app looks for it in <HOME DIRECTORY>/.gitaccesstoken, so you can run this command to create it:
+
+$ echo <YOUR_GITHUB_TOKEN> > ${HOME}/.gitaccesstoken
 
 ===TODAY===
+!- 
+    - msg that docker isn't getting env vars set in compose. Why not, b/c it seems to get them from other steps before setting them.
+    - why isnt trst docker-entrypoint running?
 - my fluid intake to time for the bathroom ratio is too high
 - reconcile tasks. Use this for now. Do some tasks at home.
 - recurring check-ins. Update checklist with key q's, notes.
 - [p] fix BOA
 - pd plan stuff to Glenn, Dane
     - https://trello.com/b/Bf8Ohhro/personal-development
+
+-xpert upcoming plans: AI thing point verify.
 
 - [p] invite people to Docker demo
 - [ ] get sandbox (aws etc) going: AKS cluster, EC2 instance for ssh, some front-ends, architectures, way to easily deploy from github, jenkinsfile
