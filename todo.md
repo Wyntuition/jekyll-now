@@ -36,6 +36,7 @@
 ===TODAY-USCIS===
 - stab at stories, review. Notes from plan mtg.
 - pipeline config - run on checkin, refresh index
+-mtg for us, then with EV to see when we can test in 
 - VQ - what is 27 transaction views VQ did? 3 updates with mod data. In-app reports:23, ERD diagrams?, why SVS in CP mapping? What are EPLs?
     -+start seeing feasibility from running full transformations - actually convert legacy cases into mod. Views 2nd priority.
     -+scope?! End of Dec for Mod schema, then more from gap analysis. In-app reports priority for views. Find major diff b/t mod and leg.
