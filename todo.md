@@ -33,6 +33,10 @@
     - Automated testing, dev
 - Volitility-based arch
 
+===TODAY-USCIS===
+- stab at stories, review. Notes from plan mtg.
+- pipeline config - run on checkin, refresh index
+
 ===TODAY===
 - reconcile tasks. Use this for now. Do some tasks at home.
 - recurring check-ins. Update checklist with key q's, notes.
