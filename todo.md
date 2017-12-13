@@ -34,8 +34,11 @@
 - Volitility-based arch
 
 ===TODAY===
+- reconcile tasks. Use this for now. Do some tasks at home.
+- recurring check-ins. Update checklist with key q's, notes.
 - [p] fix BOA
-- pd plan stuff to Glenn
+- pd plan stuff to Glenn, Dane
+    - https://trello.com/b/Bf8Ohhro/personal-development
 
 - [p] invite people to Docker demo
 - [ ] get sandbox (aws etc) going: AKS cluster, EC2 instance for ssh, some front-ends, architectures, way to easily deploy from github, jenkinsfile
