@@ -39,7 +39,8 @@
 - VQ - what is 27 transaction views VQ did? 3 updates with mod data. In-app reports:23, ERD diagrams?, why SVS in CP mapping? What are EPLs?
     -+start seeing feasibility from running full transformations - actually convert legacy cases into mod. Views 2nd priority.
     -+scope?! End of Dec for Mod schema, then more from gap analysis. In-app reports priority for views. Find major diff b/t mod and leg.
-    -* Test app, find out what we don't know about making it prod ready. % case failure; case closure reason code error. -?* EV team have end-to-end app tests?
+    -* Test app, find out what we don't know about making it prod ready. % case failure; case closure reason code error.    -#2 pri, in app reporting. 
+    -?* EV team have end-to-end app tests?
 
 ===USVIS ===
     - Docker in Pipeline. PR branches.
