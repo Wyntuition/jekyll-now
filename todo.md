@@ -58,6 +58,7 @@ $ echo <YOUR_GITHUB_TOKEN> > ${HOME}/.gitaccesstoken
 !- 
     - msg that docker isn't getting env vars set in compose. Why not, b/c it seems to get them from other steps before setting them.
     - why isnt trst docker-entrypoint running?
+- Riccardo, Susan, gtask
 - my fluid intake to time for the bathroom ratio is too high
 - reconcile tasks. Use this for now. Do some tasks at home.
 - recurring check-ins. Update checklist with key q's, notes.
