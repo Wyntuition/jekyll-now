@@ -65,6 +65,7 @@ $ echo <YOUR_GITHUB_TOKEN> > ${HOME}/.gitaccesstoken
 - reconcile tasks. Use this for now. Do some tasks at home.
 - recurring check-ins. Update checklist with key q's, notes.
 - [p] fix BOA
+- BLOGS: Trends for the year, radar update. blogs
 - pd plan stuff to Glenn, Dane
     - https://trello.com/b/Bf8Ohhro/personal-development
 
