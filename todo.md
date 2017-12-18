@@ -35,7 +35,12 @@
 
 ===TODAY===
 - [p] fix BOA
-- pd plan stuff to Glenn
+- pd plan stuff to Glenn; Dane?
+- reminder for xpert meeting; agenda
+
+- USCIS training
+
+
 
 - [ ] get sandbox (aws etc) going: AKS cluster, EC2 instance for ssh, some front-ends, architectures, way to easily deploy from github, jenkinsfile 
 - [ ] photos to Bob
@@ -74,6 +79,15 @@
 
 - xpert agenda send out, discussions with themes (i.e. 6 month plan, upcoming themes & trends, personal project)
     - Clear outcomes.
+        - Review our progress
+        - Share our work in progress & ideas for upcoming work
+        - Review SDSA trello
+        - Review industry trends and Excella initiatives and how we can align
+
+        QUARTERLY:
+        - Brainstorm ideas: start with current trends, brainstorm projects/xpert work to do around them. Vote/etc.
+        
+
         - 6 month plan, tie our own plans to overall xpert plan/Excella goal
             - Current business - get feedback. Collaboration. Updates from what paths people are going on? Balance b/t indiv. projects & collaboration. Review Excella initiatives, do we need to pick up anything?
             - SDSA tasks?
