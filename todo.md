@@ -34,6 +34,8 @@
 - Volitility-based arch
 
 ===TODAY-USCIS===
+    - pipeline patch & review
+    
     - stab at stories, review. Notes from plan mtg.
     - docker meeting sch; brain dump; jenkins local, run by folks before brown bagging
     - pipeline config - run on checkin, refresh index
