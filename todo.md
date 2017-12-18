@@ -55,7 +55,42 @@
 $ echo <YOUR_GITHUB_TOKEN> > ${HOME}/.gitaccesstoken
 
 ===TODAY===
-- lisa's doc
+- make addl stories from jenkins oen
+- RELEASE PLANNING
+    - Prioritize backlog
+    - group source & transform stories to be batched
+    - Review stories by epic
+STORIES
+
+- Infrastructure:
+    - Set up ETL pipeline for running on performance
+    - Test ETL as to be run on production on performance
+    - Set up ETL pipeline for running on production
+    - Add any additional needed tests to check for needed results. Ensure test output is accessible.
+    - Ensure any metrics needed from ETL job are captured and accessible
+    ...
+    - DMS:
+        - [Existing DMS stories]
+        - Migrating from legacy to MOD staging
+            - Process for repeating job (i.e. Jenkins pipeline, script)
+            - Capture any metrics needed
+            ...
+        - Migrating from MOD transformed to VIS Replica
+            - Process for repeating job (i.e. Jenkins pipeline, script)
+            - Capture any metrics needed
+            ...
+        
+- Data & transformations:
+    - [Existing mapping stories]
+    - [Additional mapping stories]
+        ...
+    - [OK?] Filters for dataset to be migrated before cutover
+    - Process for migrating dataset on day of cutover
+    - [OK] Determine how to batch ETL job to break up the load, and what to do in a failure
+        - Create process and functionality for ETL to batch the transfers
+    ...
+
+
 !- 
     - msg that docker isn't getting env vars set in compose. Why not, b/c it seems to get them from other steps before setting them.
     - why isnt trst dock
