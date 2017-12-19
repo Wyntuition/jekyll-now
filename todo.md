@@ -35,7 +35,7 @@
 
 ===TODAY-USCIS===
     - pipeline patch & review
-    
+
     - stab at stories, review. Notes from plan mtg.
     - docker meeting sch; brain dump; jenkins local, run by folks before brown bagging
     - pipeline config - run on checkin, refresh index
@@ -59,9 +59,10 @@ $ echo <YOUR_GITHUB_TOKEN> > ${HOME}/.gitaccesstoken
 ===TODAY===
     - make addl stories from jenkins oen
     - RELEASE PLANNING
-        - Prioritize backlog
-        - group source & transform stories to be batched
-        - Review stories by epic
+        - Review stories by epic ensuring understanding and we're not missing anything
+        - Prioritize backlog with general timeline & t-shirt sizing
+        - Group together source & transform stories to be worked on at the same time
+        
     STORIES
 
     !- 
@@ -193,21 +194,19 @@ SCRATCH:
 
 
 - Infrastructure:
-    - Set up ETL pipeline for running on performance
-    - Test ETL as to be run on production on performance
-    - Set up ETL pipeline for running on production
-    - Add any additional needed tests to check for needed results. Ensure test output is accessible.
-    - Ensure any metrics needed from ETL job are captured and accessible
+    - [OK] Set up ETL pipeline for running on performance
+        - [OK] Test ETL as to be run on production on performance
+    - [OK] Set up ETL pipeline for running on production
+    - [NEEDED? Add any additional needed tests to check for needed results. Ensure test output is accessible.
+    - [OK] Ensure metrics needed from ETL job & DMS are captured and accessible
     ...
     - DMS:
         - [Existing DMS stories]
         - Migrating from legacy to MOD staging
-            - Process for repeating job (i.e. Jenkins pipeline, script)
-            - Capture any metrics needed
+            - [OK] Process for repeating job (i.e. Jenkins pipeline, script)
             ...
         - Migrating from MOD transformed to VIS Replica
-            - Process for repeating job (i.e. Jenkins pipeline, script)
-            - Capture any metrics needed
+            - [OK] Process for repeating job (i.e. Jenkins pipeline, script)
             ...
         
 - Data & transformations:
@@ -215,7 +214,7 @@ SCRATCH:
     - [Additional mapping stories]
         ...
     - [OK?] Filters for dataset to be migrated before cutover
-    - Process for migrating dataset on day of cutover
+    - [OK] Process for migrating dataset on day of cutover
     - [OK] Determine how to batch ETL job to break up the load, and what to do in a failure
         - Create process and functionality for ETL to batch the transfers
     ...
