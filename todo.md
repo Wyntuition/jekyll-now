@@ -33,9 +33,28 @@
     - Automated testing, dev
 - Volitility-based arch
 
+
+
+
+
+
+
+
+
+
+
 ===TODAY-USCIS===
     - pipeline patch & review
+        - make addl stories from jenkins oen
+    - RELEASE PLANNING
+        - Review stories by epic ensuring understanding and we're not missing anything
+        - Prioritize backlog with general timeline & t-shirt sizing
+        - Group together source & transform stories to be worked on at the same time
 
+
+    - [p] invite people to Docker demo
+    - USCIS training
+    
     - stab at stories, review. Notes from plan mtg.
     - docker meeting sch; brain dump; jenkins local, run by folks before brown bagging
     - pipeline config - run on checkin, refresh index
@@ -48,22 +67,13 @@
             2. pri, in app reporting.
             -?* EV team have end-to-end app tests?
         
-
-===USVIS ===
+    
     - Docker in Pipeline. PR branches.
 
-# Provide a GitHub access token for pulling data files from eve-data. The app looks for it in <HOME DIRECTORY>/.gitaccesstoken, so you can run this command to create it:
 
-$ echo <YOUR_GITHUB_TOKEN> > ${HOME}/.gitaccesstoken
 
 ===TODAY===
-    - make addl stories from jenkins oen
-    - RELEASE PLANNING
-        - Review stories by epic ensuring understanding and we're not missing anything
-        - Prioritize backlog with general timeline & t-shirt sizing
-        - Group together source & transform stories to be worked on at the same time
         
-    STORIES
 
     !- 
         - msg that docker isn't getting env vars set in compose. Why not, b/c it seems to get them from other steps before setting them.
@@ -76,15 +86,15 @@ $ echo <YOUR_GITHUB_TOKEN> > ${HOME}/.gitaccesstoken
     - [p] fix BOA
 
     - BLOGS: Trends for the year, radar update. blogs
+    
     - pd plan stuff to Glenn, Dane
         - https://trello.com/b/Bf8Ohhro/personal-development
     - pd plan stuff to Glenn; Dane?
     - reminder for xpert meeting; agenda
 
-    - USCIS training
     -xpert upcoming plans: AI thing point verify.
 
-    - [p] invite people to Docker demo
+    
     - [ ] get sandbox (aws etc) going: AKS cluster, EC2 instance for ssh, some front-ends, architectures, way to easily deploy from github, jenkinsfile
     - [ ] photos to Bob
     - [ ] qcon blog (org main todo)
@@ -94,25 +104,39 @@ $ echo <YOUR_GITHUB_TOKEN> > ${HOME}/.gitaccesstoken
             - needs to work on mobile, any computer
 
 
-- QCON VIDS: rc car, web assembly, etc
-+ Blog? ML/Data analytics tools landscape: Kafka, MQ, Spark, Hive, R, Hadoop, Hortonworks, event sourcing, real-time
-- this weekend? Ivy, other events? Tues to Pville?
-- PD org, below, other notes, to 1 note
-- FSA acct
-- org foundations list. Make levels of generality: highest level knock out in next few months & list categories (way of life/spirituality/bios, histories, literatures, arts, etc. High level knowledge of key concepts.)
-- update Routine Quik List/org
-    -+music read (dive into liked artists, news, review playlists)
+    - QCON VIDS: rc car, web assembly, etc
+    + Blog? ML/Data analytics tools landscape: Kafka, MQ, Spark, Hive, R, Hadoop, Hortonworks, event sourcing, real-time
+    - this weekend? Ivy, other events? Tues to Pville?
+    - PD org, below, other notes, to 1 note
+    - FSA acct
+    - org foundations list. Make levels of generality: highest level knock out in next few months & list categories (way of life/spirituality/bios, histories, literatures, arts, etc. High level knowledge of key concepts.)
+    - update Routine Quik List/org
+        -+music read (dive into liked artists, news, review playlists)
 
-    +Glenn info: https://trello.com/b/Bf8Ohhro/personal-development
-    -xpert agenda send out (see notes below)
-    - 1 in work & on phone? org notebooks; move to 1 onenote, greminders, etc.
-    - Review Hub
-        - Events org.
-        - music news worked in
-        - Deep industry, dev, AI, IT overall/strategic. Hobby Industry (ie solar, e music, comp). AI newsletter. 
+        +Glenn info: https://trello.com/b/Bf8Ohhro/personal-development
+        -xpert agenda send out (see notes below)
+        - 1 in work & on phone? org notebooks; move to 1 onenote, greminders, etc.
+        - Review Hub
+            - Events org.
+            - music news worked in
+            - Deep industry, dev, AI, IT overall/strategic. Hobby Industry (ie solar, e music, comp). AI newsletter. 
 
-    +-m tasks - backup to cloud check
-    -+ house list: photos - org ones to display, frame layout, additional frames for living room
+        +-m tasks - backup to cloud check
+        -+ house list: photos - org ones to display, frame layout, additional frames for living room
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
