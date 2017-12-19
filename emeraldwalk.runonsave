@@ -1,0 +1,9 @@
+"emeraldwalk.runonsave": {
+    "commands": [
+        {
+            "match": "\\.md$",
+            "isAsync": true,
+            "cmd": "git commit -a -m "todo files" && git push"
+        }
+    ]
+}
