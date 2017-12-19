@@ -1,7 +1,10 @@
 
 ===TODAY-USCIS===
+    +lrg perf/dms/error trp/stories/etc
     - pipeline patch & review
+        -kick off on checkin of master at least
         - make addl stories from jenkins oen
+    
     - RELEASE PLANNING
         - Review stories by epic ensuring understanding and we're not missing anything
         - Prioritize backlog with general timeline & t-shirt sizing
