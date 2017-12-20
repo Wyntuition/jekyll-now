@@ -3,26 +3,35 @@
     - test seed update for scm changes
 
     - USCIS training
-
+    -look at master scheema frm pipeline
 
     jenkins Session
-        - each push you'll get a build, so it can run while you continue working
-        - branch builds are deleted when branch is deleted
-        - Specs
+        - Summary 
+            - Builds each branch on check-in
+            - Each branch has its own environment including schemas. Master 
+        -*docker compose whole job guts
+            - app container is only used locally
+        - Each push you'll get a build, so it can run while you continue working
+            - Possible to filter by branch namme wildcards, i.e. only build *-feature
+            - Branch builds are deleted when branch is deleted
+        - Tech specs
             - Jenkinsfile[env vars: MIGRATE_ENV, schemas] > 
                 Steps 
                     Main job: bash refresh, seed, migrate
-                    Tests: Compose > bash bin/tests
+                    Tests: Compose > bash bin/tests (uses test image - Gradle base)
         - Config
             - Polls for new/removed branches, and branch changes every 1 min (setting)
+            - Polling happens at multibranch job level
             - Builds changee branches, adds new ones, deletes removed ones
             - Can push several times without triggering build if before the minute is up
+        -*2 things from book
         - *Notifications
         - Pipeline Generator DSL
             - /pipeline/jobs/jobsdsl.groovy
             - Configures multibranch pipeline
             - USCIS Jenkins generator points to it
             - Multibranch SCM polling
+        
 
     +lrg perf/dms/error trp/stories/etc
     - pipeline patch & review
