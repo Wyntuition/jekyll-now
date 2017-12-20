@@ -1,12 +1,15 @@
 
 #TODAY-USCIS###
-    - test seed update for scm changes
+    - plugins.txt enabled
+    - test the seed update for scm changes
+    -look at master scheema frm pipeline
 
     - USCIS training
-    -look at master scheema frm pipeline
+
 
     jenkins Session
         - Summary 
+            - Pipeline config stored in project repo
             - Builds each branch on check-in
             - Each branch has its own environment including schemas. Master 
         -*docker compose whole job guts
@@ -26,11 +29,12 @@
             - Can push several times without triggering build if before the minute is up
         -*2 things from book
         - *Notifications
-        - Pipeline Generator DSL
+        - Jenkins job generation
             - /pipeline/jobs/jobsdsl.groovy
             - Configures multibranch pipeline
-            - USCIS Jenkins generator points to it
+            - USCIS Jenkins generator points to it`
             - Multibranch SCM polling
+
         
 
     +lrg perf/dms/error trp/stories/etc
