@@ -3,6 +3,9 @@
     - plugins.txt enabled
     - test the seed update for scm changes
     -look at master scheema frm pipeline
+    - test local jenkins
+    - test docker-compose full 
+    - +notifications, other *'s in jemkins notes below
 
     - USCIS training
 
