@@ -9,6 +9,11 @@
 
     - USCIS training
 
+case_status_code
+
+case_process_status_code
+dhs_ev2_status_code
+dhs_ev3_status_code
 
     jenkins Session
         - Summary 
