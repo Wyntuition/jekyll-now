@@ -1,5 +1,8 @@
 
 #TODAY-USCIS###
+    - proxy in keystore? how lobster getting it? Getting into compose ok or use docjer? HGARDCORD?
+    - ...hitting nonprod in compose right? Don't create db container in main
+
     - plugins.txt enabled
     - test the seed update for scm changes
     -look at master scheema frm pipeline
