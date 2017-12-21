@@ -1,7 +1,16 @@
 
 #TODAY-USCIS###
+    -READ below
+    -ref dc build to docker builds with -e, maybe proxy vars can get to dockerfile
+
+    -dbl check nonprod db; run tests local see failures
     - proxy in keystore? how lobster getting it? Getting into compose ok or use docjer? HGARDCORD?
     - ...hitting nonprod in compose right? Don't create db container in main
+    - concurrent build in branch 
+    - notify of new compose -f dev
+
+    - sequel slow
+    - using hangs
 
     - plugins.txt enabled
     - test the seed update for scm changes
@@ -23,6 +32,7 @@ dhs_ev3_status_code
             - Pipeline config stored in project repo
             - Builds each branch on check-in
             - Each branch has its own environment including schemas. Master 
+            - *DEMO
         -*docker compose whole job guts
             - app container is only used locally
         - Each push you'll get a build, so it can run while you continue working
