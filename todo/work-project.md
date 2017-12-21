@@ -1,7 +1,14 @@
 
 #TODAY-USCIS###
     -READ below
-    -ref dc build to docker builds with -e, maybe proxy vars can get to dockerfile
+    NOW
+        -docker-compose args, test env's
+    
+    -Error: option '-t' needs a parameter.
+    -ENVs
+        - ref dc build to docker builds with -e, maybe proxy vars can get to dockerfile
+        - docker-compose build - pass args there?
+    -del 482 br
 
     -dbl check nonprod db; run tests local see failures
     - proxy in keystore? how lobster getting it? Getting into compose ok or use docjer? HGARDCORD?
@@ -12,6 +19,7 @@
     - sequel slow
     - using hangs
 
+    -integrate tests into jenkins
     - plugins.txt enabled
     - test the seed update for scm changes
     -look at master scheema frm pipeline
@@ -35,9 +43,11 @@ dhs_ev3_status_code
             - *DEMO
         -*docker compose whole job guts
             - app container is only used locally
-        - Each push you'll get a build, so it can run while you continue working
+        - Each push you'll get a build, so it can run while you continue working.
+            - Time your pushes!
+            - You get your own schema
             - Possible to filter by branch namme wildcards, i.e. only build *-feature
-            - Branch builds are deleted when branch is deleted
+            - Branch builds are added/deleted when a branch is added/deleted (polls every minute)
         - Tech specs
             - Jenkinsfile[env vars: MIGRATE_ENV, schemas] > 
                 Steps 
