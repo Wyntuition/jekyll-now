@@ -1,31 +1,34 @@
 
-#TODAY-USCIS###
-    -READ below
-    NOW
-        -docker-compose args, test env's
+# TODAY
+    - test local
+    - master and pipeline_ in pg
+    - need envs in dockerfiles? IPs anywhere?388
+    - add config branch stuff
+    - testing.sh env shrink too?
+    - RESCH meeting
+    - remove mapping prod
     
-    -Error: option '-t' needs a parameter.
-    -ENVs
-        - ref dc build to docker builds with -e, maybe proxy vars can get to dockerfile
-        - docker-compose build - pass args there?
-    -del 482 br
-
-    -dbl check nonprod db; run tests local see failures
-    - proxy in keystore? how lobster getting it? Getting into compose ok or use docjer? HGARDCORD?
-    - ...hitting nonprod in compose right? Don't create db container in main
-    - concurrent build in branch 
-    - notify of new compose -f dev
-
-    - sequel slow
-    - using hangs
-
-    -integrate tests into jenkins
-    - plugins.txt enabled
-    - test the seed update for scm changes
-    -look at master scheema frm pipeline
-    - test local jenkins
-    - test docker-compose full 
+    -pipeline_ schema vs master_ on nonprod
     - +notifications, other *'s in jemkins notes below
+    -del 482 br
+    - local jenkins
+            - plugins.txt enabled
+    - limit to 1 job at a time, or use containers wihtin branch on all but a specific branch? Multiple merges to  master could conflict.
+    -dbl check nonprod db; run tests local see failures
+    - using hangs
+    
+    - research docker pipeine plug / moving docker calls in Jenkinsfile to sh's; compose in jenkins w/env vars
+        
+
+
+
+    
+
+    - test the seed update for scm changes
+    
+    
+    
+    
 
     - USCIS training
 
@@ -34,37 +37,6 @@ case_status_code
 case_process_status_code
 dhs_ev2_status_code
 dhs_ev3_status_code
-
-    jenkins Session
-        - Summary 
-            - Pipeline config stored in project repo
-            - Builds each branch on check-in
-            - Each branch has its own environment including schemas. Master 
-            - *DEMO
-        -*docker compose whole job guts
-            - app container is only used locally
-        - Each push you'll get a build, so it can run while you continue working.
-            - Time your pushes!
-            - You get your own schema
-            - Possible to filter by branch namme wildcards, i.e. only build *-feature
-            - Branch builds are added/deleted when a branch is added/deleted (polls every minute)
-        - Tech specs
-            - Jenkinsfile[env vars: MIGRATE_ENV, schemas] > 
-                Steps 
-                    Main job: bash refresh, seed, migrate
-                    Tests: Compose > bash bin/tests (uses test image - Gradle base)
-        - Config
-            - Polls for new/removed branches, and branch changes every 1 min (setting)
-            - Polling happens at multibranch job level
-            - Builds changee branches, adds new ones, deletes removed ones
-            - Can push several times without triggering build if before the minute is up
-        -*2 things from book
-        - *Notifications
-        - Jenkins job generation
-            - /pipeline/jobs/jobsdsl.groovy
-            - Configures multibranch pipeline
-            - USCIS Jenkins generator points to it`
-            - Multibranch SCM polling
 
         
 
