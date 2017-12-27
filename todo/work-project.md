@@ -1,6 +1,7 @@
 
 # TODAY
     - training
+    -tests fail, but doesn't break build (cause in docker?). Get junit reports?
     - final config tweaks actuyally running tests in branches? Merge. 
     - test local
     - master and pipeline_ in pg
