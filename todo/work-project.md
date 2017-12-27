@@ -1,5 +1,7 @@
 
 # TODAY
+    - training
+    - final config tweaks actuyally running tests in branches? Merge. 
     - test local
     - master and pipeline_ in pg
     - need envs in dockerfiles? IPs anywhere?388
