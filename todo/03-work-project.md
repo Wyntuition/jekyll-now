@@ -11,6 +11,7 @@
 
 
             - # in initial_response is very close to case_header. Check initial_response with repeating case_numbers?
+                Otherwise, each should tie to a case header?
 
 
         
