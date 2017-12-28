@@ -1,5 +1,4 @@
-
-# TODO - Proj, 12/28/17
+# TODO: Work Proj, 12/28/17
 
 ## TODAY
 
