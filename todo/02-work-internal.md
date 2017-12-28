@@ -6,7 +6,8 @@
 
 ### ASAP
 
-    - 
+    - xpert plan; progress (AI projs, Jason proj, )
+    - Qcon blogs; radar blogs
 
 ## PROJECTS
 
