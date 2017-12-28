@@ -1,0 +1,93 @@
+# ARG http_proxy
+# ARG https_proxy
+# ARG no_proxy
+# # ENV http_proxy ${http_proxy}
+# # ENV https_proxy ${https_proxy}
+# # ENV no_proxy ${no_proxy}
+
+
+
+
++  agent {
++    dockerfile { 
++        dir 'containers/app/' 
++        args '-e inventory_store=${inventory_store} -e inventory_store_key=${inventory_store_key}'
++      }
++  }
+
+
+
+
+
+
+
+### SCRATCH
+
+# FROM ubuntu:14.04
+# FROM registry.svs.nonprod.uscis.dhs.gov/java:8
+# FROM uscis-vis-nonprod.dkr.ecr.us-east-1.amazonaws.com/vis/gradle:latest
+# FROM registry.svs.nonprod.uscis.dhs.gov/gradle:latest
+# FROM registry.svs.nonprod.uscis.dhs.gov/ruby2.3:latest
+FROM java:8
+
+
+
+Data to pull old cases:
+
+EMPLOYEE_DECISION
+DOCUMENT_DETAILS
+ADDITIONAL_DETAILS
+CASE_STATUS
+
+Then, these tables will allow them to run the cases through their logic engine (so should be done next as possible):
+
+PCS_RESPONSE
+PCS_EMPLOYMENT_RESPONSE
+PCS_DOCUMENT_RESPONSE
+SSA_RESPONSE
+
+
+
+
+// docker-compose run \
+          //   -e http_proxy=${http_proxy} \
+          //   -e https_proxy=${https_proxy} \
+          //   -e no_proxy=${no_proxy} \
+          //   -e inventory_store=${inventory_store} \
+          //   -e inventory_store_key=${inventory_store_key} \
+          //   -e MIGRATE_ENV=${MIGRATE_ENV} \
+          //   -e PG_HOSTNAME=${PG_HOSTNAME} \
+          //   -e PG_PORT=${PG_PORT} \
+          //   -e PG_DBNAME=${PG_DBNAME} \
+          //   -e PG_USERNAME=${PG_USERNAME} \
+          //   -e PG_PASSWORD=${PG_PASSWORD} \
+          //   -e PG_VIS_SCHEMA=${PG_VIS_SCHEMA} \
+          //   -e PG_MOD_SCHEMA=${PG_MOD_SCHEMA} \
+          //   -e PG_WORK_SCHEMA=${PG_WORK_SCHEMA} \
+          //   app
+          '''
+          docker-compose run \
+            -e http_proxy=${http_proxy} \
+            -e https_proxy=${https_proxy} \
+            -e no_proxy=${no_proxy} \
+            -e MIGRATE_ENV=${MIGRATE_ENV} \
+            -e PG_HOSTNAME=${PG_HOSTNAME} \
+            -e PG_PORT=${PG_PORT} \
+            -e PG_DBNAME=${PG_DBNAME} \
+            -e PG_USERNAME=${PG_USERNAME} \
+            -e PG_PASSWORD=${PG_PASSWORD} \
+            -e PG_VIS_SCHEMA=${PG_VIS_SCHEMA} \
+            -e PG_MOD_SCHEMA=${PG_MOD_SCHEMA} \
+            -e PG_WORK_SCHEMA=${PG_WORK_SCHEMA} \
+            int_tests
+
+
+
+            docker run \
+            -e http_proxy=http://10.236.225.15:80 \
+            -e https_proxy=http://10.236.225.15:80/ \
+            -e no_proxy=no_proxy='no_proxy nexus-gss.uscis.dhs.gov,uscis.dhs.gov,169.254.169.254,s3.amazonaws.com,localhost,127.0.0.1,.consul' \
+            -e MIGRATE_ENV=${MIGRATE_ENV} \
+            -e inventory_store=${inventory_store} \
+            -e inventory_store_key=${inventory_store_key} \
+            -t etl-app
