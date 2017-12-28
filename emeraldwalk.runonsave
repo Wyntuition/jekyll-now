@@ -3,7 +3,7 @@
         {
             "match": "\\.md$",
             "isAsync": true,
-            "cmd": "git commit -a -m "todo files" && git push"
+            "cmd": "git commit -a -m 'todo' && git push"
         }
     ]
 }
