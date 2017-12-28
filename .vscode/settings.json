@@ -1,0 +1,12 @@
+{
+    "emeraldwalk.runonsave": {
+        "commands": [
+            {
+                "match": "\\.md$",
+                "isAsync": true,
+                "cmd": "cd ${workspaceRoot} && git commit -a -m 'todo' && git push"
+            }
+        ]
+    }
+    
+}
