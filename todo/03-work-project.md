@@ -6,8 +6,14 @@
     - STORY
         - WHAT ROW COUNT AUDIT? cps_; EXAMPLES of what's NOT getting migrated. Should be rec for EACH MESSAGE CODE (cps_initial_response table) 
 
+            - AND ccir.message_code=... -> so must be rows without yaml listed message code but with ('FCOV', 'FSRR', 'PRCV') - only those have message codes
 
-        - SEND TO CHRIS, MEM: we have this mapping, these 3 seem to not have all mappings
+
+
+            - # in initial_response is very close to case_header. Check initial_response with repeating case_numbers?
+
+
+        
         - MESSAGE_CODE: case_status supposed to = cps_case_initial_response? Diff. msg codes on legacy, but no matching case_status_code/DHS_EVx_STATUS_CODE/SSA_REFERRAL_STATUS_CODE
         - codes thus states mod doesn't have, PRVC, etc?. Last 3 with multiple msg codes; where legacy message codes, cps-case_initial_response?
     - tests fail, but doesn't break build (cause in docker?). Get junit reports?
