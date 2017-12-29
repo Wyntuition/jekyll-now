@@ -9,7 +9,7 @@
             {
                 "match": "\\.md$",
                 "isAsync": true,
-                "cmd": "cd ${fileDirname} && git commit -a -m 'todo' && git push"
+                "cmd": "cd ${fileDirname} && git pull && git commit -a -m 'todo' && git push"
             }
         ]
     }
