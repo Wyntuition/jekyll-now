@@ -4,29 +4,12 @@
 
     - tests running; unit test report to jenkins
     - caveats for pointing to diff env?
-
     - DMS in pipeline?
-    - STORY
-        - WHAT ROW COUNT AUDIT? cps_; EXAMPLES of what's NOT getting migrated. Should be rec for EACH MESSAGE CODE (cps_initial_response table) 
-
-            - AND ccir.message_code=... -> so must be rows without yaml listed message code but with ('FCOV', 'FSRR', 'PRCV') - only those have message codes
-
-
-
-            - # in initial_response is very close to case_header. Check initial_response with repeating case_numbers?
-                Should be one case header to initial_response? Otherwise, each should tie to a case header?
-
-
-        
-        - MESSAGE_CODE: case_status supposed to = cps_case_initial_response? Diff. msg codes on legacy, but no matching case_status_code/DHS_EVx_STATUS_CODE/SSA_REFERRAL_STATUS_CODE
-        - codes thus states mod doesn't have, PRVC, etc?. Last 3 with multiple msg codes; where legacy message codes, cps-case_initial_response?
-    - tests fail, but doesn't break build (cause in docker?). Get junit reports?
-    - Test failures: integrate test results?
     - RESCH meeting
         - local jenkins
             - plugins.txt enabled
     - [p] invite people to Docker demo
-    
+
     - pipeline_ schema vs master_ on nonprod
     - DMS always run in master/etc in pipeline (FIRST: be able to point pipeline to perf/unstable)
 
