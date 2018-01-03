@@ -2,6 +2,7 @@
 
 ## TODAY
 
+    - tsts for case_status
     - tests running; unit test report to jenkins
     - caveats for pointing to diff env?
     - DMS in pipeline?
