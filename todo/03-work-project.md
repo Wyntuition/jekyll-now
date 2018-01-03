@@ -2,7 +2,10 @@
 
 ## TODAY
 
-    - training
+    - tests running; unit test report to jenkins
+    - caveats for pointing to diff env?
+
+    - DMS in pipeline?
     - STORY
         - WHAT ROW COUNT AUDIT? cps_; EXAMPLES of what's NOT getting migrated. Should be rec for EACH MESSAGE CODE (cps_initial_response table) 
 
