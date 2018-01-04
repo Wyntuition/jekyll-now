@@ -2,14 +2,14 @@
 
 ## TODAY
 
-    - view tests in jenkins..., other report?
-    - tests running; unit test report to jenkins
-    - caveats for pointing to diff env?
-    - DMS in pipeline?
-    - RESCH meeting
-        - local jenkins
-            - plugins.txt enabled
     - [p] invite people to Docker demo
+    - sch check-ins; update agenda/q list
+    - xpert plan
+
+## TIMELY
+
+    - DMS in pipeline?
+    
 
     - pipeline_ schema vs master_ on nonprod
     - DMS always run in master/etc in pipeline (FIRST: be able to point pipeline to perf/unstable)
