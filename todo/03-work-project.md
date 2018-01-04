@@ -2,7 +2,7 @@
 
 ## TODAY
 
-    - [p] invite people to Docker demo
+    - invite people to Docker demo
     - sch check-ins; update agenda/q list
     - xpert plan
     - local jenkins - get job running, setup from scratch; w/Docker; brownbag: simple app
