@@ -5,7 +5,7 @@
     - [p] invite people to Docker demo
     - sch check-ins; update agenda/q list
     - xpert plan
-    - local jenkins; w/Docker
+    - local jenkins - get job running, setup from scratch; w/Docker
 
 ## TIMELY
 
