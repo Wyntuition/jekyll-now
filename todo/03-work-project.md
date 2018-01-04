@@ -6,6 +6,7 @@
     - sch check-ins; update agenda/q list
     - xpert plan
     - local jenkins - get job running, setup from scratch; w/Docker; brownbag: simple app
+        - put jenkins local in existing network w/db?
 
 ## TIMELY
 
