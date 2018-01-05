@@ -2,6 +2,15 @@
 
 ## TODAY
 
+    - keystore from local (jenkins)
+    - jenkins brown bag
+        - features 
+            - dockerization
+        - hello world app
+            - deploy to AWS
+    -story q's
+        - 417: Source PCS_RESPONSE_ERROR. No ?'s or legacy fields listed.
+
     - invite people to Docker demo
     - sch check-ins; update agenda/q list
     - xpert plan
