@@ -14,7 +14,7 @@
 
 ## INFO
 
-### Check-ins 
+### Check-ins
 
     * Seth
     * Sean
