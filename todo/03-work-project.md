@@ -4,7 +4,7 @@
 
     - keystore from local (jenkins)
     - jenkins brown bag
-        - features 
+        - features
             - dockerization
         - hello world app
             - deploy to AWS
