@@ -14,6 +14,13 @@
 
 ## INFO
 
+### Check-ins 
+
+    * Seth
+    * Sean
+    * Glenn
+    * Dane
+
 ### PTO Balance:
 
     - 12/28/17: 75.5
