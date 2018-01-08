@@ -16,10 +16,15 @@
 
 ### Check-ins
 
-    * Seth
+    * Seth: 
     * Sean
     * Glenn
     * Dane
+
+### Check-in topics & questions
+
+- Any feedback/criticism for me? Share some that I learned.
+- Feedback from others, myself
 
 ### PTO Balance:
 
