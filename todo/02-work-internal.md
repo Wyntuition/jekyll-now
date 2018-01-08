@@ -16,15 +16,21 @@
 
 ### Check-ins
 
-    * Seth: 
-    * Sean
+    * Seth- Call: 3rd Wednesday @4, Meet: 1st Wed @12
+    * Sean- Call: 1st Thursday @4 Meet: 3rd Wed @12
     * Glenn
     * Dane
 
 ### Check-in topics & questions
 
+- How often meet?
+- What kind of feedback do you want?
+
 - Any feedback/criticism for me? Share some that I learned.
 - Feedback from others, myself
+
+- PD: review where you're at
+- other projects (xpert, etc)
 
 ### PTO Balance:
 
