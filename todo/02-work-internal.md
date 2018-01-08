@@ -17,9 +17,9 @@
 ### Check-ins
 
     * Seth- Call: 3rd Wednesday @4, Meet: 1st Wed @12
-    * Sean- Call: 1st Thursday @4 Meet: 3rd Wed @12
-    * Glenn
-    * Dane
+    * Sean- Call: 1st Thursday @4???, Meet: 3rd Wed @12
+    * Glenn - Meet: 1st & 3rd Tuesday @ 12?
+    * Dane - Meet: 1st & 3rd Wed @ 12?
 
 ### Check-in topics & questions
 
