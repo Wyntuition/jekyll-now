@@ -4,15 +4,14 @@
 
     - EVENT_LOG - get dump from PG (DMS moving?); 
     - local jenkins
-        - get job running, setup from scratch; w/Docker; brownbag: simple app
-        - put jenkins local in existing network w/db?
         - keystore from local (jenkins)
-        - build job from DSL file
-    - jenkins brown bag
-            - features
-                - dockerization
-            - hello world app
-                - deploy to AWS
+
+        - w/Docker
+        - jenkins brown bag
+                - features
+                    - dockerization
+                - hello world app
+                    - deploy to AWS
     -story q's
         - 417: Source PCS_RESPONSE_ERROR. No ?'s or legacy fields listed.
     
