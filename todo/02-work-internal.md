@@ -27,7 +27,7 @@
 - What kind of feedback do you want?
 
 - Any feedback/criticism for me? Share some that I learned.
-- Feedback from others, myself
+- Feedback from others, myself, project chat: career prospects, etc.
 
 - PD: review where you're at
 - other projects (xpert, etc)
