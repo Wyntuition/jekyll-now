@@ -2,6 +2,8 @@
 
 ## TODAY
 
+    - jenkins   
+        - env vars not getting set for post step? Get from env files only? Run source env for all steps?
     - EVENT_LOG - get dump from PG (DMS moving?); 
     - local jenkins
         - keystore from local (jenkins)
