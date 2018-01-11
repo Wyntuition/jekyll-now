@@ -2,6 +2,7 @@
 
 ## TODAY
 
+    - CaseStatusTest - can pull counts from legacy directly? 2nd count/counts wrong?
     - jenkins   
         - env vars not getting set for post step? Get from env files only? Run source env for all steps?
         - "ERROR" in etl doesn't cause build to break
