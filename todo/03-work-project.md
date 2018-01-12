@@ -9,6 +9,7 @@ LINE 1: SET search_path TO ${PG_VIS_TABLE_SOURCE_SCHEMA};
     - jenkins   
         - env vars not getting set for post step? Get from env files only? Run source env for all steps?
         - "ERROR" in etl doesn't cause build to break
+        - trim env vars in jenkinsfile for env ones?
     - EVENT_LOG - get dump from PG (DMS moving?); 
     - local jenkins
         - keystore from local (jenkins)
