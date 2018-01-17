@@ -94,9 +94,31 @@ SSA_RESPONSE
 
 
 
+SELECT distinct(cevl.event_code)
+  FROM local_vis_views.cps_case_header ch
+       JOIN local_vis_views.cps_case_event_log cevl ON (ch.case_nbr = cevl.case_nbr)
+WHERE organization_ind = 'E'
 
+'PHOTO_MATCH'
+'INIT_DHS_TNC_WO_DHS_REVERIFY'
+'RESOLVE_ADDITIONAL'
+'SSA_DISPOSITION'
+'INIT_SSA_TNC_WO_SSA_REVERIFY'
+'EMP_NO_SHOW'
+'SSA_RESUBMITTAL'
+'SSA_AUTO_RESUBMITTAL'
+'DHS_REVERIFY'
+'CONT_DUP_NO_CHANGES'
+'CONT_DUP_WITH_CHANGES'
+'SSA_REVERIFY'
+'CONT_SSA_REVRF_DUP_NO_CHGS'
+'RESOLVE_3RD_STEP'
+'ADDITIONAL_VERIF'
+'SSA_ABANDONED'
+'ADVANCE_CASE'
+'INITIAL_VERIF'
 
-
+- MOD.case_event_log_code
 
 'SSA Abandoned'
 'FCO Bulk Case Reroute'
