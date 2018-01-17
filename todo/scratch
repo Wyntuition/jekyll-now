@@ -91,3 +91,50 @@ SSA_RESPONSE
             -e inventory_store=${inventory_store} \
             -e inventory_store_key=${inventory_store_key} \
             -t etl-app
+
+
+
+
+
+
+
+'SSA Abandoned'
+'FCO Bulk Case Reroute'
+'Case Reroute'
+'Advancing Case Using Web Services Portal'
+'Continue duplicate case with changes.'
+'Continue duplicate case without changes.'
+'Continue SSA Reverify duplicate case with changes.'
+'Continue SSA Reverify duplicate case without changes.'
+'SSA Auto Resubmittal'
+'DHS Sevis Resubmittal'
+'Employer No Show'
+'Initial Verif resulting in SSA TNC when no data changes made when SSA Reverify screen is displayed.'
+'Initial Verification'
+'SSA Reverify/Pre TNC'
+'SSA Resubmittal'
+'DHS Reverify/Resubmittal'
+'Additional Verif'
+'Refer to 3rd Step'
+'Resolve Additional'
+'Resolve 3rd Step'
+'SSA Disposition'
+'Close Case'
+'Refer to SSA'
+'Photo Match'
+'UNKNOWN'
+'Initial Verif resulting in DHS TNC when no data changes made when DHS Reverify screen is displayed.'
+
+
+Event List
+
+Draft Created
+Case Updated
+Case Submitted
+PCS SSA Query Success/Failure
+Photo Matched
+Scan and Upload
+Case Referred to DHS / SSA
+DHS Response received
+SSA Response received
+Case Closed
