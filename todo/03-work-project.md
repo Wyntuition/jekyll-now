@@ -9,7 +9,10 @@
     STARTING SCRIPT V0001__add_vis_foreign_keys.sqlpsql:<stdin>:1: ERROR:  syntax error at or near "$"
 LINE 1: SET search_path TO ${PG_VIS_TABLE_SOURCE_SCHEMA};
     
-    - caee status mapping w/VQ
+    ??:
+
+        - caee status mapping w/VQ
+        - story for truncate/drop strategy
 
     - jenkins   
         - catch error and fail
