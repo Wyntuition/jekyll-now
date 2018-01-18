@@ -7,17 +7,19 @@
     - reach out to Chris: Dane, Glenn; who are their supervisors? Seth's team, Sean. 
     - look at appraisal emails 
     - dont' drop work table
-
-    - bk
-
-    - CELAN!
-    - fb for Jim: 10x dev, let people know ideas and then changes (i.e, changing pipeline notify all)
-    - Kafkaesque q about jenkins slaves via node
     - AWS Fadi thing
+
     - reduce verbosity of logging story
         - strategy for drop/truncates
         - review strategy for tests
     - success flag in migrations table
+
+    
+    
+    - fb for Jim: 10x dev, let people know ideas and then changes (i.e, changing pipeline notify all)
+    
+    
+    
 
     - CaseStatusTest - can pull counts from legacy directly? 2nd count/counts wrong?
     STARTING SCRIPT V0001__add_vis_foreign_keys.sqlpsql:<stdin>:1: ERROR:  syntax error at or near "$"
