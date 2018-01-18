@@ -64,3 +64,9 @@ LINE 1: SET search_path TO ${PG_VIS_TABLE_SOURCE_SCHEMA};
         ○ How much work is left, how long will it take
         ○ Do we need to assist
         - SAVE work coming in Jan
+
+
+
+RP 1/15/18
+
+- +story for false success. Dont wipe work table on re-run ("re-run" type run.)
