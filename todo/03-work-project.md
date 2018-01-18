@@ -6,7 +6,8 @@
     - +story for false success. Dont wipe work table on re-run ("re-run" type run. or C/R on views).
     - reach out to Chris: Dane, Glenn; who are their supervisors? Seth's team, Sean. 
     - look at appraisal emails 
-    
+    - dont' drop work table
+
     - bk
 
     - CELAN! 
