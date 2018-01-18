@@ -69,4 +69,4 @@ LINE 1: SET search_path TO ${PG_VIS_TABLE_SOURCE_SCHEMA};
 
 RP 1/15/18
 
-- +story for false success. Dont wipe work table on re-run ("re-run" type run.)
+- +story for false success. Dont wipe work table on re-run ("re-run" type run. or C/R on views)
