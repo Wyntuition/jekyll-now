@@ -3,7 +3,12 @@
 ## TODAY
 
     - CELAN! 
-    - 
+    - Kafkaesque q about jenkins slaves via node
+    - AWS Fadi thing
+    - reduce verbosity of logging story
+        - strategy for drop/truncates
+        - review strategy for tests
+    - success flag in migrations table
 
     - CaseStatusTest - can pull counts from legacy directly? 2nd count/counts wrong?
     STARTING SCRIPT V0001__add_vis_foreign_keys.sqlpsql:<stdin>:1: ERROR:  syntax error at or near "$"
