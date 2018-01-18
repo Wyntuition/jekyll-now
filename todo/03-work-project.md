@@ -9,6 +9,7 @@
     - bk
 
     - CELAN! 
+    - fb for Jim: 10x dev, let people know ideas and then changes (i.e, changing pipeline notify all)
     - Kafkaesque q about jenkins slaves via node
     - AWS Fadi thing
     - reduce verbosity of logging story
