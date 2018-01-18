@@ -3,7 +3,9 @@
 ## TODAY
 
     - christine 
-    
+    - read stories
+    - bk
+
     - CELAN! 
     - Kafkaesque q about jenkins slaves via node
     - AWS Fadi thing
