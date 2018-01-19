@@ -3,6 +3,7 @@
 ## TODAY
 
     [- AWS Fadi thing
+    -* brown bags for docker and kube, meeting with christine for content
     [- christine 
     - Appraisal stuff: 3rd feedback
     
