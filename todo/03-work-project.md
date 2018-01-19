@@ -5,11 +5,11 @@
     [- AWS Fadi thing
     -* brown bags for docker and kube, meeting with christine for content
         - invite uscis people?
-    [- christine 
-    - Appraisal stuff: 3rd feedback
+    
     - clean old schemas
 
-    - Fadi stuff: 
+    - Fadi stuff: xpert agenda
+    - Appraisal stuff: 3rd feedback
     
     - +story for false success. Dont wipe work table on re-run ("re-run" type run. or C/R on views).
         +- dont' drop work table
