@@ -8,6 +8,8 @@
     [- christine 
     - Appraisal stuff: 3rd feedback
     - clean old schemas
+
+    - Fadi stuff: 
     
     - +story for false success. Dont wipe work table on re-run ("re-run" type run. or C/R on views).
         +- dont' drop work table
