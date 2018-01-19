@@ -7,6 +7,8 @@
         - invite uscis people?
     
     - clean old schemas
+    
+    - failing tests on public    
 
     - +story for false success. Dont wipe work table on re-run ("re-run" type run. or C/R on views).
         +- dont' drop work table
