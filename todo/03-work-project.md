@@ -4,7 +4,7 @@
 
     [- AWS Fadi thing
     [- christine 
-    - appraisal stuff
+    - Appraisal stuff: 3rd feedback
     
     - +story for false success. Dont wipe work table on re-run ("re-run" type run. or C/R on views).
         +- dont' drop work table
