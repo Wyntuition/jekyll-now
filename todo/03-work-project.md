@@ -8,7 +8,9 @@
     
     - clean old schemas
     
-    - failing tests on public    
+    - failing tests on public
+
+    - PREF STORY
 
     - +story for false success. Dont wipe work table on re-run ("re-run" type run. or C/R on views).
         +- dont' drop work table
