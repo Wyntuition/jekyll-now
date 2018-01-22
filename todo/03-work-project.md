@@ -11,6 +11,9 @@
     - failing tests on public
 
     - PREF STORY: 
+        - how called?
+            - how functions are called in view?
+            - how view is called from script
         - Servers perf: Postgres monitor/inspect, jenkins too (ALL LOCAL?)
         - Query perf:
         - indexes?
