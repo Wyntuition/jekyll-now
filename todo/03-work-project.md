@@ -13,6 +13,7 @@
     - PREF STORY: 
         - Servers perf: Postgres monitor/inspect, jenkins too (ALL LOCAL?)
         - Query perf:
+        - indexes?
 
     - +story for false success. Dont wipe work table on re-run ("re-run" type run. or C/R on views).
         +- dont' drop work table
