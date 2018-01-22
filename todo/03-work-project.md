@@ -14,7 +14,8 @@
         - how called?
             - how functions are called in view?
             - how view is called from script
-        - non PK indexes on mod being created?
+        - non PK indexes on mod being created? Ln 900
+            - document, document_document_id_seq
 
         - Servers perf: Postgres monitor/inspect, jenkins too (ALL LOCAL?)
         - Query perf:
