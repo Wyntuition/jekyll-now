@@ -13,6 +13,8 @@
     - Appraisal:
         - Timeline: 
 
++ docker notes: see VM file system, docker run --rm -it -v /:/vm-root alpine:edge ls -l /vm-root
+
 ## PROJECTS
 
 ## INFO
