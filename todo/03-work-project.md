@@ -7,11 +7,12 @@
         - invite uscis people?
     
     - ps license 
-    
+
     - clean old schemas
     
     - failing tests on public
-
+    
+    +pd API versioning strategy, when needed (i.e. new inputs, mult. GUIs)
     - PREF STORY: 
         - how called?
             - how functions are called in view?
