@@ -6,6 +6,8 @@
     -* brown bags for docker and kube, meeting with christine for content
         - invite uscis people?
     
+    - ps license 
+    
     - clean old schemas
     
     - failing tests on public
