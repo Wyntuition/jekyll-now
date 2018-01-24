@@ -12,6 +12,10 @@
     
     - Appraisal:
         - Timeline: 
+        - FB
+            - J
+                - Communicate details of status a bit more, don't assume people just know things or that it would be just as fast to become aware over you telling. Communicate ideas a bit more before starting an initiative. People may have insights that help at that time, and it also fosters buy-in among the team members.
+                - Diplomacy over calling out often works better when leading
 
 + docker notes: see VM file system, docker run --rm -it -v /:/vm-root alpine:edge ls -l /vm-root
 
