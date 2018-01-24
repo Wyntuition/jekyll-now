@@ -6,14 +6,10 @@
     -* brown bags for docker and kube, meeting with christine for content
         - invite uscis people?
     
-    - ps license 
-
-    - clean old schemas
-    
-    - failing tests on public
-    
-    +pd API versioning strategy, when needed (i.e. new inputs, mult. GUIs)
-    - PREF STORY: 
+     - PREF STORY: 
+        1. identify problem areas, compare to similar complex statement times
+        2. get metric table or just deeper in the metrics
+        
         - how called?
             - how functions are called in view?
             - how view is called from script
@@ -24,6 +20,16 @@
         - Query perf:
         - indexes?
 
+    
+    
+    - org fadi & mgr notes, make list so easy to follow up on last tasks (same w other reports; org)
+
+    
+    -PS bill; reminder for Safari
+        
+    +pd API versioning strategy, when needed (i.e. new inputs, mult. GUIs)
+   
+
     - +story for false success. Dont wipe work table on re-run ("re-run" type run. or C/R on views).
         +- dont' drop work table
         +- rvm in container?
@@ -31,9 +37,6 @@
             - strategy for drop/truncates
             - review strategy for tests
         
-    - reach out to Chris: Dane, Glenn; who are their supervisors? Seth's team, Sean. 
-    
-    - look at appraisal emails 
     
     
     
