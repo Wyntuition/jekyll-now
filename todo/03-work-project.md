@@ -9,7 +9,7 @@
      - PREF STORY: 
         1. identify problem areas, compare to similar complex statement times
         2. get metric table or just deeper in the metrics
-        3. disable trigger - fk, indexes too? Delete/recreate indexes?
+        3. disable trigger - fk, indexes too? Delete/recreate indexes? Loop find and recreate? Find prob indexes?
 
         - how called?
             - how functions are called in view?
