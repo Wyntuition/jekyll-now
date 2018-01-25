@@ -162,7 +162,7 @@ xpert notes:
                         - keeping pulse: we do have inputs, such as Jeff's slide. CMS - absolutely we could influence that. 
                         - People absolutely want and should get more fb
                         - the group will totally influence the meeting as well, this is just a starting point.
-                        - Excella wants more collab and tasks completed to completion from experts
+                        - Excella wants more collab and tasks completed to completion from experts. Have they articulated it? That's our job to do from the overall Excella goals (i.e. cloud, containers)
     
 
 Fadi, 1/18/18
