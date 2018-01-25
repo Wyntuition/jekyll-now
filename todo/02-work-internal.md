@@ -34,6 +34,9 @@
 
 - How often meet?
 - What kind of feedback do you want?
+    - fb on better TL from account; blunt
+    - nebulous things in org - things are expected of xperts, leaders etc.
+    - where are things coming from? (i.e. Jeff said...)
 - Any feedback/criticism for me? Share some that I learned.
 - Feedback from others, myself
     - Project chat: career prospects, etc.
