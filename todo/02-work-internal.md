@@ -37,7 +37,7 @@
     - fb on better TL from account; blunt
     - nebulous things in org - things are expected of xperts, leaders etc.
     - where are things coming from? (i.e. Jeff said...)
-    - next step w/i Excella; long term fits, impact, home (i.e. run this initative), niche
+    - next step w/i Excella; long term fits, impact, home (i.e. run this initative), niche, Excella expert
 
 - Any feedback/criticism for me? Share some that I learned.
 - Feedback from others, myself
