@@ -37,12 +37,18 @@
     - fb on better TL from account; blunt
     - nebulous things in org - things are expected of xperts, leaders etc.
     - where are things coming from? (i.e. Jeff said...)
+    - next step w/i Excella; long term fits, impact, home (i.e. run this initative)
+
 - Any feedback/criticism for me? Share some that I learned.
 - Feedback from others, myself
     - Project chat: career prospects, etc.
 - PD: review where you're at
 - Career dev: where are you looking to go?
 - Discuss other projects (xpert, etc), career prospects
+
+
++S
+- No CMS
 
 ### PTO Balance:
 
