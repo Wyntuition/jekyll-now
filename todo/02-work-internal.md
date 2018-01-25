@@ -163,6 +163,8 @@ xpert notes:
                         - People absolutely want and should get more fb
                         - the group will totally influence the meeting as well, this is just a starting point.
                         - Excella wants more collab and tasks completed to completion from experts. Have they articulated it? That's our job to do from the overall Excella goals (i.e. cloud, containers)
+                        - it would be so much easier and take less effort (other than commuting) to discuss, review and clarify Excella's goals, and align ourselves to it. Then brainstorm potential projects.
+                            - "Xpert hackathon" -- a mandatory "happy hour" or dinner event where we set aside dedicated time to be in the same room working toward the SDSA objectives to ensure they get accomplishe
     
 
 Fadi, 1/18/18
