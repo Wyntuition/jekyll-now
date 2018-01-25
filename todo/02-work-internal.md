@@ -160,6 +160,7 @@ xpert notes:
                     - PURPOSE: xpert collaboration, aligning with Excella goals, keeping up with trends, keeping Fadi updated, working sessions
                         - I have seen many examples of meetings in person being more productive than remote, whiteboarding, talking etc. 
                         - keeping pulse: we do have inputs, such as Jeff's slide. CMS - absolutely we could influence that. 
+                        - People absolutely want and should get more fb
     
 
 Fadi, 1/18/18
