@@ -41,7 +41,7 @@
     - 
 - Any feedback/criticism for me? Share some that I learned.
     - getting value
-    - more direction
+    - more direction, help with goals
 
 - Feedback from others, myself
     - Project chat: career prospects, etc.
