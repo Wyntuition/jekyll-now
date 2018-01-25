@@ -98,6 +98,11 @@ Appraisal, 1/2018
 
 #### Sean
 
+- trello
+- xpert stuff
+- manager's path
+
+
 Appraisal, 1.2018
 - 3rd
     * Pat Leong
