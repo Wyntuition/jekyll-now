@@ -38,6 +38,7 @@
 - Feedback from others, myself
     - Project chat: career prospects, etc.
 - PD: review where you're at
+- Career dev: where are you looking to go?
 - Discuss other projects (xpert, etc), career prospects
 
 ### PTO Balance:
