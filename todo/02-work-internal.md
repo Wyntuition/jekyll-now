@@ -162,6 +162,7 @@ xpert notes:
                         - keeping pulse: we do have inputs, such as Jeff's slide. CMS - absolutely we could influence that. 
                         - People absolutely want and should get more fb
                         - the group will totally influence the meeting as well, this is just a starting point.
+                        - Excella wants more collab and tasks completed to completion from experts
     
 
 Fadi, 1/18/18
