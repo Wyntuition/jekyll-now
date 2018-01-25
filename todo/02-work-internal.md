@@ -112,3 +112,70 @@ Appraisal, 1.2018
     * Brendan Sawyer
     * Gabriel Diaz
     * Dan Stalcup
+
+
+
+
+
+
+
+
+
+
+## xpert meeting notes
+
+
+xpert notes:
+
+- xpert agenda send out, discussions with themes (i.e. 6 month plan, upcoming themes & trends, personal project)
+    - Clear outcomes.
+        - Review our progress
+        - Share our work in progress & ideas for upcoming work
+        - Review SDSA trello
+        - Review industry trends and Excella initiatives and how we can align
+
+        QUARTERLY:
+        - Brainstorm ideas: start with current trends, brainstorm projects/xpert work to do around them. Vote/etc.
+        
+
+        - 6 month plan, tie our own plans to overall xpert plan/Excella goal
+            - Current business - get feedback. Collaboration. Updates from what paths people are going on? Balance b/t indiv. projects & collaboration. Review Excella initiatives, do we need to pick up anything?
+            - SDSA tasks?
+        - Should we meet monthly, ad-hoc?
+        - Align Trends
+            - Example: microservices workshop idea, how to get into AI?
+        - Ideas for collaborating around projects? Tech issues across xperts to collaborate on? Assignments for xperts, come up with a few projects? Where op for growth in different services areas, by xpert?
+
+- Check xpert mtg notes from fadi
+        - Come up with xpert vision, plan, agenda
+            - VISION:
+                    - Keep pulse and discuss and list tech trends
+                    - Keep pulse on major focuses of Excella. Marry with tech trends.
+                    - Personal focus - share our goals, initiatives, ask for feedback. Share approaches planned/doing, ask for feedback.
+            - GENERAL AGENDA:
+                    - Lightning talk on trends. PURPOSE: Everyone on the same page on broad trends.
+                    - Go over the SDSA trello, look at our tasks, look at other tasks that xperts might tackle. PURPOSE: are we covering things Excella needs from xPerts?
+                    - Each share their goals, current and planned initatives, and approaches. Feedback. Collaboration? PURPOSE: Get constructive feedback and open opportunities to collaborate (edited)
+                    - WORKING SESSION?
+                    - PURPOSE: xpert collaboration, aligning with Excella goals, keeping up with trends, keeping Fadi updated, working sessions
+    
+
+Fadi, 1/18/18
+
+Goals 
+    - status updates async, PROCESS:
+        - SDSA > trello > xpert > Fadi needs to be aware of what we're doing
+    - updates (per above
+    )
+    - collaborate on tasks in meeting
+    - BE ready to RESPOND TO RFPS. How know what topics?
+    - Be ready and help your service area be ready for upcoming trends and help shape iniatives for next year
+    - Showcases and build capabilities
+    - Hold each other accoountable 
+    - collaborate with other service areas (i.e bots with data, devops - azure, containers)
+    - initiatives: Containers
+    - trends: 
+        - lightning
+        - brainstorm (trends from last time, any on new trends)
+
+-* 2018 goals tied to Jeff's slide of 2018 initiatives
