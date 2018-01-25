@@ -158,6 +158,7 @@ xpert notes:
                     - Each share their goals, current and planned initatives, and approaches. Feedback. Collaboration? PURPOSE: Get constructive feedback and open opportunities to collaborate (edited)
                     - WORKING SESSION?
                     - PURPOSE: xpert collaboration, aligning with Excella goals, keeping up with trends, keeping Fadi updated, working sessions
+                        - I have seen many examples of meetings in person being more productive than remote, whiteboarding, talking etc. 
     
 
 Fadi, 1/18/18
