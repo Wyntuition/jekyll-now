@@ -39,19 +39,34 @@
     - where are things coming from? (i.e. Jeff said...)
     - next step w/i Excella; long term fits, impact, home (i.e. run this initative), niche, Excella expert
     - 
+
 - Any feedback/criticism for me? Share some that I learned.
     - getting value
     - more direction, help with goals
+    - start convo to rethink priorities; map back strategically
 
 - Feedback from others, myself
-    - Project chat: career prospects, etc.
+- Project chat (status, satisfaction); BD
+- career prospects, etc.
+    - tech, not
+    - exp in product dev
 - PD: review where you're at
 - Career dev: where are you looking to go?
-- Discuss other projects (xpert, etc), career prospects
+- Discuss other projects (xpert, etc)
+- Praise
 
-
-+S
++S, 1/23/18
 - No CMS
+Career path
+    - Env for entrepreneurial attitude; partnerships in creating value for org; involved in whole lifecycle
+    - mgmnt path; tech manager? Pair coding mentoring session also to grow people.
+        +++xperts to manage; open to any stack
+        +formalize tech mgr
+        ? best use of Riccardo
+        +actor model
+        
+
+
 
 ### PTO Balance:
 
