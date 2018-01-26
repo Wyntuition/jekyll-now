@@ -10,6 +10,7 @@
         1. what are standard times for x queries? vaccum db? 
         1. read overview items
         
+        
 
         1. identify problem areas, compare to similar complex statement times
         2. get metric table or just deeper in the metrics
