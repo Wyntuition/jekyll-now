@@ -80,6 +80,22 @@ Appraisal, 1/2018
     - Brian Palladino
     - Andrew Jarding
 
+        - 1 in work & on phone? org notebooks; move to 1 onenote, greminders, etc.
+        - Review Hub
+            - Events org.
+            - music news worked in
+            - Deep industry, dev, AI, IT overall/strategic. Hobby Industry (ie solar, e music, comp). AI newsletter. 
+
+        +-m tasks - backup to cloud check
+        -+ house list: photos - org ones to display, frame layout, additional frames for living room
+
+
+PD trello: https://trello.com/b/Bf8Ohhro/personal-development
+
+Todo:
+-xpert agenda send out (see notes below)
+
+
 #### Seth
 
 Appraisal, 1/2018
