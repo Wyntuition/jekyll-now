@@ -7,9 +7,15 @@
         - invite uscis people?
     
      - PREF STORY: 
+        1. what are standard times for x queries? vaccum db? 
+        1. read overview items
+        
+        
+
         1. identify problem areas, compare to similar complex statement times
         2. get metric table or just deeper in the metrics
-        
+        3. disable trigger - fk, indexes too? Delete/recreate indexes? Loop find and recreate? Find prob indexes?
+
         - how called?
             - how functions are called in view?
             - how view is called from script
@@ -21,7 +27,7 @@
         - indexes?
 
     
-    
+    - SAVE stuff
     - org fadi & mgr notes, make list so easy to follow up on last tasks (same w other reports; org)
 
     
