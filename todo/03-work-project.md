@@ -3,6 +3,8 @@
 ## TODAY
 
     [- AWS Fadi thing
+
+    - app for pos
     
 ## ASAP
 
