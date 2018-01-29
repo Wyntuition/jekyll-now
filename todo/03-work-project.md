@@ -5,9 +5,6 @@
     [- AWS Fadi thing
     -* brown bags for docker and kube, meeting with christine for content
         - invite uscis people?
-    
-     - PREF STORY: 
-
 ## ASAP
 
 
