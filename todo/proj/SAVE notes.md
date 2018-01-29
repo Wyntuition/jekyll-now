@@ -11,7 +11,7 @@
 
 SAVE domain
 
-1st step: instant status or, addl verification
-Addl verification: many agencies who use web services have to switch to GUI. Some have to reinput case, should be remidied in MOD. 
-  - Agency sends to SBO. Human then works it (3-5 days), return to applicant. 
+1. 1st step: inputting data; receive instant status or, addl verification
+1. Addl verification: many agencies who use web services have to switch to GUI. Some have to reinput case, should be remidied in MOD.
+  - Agency sends to SBO (SAVE app again). Human then works it (3-5 days), return to applicant.
 
