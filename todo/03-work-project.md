@@ -13,18 +13,21 @@
 - Jenn
 - story
     
+    - remove indexes?
+    - explians from preview - pcs_response, doc_union_vw
     - RUN list tables, explain, on preview in steps (by parameter)
     - index only scans?
-    - explians from preview - pcs_response, doc_union_vw
     - constraints and foreign key drop/create scripts
+    
     - read up on general sql optimization
     - review op process; expected times
     - need bigger dataset locally so can see actual time reduction with triggers off etc.
         - sequential scans a problem? 56 on document. Look at missing index list.     
         - pcs longest but no in's, 2 seq scans, 2 hash joinsPCS_employee_response insert is the longest though.
-    -? benefit of record row count to file
+    
     - functions
-
+    -? benefit of record row count to file
+    
     - Process
         1. list slowest statements
         1. `explain` them
