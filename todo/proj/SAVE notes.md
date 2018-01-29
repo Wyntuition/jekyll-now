@@ -8,3 +8,10 @@
         - *stack now? PG jsonb
         *- specific work from us, or just leg work? Optmization of queries. Audit & report data.
 
+
+SAVE domain
+
+1st step: instant status or, addl verification
+Addl verification: many agencies who use web services have to switch to GUI. Some have to reinput case, should be remidied in MOD. 
+  - Agency sends to SBO. Human then works it (3-5 days), return to applicant. 
+
