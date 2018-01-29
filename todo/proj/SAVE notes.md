@@ -3,12 +3,12 @@
           - other consumers
         - Incremental?
         - scope?
-            - mapping?
+            - mapping? - sprocs for tables they aren't using in case details (all ws vers using same sprocs)
             - endpoint? Mod endpoints will point to legacy at first. Migrate, point them to mod db. Migration in background.
             - *Leg and mod at once? Strangler.
         - *stack now? PG jsonb
         *- specific work from us, or just leg work? Optmization of queries. Audit & report data.
-        - 
+        
         - ?'s
           - info about auditing and reporting
 
