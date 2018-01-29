@@ -1,5 +1,6 @@
 - SAVE NOTES:
         _ REQ:
+          - other consumers
         - Incremental?
         - scope?
             - mapping?
@@ -7,6 +8,7 @@
             - *Leg and mod at once? Strangler.
         - *stack now? PG jsonb
         *- specific work from us, or just leg work? Optmization of queries. Audit & report data.
+        - 
         - ?'s
           - info about auditing and reporting
 
