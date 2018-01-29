@@ -8,3 +8,8 @@
                 - ML testing 
             - python programming, dist. computing, infra
             - proper architecture? test exercises?
+            - DevOps:
+                - Containers:
+                    - Orchestration: Kube, vs. others
+                        RESOURCES:
+                            -https://github.com/vahidk/EffectiveTensorflow
