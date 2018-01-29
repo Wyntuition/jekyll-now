@@ -6,10 +6,9 @@
 
 ## NOW
 
-    - Database mechanics (book?)
+    - Database mechanics: Safari books
 
 ## Plan - Current
-
 
     - ORG PD. This should be on PD plan regularly reviewed
         - Katas
