@@ -49,34 +49,34 @@
 
 
 
-    - SAVE stuff
-    - org fadi & mgr notes, make list so easy to follow up on last tasks (same w other reports; org)
+- SAVE stuff
+- org fadi & mgr notes, make list so easy to follow up on last tasks (same w other reports; org)
 
 
-    -PS bill; reminder for Safari
-        
-    +pd API versioning strategy, when needed (i.e. new inputs, mult. GUIs)
-   
+-PS bill; reminder for Safari
+    
++pd API versioning strategy, when needed (i.e. new inputs, mult. GUIs)
 
-    - +story for false success. Dont wipe work table on re-run ("re-run" type run. or C/R on views).
-        +- dont' drop work table
-        +- rvm in container?
-        - reduce verbosity of logging story
-            - strategy for drop/truncates
-            - review strategy for tests
-        
-    
-    
+
+- +story for false success. Dont wipe work table on re-run ("re-run" type run. or C/R on views).
+    +- dont' drop work table
+    +- rvm in container?
+    - reduce verbosity of logging story
+        - strategy for drop/truncates
+        - review strategy for tests
     
 
-    
-    
-    - fb for Jim: 10x dev, let people know ideas and then changes (i.e, changing pipeline notify all)
-    
+
+
+
+
+
+- fb for Jim: 10x dev, let people know ideas and then changes (i.e, changing pipeline notify all)
+
     
     
 
-    - CaseStatusTest - can pull counts from legacy directly? 2nd count/counts wrong?
+- CaseStatusTest - can pull counts from legacy directly? 2nd count/counts wrong?
     STARTING SCRIPT V0001__add_vis_foreign_keys.sqlpsql:<stdin>:1: ERROR:  syntax error at or near "$"
 LINE 1: SET search_path TO ${PG_VIS_TABLE_SOURCE_SCHEMA};
     
@@ -85,7 +85,7 @@ LINE 1: SET search_path TO ${PG_VIS_TABLE_SOURCE_SCHEMA};
         - caee status mapping w/VQ
         - story for truncate/drop strategy
 
-    - jenkins   
+- jenkins   
         - catch error and fail
         - env vars not getting set for post step? Get from env files only? Run source env for all steps?
         - "ERROR" in etl doesn't cause build to break
@@ -101,9 +101,7 @@ LINE 1: SET search_path TO ${PG_VIS_TABLE_SOURCE_SCHEMA};
                     - dockerization
                 - hello world app
                     - deploy to AWS
-    -story q's
-        - 417: Source PCS_RESPONSE_ERROR. No ?'s or legacy fields listed.
-    
+
 
 ## TIMELY
 
