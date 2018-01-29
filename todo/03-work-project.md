@@ -44,18 +44,6 @@
     - ss, 1-2 major tweak;
     - process: find longest queries, explain analyze
     - remove document and try pcs on preview]
-    
-    
-    - SAVE NOTES:
-        _ REQ:
-        - Incremental?
-        - scope?
-            - mapping?
-            - endpoint? 
-            - *Leg and mod at once?
-        - *stack now?
-        - specific work from us, or just leg work? Optmization of queries. Audit & report data.
-
 
 - SAVE stuff
 - org fadi & mgr notes, make list so easy to follow up on last tasks (same w other reports; org)
