@@ -7,6 +7,39 @@
         - invite uscis people?
     
      - PREF STORY: 
+
+SESSION
+        -review times-
+        - status
+            - data locally: tools
+
+            - prob queries
+            - sequential scans a problem? 56 on document. Look at missing index list. PCS_employee_response insert is the longest though.
+            -out of space
+            - constraints and foreign key drop/create scripts
+            - does jenkins store data somehow?
+            - Preview; need bigger dataset locally so can see actual time reduction with triggers off etc.
+
+            - SS
+                - somewhere closer to 20mil recs in 30s locally
+            - Process
+                1. list slowest statements
+                1. `explain` them
+                1. list
+
+        - vaccum
+        - pcs longest but no in's, 2 seq scans, 2 hash joins
+
+        - turn off reporting
+        - when to use what scan, join, index
+        https://www.postgresql.org/docs/9.1/static/using-explain.html
+
+        - look at other long queries for commonalities
+        - clean readme up   
+        - ss, 1-2 major tweak;
+        - process: find longest queries, explain analyze
+        - remove document and try pcs on preview
+
         1. what are standard times for x queries? vaccum db? 
         1. read overview items
         
