@@ -85,6 +85,10 @@ Career path
 
 #### Apraisal Notes
 
+Key info to gather
+- Managing
+    - Mentoring people? Coaching people? Get feedback from those folks.
+
 Development Plan
 • Goals for next year (Job/Role/Project Goals)
 • Development Goals (Competency-based Goals); and/or
