@@ -4,6 +4,12 @@
 
     * Twitter University, engineering blogs
 
+## NOW
+
+    - Database mechanics (book?)
+
+## Plan - Current
+
 
     - ORG PD. This should be on PD plan regularly reviewed
         - Katas
