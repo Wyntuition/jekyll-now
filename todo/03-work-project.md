@@ -12,12 +12,11 @@
 
 - Jenn
 - story
-    
-    - remove indexes?
+
+    - drop index, constraints and foreign key drop/create scripts
     - RUN list tables, explain, on preview in steps (by parameter)
          pcs_response, doc_union_vw
-    - drop index, constraints and foreign key drop/create scripts
-
+    
     - index only scans?
     
     - read up on general sql optimization
