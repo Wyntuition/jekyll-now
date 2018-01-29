@@ -14,10 +14,11 @@
 - story
     
     - remove indexes?
-    - explians from preview - pcs_response, doc_union_vw
     - RUN list tables, explain, on preview in steps (by parameter)
+         pcs_response, doc_union_vw
+    - drop index, constraints and foreign key drop/create scripts
+
     - index only scans?
-    - constraints and foreign key drop/create scripts
     
     - read up on general sql optimization
     - review op process; expected times
