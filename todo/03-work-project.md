@@ -16,9 +16,9 @@
     - drop index, constraints and foreign key drop/create scripts
     - RUN list tables, explain, on preview in steps (by parameter)
          pcs_response, doc_union_vw
-    
+
     - index only scans?
-    
+
     - read up on general sql optimization
     - review op process; expected times
     - need bigger dataset locally so can see actual time reduction with triggers off etc.
