@@ -9,7 +9,7 @@
         - *stack now? PG jsonb
         *- specific work from us, or just leg work? Optmization of queries. Audit & report data.
         
-        - ?'s
+        -*?'s
           - info about auditing and reporting -- VQ? SAVE data needed.
 
 
