@@ -6,7 +6,8 @@
 
 ## NOW
 
-    - Database mechanics: Safari books
+    - Database mechanics: Safari books 
+        - PostgreSQL Development Essentials, Postgres High Performance Cookbook vs Postgres 9.6 High Performance
 
 ## Plan - Current
 
