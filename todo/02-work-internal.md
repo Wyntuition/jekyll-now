@@ -17,9 +17,12 @@
                 - Communicate details of status a bit more, don't assume people just know things or that it would be just as fast to become aware over you telling. Communicate ideas a bit more before starting an initiative. People may have insights that help at that time, and it also fosters buy-in among the team members.
                 - Diplomacy over calling out often works better when leading. Touchy responses can cause people to approch less.
 
+
+- update PD policy? https://excellaco.sharepoint.com/internal/HR/teamsite/Excella%20Employee%20Guide/Professional%20Development.aspx
+
 + docker notes: see VM file system, docker run --rm -it -v /:/vm-root alpine:edge ls -l /vm-root
 
-- Q's fo Jenn:
++ Q's fo Jenn:
     - What have been the biggest challanges on the project? Experience? Performance? Reqs? Client vs staff?
 
 ## PROJECTS
