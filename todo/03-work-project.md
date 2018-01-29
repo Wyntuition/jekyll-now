@@ -9,6 +9,9 @@
 
 - Jenn
 - story
+    
+    - RUN list tables, explain, on preview in steps (by parameter)
+    
     - explians from preview - pcs_response, doc_union_vw
     - constraints and foreign key drop/create scripts
     - read up on general sql optimization
