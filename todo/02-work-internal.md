@@ -18,7 +18,7 @@
                 - Diplomacy over calling out often works better when leading. Touchy responses can cause people to approch less.
 
 
-- update PD policy? https://excellaco.sharepoint.com/internal/HR/teamsite/Excella%20Employee%20Guide/Professional%20Development.aspx
+- update PD policy? (linked from appraisal) https://excellaco.sharepoint.com/internal/HR/teamsite/Excella%20Employee%20Guide/Professional%20Development.aspx
 
 + docker notes: see VM file system, docker run --rm -it -v /:/vm-root alpine:edge ls -l /vm-root
 
