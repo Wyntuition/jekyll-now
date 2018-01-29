@@ -5,6 +5,7 @@
     [- AWS Fadi thing
 
     - app for pos
+    -[w] resch with Dane
     
 ## ASAP
 
