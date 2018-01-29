@@ -12,39 +12,35 @@
 
 
 SESSION
-        -review times-
-        - status
-            - data locally: tools
 
-            - prob queries
-            - sequential scans a problem? 56 on document. Look at missing index list. PCS_employee_response insert is the longest though.
-            -out of space
-            - constraints and foreign key drop/create scripts
-            - does jenkins store data somehow?
-            - Preview; need bigger dataset locally so can see actual time reduction with triggers off etc.
+- Jenn
+    - story
+        - explians from preview - pcs_response, doc_union_vw
+        - constraints and foreign key drop/create scripts
+        - read up on general sql optimization
+        - review op process; expected times
+        - need bigger dataset locally so can see actual time reduction with triggers off etc.
+            - sequential scans a problem? 56 on document. Look at missing index list.     
+            - pcs longest but no in's, 2 seq scans, 2 hash joinsPCS_employee_response insert is the longest though.
+        -? benefit of record row count to file
 
-            - SS
-                - somewhere closer to 20mil recs in 30s locally
-            - Process
-                1. list slowest statements
-                1. `explain` them
-                1. list
 
-        - vaccum
-        - pcs longest but no in's, 2 seq scans, 2 hash joins
-
-        - turn off reporting
-        - when to use what scan, join, index
-        https://www.postgresql.org/docs/9.1/static/using-explain.html
+        - Process
+            1. list slowest statements
+            1. `explain` them
+            1. list
+        
+            - when to use what scan, join, index
+            https://www.postgresql.org/docs/9.1/static/using-explain.html
 
         - look at other long queries for commonalities
         - clean readme up   
         - ss, 1-2 major tweak;
         - process: find longest queries, explain analyze
         - remove document and try pcs on preview
+    + story: Expect the scripts you wrote to do the DB migration to break; save migrated record id's to a flat file
 
-        1. what are standard times for x queries? vaccum db? 
-        1. read overview items
+
         
         
 
