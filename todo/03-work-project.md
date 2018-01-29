@@ -38,7 +38,6 @@
         https://www.postgresql.org/docs/9.1/static/using-explain.html
 
     - look at other long queries for commonalities
-    - clean readme up   
     - ss, 1-2 major tweak;
     - process: find longest queries, explain analyze
     - remove document and try pcs on preview]
