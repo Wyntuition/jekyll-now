@@ -6,6 +6,7 @@
 
     - app for pos
     -[w] resch with Dane
+    - - info about auditing and reporting -- VQ? What SAVE data needed to mod?
     
 ## ASAP
 
