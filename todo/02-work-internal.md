@@ -87,7 +87,7 @@ Career path
 
 Key info to gather
 - Managing
-    - Mentoring people? Coaching people? Get feedback from those folks.
+    - Mentoring people? Coaching people? Get feedback from those folks. Interviewing?
 - People 
     - Account manager, team, previous manager
 
