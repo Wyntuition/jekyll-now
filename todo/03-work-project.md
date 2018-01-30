@@ -14,11 +14,15 @@
 - story
     -? degredation in perf
 
-    - drop index, constraints and foreign key drop/create scripts
+    - [w] drop index, constraints and foreign key drop/create scripts
     - RUN list tables, explain, on preview in steps (by parameter)
          pcs_response, doc_union_vw
-
+    
+    - parallel against preview
+    - index legacy cols used in joins
     - index only scans?
+
+    - after insert, create case_number index for case_header
     - degr
 
     - read up on general sql optimization
