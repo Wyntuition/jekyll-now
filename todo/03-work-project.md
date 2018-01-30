@@ -10,8 +10,7 @@
     
 ## ASAP
 
-- ivy, health thig?
-- Jenn
+- [Jenn
 - story
 
     - drop index, constraints and foreign key drop/create scripts
