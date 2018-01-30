@@ -10,7 +10,7 @@
     
 ## ASAP
 
-- ivy, health thig? text girl
+- ivy, health thig?
 - Jenn
 - story
 
