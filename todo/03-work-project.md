@@ -12,6 +12,8 @@
 
 - Fadi - AWS said CodePipeline pulled in an AWS key from a GitHub repo, so visible in CloudWatch logs. They said tha was remidied but didn't have any detail. I could not find any CodePipelines - I checked US East, Ohio (where new folks were playing at least at one point), and Oregon (for some reason my default).
 
+I would recommend creating another AWS root account just for learning / sandboxing. It would be easier to ensure remidiation across all the possible services that are not easily displayed in aggregation. If the learning account got hacked we could let AWS shut down anything. If that happens on our production AWS, then we might have production outages. Plus, people learning shouldn't be exposed to anything there. There is an organization feature tha lets you manage multiple AWS root accounts.
+
 - Jenn
 - story
 
