@@ -10,6 +10,8 @@
     
 ## ASAP
 
+- Fadi - AWS said CodePipeline pulled in an AWS key from a GitHub repo, so visible in CloudWatch logs. They said tha was remidied but didn't have any detail. I could not find any CodePipelines - I checked US East, Ohio (where new folks were playing at least at one point), and Oregon (for some reason my default).
+
 - Jenn
 - story
 
