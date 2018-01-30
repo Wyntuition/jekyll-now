@@ -41,18 +41,10 @@
 [FIRST/PERODIC]
 - [How often meet?
 - What kind of feedback do you want?
-    - fb on better TL from account; blunt
-    - nebulous things in org - things are expected of xperts, leaders etc.
-    - where are things coming from? (i.e. Jeff said...)
-    - next step w/i Excella; long term fits, impact, home (i.e. run this initative), niche, Excella expert
-
-- Any feedback/criticism for me? Share some that I learned.
-    - getting value
-    - more direction, help with goals
-    - start convo to rethink priorities; map back strategically
-
+- Please provide any feedback/criticism for me? Share some that I learned.
+    
 [REGULAR]
-- Feedback from others, myself
+- Feedback from others, myself; feedback for me
 - Project chat (status, satisfaction); BD
 - career prospects, etc.
     - tech, not
@@ -184,7 +176,29 @@ Career path
         ? best use of Riccardo
         +actor model
 
+Went over this: 
+[FIRST/PERODIC]
+- [How often meet?
+- What kind of feedback do you want?
+    - fb on better TL from account; blunt
+    - nebulous things in org - things are expected of xperts, leaders etc.
+    - where are things coming from? (i.e. Jeff said...)
+    - next step w/i Excella; long term fits, impact, home (i.e. run this initative), niche, Excella expert
 
+- Any feedback/criticism for me? Share some that I learned.
+    - getting value
+    - more direction, help with goals
+    - start convo to rethink priorities; map back strategically
+
+[REGULAR]
+- Feedback from others, myself
+- Project chat (status, satisfaction); BD
+- career prospects, etc.
+    - tech, not
+    - exp in product dev
+- PD: review where you're at
+- Career dev: where are you looking to go?
+- Discuss other projects (xpert, etc)
 
 
 
