@@ -139,7 +139,8 @@ PD trello: https://trello.com/b/Bf8Ohhro/personal-development
 1/30/18
 
 Todo:
--xpert agenda send out (see notes below)
+
+- xpert agenda send out (see notes below)
 - Glenn's agenda
 
 
