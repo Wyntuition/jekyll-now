@@ -126,3 +126,9 @@ LINE 1: SET search_path TO ${PG_VIS_TABLE_SOURCE_SCHEMA};
 
 RP 1/15/18
 
+
+## Leadership
+
+- how is the support team's morale?
+- biggest current challenges?
+- Intimate awareness of teams
