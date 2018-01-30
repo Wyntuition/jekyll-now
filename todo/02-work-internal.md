@@ -62,18 +62,6 @@
 - Discuss other projects (xpert, etc)
 - Praise
 
-+S, 1/23/18
-- No CMS
-Career path
-    - Env for entrepreneurial attitude; partnerships in creating value for org; involved in whole lifecycle
-    - mgmnt path; tech manager? Pair coding mentoring session also to grow people.
-        +++xperts to manage; open to any stack
-        +formalize tech mgr
-        ? best use of Riccardo
-        +actor model
-        
-
-
 
 ### PTO Balance:
 
@@ -134,20 +122,26 @@ Appraisal, 1/2018
     - Brian Palladino
     - Andrew Jarding
 
-        - 1 in work & on phone? org notebooks; move to 1 onenote, greminders, etc.
-        - Review Hub
-            - Events org.
-            - music news worked in
-            - Deep industry, dev, AI, IT overall/strategic. Hobby Industry (ie solar, e music, comp). AI newsletter. 
+12/10/17 (first check-in)
+    
+    - 1 in work & on phone? org notebooks; move to 1 onenote, greminders, etc.
+    - Review Hub
+        - Events org.
+        - music news worked in
+        - Deep industry, dev, AI, IT overall/strategic. Hobby Industry (ie solar, e music, comp). AI newsletter. 
 
-        +-m tasks - backup to cloud check
-        -+ house list: photos - org ones to display, frame layout, additional frames for living room
+    +-m tasks - backup to cloud check
+    -+ house list: photos - org ones to display, frame layout, additional frames for living room
 
 
 PD trello: https://trello.com/b/Bf8Ohhro/personal-development
 
+1/30/18
+
 Todo:
 -xpert agenda send out (see notes below)
+
+
 
 
 #### Seth
@@ -179,6 +173,15 @@ Appraisal, 1.2018
     * Dan Stalcup
 
 
++S, 1/23/18
+- No CMS
+Career path
+    - Env for entrepreneurial attitude; partnerships in creating value for org; involved in whole lifecycle
+    - mgmnt path; tech manager? Pair coding mentoring session also to grow people.
+        +++xperts to manage; open to any stack
+        +formalize tech mgr
+        ? best use of Riccardo
+        +actor model
 
 
 
