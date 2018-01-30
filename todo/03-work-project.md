@@ -12,12 +12,14 @@
 
 - [Jenn
 - story
+    -? degredation in perf
 
     - drop index, constraints and foreign key drop/create scripts
     - RUN list tables, explain, on preview in steps (by parameter)
          pcs_response, doc_union_vw
 
     - index only scans?
+    - degr
 
     - read up on general sql optimization
     - review op process; expected times
