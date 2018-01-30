@@ -10,6 +10,7 @@
     
 ## ASAP
 
+- sch docker ws
 - [Jenn
 - story
     -? degredation in perf
