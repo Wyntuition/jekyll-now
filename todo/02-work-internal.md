@@ -88,6 +88,8 @@ Career path
 Key info to gather
 - Managing
     - Mentoring people? Coaching people? Get feedback from those folks.
+- People 
+    - Account manager, team, previous manager
 
 Development Plan
 • Goals for next year (Job/Role/Project Goals)
