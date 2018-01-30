@@ -14,6 +14,7 @@
 
 I would recommend creating another AWS root account just for learning / sandboxing. It would be easier to ensure remidiation across all the possible services that are not easily displayed in aggregation. If the learning account got hacked we could let AWS shut down anything. If that happens on our production AWS, then we might have production outages. Plus, people learning shouldn't be exposed to anything there. There is an organization feature tha lets you manage multiple AWS root accounts.
 
+- ivy, health thig? text girl
 - Jenn
 - story
 
