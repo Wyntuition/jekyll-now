@@ -20,6 +20,8 @@
          pcs_response, doc_union_vw
     
     - large commits?
+    ?- Increase checkpoint_segments
+        -https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Appendix.PostgreSQL.CommonDBATasks.html
     - parallel against preview
     - index legacy cols used in joins
     - index only scans?
