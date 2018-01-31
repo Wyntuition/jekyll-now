@@ -19,6 +19,7 @@
     - RUN list tables, explain, on preview in steps (by parameter)
          pcs_response, doc_union_vw
     
+    - large commits?
     - parallel against preview
     - index legacy cols used in joins
     - index only scans?
