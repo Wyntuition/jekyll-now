@@ -22,7 +22,7 @@
     - large commits?
     ?- Increase checkpoint_segments
         -https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Appendix.PostgreSQL.CommonDBATasks.html
-        - shared buffer allocations>
+        - shared buffer allocations (shared_buffers)
     - parallel against preview
     - index legacy cols used in joins
     - index only scans?
