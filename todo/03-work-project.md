@@ -21,7 +21,8 @@
     
     - large commits?
     - remote for docker ws? 
-    
+
+    -fadi seth
     - false passing in work table?
     - each script single transaction?
     ?- Increase checkpoint_segments
