@@ -13,6 +13,7 @@
 - sch docker ws
 - ? need db auditing in mod?
 - [Jenn
+
 - story
     -? degredation in perf
 
@@ -63,7 +64,7 @@
     - process: find longest queries, explain analyze
     - remove document and try pcs on preview]
 
-- SAVE stuff
+
 - org fadi & mgr notes, make list so easy to follow up on last tasks (same w other reports; org)
 
 
