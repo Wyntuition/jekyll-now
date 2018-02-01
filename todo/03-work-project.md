@@ -11,6 +11,7 @@
 ## ASAP
 
 - sch docker ws
+- ? need db auditing in mod?
 - [Jenn
 - story
     -? degredation in perf
