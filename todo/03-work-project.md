@@ -20,6 +20,7 @@
          pcs_response, doc_union_vw
     
     - large commits?
+    - false passing in work table?
     ?- Increase checkpoint_segments
         -https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Appendix.PostgreSQL.CommonDBATasks.html
         - shared buffer allocations (shared_buffers)
