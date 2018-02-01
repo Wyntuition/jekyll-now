@@ -20,6 +20,8 @@
          pcs_response, doc_union_vw
     
     - large commits?
+    - remote for docker ws? 
+    
     - false passing in work table?
     - each script single transaction?
     ?- Increase checkpoint_segments
