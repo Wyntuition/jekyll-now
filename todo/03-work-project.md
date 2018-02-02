@@ -24,6 +24,7 @@
     - large commits?
     - remote for docker ws? 
 
+    - not wiping schemas, pick up on last script, trunchating
     -fadi seth
     - false passing in work table?
     - each script single transaction?
