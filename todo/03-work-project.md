@@ -10,6 +10,20 @@
     
 ## ASAP
 
+- interview feedback
+Not quite keeping up with the pace of the industry when it comes to learning new tech by trying it out. He didn't seem as excited to immerse himself in the software field which many have to do to keep up. 
+
+The code he wrote showed good analytical thinking, including catching some nuances. In talking through the code he was able to explain parts that we questioned well. 
+
+He didn't have enough time in addition to the tech interviewing to get enough into this to gauge. He didn't mention any outcomes of projects or customer results. 
+
+He was open to different tech, however he didn't really get a good read on this.
+
+For the number of years of experience, he didn't have very deep knowledge on most of the topics we tested him on. For example, he hadn't used an ORM, hadn't used CI tools or done automated testing, didn't know n-tier architecture, hashsets, generally didn't understand the why's of things and seemed like he just did things without full understanding. 
+
+
+
+
 - sch docker ws
 - ? need db auditing in mod?
 - [Jenn
