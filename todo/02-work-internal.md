@@ -173,6 +173,8 @@ Appraisal, 1.2018
     * Gabriel Diaz
     * Dan Stalcup
 
+- lead NRECA strategicly to improve deeply and long term
+- grew and guided people
 
 +S, 1/23/18
 - No CMS
