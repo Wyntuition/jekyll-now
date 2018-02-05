@@ -148,6 +148,7 @@ Appraisal, 1/2018
     Joan Nelson
     Starr Chen
     Brent Fuller - in person, leads by example, takes up a variety of tasks includnig scrum master, DevOps, process improvement analyst, etc. He reliably delivered things on time, and communicated what was necessary. Wants to lead people?
+        - he knows the right thing to most effectively add value. He dives into the business domain, and bridges the tech/business gaps and prevents problems and reduces risk.
 
 - Promotion
     - Want to lead people? How to be manager without that?
