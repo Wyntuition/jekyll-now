@@ -177,6 +177,8 @@ Appraisal, 1.2018
 - grew and guided people
 -? exemplery on tech skills? Ask Seth.
 -?FADI - no self-rating on TV&TML?
+- Very competant; thinks of lot of ideas, handles a lot, very efficient, thinks like a leader
+    - needs to work on things, but has done tons of broad things, proposals/BD, connections, Riccardo brought on, 
 
 +S, 1/23/18
 - No CMS
