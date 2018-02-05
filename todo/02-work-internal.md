@@ -154,6 +154,7 @@ Appraisal, 1/2018
     - Want to lead people? How to be manager without that?
         - Discomfort consulting the client.
     - long hours
+    - need more resume in leadership role
 
 
 #### Sean
