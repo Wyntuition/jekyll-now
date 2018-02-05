@@ -152,6 +152,8 @@ Appraisal, 1/2018
 
 - Promotion
     - Want to lead people? How to be manager without that?
+        - Discomfort consulting the client.
+    - long hours
 
 
 #### Sean
@@ -166,6 +168,7 @@ Appraisal, 1.2018
     * Pat Leong
     * Seth Puckett
     * Joan Nelson
+        -  his actions can at times be boundless, crossing into other's responsibility area. This mindset also leads to a lack of delegation for enabling team member growth.
     * Brendan Sawyer
     * Gabriel Diaz
     * Dan Stalcup
