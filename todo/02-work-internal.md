@@ -176,6 +176,7 @@ Appraisal, 1.2018
 - lead NRECA strategicly to improve deeply and long term
 - grew and guided people
 -? exemplery on tech skills? Ask Seth.
+-?FADI - no self-rating on TV&TML?
 
 +S, 1/23/18
 - No CMS
