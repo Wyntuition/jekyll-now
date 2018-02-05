@@ -147,8 +147,10 @@ Appraisal, 1/2018
     Sam Blissard
     Joan Nelson
     Starr Chen
-    Brent Fuller
+    Brent Fuller - in person, leads by example, takes up a variety of tasks includnig scrum master, DevOps, process improvement analyst, etc. He reliably delivered things on time, and communicated what was necessary. Wants to lead people?
 
+- Promotion
+    - Want to lead people? How to be manager without that?
 
 
 #### Sean
