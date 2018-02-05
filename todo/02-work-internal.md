@@ -155,7 +155,7 @@ Appraisal, 1/2018
         - Discomfort consulting the client.
     - long hours
     - need more resume in leadership role. Sean took strong leadership traits to try and change how things how need to be - implementation not ideal but Sean was most involved in breaking down barriers to working differently, showed people a different way. Seth prob saw same issues, but got frustrated, quiet, stew about it, complain, didn't see himself as part of solution. Pat more on board with drastic changes for implementation/back to basics strategy but wasn't visionary -- this is where we need to go, set a course. 
-    - unstanding that you need relationships with clients and people - expectation
+    - unstanding that you need relationships with clients and people - expectation. Org awareness & ability to communicate
 
 
 #### Sean
