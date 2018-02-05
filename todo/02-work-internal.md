@@ -178,7 +178,8 @@ Appraisal, 1.2018
 -? exemplery on tech skills? Ask Seth.
 -?FADI - no self-rating on TV&TML?
 - Very competant; thinks of lot of ideas, handles a lot, very efficient, thinks like a leader
-    - needs to work on things, but has done tons of broad things, proposals/BD, connections, Riccardo brought on, 
+    - needs to work on things, but has done tons of broad things, proposals/BD, connections, Riccardo brought on
+    - for managing, you take on feeling of ownership of Excella's success -> pretty much doing that.
 
 +S, 1/23/18
 - No CMS
