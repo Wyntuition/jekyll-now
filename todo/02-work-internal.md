@@ -147,7 +147,16 @@ Appraisal, 1/2018
     Sam Blissard
     Joan Nelson
     Starr Chen
-    Brent Fuller
+    Brent Fuller - in person, leads by example, takes up a variety of tasks includnig scrum master, DevOps, process improvement analyst, etc. He reliably delivered things on time, and communicated what was necessary. Wants to lead people?
+        - he knows the right thing to most effectively add value. He dives into the business domain, and bridges the tech/business gaps and prevents problems and reduces risk.
+
+- Promotion
+    - Want to lead people? How to be manager without that?
+        - Discomfort consulting the client.
+    - long hours
+    - need more resume in leadership role. Sean took strong leadership traits to try and change how things how need to be - implementation not ideal but Sean was most involved in breaking down barriers to working differently, showed people a different way. Seth prob saw same issues, but got frustrated, quiet, stew about it, complain, didn't see himself as part of solution. Pat more on board with drastic changes for implementation/back to basics strategy but wasn't visionary -- this is where we need to go, set a course. 
+    - unstanding that you need relationships with clients and people - expectation. Org awareness & ability to communicate
+
 
 #### Sean
 
@@ -161,10 +170,18 @@ Appraisal, 1.2018
     * Pat Leong
     * Seth Puckett
     * Joan Nelson
+        -  his actions can at times be boundless, crossing into other's responsibility area. This mindset also leads to a lack of delegation for enabling team member growth.
     * Brendan Sawyer
     * Gabriel Diaz
     * Dan Stalcup
 
+- lead NRECA strategicly to improve deeply and long term
+- grew and guided people
+-? exemplery on tech skills? Ask Seth.
+-?FADI - no self-rating on TV&TML?
+- Very competant; thinks of lot of ideas, handles a lot, very efficient, thinks like a leader
+    - needs to work on things, but has done tons of broad things, proposals/BD, connections, Riccardo brought on
+    - for managing, you take on feeling of ownership of Excella's success -> pretty much doing that.
 
 +S, 1/23/18
 - No CMS
