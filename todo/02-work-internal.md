@@ -169,13 +169,16 @@ Appraisal, 1/2018
         - Reaching out to Suzanne, Reena, other devs, pairing?
         - You'll naturally be a role model to devs, must lead
          -*Regular mentoring?
+         -* ask questions any type, create safe culture
     - *Overwhelmed?
     - How is the ramp-up with the new stack?
         - *TIME IT TAKES
-    - Pairing enough, story production, use xpert time? Getting resources you need?
+    - *Pairing enough, story production, use xpert time? Getting resources you need?
     - How can Suzanne help?
      -*COMMUNICATION: practice, not proactive in updating statues, 
         - *MORE PROAVTIVE
+        - *Err on OVERCOMM
+    -* DEV PLAN
 
 #### Sean
 
