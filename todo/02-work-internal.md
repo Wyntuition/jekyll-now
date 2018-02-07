@@ -188,6 +188,7 @@ Appraisal, 1/2018
 - Could use a detailed architectural review, now with some context
 - Hard to understand right ways when there is a evolution of Rails approahces
 - Does think managing people is a natural progression for him
+- Overwhelmed by learning new business domain, and stack, and logistics
 
 #### Sean
 
