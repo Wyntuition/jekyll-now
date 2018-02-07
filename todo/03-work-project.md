@@ -23,6 +23,13 @@ For the number of years of experience, he didn't have very deep knowledge on mos
 
 
 
+- STORY
+
+    ERROR:  cannot drop constraint employment_decision_pkey on table preview_mod.employment_decision because other objects depend on it
+DETAIL:  constraint coa_code_employment_decision_id_fkey on table preview_mod.coa_code depends on index preview_mod.employment_decision_pkey
+
+
+
 
 - sch docker ws
 - ? need db auditing in mod?
