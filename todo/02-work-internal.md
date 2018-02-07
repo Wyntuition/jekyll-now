@@ -182,6 +182,13 @@ Appraisal, 1/2018
     -* DEV PLAN
     - ** Suzanne in appraisal?
 
+2/7/18 Meeting with Seth
+
+- Feels tech leads are in too many meeting to pair, etc.
+- Could use a detailed architectural review, now with some context
+- Hard to understand right ways when there is a evolution of Rails approahces
+- Does think managing people is a natural progression for him
+
 #### Sean
 
 - trello
