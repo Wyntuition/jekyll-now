@@ -30,6 +30,13 @@ DETAIL:  constraint coa_code_employment_decision_id_fkey on table preview_mod.co
 
 
 
+-**
+--[2018-02-07 20:38:24] STARTING SCRIPT V4400__cr8_dhs_resolution_map_second_step.shpsql:<stdin>:11: ERROR:  null value in column "mod_dhs_resolution_code_id" violates not-null constraint
+DETAIL:  Failing row contains (1, A, null, null).
+xxx_results: 1
+Script not run?
+
+
 
 - sch docker ws
 - ? need db auditing in mod?
