@@ -28,7 +28,7 @@ For the number of years of experience, he didn't have very deep knowledge on mos
 - resource use in jenkins, locks?
 - STORY
 
-    -simply try re-running any with failure
+    -simply try re-running any with failure; SEE JON'S COMMENTS
     -* refactor etl_prep.sql (no update, right place?)
 
 
