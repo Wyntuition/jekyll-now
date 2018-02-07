@@ -170,6 +170,7 @@ Appraisal, 1/2018
         - You'll naturally be a role model to devs, must lead
          -*Regular mentoring?
          -* ask questions any type, create safe culture
+         -*** what other path is not wanting to lead people?
     - *Overwhelmed?
     - How is the ramp-up with the new stack?
         - *TIME IT TAKES
