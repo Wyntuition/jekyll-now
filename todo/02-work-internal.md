@@ -158,6 +158,24 @@ Appraisal, 1/2018
     - unstanding that you need relationships with clients and people - expectation. Org awareness & ability to communicate
 
 
+
+2/6/18 Meeting with Reena & Suzanne
+
+?'s 
+    - What opportunities do you have there as a leader to the project?
+        - *Story break-down, architecture, best practices, standards
+            - Own/be accountable for an area
+            - Lang. barrier should not prevent you from these things
+        - Reaching out to Suzanne, Reena, other devs, pairing?
+        - You'll naturally be a role model to devs, must lead
+         -*Regular mentoring?
+    - *Overwhelmed?
+    - How is the ramp-up with the new stack?
+    - Pairing enough, story production, use xpert time? Getting resources you need?
+    - How can Suzanne help?
+     -*COMMUNICATION: practice, not proactive in updating statues, 
+        - *MORE PROAVTIVE
+
 #### Sean
 
 - trello
