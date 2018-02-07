@@ -28,7 +28,7 @@ For the number of years of experience, he didn't have very deep knowledge on mos
 
 - STORY
 
-    -* refactor etl_prep.sql
+    -* refactor etl_prep.sql (no update, right place?)
 
 
     ERROR:  cannot drop constraint employment_decision_pkey on table preview_mod.employment_decision because other objects depend on it
