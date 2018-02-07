@@ -179,6 +179,7 @@ Appraisal, 1/2018
         - *MORE PROAVTIVE
         - *Err on OVERCOMM
     -* DEV PLAN
+    - ** Suzanne in appraisal?
 
 #### Sean
 
