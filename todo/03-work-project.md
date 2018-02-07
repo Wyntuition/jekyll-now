@@ -25,7 +25,7 @@ For the number of years of experience, he didn't have very deep knowledge on mos
 
 
 
-
+- resource use in jenkins, locks?
 - STORY
 
     -* refactor etl_prep.sql (no update, right place?)
