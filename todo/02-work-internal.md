@@ -171,6 +171,7 @@ Appraisal, 1/2018
          -*Regular mentoring?
     - *Overwhelmed?
     - How is the ramp-up with the new stack?
+        - *TIME IT TAKES
     - Pairing enough, story production, use xpert time? Getting resources you need?
     - How can Suzanne help?
      -*COMMUNICATION: practice, not proactive in updating statues, 
