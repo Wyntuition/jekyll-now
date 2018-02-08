@@ -10,18 +10,38 @@
     
 ## ASAP
 
-- interview feedback
+Initiative
 Not quite keeping up with the pace of the industry when it comes to learning new tech by trying it out. He didn't seem as excited to immerse himself in the software field which many have to do to keep up. 
 
+Analytical Thinking
 The code he wrote showed good analytical thinking, including catching some nuances. In talking through the code he was able to explain parts that we questioned well. 
 
+Results oriented
 He didn't have enough time in addition to the tech interviewing to get enough into this to gauge. He didn't mention any outcomes of projects or customer results. 
 
+Flexible
 He was open to different tech, however he didn't really get a good read on this.
 
-For the number of years of experience, he didn't have very deep knowledge on most of the topics we tested him on. For example, he hadn't used an ORM, hadn't used CI tools or done automated testing, didn't know n-tier architecture, hashsets, generally didn't understand the why's of things and seemed like he just did things without full understanding. 
+Tech skill
+For the number of years of experience, he didn't have very deep knowledge on most of the topics we tested him on. For example, he hadn't used an ORM, hadn't used CI tools or done automated testing, didn't know n-tier architecture, hashsets, generally didn't understand the why's of things and seemed like he just did things without full understanding.
 
+Consulting Skills/Experience
+He has been a consultant and he had decent problem-solving skills
 
+Communication skills
+He seemed to have solid communication skills, even if he wasn't communicating the right things to use per our questions.
+
+Leadership Skills
+He didn't discuss much here; he did have some team lead experience 
+
+Ability to be part of a team
+No problems here
+
+Impact to business
+He didn't describe his past work and experience in terms of impact.
+
+Concerns
+His level of knowledge based on his number of years of experience. He couldn't be considered a sr. dev with his knowledge but that is what he was expecting. 
 
 
 
