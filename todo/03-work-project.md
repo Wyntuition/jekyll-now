@@ -44,7 +44,6 @@ Concerns
 His level of knowledge based on his number of years of experience. He couldn't be considered a sr. dev with his knowledge but that is what he was expecting. 
 
 
-- DMS repl back on preview
 - resource use in jenkins, locks?
 - STORY
 
