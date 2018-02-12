@@ -321,7 +321,9 @@ Expertise
 
 Seth grew as a technical expert and leader in 2017, on the client in many ways, and in xPert initatives with steady, quality output.
 
-At NRECA, he contributed technical leadership in a variety of ways. He owned the Billing techincal solution, yielding a very critical, financially-sensitive functionality successfully. Seth served as the Technical Lead and Scrum Master of one of the development teams, where he was looking after the technical accomplishments and their overall technical vision. He also managed a lot of the DevOps. Being able to coach junior developers and explain techincal things in terms non-technical people can understand made Seth a great asset.
+At NRECA, he contributed technical leadership in a variety of ways. He owned the Billing techincal solution and functionality, yielding a very critical, financially-sensitive product successfully. Seth served as the Technical Lead and Scrum Master for one of the development teams, where he looked after the technical output and their overall technical vision. He also managed a lot of the DevOps. Seth also enabled junior developers to be more productive with more quality work by coaching them.
+
+His experise also reached into the business domain, where he became a go-to person because he could explaion techincal things in terms non-technical people could understand.
 
 "Seth often picked up system issues and resolved them in a timely manner (e.g., TEST not working...build pipeline broken...upgrade to a new version of Visual Studio). He exhibited expertise both within the app and external to it."
 
