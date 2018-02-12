@@ -295,15 +295,7 @@ The primary BA indicated that without Seth's in depth knowledge of the code and 
 
 After a tough road at NRECA, Seth was willing to switch stacks to join the myUSCIS team and fill a need there.
 
-
-
-"- 
-    - 
-    - 
-    - 
-- single-handedly getting the Tech Update newsletter up and running and then bring a team of editors up to speed to help and, eventually take over, that responsibility
-
--  
+Among all of this, Seth lead getting the Tech Update newsletter up and running and then brought a team of editors up to speed to help and, eventually take over.
 
 
 
