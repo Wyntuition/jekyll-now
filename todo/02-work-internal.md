@@ -152,19 +152,11 @@ Flexibility, initative, results
 
 Glenn has consistently shown great initiative yielding valuable and broad results, from side projects, coaching, and training materials related to Ruby, CI/CD and coding best practices. There have been a number of positive results across the E-Verify team as a result, from standardized testing practices and teaching best practices, to removing chronic bottlenecks in DevOps.
 
-Glenn has shown promosing growth as a leader. He has shown excellent advancement in technicanl competencies, best practices, and technical leadership skills such as garnering buy-in for technical decisions to coaching across his team. He has consistently coached bootcamp students on Ruby best practices via presentations, workshops and pairing.
+Glenn has shown promosing growth as a leader and excellent advancement in technicanl competencies, best practices, and technical leadership skills such as garnering buy-in for technical decisions, and coaching across his team. He has consistently coached bootcamp students on Ruby best practices via presentations, workshops and pairing, and generally going above and beyond with things like a React side project to learn and teach best practices.
 
-React side project to learn, got buy-in for best practices. 
-test strategy; balance of unit tests, other tests and manual
-Initiative to fix problem with a DevOps bottlneck
+He is showing technical maturity with his ramping up in test strategy, learning the delicate balance of unit tests, to other tests and manual tests. Glenn should keep trying to apply best practices more and more, and learn some of the implementation patterns that will keep coming up as he applies them in new places.
 
-" I was extremely impressed with how quickly he picked up not only the technical aspects of the project, but also the business process and bigger picture"
-
-
-Keep trying to apply best practices more and more; implementation patterns keep coming up
-
-
-
+"I was extremely impressed with how quickly he picked up not only the technical aspects of the project, but also the business process and bigger picture."
 
 Accountability
 Initative to help accountibility with 20% professional development time.
