@@ -297,42 +297,37 @@ After a tough road at NRECA, Seth was willing to switch stacks to join the myUSC
 
 Among all of this, Seth lead getting the Tech Update newsletter up and running and then brought a team of editors up to speed to help and, eventually take over.
 
-
-
 Accountability
 
-Seth put in long hours, reliably got tough techincal issues solved, owned responsibility for his team delivering, sometimes meaning long hours and/or tough conversations with stakeholders. Seth filled a plethora of roles necessary to get the complex NRECA project to completion, and always got his work done in a timely manner.
+Seth put in long hours, reliably got tough techincal issues solved, owned responsibility for his team delivering,sometimes meaning long hours and/or tough conversations with stakeholders. Seth filled a plethora of roles necessary to get the complex NRECA project to completion, and always got his work done in a timely manner.
 
 "I witnessed Seth push himself beyond the breaking point in the service of NRECA's go live, putting in crucial hours & skill to make sure that the operation would be a success."
-
 
 Expertise
 
 Seth grew as a technical expert and leader in 2017, on the client in many ways, and in xPert initatives with steady, quality output.
 
-His experise also reached into the business domain, where he became a go-to person because he could explaion techincal things in terms non-technical people could understand.
+His experise also reached into the business domain, where he became a go-to person because he could related the business processess to the technical, and explain techincal things in terms non-technical people could understand.
 
 "Seth often picked up system issues and resolved them in a timely manner (e.g., TEST not working...build pipeline broken...upgrade to a new version of Visual Studio). He exhibited expertise both within the app and external to it."
 
-Consider building on your current EF Core focus, by either going deeper with related projects, or wider with related components of things used with it like ASP.NET Core, various data stores it can work with or Azure (just examples). Also look into practicing and growing leadership skills learned from The Manager's Path and other resources (such as Radical Candor). This will complement technical leadership nicely. Practice approaching the client with technical questions or things to share with them, in order to increase your expertise and value to them.
-
+Consider building on your current EF Core focus, by either going deeper with related projects, or wider with related components of things used with it like ASP.NET Core, various data stores it can work with or Azure (just examples). Also look into practicing and growing leadership skills learned from The Manager's Path and other resources (such as Radical Candor) by finding opportunities to put some of the techniques into practice. This will complement technical leadership nicely. Practice approaching the client with technical questions or things to share with them, in order to increase your expertise and value to them.
 
 Communication
 
- Seth had various conversations with the client about deployments, hotfixes, etc. and he made sure to communicate clearly and often.
+Seth had various conversations with the client about deployments, hotfixes, etc. and he made sure to communicate clearly and often.
 
-He is also good at presenting technical knowledge. 
+He is also good at presenting technical knowledge, and more junior developers find him approachable. He is willing to respond to help whenever needed.
 
+He should work on proactive communication, such as checking in with people without a specific reason, such as just to see how mentees are doing, how the client is doing, and regular check-ins with the folks around you. This is especially true for the people who he has some influence on, to maintain connection so when collaboration is needed it is easier.
 
-Planning and Execution 
+Planning and Execution
 
-Seth was able to produce xPert products while working an intense schedule to get the NRECA RS project live. The results were successes in both areas.
-
+Seth was able to produce xPert products while working an intense schedule to get the NRECA RS project live. The results were successes in both areas. It is a testament to Seth's organization skills that he was able to have such a contribution to the release of the RS project, and having external impect with xPert initiatives and the tech newsletter.
 
 Teamwork
 
-Mentor, coach, architect, analyst
-
+Seth is respected and valued as a mentor, coach, architect and technical liasion at NRECA. He was able to be effective within any team, and was often effective across teams and for the client. He set an example in many ways, from conducting good practices, working long hours, to diving into tough technical and business problems.
 
 Relationship Management
 
@@ -344,11 +339,11 @@ Seth should continue his work in the community, building himself as a subject ma
 
 Team Vision, Alignment, and Execution
 
-he knows the right thing to most effectively add value. He dives into the business domain as he knows he will have to address technical implications that arise from business needs, and bridges the tech/business gaps. By doing these things he provides a critcal service in preventing problems, reducing risk in chaning the software, and ensuring the teams are working on the right thing.
+Seth has proven he knows the right thing in the right situation to most effectively add value to the team. He dives into the business domain as he knows he will have to address technical implications that arise from business needs, and he bridges the technical/business gaps. By doing these things he provides a critcal service in preventing problems, reducing risk in changing the software, and ensuring the teams are working on the right things.
 
-At NRECA, he contributed technical leadership in a variety of ways. He owned the Billing techincal solution and functionality, yielding a very critical, financially-sensitive product successfully. Seth served as the Technical Lead and Scrum Master for one of the development teams, where he looked after the technical output and their overall technical vision.
+He contributed technical leadership in a variety of ways at NRECA. He owned the Billing techincal solution and functionality, yielding a very critical, financially-sensitive product successfully, with few bugs. Considering the complexity, it was quite a feat. Seth served as the Technical Lead and Scrum Master for another development team, where he looked after the technical output and their overall technical vision, keeping them delivering the right things in a quality way.
 
-Seth became the go-to person for tough problems critical to solve in a timely manner, to when developers didn't understand something technically, to when the implications of a functionality change would affect another part of the system. He was central in getting all the pieces together for a successful execution of getting RS live.
+Seth became the go-to person for tough problems critical to solve in a timely manner, to when developers didn't understand something technically, to when the implications of a functionality change would affect another part of the system. He was central in getting all the pieces together for a successful execution of getting RS live. He truely was glue that kept everything together.
 
 Team Member Growth
 
