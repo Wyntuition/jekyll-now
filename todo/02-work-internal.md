@@ -431,22 +431,22 @@ Went over this:
 
 - Eye for process - pivotal in restructuring the NRECA team. Try to see success beyond strict prescriptions of Scrum. 
 - Champion of TDD, CI/CD, and clean code. Ultimately increased the quality of the RS product and helped lead to a successful release.
+
 - communication
     - Always straightforward and willing and open to having tough conversations. 
     
     - Consider broader picture when approaching things that affect the whole project. The project has been heavily improved by Sean's work. The path there should be able to be smoothed out more and more as Sean gains experience and applies feedback from his initiatives. 
     - Consider ways to improve communication between non-developers in process of protecting developers.
         - Focus on reviewing his own work, asking the team how they feel about changes, and mold processes that fit the teaem instead of an ideal situation.
-        - While interim results may have been less effective, he paved the way for the team to enter 2018 without fixed scope releases which has made for a very happy team."
-        - Enhanced the project significantly in the long run
+    - While interim results may have been less effective, he paved the way for the team to enter 2018 without fixed scope releases which has made for a very happy team." Enhanced the project significantly in the long run
+
 
 - xPert activities strong, impressively as approaching production on NRECA.
 
-- Sean's overall was impressive, important and undenible. Sean has a lot of impact to give yet, as he grows his natural leadership and strategic abilities.
+- Sean's year overall was impressive, important and undenible. Sean has a lot of impact to give yet, as he grows his natural leadership and strategic abilities. His initiative, vision and attention to detail were big factors in the long-sought launch of RS.
 
-- His initiative and attention to detail were big factors in the success of the launch. I
 
-Expertise 
+Expertise
 
 - Sean draws from a wealth of technical knowledge and is constantly learning. He built a technical roadmap with suggested system improvements which the client used as input to a strategic planning session at NRECA.
 - He is a skilled developer and took on many of the large scale architectural tasks for RSP.
