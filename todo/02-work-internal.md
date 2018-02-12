@@ -454,21 +454,26 @@ Team Leadership
 
 Sean educated teammates and NRECA on Agile processes, he modeled expected behaviors for a functioning team, and he instilled discipline in team thought and action. He inspired team to be the best they can.
 
+"He also has pushed me very hard to improve rapidly. And it has genuinely made a huge difference."
+
+"He is always there when I need a question answered. He always pings me to say hi, assures me my questions are important, always listens with a smile as long as I need to vent, always points me in the right direction." 
+
+"He’s also been a fierce advocate for my career as a developer. He’s pointed me to specific skills and projects and experiences he thinks I should learn or use or work on."
+
 He should work on when to defer and when leading is most effective for everyone and the projecty
 
 He does have to try to see success beyond strict prescriptions of Scrum. Every team is different no matter what Scrum approaches have worked in the past, and there are a plethora of things that might be best for a team.
 
-- Reach out proactively to other leaders, such as client and Excella leads, to foster more buy-in before pushing unilaterally. 
-- Taking every action on himself for follow-up sometimes crosses into others' responsibility areas, may prevent opportunities for others and sets an example of overwork.
-    - Takes on too much work
+He should reach out proactively to other leaders, such as client and Excella leads, to foster more buy-in before pushing unilaterally. Taking every action on himself for follow-up sometimes crosses into others' responsibility areas, may prevent opportunities for others and sets an example of overwork.
 
-- I would advise Sean to make sure that he is aware of when to step out and let others take control. Sean has the ability to manage many different concepts but that could hurt him focus or take on larger initiatives if he continuously takes sole responsibility of smaller tasks.
+I would advise Sean to make sure that he is aware of when to step out and let others take control. Sean has the ability to manage many different concepts but that could hurt him focus or take on larger initiatives if he continuously takes sole responsibility of smaller tasks.
 
-- He also has pushed me very hard to improve rapidly. And it has genuinely made a huge difference."
 
-- He is always there when I need a question answered. He always pings me to say hi, assures me my questions are important, always listens with a smile as long as I need to vent, always points me in the right direction."
-- He’s also been a fierce advocate for my career as a developer. He’s pointed me to specific skills and projects and experiences he thinks I should learn or use or work on. 
-- He encouraged me to figure out how to become a speaker at meetups and conferences. "
+Takes on too much work
+
+
+
+
 
 
 
