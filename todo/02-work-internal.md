@@ -277,6 +277,46 @@ Appraisal, 1/2018
 - Does think managing people is a natural progression for him
 - Overwhelmed by learning new business domain, and stack, and logistics 
 
+##### Appraisal notes, 3rd party, what to go on form
+
+- Senior developer, Scrum Master, tech leadership, xpert contributions
+- "S" Worked with developers and stakeholders to analyze stories and provide feedback on scope and priorities.
+- Owned Billing requirements and techincal implementation, yielding a very critical, financially sensitive functionality successfully free of significant bugs.
+- Flexibility was stellar in dealing with a client hard to influence, resulting in long hours for extended periods, but being central in yielding a successful product in a crunched timeframe.
+- Willing to switch stacks to join the myUSCIS team. 
+
+
+"- Seth is intelligent, hard-working, professional, and a good teammate.  
+    - Seth often picked up system issues and resolved them in a timely manner (e.g., TEST not working...build pipeline broken...upgrade to a new version of Visual Studio). He exhibited expertise both within the app and external to it.
+    - Even as scrum master, Seth delivered story points. He led his team by being a good teammate.
+    - He had mastery of several domains and development best practices, and worked to instill these in other developers on the team. In a Scrummaster role, he was responsible for improving an entire team's delivery and he put in a lot of effort to do that."
+    -  single-handedly getting the Tech Update newsletter up and running and then bring a team of editors up to speed to help and, eventually take over, that responsibility
+
+- I witnessed Seth push himself beyond the breaking point in the service of NRECA's go live, putting in crucial hours & skill to make sure that the operation would be a success. "
+
+
+- AT NRECA, he was in a technical leadership role and handled it well.  
+- He managed a lot of the DevOps at NRECA and 
+- always got his work done in a timely manner.  
+- It included having conversations with the client about deployments, hotfixes, etc. and he made sure to communicate clearly and often.  
+- One of the things that stood out about Seth to me was that he led by example.  For example, even though he had a lot of higher-level technical responsibilities and tasks, he did not forego all his sprint work and still contributed as a subject matter expert on more detailed development tasks."
+
+- Seth served as the Technical Lead and Scrum Master of Development Team B, where he was looking after the technical accomplishments and their overall technical vision"
+- espite this knowledge, Seth stayed late into the evening for multiple days until the issues were resolved, knowing that he had to be flexible to resolve issues.
+
+-  his talk Entity Framework Core, where he showcased Microsoft's new Open-Source ORM.
+
+- "Over a 3 day period, Seth logged 35.5 hours to run comparisons, fix defects, and answer questions. The primary BA indicated that without Seth's in depth knowledge of the code and his analytical thinking, the resolution period would have been much longer. Thanks to Seth NRECA declared code freeze on schedule.
+
+-* Seth appears to experience some discomfort with RM and consulting the client. He never really jelled with the primary client, mostly because primary client didn't protect the tech leads from churn. However, his choice to not communicate frustrations with the client and find common ground limited his influence. which leads me to...
+
+- A recommended area of growth is in communication. Rightly or wrongly as a leader Seth has sway over junior developers. He really is good natured and fun to be around, so this may seem strange. He is also good at presenting technical knowledge. Therefore, this is more about client relationships and being careful about the occasional snide comment in slack. (reference: "maybe the partners can tell the server how proud they are of it and sucker it into working weekends"). In one comment he undermined the AO decision to work during go-live and showed a dislike of the partner emails which were requested by the AO. Either way, my comment is about having organizational awareness and taking it upon himself to talk things through when he doesn't agree with a decision."
+
+
+
+
+
+
 #### Sean
 
 - trello
@@ -337,9 +377,9 @@ Went over this:
 - Discuss other projects (xpert, etc)
 
 
-
-
 ##### Appraisal
+
+
 
 - proactive
 
@@ -351,10 +391,43 @@ Went over this:
     - Consider broader picture when approaching things that affect the whole project. The project has been heavily improved by Sean's work. The path there should be able to be smoothed out more and more as Sean gains experience and applies feedback from his initiatives. 
     - Consider ways to improve communication between non-developers in process of protecting developers.
         - Focus on reviewing his own work, asking the team how they feel about changes, and mold processes that fit the teaem instead of an ideal situation.
+        - While interim results may have been less effective, he paved the way for the team to enter 2018 without fixed scope releases which has made for a very happy team."
+        - Enhanced the project significantly in the long run
 
 - xPert activities strong, impressively as approaching production on NRECA.
 
 - Sean's overall was impressive, important and undenible. Sean has a lot of impact to give yet, as he grows his natural leadership and strategic abilities.
+
+- His initiative and attention to detail were big factors in the success of the launch. I
+
+Expertise 
+
+- Sean draws from a wealth of technical knowledge and is constantly learning. He built a technical roadmap with suggested system improvements which the client used as input to a strategic planning session at NRECA.
+- He is a skilled developer and took on many of the large scale architectural tasks for RSP.
+
+Communication
+
+ - Sean's communication is excellent. His emails on production issues and the resolution left no questions unanswered. He documents well and makes a habit of writing down when something should be shared knowledge.
+- Addresses everything in communications
+- Very reliably keeps people updated
+- Sean doesn't overlook anyone
+- Extremely passionate
+
+Team Leadership
+he educated teammates and NRECA on Agile processes; he modeled expected behaviors for a functioning team; and he instilled discipline in team thought and action
+- Should work on when to defer and when leading is most effective for everyone and the projecty
+- Inspires team to be the best they can 
+
+- Reach out proactively to other leaders, such as client and Excella leads, to foster more buy-in before pushing unilaterally. 
+- Taking every action on himself for follow-up sometimes crosses into others' responsibility areas, may prevent opportunities for others and sets an example of overwork.
+    - Takes on too much work
+
+- I would advise Sean to make sure that he is aware of when to step out and let others take control. Sean has the ability to manage many different concepts but that could hurt him focus or take on larger initiatives if he continuously takes sole responsibility of smaller tasks.
+
+- He also has pushed me very hard to improve rapidly. And it has genuinely made a huge difference."
+- He is always there when I need a question answered. He always pings me to say hi, assures me my questions are important, always listens with a smile as long as I need to vent, always points me in the right direction."
+- He’s also been a fierce advocate for my career as a developer. He’s pointed me to specific skills and projects and experiences he thinks I should learn or use or work on. 
+- He encouraged me to figure out how to become a speaker at meetups and conferences. "
 
 ## xpert meeting notes
 
