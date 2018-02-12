@@ -43,7 +43,7 @@ He didn't describe his past work and experience in terms of impact.
 Concerns
 His level of knowledge based on his number of years of experience. He couldn't be considered a sr. dev with his knowledge but that is what he was expecting. 
 
-
+- case status test, #'s ,etc
 - resource use in jenkins, locks?
 - STORY
 
