@@ -335,6 +335,8 @@ Consider building on your current EF Core focus, by either going deeper with rel
 Communication
 
 
+He is also good at presenting technical knowledge. 
+
 Planning and Execution 
 
 Seth was able to produce xPert products while working an intense schedule to get the NRECA RS project live. The results were successes in both areas.
@@ -347,11 +349,15 @@ Mentor, coach, architect, analyst
 
 Relationship Management
 
--* Seth appears to experience some discomfort with RM and consulting the client. He never really jelled with the primary client, mostly because primary client didn't protect the tech leads from churn. However, his choice to not communicate frustrations with the client and find common ground limited his influence. which leads me to...
+Seth took many opportunities to connect and build relationships with his teammates and stakeholds on NRECA in 2017, and is growing in this area. Seth had great relationships with his fellow developers. The junior developers looked up to him and learned a lot from his positive examples, appreciating that he is really is good natured and fun to be around. 
 
-- A recommended area of growth is in communication. Rightly or wrongly as a leader Seth has sway over junior developers. He really is good natured and fun to be around, so this may seem strange. He is also good at presenting technical knowledge. Therefore, this is more about client relationships and being careful about the occasional snide comment in slack. (reference: "maybe the partners can tell the server how proud they are of it and sucker it into working weekends"). In one comment he undermined the AO decision to work during go-live and showed a dislike of the partner emails which were requested by the AO. Either way, my comment is about having organizational awareness and taking it upon himself to talk things through when he doesn't agree with a decision."
+Seth appears to experience some discomfort with RM and consulting the client. He should try to build a stronger relationship with a client, for example more frequently communicating frustrations with the client and finding common ground. 
 
 
+
+Therefore, this is more about client relationships. Try to be more sensitive to organizational awareness and taking it upon himself to talk things through when he doesn't agree with a decision, instead of making one-off disapproving remarks.
+
+Seth should continue his work in the community, building himself as a subject matter expert in Entity Framework Core and the ecosystem around it.
 
 
 
