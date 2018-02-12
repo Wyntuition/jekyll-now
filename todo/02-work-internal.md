@@ -350,8 +350,11 @@ Went over this:
     
     - Consider broader picture when approaching things that affect the whole project. The project has been heavily improved by Sean's work. The path there should be able to be smoothed out more and more as Sean gains experience and applies feedback from his initiatives. 
     - Consider ways to improve communication between non-developers in process of protecting developers.
+        - Focus on reviewing his own work, asking the team how they feel about changes, and mold processes that fit the teaem instead of an ideal situation.
 
-- xPert activities strong, impressively as approaching production on NRECA. 
+- xPert activities strong, impressively as approaching production on NRECA.
+
+- Sean's overall was impressive, important and undenible. Sean has a lot of impact to give yet, as he grows his natural leadership and strategic abilities.
 
 ## xpert meeting notes
 
