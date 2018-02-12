@@ -359,7 +359,13 @@ Therefore, this is more about client relationships. Try to be more sensitive to 
 
 Seth should continue his work in the community, building himself as a subject matter expert in Entity Framework Core and the ecosystem around it.
 
+Team Vision, Alignment, and Execution
 
+he knows the right thing to most effectively add value. He dives into the business domain as he knows he will have to address technical implications that arise from business needs, and bridges the tech/business gaps. By doing these things he provides a critcal service in preventing problems, reducing risk in chaning the software, and ensuring the teams are working on the right thing.
+
+Team Member Growth
+
+He coached not only developers in a variety of ways, from pairing to brown bags, to answering the tough questions, but also analysts in the technical implications of a variety of business approaches. 
 
 
 
