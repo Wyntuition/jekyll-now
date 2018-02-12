@@ -452,10 +452,11 @@ He continues to build his in-depth knowledgebank, adding graph databases to Akka
 
 Team Vision, Alignment, and Execution
 
-He does have to try to see success beyond strict prescriptions of Scrum. Every team is different no matter what Scrum approaches have worked in the past, and there are a plethora of things that might be best for a team.
+Sean was pivotal in changing processes and culture at NRECA, enabling the teams to complete the project. He was able to relentlessly fight until fundamental changes could be tried that allowed for sustainable, quality work from the developers. This turned out to ultimately be a key strategy in getting the project to go-live.
 
-He should reach out proactively to other leaders, such as client and Excella leads, to foster more buy-in before pushing unilaterally.
+He does have to try to see success possibilities beyond using strict prescriptions of Scrum. Every team is different no matter what Scrum approaches have worked in the past, and there are a plethora of things that might be best for a team.
 
+He should reach out proactively to other leaders, such as client and Excella leads, to foster more buy-in before pushing unilaterally for widespread change. Any type of change is usually wrought with more political hurdles than first meet the eye.
 
 Team Memeber Growth
 
