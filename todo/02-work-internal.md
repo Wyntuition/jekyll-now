@@ -313,11 +313,6 @@ Seth kept focus on allowing the product to go live, and after an intense and str
 - "Over a 3 day period, Seth logged 35.5 hours to run comparisons, fix defects, and answer questions. The primary BA indicated that without Seth's in depth knowledge of the code and his analytical thinking, the resolution period would have been much longer. Thanks to Seth NRECA declared code freeze on schedule.
 
 
--* Seth appears to experience some discomfort with RM and consulting the client. He never really jelled with the primary client, mostly because primary client didn't protect the tech leads from churn. However, his choice to not communicate frustrations with the client and find common ground limited his influence. which leads me to...
-
-- A recommended area of growth is in communication. Rightly or wrongly as a leader Seth has sway over junior developers. He really is good natured and fun to be around, so this may seem strange. He is also good at presenting technical knowledge. Therefore, this is more about client relationships and being careful about the occasional snide comment in slack. (reference: "maybe the partners can tell the server how proud they are of it and sucker it into working weekends"). In one comment he undermined the AO decision to work during go-live and showed a dislike of the partner emails which were requested by the AO. Either way, my comment is about having organizational awareness and taking it upon himself to talk things through when he doesn't agree with a decision."
-
-
 
 Accountability 
 
@@ -335,6 +330,28 @@ Seth grew as a technical expert and leader in 2017, on the client in many ways, 
 At NRECA, he contributed technical leadership in a variety of ways. He owned the Billing techincal solution, yielding a very critical, financially-sensitive functionality successfully. Seth served as the Technical Lead and Scrum Master of one of the development teams, where he was looking after the technical accomplishments and their overall technical vision. He also managed a lot of the DevOps. Being able to coach junior developers and explain techincal things in terms non-technical people can understand made Seth a great asset.
 
 Consider building on your current EF Core focus, by either going deeper with related tech talked, or wider with related components of things used with it like ASP.NET Core, various data stores it can work with or Azure (just examples). Also look into practicing and growing leadership skills learned from The Manager's Path and other resources (such as Radical Candor). This will complement technical leadership nicely. Practice approaching the client with technical questions or things to share with them, in order to increase your expertise and value to them.
+
+
+Communication
+
+
+Planning and Execution 
+
+Seth was able to produce xPert products while working an intense schedule to get the NRECA RS project live. The results were successes in both areas.
+
+
+Teamwork
+
+Mentor, coach, architect, analyst
+
+
+Relationship Management
+
+
+
+-* Seth appears to experience some discomfort with RM and consulting the client. He never really jelled with the primary client, mostly because primary client didn't protect the tech leads from churn. However, his choice to not communicate frustrations with the client and find common ground limited his influence. which leads me to...
+
+- A recommended area of growth is in communication. Rightly or wrongly as a leader Seth has sway over junior developers. He really is good natured and fun to be around, so this may seem strange. He is also good at presenting technical knowledge. Therefore, this is more about client relationships and being careful about the occasional snide comment in slack. (reference: "maybe the partners can tell the server how proud they are of it and sucker it into working weekends"). In one comment he undermined the AO decision to work during go-live and showed a dislike of the partner emails which were requested by the AO. Either way, my comment is about having organizational awareness and taking it upon himself to talk things through when he doesn't agree with a decision."
 
 
 
