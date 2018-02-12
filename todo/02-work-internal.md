@@ -339,6 +339,17 @@ Went over this:
 
 
 
+##### Appraisal
+
+- proactive
+
+- Eye for process - pivotal in restructuring the NRECA team. Try to see success beyond strict prescriptions of Scrum. 
+- Champion of TDD, CI/CD, and clean code. Ultimately increased the quality of the RS product and helped lead to a successful release.
+- communication
+    - Always straightforward and willing and open to having tough conversations. 
+    
+    - Consider broader picture when approaching things that affect the whole project. The project has been heavily improved by Sean's work. The path there should be able to be smoothed out more and more as Sean gains experience and applies feedback from his initiatives.
+
 
 
 ## xpert meeting notes
