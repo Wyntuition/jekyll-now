@@ -179,7 +179,10 @@ Serves as a resource for task execution and/or troubleshooting efforts that requ
 
 React learning, with best practices. It hasn't been too much time with React, keep going deep to get the most effective and translatable learning. Expand REST expertise to complimentary tech such as cloud (i.e. deploying APIs on cloud, using serverless).
 
+- Ruby, testing
+- Dives deep into certain areas that have benefitted the team as a whole with documentation
 
+"Related to picking up new technologies, Glenn has an obvious thirst for self-improvement and learning, which he has made a part of the culture of his team"
 
 
 Communication
@@ -197,12 +200,7 @@ Effective communication of test mocking/stubbing/etc across multiple teams.
 Account, other project, client comm?
 
 
-
-
 Planning and execution
-
-
-
 
 
 Teamwork
@@ -215,6 +213,10 @@ Glenn is engaged, provides good input to team discussions and is always willing 
 
 Effective and creative approaches to coaching on TDD
 
+"He works well with others and brings a strong work ethic and a positive attitude to the table"
+
+"Lastly, Glenn brings a really positive attitude to work. Even while E-Verify is under immense pressure, he remains positive and continues making light-hearted jokes, which I think are important to the morale and culture of his team."
+
 
 RM
 
@@ -222,27 +224,10 @@ Pushed for rebooting the NoVA Elixir Meetup, provided workshops and content, and
 
 At work? Account? Other projects? Ruby SA? Client?
 
-
-
-Attitude
-"He works well with others and brings a strong work ethic and a positive attitude to the table"
-
-"Lastly, Glenn brings a really positive attitude to work. Even while E-Verify is under immense pressure, he remains positive and continues making light-hearted jokes, which I think are important to the morale and culture of his team."
-
-Tech
-- Ruby, testing
-- Dives deep into certain areas that have benefitted the team as a whole with documentation
-
-"Related to picking up new technologies, Glenn has an obvious thirst for self-improvement and learning, which he has made a part of the culture of his team"
-
-Cllient
 "Glenn represents himself well in client meetings. He always asks thought provoking questions in refinement and planning meetings in front of the client. Related, he does a really good job explaining some tough technical concepts to our Product Owner from a business value perspective."
 
 
 
-
-
-\
 #### Seth
 
 Appraisal, 1/2018
