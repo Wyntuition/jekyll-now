@@ -66,6 +66,13 @@
 
 #### Apraisal Notes
 
+Performance criteria
+- Intent
+• Impact
+• Resolution
+• Repetition of the performance that exceeded or fell short
+- Set example for all to aspire? Perf go far beyond expectations
+
 Key info to gather
 - Managing
     - Mentoring people? Coaching people? Get feedback from those folks. Interviewing?
@@ -135,6 +142,34 @@ Todo:
 - xpert agenda send out (see notes below)
 - Glenn's agenda
 
+3rd party Feedback
+
+
+
+- Growing as a leader; technicanl competencies, best practices, buy-in, coaching
+Coached bootcamp students Ruby best practices via presentations, workshops and pairing.
+
+- React side project to learn, got buy-in for best practices
+
+
+-+ test strategy; balance of unit tests, other tests and manual
+
+Attitude
+"He works well with others and brings a strong work ethic and a positive attitude to the table"
+
+"Lastly, Glenn brings a really positive attitude to work. Even while E-Verify is under immense pressure, he remains positive and continues making light-hearted jokes, which I think are important to the morale and culture of his team."
+
+Tech
+- Ruby, testing
+- Dives deep into certain areas that have benefitted the team as a whole with documentation
+
+"Related to picking up new technologies, Glenn has an obvious thirst for self-improvement and learning, which he has made a part of the culture of his team"
+
+Cllient
+"Glenn represents himself well in client meetings. He always asks thought provoking questions in refinement and planning meetings in front of the client. Related, he does a really good job explaining some tough technical concepts to our Product Owner from a business value perspective."
+
+
+" I was extremely impressed with how quickly he picked up not only the technical aspects of the project, but also the business process and bigger picture"
 
 
 #### Seth
