@@ -153,9 +153,15 @@ ROLE: Consultant > Senior
 - Consistently has shown great initiative [projects, coaching, documentation, pipe;ine], that have had a number of positive results across his team.
 
 
+Accountability
+Initative to help accountibility with 20% professional development time.
+
+
 Expertise
-Serves as a resource for task execution and/or troubleshooting
-efforts that require skills to address tasks and issues.
+Serves as a resource for task execution and/or troubleshooting efforts that require skills to address tasks and issues.
+
+React learning, with best practices. It hasn't been too much time with React, keep going deep to get the most effective and translatable learning. Expand REST expertise to complimentary tech such as cloud (i.e. deploying APIs on cloud, using serverless).
+
 
 
 
@@ -166,6 +172,8 @@ stakeholders, via verbal or written (e.g., reports, emails) means.
 Demonstrates self-awareness of one's own verbal and nonverbal
 messages and appropriately responds to nonverbal messages of
 others when conversing. 
+
+Effective communication of test mocking/stubbing/etc across multiple teams. 
 
 
 
@@ -204,6 +212,8 @@ Cllient
 
 
 - Initiative to fix problem with a DevOps bottlneck
+
+- Keep trying to apply best practices more and more; implementation patterns keep coming up
 
 
 
