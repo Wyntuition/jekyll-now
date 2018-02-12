@@ -334,7 +334,7 @@ Seth grew as a technical expert and leader in 2017, on the client in many ways, 
 
 At NRECA, he contributed technical leadership in a variety of ways. He owned the Billing techincal solution, yielding a very critical, financially-sensitive functionality successfully. Seth served as the Technical Lead and Scrum Master of one of the development teams, where he was looking after the technical accomplishments and their overall technical vision. He also managed a lot of the DevOps. Being able to coach junior developers and explain techincal things in terms non-technical people can understand made Seth a great asset.
 
-Consider building on your current EF Core focus, by either going deeper with related tech talked, or wider with related components of things used with it like ASP.NET Core, various data stores it can work with or Azure (just examples). Also look into practicing and growing leadership skills learned from The Manager's Path and other resources (such as Radical Candor). This will complement technical leadership nicely.
+Consider building on your current EF Core focus, by either going deeper with related tech talked, or wider with related components of things used with it like ASP.NET Core, various data stores it can work with or Azure (just examples). Also look into practicing and growing leadership skills learned from The Manager's Path and other resources (such as Radical Candor). This will complement technical leadership nicely. Practice approaching the client with technical questions or things to share with them, in order to increase your expertise and value to them.
 
 
 
