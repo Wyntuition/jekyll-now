@@ -467,12 +467,9 @@ Sean educated teammates and NRECA on Agile processes, he modeled expected behavi
 
 "He’s also been a fierce advocate for my career as a developer. He’s pointed me to specific skills and projects and experiences he thinks I should learn or use or work on."
 
-He should work on when to defer and when leading is most effective for everyone and the project. Taking every action on himself for follow-up sometimes crosses into others' responsibility areas, may prevent opportunities for others and sets an example of overwork.
+He should work on when to defer and when leading is most effective for everyone and the project. Taking every action on himself for follow-up sometimes crosses into others' responsibility areas, may prevent opportunities for others and sets an example of overwork. At times he takes on too much work.
 
 He should look for times when he should step out and let others take control. Sean has the ability to manage many different concepts but that could hurt him focus or take on larger initiatives if he continuously takes sole responsibility of smaller tasks.
-
-
-Takes on too much work
 
 
 
