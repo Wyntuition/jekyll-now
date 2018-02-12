@@ -347,13 +347,9 @@ Relationship Management
 
 Seth took many opportunities to connect and build relationships with his teammates and stakeholds on NRECA in 2017, and is growing in this area. Seth had great relationships with his fellow developers. The junior developers looked up to him and learned a lot from his positive examples, appreciating that he is really is good natured and fun to be around. 
 
-Seth appears to experience some discomfort with RM and consulting the client. He should try to build a stronger relationship with a client, for example more frequently communicating frustrations with the client and finding common ground. 
+Seth appears to experience some discomfort with RM and consulting the client. He should try to build a stronger relationship with a client, for example more frequently communicating frustrations with the client and finding common ground. Try to be more sensitive to organizational awareness and taking it upon himself to talk things through when he doesn't agree with a decision, instead of making one-off disapproving remarks.
 
-
-
-Therefore, this is more about client relationships. Try to be more sensitive to organizational awareness and taking it upon himself to talk things through when he doesn't agree with a decision, instead of making one-off disapproving remarks.
-
-Seth should continue his work in the community, building himself as a subject matter expert in Entity Framework Core and the ecosystem around it.
+Seth should continue his work in the community, building himself as a subject matter expert in Entity Framework Core and the ecosystem around it. A thought leader in the growing cloud industry this technology supports will further grow Seth's reputation as a thought leader.
 
 Team Vision, Alignment, and Execution
 
