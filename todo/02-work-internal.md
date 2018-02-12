@@ -279,42 +279,46 @@ Appraisal, 1/2018
 
 ##### Appraisal notes, 3rd party, what to go on form
 
-- Senior developer, Scrum Master, tech leadership, xpert contributions
+Seth contributed in a multitude of ways and roles in 2017, including as a senior developer, Scrum Master, tech lead, and xPert. Seth knew his client, NRECA, was pushing for go-live, so through pragmatic, smart and hard-working approaches, Seth was a key contributor to making this happen, while coaching his teammates, interfacing with the client, and relevant delivering xPert content such his talk Entity Framework Core, where he showcased Microsoft's new open-source ORM.
 
-- "S" Worked with developers and stakeholders to analyze stories and provide feedback on scope and priorities.
+At NRECA, Seth worked with developers coaching them technically, and with business analysts and stakeholders to analyze stories and provide feedback on scope and priorities.
 
-- Owned Billing requirements and techincal implementation, yielding a very critical, financially sensitive functionality successfully free of significant bugs.
-- Flexibility was stellar in dealing with a client hard to influence, resulting in long hours for extended periods, but being central in yielding a successful product in a crunched timeframe.
+Seth owned Billing requirements and techincal implementation, yielding a very critical, financially sensitive functionality successfully free of significant bugs.
 
-- Willing to switch stacks to join the myUSCIS team. 
+His flexibility was stellar in dealing with a client hard to influence, resulting in long hours for extended periods, but being central in yielding a successful product in a crunched timeframe. This included having conversations with the client about deployments, hotfixes, etc. and he made sure to communicate clearly and often. 
 
-Seth kept focus on allowing the product to go live, and after an intense and strategic effort, this happened successfully in the face of opposing odds.
+Seth kept focus on allowing the product to go live, and after an intense and strategic effort, this happened successfully in the face of opposing odds. Seth stayed late into the evening for multiple days until the issues were resolved, knowing that he had to be flexible to resolve issues, even if the client was pushing for unreasonable results. Over a 3 day period, Seth logged 35.5 hours to run comparisons, fix defects, and answer questions.
+
+The primary BA indicated that without Seth's in depth knowledge of the code and his analytical thinking, the resolution period would have been much longer. Thanks to Seth NRECA declared code freeze on schedule.
+
+"Even as scrum master, Seth delivered story points. He led his team by being a good teammate."
+
+After a tough road at NRECA, Seth was willing to switch stacks to join the myUSCIS team and fill a need there.
+
+
 
 "- Seth is intelligent, hard-working, professional, and a good teammate.  
-    - Seth often picked up system issues and resolved them in a timely manner (e.g., TEST not working...build pipeline broken...upgrade to a new version of Visual Studio). He exhibited expertise both within the app and external to it.
-    - Even as scrum master, Seth delivered story points. He led his team by being a good teammate.
-    - He had mastery of several domains and development best practices, and worked to instill these in other developers on the team. In a Scrummaster role, he was responsible for improving an entire team's delivery and he put in a lot of effort to do that."
-    -  single-handedly getting the Tech Update newsletter up and running and then bring a team of editors up to speed to help and, eventually take over, that responsibility
+    - 
+    - 
+    - 
+- single-handedly getting the Tech Update newsletter up and running and then bring a team of editors up to speed to help and, eventually take over, that responsibility
 
--  his talk Entity Framework Core, where he showcased Microsoft's new Open-Source ORM.
+-  
 
 
 
-- It included having conversations with the client about deployments, hotfixes, etc. and he made sure to communicate clearly and often.  
 
 
 - One of the things that stood out about Seth to me was that he led by example.  For example, even though he had a lot of higher-level technical responsibilities and tasks, he did not forego all his sprint work and still contributed as a subject matter expert on more detailed development tasks."
 
 
-- Seth stayed late into the evening for multiple days until the issues were resolved, knowing that he had to be flexible to resolve issues, even if the client was pushing for unreasonable results.
 
 
 
-- "Over a 3 day period, Seth logged 35.5 hours to run comparisons, fix defects, and answer questions. The primary BA indicated that without Seth's in depth knowledge of the code and his analytical thinking, the resolution period would have been much longer. Thanks to Seth NRECA declared code freeze on schedule.
 
 
 
-Accountability 
+Accountability
 
 - Long hours, reliably got touch techincal issues solved
 - Owned responsibility for his team delivering, sometimes meaning long hours and/or tough conversations with stakeholders
@@ -329,7 +333,11 @@ Seth grew as a technical expert and leader in 2017, on the client in many ways, 
 
 At NRECA, he contributed technical leadership in a variety of ways. He owned the Billing techincal solution, yielding a very critical, financially-sensitive functionality successfully. Seth served as the Technical Lead and Scrum Master of one of the development teams, where he was looking after the technical accomplishments and their overall technical vision. He also managed a lot of the DevOps. Being able to coach junior developers and explain techincal things in terms non-technical people can understand made Seth a great asset.
 
-Consider building on your current EF Core focus, by either going deeper with related tech talked, or wider with related components of things used with it like ASP.NET Core, various data stores it can work with or Azure (just examples). Also look into practicing and growing leadership skills learned from The Manager's Path and other resources (such as Radical Candor). This will complement technical leadership nicely. Practice approaching the client with technical questions or things to share with them, in order to increase your expertise and value to them.
+"Seth often picked up system issues and resolved them in a timely manner (e.g., TEST not working...build pipeline broken...upgrade to a new version of Visual Studio). He exhibited expertise both within the app and external to it."
+
+"He had mastery of several domains and development best practices, and worked to instill these in other developers on the team. In a Scrummaster role, he was responsible for improving an entire team's delivery and he put in a lot of effort to do that."
+
+Consider building on your current EF Core focus, by either going deeper with related projects, or wider with related components of things used with it like ASP.NET Core, various data stores it can work with or Azure (just examples). Also look into practicing and growing leadership skills learned from The Manager's Path and other resources (such as Radical Candor). This will complement technical leadership nicely. Practice approaching the client with technical questions or things to share with them, in order to increase your expertise and value to them.
 
 
 Communication
