@@ -152,6 +152,23 @@ ROLE: Consultant > Senior
 
 - Consistently has shown great initiative [projects, coaching, documentation, pipe;ine], that have had a number of positive results across his team.
 
+- Growing as a leader; technicanl competencies, best practices, buy-in, coaching
+Coached bootcamp students Ruby best practices via presentations, workshops and pairing.
+
+- React side project to learn, got buy-in for best practices
+
+
+-+ test strategy; balance of unit tests, other tests and manual
+
+" I was extremely impressed with how quickly he picked up not only the technical aspects of the project, but also the business process and bigger picture"
+
+
+- Initiative to fix problem with a DevOps bottlneck
+
+- Keep trying to apply best practices more and more; implementation patterns keep coming up
+
+
+
 
 Accountability
 Initative to help accountibility with 20% professional development time.
@@ -206,13 +223,6 @@ Pushed for rebooting the NoVA Elixir Meetup, provided workshops and content, and
 At work? Account? Other projects? Ruby SA? Client?
 
 
-- Growing as a leader; technicanl competencies, best practices, buy-in, coaching
-Coached bootcamp students Ruby best practices via presentations, workshops and pairing.
-
-- React side project to learn, got buy-in for best practices
-
-
--+ test strategy; balance of unit tests, other tests and manual
 
 Attitude
 "He works well with others and brings a strong work ethic and a positive attitude to the table"
@@ -228,13 +238,6 @@ Tech
 Cllient
 "Glenn represents himself well in client meetings. He always asks thought provoking questions in refinement and planning meetings in front of the client. Related, he does a really good job explaining some tough technical concepts to our Product Owner from a business value perspective."
 
-
-" I was extremely impressed with how quickly he picked up not only the technical aspects of the project, but also the business process and bigger picture"
-
-
-- Initiative to fix problem with a DevOps bottlneck
-
-- Keep trying to apply best practices more and more; implementation patterns keep coming up
 
 
 
