@@ -288,8 +288,7 @@ Appraisal, 1/2018
 
 - Willing to switch stacks to join the myUSCIS team. 
 
-- Well-focused in xPert initatives, with steady output. Consider building on your current EF Core focus, by either going deeper with related tech talked, or wider with related components of things used with it like ASP.NET Core, various data stores it can work with or Azure (just examples).
-
+Seth kept focus on allowing the product to go live, and after an intense and strategic effort, this happened successfully in the face of opposing odds.
 
 "- Seth is intelligent, hard-working, professional, and a good teammate.  
     - Seth often picked up system issues and resolved them in a timely manner (e.g., TEST not working...build pipeline broken...upgrade to a new version of Visual Studio). He exhibited expertise both within the app and external to it.
@@ -331,10 +330,11 @@ Accountability
 
 Expertise
 
-- AT NRECA, he was in a technical leadership role and handled it well.
-- He owned the Billing techincal solution, yielding a very critical, financially-sensitive functionality successfully.
-- Seth served as the Technical Lead and Scrum Master of one of the development teams, where he was looking after the technical accomplishments and their overall technical vision.
-- He managed a lot of the DevOps at NRECA.
+Seth grew as a technical expert and leader in 2017, on the client in many ways, and in xPert initatives with steady, quality output.
+
+At NRECA, he contributed technical leadership in a variety of ways. He owned the Billing techincal solution, yielding a very critical, financially-sensitive functionality successfully. Seth served as the Technical Lead and Scrum Master of one of the development teams, where he was looking after the technical accomplishments and their overall technical vision. He also managed a lot of the DevOps. Being able to coach junior developers and explain techincal things in terms non-technical people can understand made Seth a great asset.
+
+Consider building on your current EF Core focus, by either going deeper with related tech talked, or wider with related components of things used with it like ASP.NET Core, various data stores it can work with or Azure (just examples). Also look into practicing and growing leadership skills learned from The Manager's Path and other resources (such as Radical Candor). This will complement technical leadership nicely.
 
 
 
