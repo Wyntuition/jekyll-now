@@ -173,9 +173,18 @@ Demonstrates self-awareness of one's own verbal and nonverbal
 messages and appropriately responds to nonverbal messages of
 others when conversing. 
 
+Glenn represents himself well in client meetings. He always asks thought provoking questions in refinement and planning meetings in front of the client. Related, he does a really good job explaining some tough technical concepts to our Product Owner from a business value perspective. Lastly, he has delivered really effective product demos during our sprint reviews. 
+
 Effective communication of test mocking/stubbing/etc across multiple teams.
 
 Account, other project, client comm?
+
+
+
+
+Planning and execution
+
+
 
 
 
@@ -184,6 +193,10 @@ Sr: Coordinates work activities with other team members in a
 collaborative manner, often serving in an advisory or developmental
 capacity with team members. Reinforces team accountability and
 cohesion.
+
+Glenn is engaged, provides good input to team discussions and is always willing to help.
+
+Effective and creative approaches to coaching on TDD
 
 
 
