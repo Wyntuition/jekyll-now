@@ -144,9 +144,36 @@ Todo:
 - xpert agenda send out (see notes below)
 - Glenn's agenda
 
-3rd party Feedback
+Appraisal, 3rd party Feedback
+
+ROLE: Consultant > Senior
+
+* Flexibility, initative, results
+
+- Consistently has shown great initiative [projects, coaching, documentation, pipe;ine], that have had a number of positive results across his team.
 
 
+Expertise
+Serves as a resource for task execution and/or troubleshooting
+efforts that require skills to address tasks and issues.
+
+
+
+Communication
+With occasional guidance, prepares and/or presents technical
+and/or non-technical information to internal and/or external
+stakeholders, via verbal or written (e.g., reports, emails) means.
+Demonstrates self-awareness of one's own verbal and nonverbal
+messages and appropriately responds to nonverbal messages of
+others when conversing. 
+
+
+
+Teamwork
+Sr: Coordinates work activities with other team members in a
+collaborative manner, often serving in an advisory or developmental
+capacity with team members. Reinforces team accountability and
+cohesion.
 
 - Growing as a leader; technicanl competencies, best practices, buy-in, coaching
 Coached bootcamp students Ruby best practices via presentations, workshops and pairing.
