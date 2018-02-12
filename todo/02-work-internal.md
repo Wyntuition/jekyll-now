@@ -280,10 +280,15 @@ Appraisal, 1/2018
 ##### Appraisal notes, 3rd party, what to go on form
 
 - Senior developer, Scrum Master, tech leadership, xpert contributions
+
 - "S" Worked with developers and stakeholders to analyze stories and provide feedback on scope and priorities.
+
 - Owned Billing requirements and techincal implementation, yielding a very critical, financially sensitive functionality successfully free of significant bugs.
 - Flexibility was stellar in dealing with a client hard to influence, resulting in long hours for extended periods, but being central in yielding a successful product in a crunched timeframe.
+
 - Willing to switch stacks to join the myUSCIS team. 
+
+- Well-focused in xPert initatives, with steady output. Consider building on your current EF Core focus, by either going deeper with related tech talked, or wider with related components of things used with it like ASP.NET Core, various data stores it can work with or Azure (just examples).
 
 
 "- Seth is intelligent, hard-working, professional, and a good teammate.  
@@ -292,25 +297,45 @@ Appraisal, 1/2018
     - He had mastery of several domains and development best practices, and worked to instill these in other developers on the team. In a Scrummaster role, he was responsible for improving an entire team's delivery and he put in a lot of effort to do that."
     -  single-handedly getting the Tech Update newsletter up and running and then bring a team of editors up to speed to help and, eventually take over, that responsibility
 
-- I witnessed Seth push himself beyond the breaking point in the service of NRECA's go live, putting in crucial hours & skill to make sure that the operation would be a success. "
-
-
-- AT NRECA, he was in a technical leadership role and handled it well.  
-- He managed a lot of the DevOps at NRECA and 
-- always got his work done in a timely manner.  
-- It included having conversations with the client about deployments, hotfixes, etc. and he made sure to communicate clearly and often.  
-- One of the things that stood out about Seth to me was that he led by example.  For example, even though he had a lot of higher-level technical responsibilities and tasks, he did not forego all his sprint work and still contributed as a subject matter expert on more detailed development tasks."
-
-- Seth served as the Technical Lead and Scrum Master of Development Team B, where he was looking after the technical accomplishments and their overall technical vision"
-- espite this knowledge, Seth stayed late into the evening for multiple days until the issues were resolved, knowing that he had to be flexible to resolve issues.
-
 -  his talk Entity Framework Core, where he showcased Microsoft's new Open-Source ORM.
 
+
+
+- It included having conversations with the client about deployments, hotfixes, etc. and he made sure to communicate clearly and often.  
+
+
+- One of the things that stood out about Seth to me was that he led by example.  For example, even though he had a lot of higher-level technical responsibilities and tasks, he did not forego all his sprint work and still contributed as a subject matter expert on more detailed development tasks."
+
+
+- Seth stayed late into the evening for multiple days until the issues were resolved, knowing that he had to be flexible to resolve issues, even if the client was pushing for unreasonable results.
+
+
+
 - "Over a 3 day period, Seth logged 35.5 hours to run comparisons, fix defects, and answer questions. The primary BA indicated that without Seth's in depth knowledge of the code and his analytical thinking, the resolution period would have been much longer. Thanks to Seth NRECA declared code freeze on schedule.
+
 
 -* Seth appears to experience some discomfort with RM and consulting the client. He never really jelled with the primary client, mostly because primary client didn't protect the tech leads from churn. However, his choice to not communicate frustrations with the client and find common ground limited his influence. which leads me to...
 
 - A recommended area of growth is in communication. Rightly or wrongly as a leader Seth has sway over junior developers. He really is good natured and fun to be around, so this may seem strange. He is also good at presenting technical knowledge. Therefore, this is more about client relationships and being careful about the occasional snide comment in slack. (reference: "maybe the partners can tell the server how proud they are of it and sucker it into working weekends"). In one comment he undermined the AO decision to work during go-live and showed a dislike of the partner emails which were requested by the AO. Either way, my comment is about having organizational awareness and taking it upon himself to talk things through when he doesn't agree with a decision."
+
+
+
+Accountability 
+
+- Long hours, reliably got touch techincal issues solved
+- Owned responsibility for his team delivering, sometimes meaning long hours and/or tough conversations with stakeholders
+
+"I witnessed Seth push himself beyond the breaking point in the service of NRECA's go live, putting in crucial hours & skill to make sure that the operation would be a success."
+
+- always got his work done in a timely manner.  
+
+Expertise
+
+- AT NRECA, he was in a technical leadership role and handled it well.
+- He owned the Billing techincal solution, yielding a very critical, financially-sensitive functionality successfully.
+- Seth served as the Technical Lead and Scrum Master of one of the development teams, where he was looking after the technical accomplishments and their overall technical vision.
+- He managed a lot of the DevOps at NRECA.
+
 
 
 
