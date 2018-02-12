@@ -450,7 +450,14 @@ Sean draws from a wealth of technical knowledge and is constantly learning. He b
 
 He continues to build his in-depth knowledgebank, adding graph databases to Akka among some of the more niche things he's focued on. He should choose a single or a few specific technologies to go deep into in 2018, as this depth readily transfers and increases the speed to learning other things.
 
-Team Leadership
+Team Vision, Alignment, and Execution
+
+He does have to try to see success beyond strict prescriptions of Scrum. Every team is different no matter what Scrum approaches have worked in the past, and there are a plethora of things that might be best for a team.
+
+He should reach out proactively to other leaders, such as client and Excella leads, to foster more buy-in before pushing unilaterally.
+
+
+Team Memeber Growth
 
 Sean educated teammates and NRECA on Agile processes, he modeled expected behaviors for a functioning team, and he instilled discipline in team thought and action. He inspired team to be the best they can.
 
@@ -460,13 +467,9 @@ Sean educated teammates and NRECA on Agile processes, he modeled expected behavi
 
 "He’s also been a fierce advocate for my career as a developer. He’s pointed me to specific skills and projects and experiences he thinks I should learn or use or work on."
 
-He should work on when to defer and when leading is most effective for everyone and the projecty
+He should work on when to defer and when leading is most effective for everyone and the project. Taking every action on himself for follow-up sometimes crosses into others' responsibility areas, may prevent opportunities for others and sets an example of overwork.
 
-He does have to try to see success beyond strict prescriptions of Scrum. Every team is different no matter what Scrum approaches have worked in the past, and there are a plethora of things that might be best for a team.
-
-He should reach out proactively to other leaders, such as client and Excella leads, to foster more buy-in before pushing unilaterally. Taking every action on himself for follow-up sometimes crosses into others' responsibility areas, may prevent opportunities for others and sets an example of overwork.
-
-I would advise Sean to make sure that he is aware of when to step out and let others take control. Sean has the ability to manage many different concepts but that could hurt him focus or take on larger initiatives if he continuously takes sole responsibility of smaller tasks.
+He should look for times when he should step out and let others take control. Sean has the ability to manage many different concepts but that could hurt him focus or take on larger initiatives if he continuously takes sole responsibility of smaller tasks.
 
 
 Takes on too much work
