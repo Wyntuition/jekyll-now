@@ -144,7 +144,7 @@ Todo:
 - xpert agenda send out (see notes below)
 - Glenn's agenda
 
-Appraisal, 3rd party Feedback
+##### Appraisal, 3rd party Feedback
 
 ROLE: Consultant > Senior
 
@@ -175,6 +175,8 @@ collaborative manner, often serving in an advisory or developmental
 capacity with team members. Reinforces team accountability and
 cohesion.
 
+
+
 - Growing as a leader; technicanl competencies, best practices, buy-in, coaching
 Coached bootcamp students Ruby best practices via presentations, workshops and pairing.
 
@@ -201,6 +203,12 @@ Cllient
 " I was extremely impressed with how quickly he picked up not only the technical aspects of the project, but also the business process and bigger picture"
 
 
+- Initiative to fix problem with a DevOps bottlneck
+
+
+
+
+\
 #### Seth
 
 Appraisal, 1/2018
