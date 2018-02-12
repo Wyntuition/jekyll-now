@@ -199,6 +199,12 @@ Glenn is engaged, provides good input to team discussions and is always willing 
 Effective and creative approaches to coaching on TDD
 
 
+RM
+
+Pushed for rebooting the NoVA Elixir Meetup, provided workshops and content, and was able to connect with more senior Ruby developers and the Ruby commnuity more broadly.
+
+At work? Account? Other projects? Ruby SA? Client?
+
 
 - Growing as a leader; technicanl competencies, best practices, buy-in, coaching
 Coached bootcamp students Ruby best practices via presentations, workshops and pairing.
