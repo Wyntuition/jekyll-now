@@ -312,12 +312,10 @@ Among all of this, Seth lead getting the Tech Update newsletter up and running a
 
 Accountability
 
-- Long hours, reliably got touch techincal issues solved
-- Owned responsibility for his team delivering, sometimes meaning long hours and/or tough conversations with stakeholders
+Seth put in long hours, reliably got tough techincal issues solved, owned responsibility for his team delivering, sometimes meaning long hours and/or tough conversations with stakeholders. Seth filled a plethora of roles necessary to get the complex NRECA project to completion, and always got his work done in a timely manner.
 
 "I witnessed Seth push himself beyond the breaking point in the service of NRECA's go live, putting in crucial hours & skill to make sure that the operation would be a success."
 
-- always got his work done in a timely manner.  
 
 Expertise
 
