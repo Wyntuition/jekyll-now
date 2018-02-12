@@ -173,7 +173,9 @@ Demonstrates self-awareness of one's own verbal and nonverbal
 messages and appropriately responds to nonverbal messages of
 others when conversing. 
 
-Effective communication of test mocking/stubbing/etc across multiple teams. 
+Effective communication of test mocking/stubbing/etc across multiple teams.
+
+Account, other project, client comm?
 
 
 
