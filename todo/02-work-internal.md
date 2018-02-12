@@ -150,22 +150,18 @@ ROLE: Consultant > Senior
 
 * Flexibility, initative, results
 
-- Consistently has shown great initiative [projects, coaching, documentation, pipe;ine], that have had a number of positive results across his team.
+- Consistently has shown great initiative which have yielded valuable and widesperad results, including side projects, coaching, training materials, related to Ruby, CI/CD and coding best practices. There have been a number of positive results across the E-Verify team as a result, from standardizing testing practices and teaching best practices, to removing bottlenecks.
 
-- Growing as a leader; technicanl competencies, best practices, buy-in, coaching
-Coached bootcamp students Ruby best practices via presentations, workshops and pairing.
+Glenn has shown promosing growth as a leader. He has shown excellent advancement in technicanl competencies, best practices, and technical leadership skills such as garnering buy-in for technical decisions to coaching across his team. He has consistently coached bootcamp students on Ruby best practices via presentations, workshops and pairing.
 
-- React side project to learn, got buy-in for best practices
-
-
--+ test strategy; balance of unit tests, other tests and manual
+React side project to learn, got buy-in for best practices. 
+test strategy; balance of unit tests, other tests and manual
+Initiative to fix problem with a DevOps bottlneck
 
 " I was extremely impressed with how quickly he picked up not only the technical aspects of the project, but also the business process and bigger picture"
 
 
-- Initiative to fix problem with a DevOps bottlneck
-
-- Keep trying to apply best practices more and more; implementation patterns keep coming up
+Keep trying to apply best practices more and more; implementation patterns keep coming up
 
 
 
