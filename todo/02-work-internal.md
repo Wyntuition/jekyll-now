@@ -281,7 +281,7 @@ Appraisal, 1/2018
 
 Seth contributed in a multitude of ways and roles in 2017, including as a senior developer, Scrum Master, tech lead, and xPert. Seth knew his client, NRECA, was pushing for go-live, so through pragmatic, smart and hard-working approaches, Seth was a key contributor to making this happen, while coaching his teammates, interfacing with the client, and relevant delivering xPert content such his talk Entity Framework Core, where he showcased Microsoft's new open-source ORM.
 
-At NRECA, Seth worked with developers coaching them technically, and with business analysts and stakeholders to analyze stories and provide feedback on scope and priorities.
+"Seth is intelligent, hard-working, professional, and a good teammate." At NRECA, Seth worked with developers coaching them technically, and with business analysts and stakeholders to analyze stories and provide feedback on scope and priorities.
 
 Seth owned Billing requirements and techincal implementation, yielding a very critical, financially sensitive functionality successfully free of significant bugs.
 
@@ -297,7 +297,7 @@ After a tough road at NRECA, Seth was willing to switch stacks to join the myUSC
 
 
 
-"- Seth is intelligent, hard-working, professional, and a good teammate.  
+"- 
     - 
     - 
     - 
