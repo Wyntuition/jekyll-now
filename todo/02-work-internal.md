@@ -285,21 +285,17 @@ Seth contributed in a multitude of ways and roles in 2017, including as a senior
 
 Seth owned Billing requirements and techincal implementation, yielding a very critical, financially sensitive functionality successfully free of significant bugs.
 
-His flexibility was stellar in dealing with a client hard to influence, resulting in long hours for extended periods, but being central in yielding a successful product in a crunched timeframe. This included having conversations with the client about deployments, hotfixes, etc. and he made sure to communicate clearly and often. 
+His flexibility was stellar in dealing with a client difficult to influence, resulting in long hours for extended periods. He was central in enabling a successful product in a crunched timeframe.
 
-Seth kept focus on allowing the product to go live, and after an intense and strategic effort, this happened successfully in the face of opposing odds. Seth stayed late into the evening for multiple days until the issues were resolved, knowing that he had to be flexible to resolve issues, even if the client was pushing for unreasonable results. Over a 3 day period, Seth logged 35.5 hours to run comparisons, fix defects, and answer questions.
+Seth kept focus on pushing the product towards go live, and after an intense and strategic effort, this happened successfully in the face of opposing odds. Seth stayed very late for multiple days until issues were resolved, knowing that they had to be resolved as quickly as possible, even as the client was pushing for additional unreasonable results. Over a 3 day period, Seth logged 35.5 hours to run comparisons, fix defects, and answer questions.
 
-The primary BA indicated that without Seth's in depth knowledge of the code and his analytical thinking, the resolution period would have been much longer. Thanks to Seth NRECA declared code freeze on schedule.
+The primary BA indicated that without Seth's in depth knowledge of the code and his analytical thinking, the resolution period would have been much longer. Thanks to Seth NRECA declared the code freeze on schedule.
 
 "Even as scrum master, Seth delivered story points. He led his team by being a good teammate."
 
 After a tough road at NRECA, Seth was willing to switch stacks to join the myUSCIS team and fill a need there.
 
 Among all of this, Seth lead getting the Tech Update newsletter up and running and then brought a team of editors up to speed to help and, eventually take over.
-
-
-
-- One of the things that stood out about Seth to me was that he led by example.  For example, even though he had a lot of higher-level technical responsibilities and tasks, he did not forego all his sprint work and still contributed as a subject matter expert on more detailed development tasks."
 
 
 
@@ -323,8 +319,10 @@ Consider building on your current EF Core focus, by either going deeper with rel
 
 Communication
 
+ Seth had various conversations with the client about deployments, hotfixes, etc. and he made sure to communicate clearly and often.
 
 He is also good at presenting technical knowledge. 
+
 
 Planning and Execution 
 
@@ -359,6 +357,8 @@ Seth coached developers in a variety of ways, from pairing to brown bags, to ans
 "He had mastery of several domains and development best practices, and worked to instill these in other developers on the team. In a Scrummaster role, he was responsible for improving an entire team's delivery and he put in a lot of effort to do that."
 
 Seth proved himself as a natural leader and coach to other developers, able to teach and lead by always being a good example as he consistently solved problems, technical and otherwise.
+
+"One of the things that stood out about Seth to me was that he led by example. For example, even though he had a lot of higher-level technical responsibilities and tasks, he did not forego all his sprint work and still contributed as a subject matter expert on more detailed development tasks."
 
 
 #### Sean
