@@ -458,6 +458,8 @@ He does have to try to see success possibilities beyond using strict prescriptio
 
 He should reach out proactively to other leaders, such as client and Excella leads, to foster more buy-in before pushing unilaterally for widespread change. Any type of change is usually wrought with more political hurdles than first meet the eye.
 
+Sean enabled the team in so many ways to make this incredibly long project finally get to completion. He knew he had to focus on broader vision, cross-team alignment, and making it all work together to output a great product. He was able to shift his roles and contribute in many critical areas, being quite a force for change and execution. All while coordinating so much, he was also able to contribute to the team technically.
+
 Team Memeber Growth
 
 Sean educated teammates and NRECA on Agile processes, he modeled expected behaviors for a functioning team, and he instilled discipline in team thought and action. He inspired team to be the best they can.
