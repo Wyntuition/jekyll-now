@@ -148,7 +148,7 @@ Todo:
 
 ROLE: Consultant > Senior
 
-* Flexibility, initative, results
+Flexibility, initative, results
 
 Glenn has consistently shown great initiative yielding valuable and broad results, from side projects, coaching, and training materials related to Ruby, CI/CD and coding best practices. There have been a number of positive results across the E-Verify team as a result, from standardized testing practices and teaching best practices, to removing chronic bottlenecks in DevOps.
 
