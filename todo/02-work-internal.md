@@ -428,18 +428,14 @@ Went over this:
 
 Sean 
 
-Proactive in a huge variety of ways, Sean had a very successful year in terms of results. He was a key player is getting the NRECA RS on a track where it could make it to go-live. 
+Proactive in a huge variety of ways, Sean had a very successful year in terms of results and broad areas he affected. He was a key player is getting the NRECA RS on a track where it could make it to go-live, and he went beyond external xPert activities in conributing to Excella and the community. He is an example in leadership growth, initaitve, flexiblility in different roles, tasks and visions, and big picture and results-oriented thinking.
 
-Sean pushed persistently and passionly enough to catalyze the serious change so desperately needed. He contributed in all areas, and put in an immense number of hours to ensure the desired results.
+Sean pushed persistently and passionly enough to catalyze the serious change so desperately needed at NRECA. He contributed in all areas, and put in an immense number of hours to ensure the desired results. He has an eye for process - pivotal in restructuring the NRECA project in critical ways. He was a champion of TDD, CI/CD, and clean code. Ultimately he increased the quality of the RS product and helped lead to a successful, quality release that had few major issues after production release. He managed this while acting as tech lead with a lot of client interfacing and communicating across the project.
 
-He has an eye for process - pivotal in restructuring the NRECA team. He does have to try to see success beyond strict prescriptions of Scrum. He is a champion of TDD, CI/CD, and clean code. Ultimately he increased the quality of the RS product and helped lead to a successful, quality release that had few major issues after production release. He managed this while acting as tech lead with a lot of client interfacing and communicating across the project.
+His xPert output and initatives in non-client work was strong. This was especially impressive whole approaching a production deadline at NRECA. This year he can further focus his xPert activities so they build on one another.
 
-His xPert out was strong. This was especially impressive whole approaching a production deadline at NRECA. This year he can further focus his xPert activities so they build on one another.
+Sean has a lot of impact yet to give as he keeps growing in his natural leadership and strategic abilities. His initiative, vision and attention to detail were big factors in the long-sought launch of RS. Sean has a lot to work with in becoming an effective, technical leader. "While interim results may have been bumpy, he paved the way for the team to enter 2018 without fixed scope releases which has made for a very happy team." Enhanced the project significantly in the long run.
 
-Sean has a lot of impact yet to give as he keeps growing in his natural leadership and strategic abilities. His initiative, vision and attention to detail were big factors in the long-sought launch of RS. Sean has a lot to work with in becoming an effective, technical leader.
-
-
-While interim results may have been less effective, he paved the way for the team to enter 2018 without fixed scope releases which has made for a very happy team." Enhanced the project significantly in the long run.
 
 
 - communication
@@ -474,6 +470,9 @@ Team Leadership
 he educated teammates and NRECA on Agile processes; he modeled expected behaviors for a functioning team; and he instilled discipline in team thought and action
 - Should work on when to defer and when leading is most effective for everyone and the projecty
 - Inspires team to be the best they can 
+
+He does have to try to see success beyond strict prescriptions of Scrum. Every team is different no matter what Scrum approaches have worked in the past, and there are a plethora of things that might be best for a team.
+
 
 - Reach out proactively to other leaders, such as client and Excella leads, to foster more buy-in before pushing unilaterally. 
 - Taking every action on himself for follow-up sometimes crosses into others' responsibility areas, may prevent opportunities for others and sets an example of overwork.
