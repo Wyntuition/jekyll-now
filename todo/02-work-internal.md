@@ -475,10 +475,8 @@ he educated teammates and NRECA on Agile processes; he modeled expected behavior
 - He’s also been a fierce advocate for my career as a developer. He’s pointed me to specific skills and projects and experiences he thinks I should learn or use or work on. 
 - He encouraged me to figure out how to become a speaker at meetups and conferences. "
 
+
 ## xpert meeting notes
-
-
-xpert notes:
 
 - xpert agenda send out, discussions with themes (i.e. 6 month plan, upcoming themes & trends, personal project)
     - Clear outcomes.
