@@ -321,13 +321,9 @@ Expertise
 
 Seth grew as a technical expert and leader in 2017, on the client in many ways, and in xPert initatives with steady, quality output.
 
-At NRECA, he contributed technical leadership in a variety of ways. He owned the Billing techincal solution and functionality, yielding a very critical, financially-sensitive product successfully. Seth served as the Technical Lead and Scrum Master for one of the development teams, where he looked after the technical output and their overall technical vision. He also managed a lot of the DevOps. Seth also enabled junior developers to be more productive with more quality work by coaching them.
-
 His experise also reached into the business domain, where he became a go-to person because he could explaion techincal things in terms non-technical people could understand.
 
 "Seth often picked up system issues and resolved them in a timely manner (e.g., TEST not working...build pipeline broken...upgrade to a new version of Visual Studio). He exhibited expertise both within the app and external to it."
-
-"He had mastery of several domains and development best practices, and worked to instill these in other developers on the team. In a Scrummaster role, he was responsible for improving an entire team's delivery and he put in a lot of effort to do that."
 
 Consider building on your current EF Core focus, by either going deeper with related projects, or wider with related components of things used with it like ASP.NET Core, various data stores it can work with or Azure (just examples). Also look into practicing and growing leadership skills learned from The Manager's Path and other resources (such as Radical Candor). This will complement technical leadership nicely. Practice approaching the client with technical questions or things to share with them, in order to increase your expertise and value to them.
 
@@ -363,10 +359,17 @@ Team Vision, Alignment, and Execution
 
 he knows the right thing to most effectively add value. He dives into the business domain as he knows he will have to address technical implications that arise from business needs, and bridges the tech/business gaps. By doing these things he provides a critcal service in preventing problems, reducing risk in chaning the software, and ensuring the teams are working on the right thing.
 
+At NRECA, he contributed technical leadership in a variety of ways. He owned the Billing techincal solution and functionality, yielding a very critical, financially-sensitive product successfully. Seth served as the Technical Lead and Scrum Master for one of the development teams, where he looked after the technical output and their overall technical vision.
+
+Seth became the go-to person for tough problems critical to solve in a timely manner, to when developers didn't understand something technically, to when the implications of a functionality change would affect another part of the system. He was central in getting all the pieces together for a successful execution of getting RS live.
+
 Team Member Growth
 
-He coached not only developers in a variety of ways, from pairing to brown bags, to answering the tough questions, but also analysts in the technical implications of a variety of business approaches. 
+Seth coached developers in a variety of ways, from pairing to brown bags, to answering the tough questions He also helped analysts grow in the technical implications of a variety of business approaches. Seth enabled junior developers to be more productive with more quality work by coaching them regularly.
 
+"He had mastery of several domains and development best practices, and worked to instill these in other developers on the team. In a Scrummaster role, he was responsible for improving an entire team's delivery and he put in a lot of effort to do that."
+
+Seth proved himself as a natural leader and coach to other developers, able to teach and lead by always being a good example and a consistent solver of problems. technical and otherwise.
 
 
 #### Sean
