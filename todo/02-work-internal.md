@@ -351,7 +351,7 @@ Seth coached developers in a variety of ways, from pairing to brown bags, to ans
 
 "He had mastery of several domains and development best practices, and worked to instill these in other developers on the team. In a Scrummaster role, he was responsible for improving an entire team's delivery and he put in a lot of effort to do that."
 
-Seth proved himself as a natural leader and coach to other developers, able to teach and lead by always being a good example as he consistently solved problems, technical and otherwise.
+Seth proved himself as a natural leader and coach to other developers, able to teach and lead by always being a good example as he consistently solved problems, technical and otherwise. He should proactively look for more opportunities to deliberately do these things in 2018.
 
 "One of the things that stood out about Seth to me was that he led by example. For example, even though he had a lot of higher-level technical responsibilities and tasks, he did not forego all his sprint work and still contributed as a subject matter expert on more detailed development tasks."
 
