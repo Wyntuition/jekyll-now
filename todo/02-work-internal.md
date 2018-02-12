@@ -348,9 +348,10 @@ Went over this:
 - communication
     - Always straightforward and willing and open to having tough conversations. 
     
-    - Consider broader picture when approaching things that affect the whole project. The project has been heavily improved by Sean's work. The path there should be able to be smoothed out more and more as Sean gains experience and applies feedback from his initiatives.
+    - Consider broader picture when approaching things that affect the whole project. The project has been heavily improved by Sean's work. The path there should be able to be smoothed out more and more as Sean gains experience and applies feedback from his initiatives. 
+    - Consider ways to improve communication between non-developers in process of protecting developers.
 
-
+- xPert activities strong, impressively as approaching production on NRECA. 
 
 ## xpert meeting notes
 
