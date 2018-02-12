@@ -72,6 +72,8 @@ Performance criteria
 • Resolution
 • Repetition of the performance that exceeded or fell short
 - Set example for all to aspire? Perf go far beyond expectations
+(Situation, task, action, results)
+
 
 Key info to gather
 - Managing
