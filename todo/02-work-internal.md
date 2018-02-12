@@ -347,8 +347,6 @@ Mentor, coach, architect, analyst
 
 Relationship Management
 
-
-
 -* Seth appears to experience some discomfort with RM and consulting the client. He never really jelled with the primary client, mostly because primary client didn't protect the tech leads from churn. However, his choice to not communicate frustrations with the client and find common ground limited his influence. which leads me to...
 
 - A recommended area of growth is in communication. Rightly or wrongly as a leader Seth has sway over junior developers. He really is good natured and fun to be around, so this may seem strange. He is also good at presenting technical knowledge. Therefore, this is more about client relationships and being careful about the occasional snide comment in slack. (reference: "maybe the partners can tell the server how proud they are of it and sucker it into working weekends"). In one comment he undermined the AO decision to work during go-live and showed a dislike of the partner emails which were requested by the AO. Either way, my comment is about having organizational awareness and taking it upon himself to talk things through when he doesn't agree with a decision."
