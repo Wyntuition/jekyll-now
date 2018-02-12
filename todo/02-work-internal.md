@@ -436,35 +436,18 @@ His xPert output and initatives in non-client work was strong. This was especial
 
 Sean has a lot of impact yet to give as he keeps growing in his natural leadership and strategic abilities. His initiative, vision and attention to detail were big factors in the long-sought launch of RS. Sean has a lot to work with in becoming an effective, technical leader. "While interim results may have been bumpy, he paved the way for the team to enter 2018 without fixed scope releases which has made for a very happy team." Enhanced the project significantly in the long run.
 
+Communication
 
+Sean's communication is excellent. His emails on production issues and the resolution left no questions unanswered. He documents well and makes a habit of writing down when something should be shared knowledge. He very reliably keeps people updated and doesn't overlook anyone.
 
-- communication
+Sean is always willing to have open, important and tough conversations. He is very proactive in reaching out, and his connections and influence were wide-ranging at NRECA. He was able to form relationships with people all around him, quickly becoming the go-to person for Justin Winthers and the head product owner Angel Gill.
 
-Sean is always willing to have open, important and tough conversations. He is very proactive in his communication and keeping people informed in detail. He was able to form relationships with people all around him, quickly became the go-to guy for Justin Winthers and the head product owner Angel Gill.
-    
-
-The project has been heavily improved by Sean's work. Along the way there were things to be improved, such as considering the broader picture when approaching things that affect the whole project. An example would be considering business analysts as well as developers in pushing for process changes. Focus on reviewing his own work, asking the team how they feel about changes, and mold processes that fit the teaem instead of an ideal situation. The path there should be able to be smoothed out more and more as Sean gains experience and applies feedback from these initiatives. 
-
-
-
-    
-
-
-
-
+The NRECA project has been heavily improved by Sean's process work. Along the way there were things to be improved, such as considering the broader picture when approaching things that affect the whole project. An example would be considering business analysts as well as developers in pushing for process changes. Focus on reviewing his own work, asking the team how they feel about changes, and molding processes that fit the teaem instead of an ideal situation. The path there should be able to be smoothed out more and more as Sean gains experience and applies feedback from these initiatives.
 
 Expertise
 
 - Sean draws from a wealth of technical knowledge and is constantly learning. He built a technical roadmap with suggested system improvements which the client used as input to a strategic planning session at NRECA.
 - He is a skilled developer and took on many of the large scale architectural tasks for RSP.
-
-Communication
-
- - Sean's communication is excellent. His emails on production issues and the resolution left no questions unanswered. He documents well and makes a habit of writing down when something should be shared knowledge.
-- Addresses everything in communications
-- Very reliably keeps people updated
-- Sean doesn't overlook anyone
-- Extremely passionate
 
 Team Leadership
 he educated teammates and NRECA on Agile processes; he modeled expected behaviors for a functioning team; and he instilled discipline in team thought and action
