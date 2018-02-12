@@ -426,24 +426,35 @@ Went over this:
 ##### Appraisal
 
 
+Sean 
 
-- proactive
+Proactive in a huge variety of ways, Sean had a very successful year in terms of results. He was a key player is getting the NRECA RS on a track where it could make it to go-live. 
 
-- Eye for process - pivotal in restructuring the NRECA team. Try to see success beyond strict prescriptions of Scrum. 
-- Champion of TDD, CI/CD, and clean code. Ultimately increased the quality of the RS product and helped lead to a successful release.
+Sean pushed persistently and passionly enough to catalyze the serious change so desperately needed. He contributed in all areas, and put in an immense number of hours to ensure the desired results.
+
+He has an eye for process - pivotal in restructuring the NRECA team. He does have to try to see success beyond strict prescriptions of Scrum. He is a champion of TDD, CI/CD, and clean code. Ultimately he increased the quality of the RS product and helped lead to a successful, quality release that had few major issues after production release. He managed this while acting as tech lead with a lot of client interfacing and communicating across the project.
+
+His xPert out was strong. This was especially impressive whole approaching a production deadline at NRECA. This year he can further focus his xPert activities so they build on one another.
+
+Sean has a lot of impact yet to give as he keeps growing in his natural leadership and strategic abilities. His initiative, vision and attention to detail were big factors in the long-sought launch of RS. Sean has a lot to work with in becoming an effective, technical leader.
+
+
+While interim results may have been less effective, he paved the way for the team to enter 2018 without fixed scope releases which has made for a very happy team." Enhanced the project significantly in the long run.
+
 
 - communication
-    - Always straightforward and willing and open to having tough conversations. 
+
+Sean is always willing to have open, important and tough conversations. He is very proactive in his communication and keeping people informed in detail. He was able to form relationships with people all around him, quickly became the go-to guy for Justin Winthers and the head product owner Angel Gill.
     
-    - Consider broader picture when approaching things that affect the whole project. The project has been heavily improved by Sean's work. The path there should be able to be smoothed out more and more as Sean gains experience and applies feedback from his initiatives. 
-    - Consider ways to improve communication between non-developers in process of protecting developers.
-        - Focus on reviewing his own work, asking the team how they feel about changes, and mold processes that fit the teaem instead of an ideal situation.
-    - While interim results may have been less effective, he paved the way for the team to enter 2018 without fixed scope releases which has made for a very happy team." Enhanced the project significantly in the long run
+
+The project has been heavily improved by Sean's work. Along the way there were things to be improved, such as considering the broader picture when approaching things that affect the whole project. An example would be considering business analysts as well as developers in pushing for process changes. Focus on reviewing his own work, asking the team how they feel about changes, and mold processes that fit the teaem instead of an ideal situation. The path there should be able to be smoothed out more and more as Sean gains experience and applies feedback from these initiatives. 
 
 
-- xPert activities strong, impressively as approaching production on NRECA.
 
-- Sean's year overall was impressive, important and undenible. Sean has a lot of impact to give yet, as he grows his natural leadership and strategic abilities. His initiative, vision and attention to detail were big factors in the long-sought launch of RS.
+    
+
+
+
 
 
 Expertise
