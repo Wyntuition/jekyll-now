@@ -150,7 +150,7 @@ ROLE: Consultant > Senior
 
 * Flexibility, initative, results
 
-- Consistently has shown great initiative which have yielded valuable and widesperad results, including side projects, coaching, training materials, related to Ruby, CI/CD and coding best practices. There have been a number of positive results across the E-Verify team as a result, from standardizing testing practices and teaching best practices, to removing bottlenecks.
+Glenn has consistently shown great initiative yielding valuable and broad results, from side projects, coaching, and training materials related to Ruby, CI/CD and coding best practices. There have been a number of positive results across the E-Verify team as a result, from standardized testing practices and teaching best practices, to removing chronic bottlenecks in DevOps.
 
 Glenn has shown promosing growth as a leader. He has shown excellent advancement in technicanl competencies, best practices, and technical leadership skills such as garnering buy-in for technical decisions to coaching across his team. He has consistently coached bootcamp students on Ruby best practices via presentations, workshops and pairing.
 
