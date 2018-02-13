@@ -12,6 +12,7 @@
 ## ASAP
 
 - STORY
+    - no pkeys?
     - before/after, to compare perf of scripts
     - create schema, if not exist (on master nonprod, feature branches)
 
