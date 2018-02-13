@@ -6,16 +6,6 @@
 
 ### ASAP
 
-    - xpert 2018 goals & kick-off hh agenda
-    - xpert plan; progress (AI projs, Jason proj, )
-    - Qcon blogs; radar blogs
-    
-    - Appraisal:
-        - Timeline: 
-        - FB
-            - J
-                - Communicate details of status a bit more, don't assume people just know things or that it would be just as fast to become aware over you telling. Communicate ideas a bit more before starting an initiative. People may have insights that help at that time, and it also fosters buy-in among the team members.
-                - Diplomacy over calling out often works better when leading. Touchy responses can cause people to approch less.
 
 
 - update PD policy? (linked from appraisal) https://excellaco.sharepoint.com/internal/HR/teamsite/Excella%20Employee%20Guide/Professional%20Development.aspx
