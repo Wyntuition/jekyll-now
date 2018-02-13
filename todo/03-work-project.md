@@ -4,14 +4,13 @@
 
     ThisPlaceIsCrazyxxx!
 
-    
-    - info about auditing and reporting -- VQ? What SAVE data needed to mod?
+
+
+
 
 
 ## ASAP
 
-- case status test, #'s ,etc
-- resource use in jenkins, locks?
 - STORY
     - before/after, to compare perf of scripts
     - create schema, if not exist (on master nonprod, feature branches)
@@ -20,24 +19,13 @@
     -* refactor etl_prep.sql (no update, right place?)
 
 
-    ERROR:  cannot drop constraint employment_decision_pkey on table preview_mod.employment_decision because other objects depend on it
-DETAIL:  constraint coa_code_employment_decision_id_fkey on table preview_mod.coa_code depends on index preview_mod.employment_decision_pkey
+- info about auditing and reporting -- VQ? What SAVE data needed to mod?
+- case status test, #'s ,etc
+- resource use in jenkins, locks?
 
 
 
--**
---[2018-02-07 20:38:24] STARTING SCRIPT V4400__cr8_dhs_resolution_map_second_step.shpsql:<stdin>:11: ERROR:  null value in column "mod_dhs_resolution_code_id" violates not-null constraint
-DETAIL:  Failing row contains (1, A, null, null).
-xxx_results: 1
-Script not run?
-
-
-
-- sch docker ws
-- ? need db auditing in mod?
-- [Jenn
-
-- story
+- older story
     -? degredation in perf
 
     - [w] drop index, constraints and foreign key drop/create scripts
