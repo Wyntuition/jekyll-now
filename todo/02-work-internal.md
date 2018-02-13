@@ -150,11 +150,13 @@ ROLE: Consultant > Senior
 
 Flexibility, initative, results
 
-Glenn has consistently shown great initiative, proactively taking on tasks yielding valuable and broad results, from side projects, coaching, and training materials related to Ruby, CI/CD and coding best practices. There have been many positive results across the e-verify team as a result, from standardized testing practices and teaching best practices, to removing chronic bottlenecks in DevOps.
+Glenn has consistently shown great initiative, proactively taking on tasks yielding valuable and broad results, from side projects, coaching, and training materials related to Ruby, CI/CD and coding best practices. There have been many positive results across the e-verify team as a result, from standardizing testing practices and teaching best practices, to removing chronic bottlenecks in DevOps.
 
-Glenn has shown promising growth as a leader and excellent advancement in technicanl competencies, best practices. Technical leadership skills he has shown include garnering buy-in for technical decisions, championing best practices and coaching across his team. He has consistently coached bootcamp students on Ruby best practices via presentations, workshops and pairing, and generally going above and beyond with things like a React side project to learn and teach best practices.
+Glenn has shown promising growth as a leader and excellent advancement in technicanl competencies and best practices. Technical leadership skills he has shown include garnering buy-in for technical decisions, championing best practices, coaching and raising capabillities across his team. He has coached bootcamp students on Ruby best practices via presentations, workshops and pairing, generally going above and beyond with things like a React side project to learn and teach best practices.
 
-He is showing technical maturity with his ramping up in test strategy, learning the delicate balance of unit tests, to other automated tests and manual tests. Glenn should keep trying to apply best practices more and more to his own work, and learn some of the implementation patterns that will keep coming up as he applies them in new and wider places.
+He is showing technical maturity with his depth in test strategy, learning the delicate balance of unit tests, to other automated tests and manual tests. Glenn should keep trying to apply best practices more and more to his own work, and learn some of the implementation patterns that will keep coming up as he applies them in new and wider places.
+
+The number of relevant intitatives Glenn has taken on is impressive, and he has a lot to build on in React best practices, automated testing strategy, creating pipelines, TDD and other practices. Contining on these will provide many more technical leadership opportunities Glenn will effectively take advantage of.
 
 Accountability
 
@@ -192,16 +194,14 @@ Glenn is engaged, provides good input to team discussions and is always willing 
 
 "He works well with others and brings a strong work ethic and a positive attitude to the table."
 
-Lastly, Glenn brings a really positive attitude to work. Even while E-Verify is under immense pressure, he remains positive and continues making light-hearted jokes, which is important to the morale and culture of his team.
+Glenn brings a really positive attitude to work. Even while E-Verify is under immense pressure, he remains positive and continues making light-hearted jokes, which is important to the morale and culture of his team.
 
 
 RM
 
 Glenn pushed for rebooting the NoVA Elixir Meetup, provided workshops and content, and was able to connect with more senior Ruby developers and the Ruby commnuity more broadly in doing so.
 
-Glenn represents himself well in client meetings. He always asks thought provoking questions in refinement and planning meetings in front of the client. 
-
-Related, he does a really good job explaining some tough technical concepts to our Product Owner from a business value perspective."
+Glenn represents himself well in client meetings. He always asks thought provoking questions in refinement and planning meetings in front of the client. He also does a really good job explaining some tough technical concepts to our Product Owner from a business value perspective.
 
 
 
