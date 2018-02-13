@@ -66,6 +66,15 @@
 
 #### Apraisal Notes
 
+Performance criteria
+- Intent
+• Impact
+• Resolution
+• Repetition of the performance that exceeded or fell short
+- Set example for all to aspire? Perf go far beyond expectations
+(Situation, task, action, results)
+
+
 Key info to gather
 - Managing
     - Mentoring people? Coaching people? Get feedback from those folks. Interviewing?
@@ -135,6 +144,66 @@ Todo:
 - xpert agenda send out (see notes below)
 - Glenn's agenda
 
+##### Appraisal, 3rd party Feedback
+
+ROLE: Consultant > Senior
+
+Flexibility, initative, results
+
+Glenn has consistently shown great initiative, proactively taking on tasks yielding valuable and broad results, from side projects, coaching, and training materials related to Ruby, CI/CD and coding best practices. There have been many positive results across the e-verify team as a result, from standardizing testing practices and teaching best practices, to removing chronic bottlenecks in DevOps.
+
+Glenn has shown promising growth as a leader and excellent advancement in technicanl competencies and best practices. Technical leadership skills he has shown include garnering buy-in for technical decisions, championing best practices, coaching and raising capabillities across his team. He has coached bootcamp students on Ruby best practices via presentations, workshops and pairing, generally going above and beyond with things like a React side project to learn and teach best practices.
+
+He is showing technical maturity with his depth in test strategy, learning the delicate balance of unit tests, to other automated tests and manual tests. Glenn should keep trying to apply best practices more and more to his own work, and learn some of the implementation patterns that will keep coming up as he applies them in new and wider places.
+
+The number of relevant intitatives Glenn has taken on is impressive, and he has a lot to build on in React best practices, automated testing strategy, creating pipelines, TDD and other practices. Contining on these will provide many more technical leadership opportunities Glenn will effectively take advantage of.
+
+Accountability
+
+Glenn started an initative to help accountibility, with an experiment where people were using 20% of their time for professional development. He created a tool to help track the capabillities gained during the professional development. This is a very creative way to approach accountability on the team. He maintained consistent and impactful independent contributions on a day to day basis.
+
+Expertise
+
+"I was extremely impressed with how quickly he picked up not only the technical aspects of the project, but also the business process and bigger picture."
+
+Glenn serves as a resource for task execution and/or troubleshooting efforts that require advanced technical skills. He is known to be skilled in Ruby, automated testing and various best practices.
+
+Glenn dives deep into certain areas that have benefitted the team as a whole, including documentation to help share knowledge. He dove deep into React when learning the need, and came away with best practices to share. He hasn't had too much time with React, so he should keep going deeper to get the most in-depth and translatable learning. Expand REST expertise to complimentary tech such as cloud (i.e. deploying APIs on cloud, using serverless).
+
+"Related to picking up new technologies, Glenn has an obvious thirst for self-improvement and learning, which he has made a part of the culture of his team."
+
+Communication
+
+With occasional guidance, prepares and/or presents technical and/or non-technical information to internal and/or external stakeholders, via verbal or written (e.g., reports, emails) means.
+
+Demonstrates self-awareness of one's own verbal and nonverbal messages and appropriately responds to nonverbal messages of others when conversing.
+
+He has demonstrated effective communication during his knowledge sharing on test mocking/stubbing/etc to help standardize across multiple teams.
+
+Planning and execution
+
+Working with DevOps to learn about creating pipelines and removing bottlenecks took good planning and execution, especically since it was in addition to his regular workload. He showed leadership in running a side project to train new Ruby developers. Along with his other initiatives, he was effective and productive in many areas while not letting quality suffer.
+
+Teamwork
+Glenn Sr: Coordinates work activities with other team members in a
+collaborative manner, often serving in an advisory or developmental
+capacity with team members. Reinforces team accountability and
+cohesion.
+
+Glenn is engaged, provides good input to team discussions and is always willing to help. He has often served in an advisory role in pairing about automated testing, TDD and doing code reviews. He has been an extremely collaborative and cohesive member, adding much in the way of technical coaching.
+
+"He works well with others and brings a strong work ethic and a positive attitude to the table."
+
+Glenn brings a really positive attitude to work. Even while E-Verify is under immense pressure, he remains positive and continues making light-hearted jokes, which is important to the morale and culture of his team.
+
+
+RM
+
+Glenn pushed for rebooting the NoVA Elixir Meetup, provided workshops and content, and was able to connect with more senior Ruby developers and the Ruby commnuity more broadly in doing so.
+
+Glenn represents himself well in client meetings. He always asks thought provoking questions in refinement and planning meetings in front of the client. He also does a really good job explaining some tough technical concepts to our Product Owner from a business value perspective.
+
+
 
 
 #### Seth
@@ -189,6 +258,85 @@ Appraisal, 1/2018
 - Hard to understand right ways when there is a evolution of Rails approahces
 - Does think managing people is a natural progression for him
 - Overwhelmed by learning new business domain, and stack, and logistics 
+
+##### Appraisal notes, 3rd party, what to go on form
+
+Seth contributed in a multitude of ways and roles in 2017, including as a senior developer, Scrum Master, tech lead, and xPert. Seth knew his client, NRECA, was pushing for go-live, so through pragmatic, smart and hard-working approaches, Seth was a key contributor to making this happen, while coaching his teammates, interfacing with the client, and relevant delivering xPert content such his talk Entity Framework Core, where he showcased Microsoft's new open-source ORM.
+
+"Seth is intelligent, hard-working, professional, and a good teammate." At NRECA, Seth worked with developers coaching them technically, and with business analysts and stakeholders to analyze stories and provide feedback on scope and priorities.
+
+Seth owned Billing requirements and techincal implementation, yielding a very critical, financially sensitive functionality successfully free of significant bugs.
+
+His flexibility was stellar in dealing with a client difficult to influence, resulting in long hours for extended periods. He was central in enabling a successful product in a crunched timeframe.
+
+Seth kept focus on pushing the product towards go live, and after an intense and strategic effort, this happened successfully in the face of opposing odds. Seth stayed very late for multiple days until issues were resolved, knowing that they had to be resolved as quickly as possible, even as the client was pushing for additional unreasonable results. Over a 3 day period, Seth logged 35.5 hours to run comparisons, fix defects, and answer questions.
+
+The primary BA indicated that without Seth's in depth knowledge of the code and his analytical thinking, the resolution period would have been much longer. Thanks to Seth NRECA declared the code freeze on schedule.
+
+"Even as scrum master, Seth delivered story points. He led his team by being a good teammate."
+
+After a tough road at NRECA, Seth was willing to switch stacks to join the myUSCIS team and fill a need there.
+
+Among all of this, Seth lead getting the Tech Update newsletter up and running and then brought a team of editors up to speed to help and, eventually take over.
+
+Accountability
+
+Seth put in long hours, reliably got tough techincal issues solved, owned responsibility for his team delivering,sometimes meaning long hours and/or tough conversations with stakeholders. Seth filled a plethora of roles necessary to get the complex NRECA project to completion, and always got his work done in a timely manner.
+
+"I witnessed Seth push himself beyond the breaking point in the service of NRECA's go live, putting in crucial hours & skill to make sure that the operation would be a success."
+
+Expertise
+
+Seth grew as a technical expert and leader in 2017, on the client in many ways, and in xPert initatives with steady, quality output.
+
+His experise also reached into the business domain, where he became a go-to person because he could related the business processess to the technical, and explain techincal things in terms non-technical people could understand.
+
+"Seth often picked up system issues and resolved them in a timely manner (e.g., TEST not working...build pipeline broken...upgrade to a new version of Visual Studio). He exhibited expertise both within the app and external to it."
+
+Consider building on your current EF Core focus, by either going deeper with related projects, or wider with related components of things used with it like ASP.NET Core, various data stores it can work with or Azure (just examples). Also look into practicing and growing leadership skills learned from The Manager's Path and other resources (such as Radical Candor) by finding opportunities to put some of the techniques into practice. This will complement technical leadership nicely. Practice approaching the client with technical questions or things to share with them, in order to increase your expertise and value to them.
+
+Communication
+
+Seth had various conversations with the client about deployments, hotfixes, etc. and he made sure to communicate clearly and often.
+
+He is also good at presenting technical knowledge, and more junior developers find him approachable. He is willing to respond to help whenever needed.
+
+He should work on proactive communication, such as checking in with people without a specific reason, such as just to see how mentees are doing, how the client is doing, and regular check-ins with the folks around you. This is especially true for the people who he has some influence on, to maintain connection so when collaboration is needed it is easier.
+
+Planning and Execution
+
+Seth was able to produce xPert products while working an intense schedule to get the NRECA RS project live. The results were successes in both areas. It is a testament to Seth's organization skills that he was able to have such a contribution to the release of the RS project, and having external impect with xPert initiatives and the tech newsletter.
+
+Teamwork
+
+Seth is respected and valued as a mentor, coach, architect and technical liasion at NRECA. He was able to be effective within any team, and was often effective across teams and for the client. He set an example in many ways, from conducting good practices, working long hours, to diving into tough technical and business problems.
+
+Relationship Management
+
+Seth took many opportunities to connect and build relationships with his teammates and stakeholds on NRECA in 2017, and is growing in this area. Seth had great relationships with his fellow developers. The junior developers looked up to him and learned a lot from his positive examples, appreciating that he is really is good natured and fun to be around. 
+
+Seth appears to experience some discomfort with RM and consulting the client. He should try to build a stronger relationship with a client, for example more frequently communicating frustrations with the client and finding common ground. Try to be more sensitive to organizational awareness and taking it upon himself to talk things through when he doesn't agree with a decision, instead of making one-off disapproving remarks.
+
+Seth should continue his work in the community, building himself as a subject matter expert in Entity Framework Core and the ecosystem around it. A thought leader in the growing cloud industry this technology supports will further grow Seth's reputation as a thought leader.
+
+Team Vision, Alignment, and Execution
+
+Seth has proven he knows the right thing in the right situation to most effectively add value to the team. He dives into the business domain as he knows he will have to address technical implications that arise from business needs, and he bridges the technical/business gaps. By doing these things he provides a critcal service in preventing problems, reducing risk in changing the software, and ensuring the teams are working on the right things.
+
+He contributed technical leadership in a variety of ways at NRECA. He owned the Billing techincal solution and functionality, yielding a very critical, financially-sensitive product successfully, with few bugs. Considering the complexity, it was quite a feat. Seth served as the Technical Lead and Scrum Master for another development team, where he looked after the technical output and their overall technical vision, keeping them delivering the right things in a quality way.
+
+Seth became the go-to person for tough problems critical to solve in a timely manner, to when developers didn't understand something technically, to when the implications of a functionality change would affect another part of the system. He was central in getting all the pieces together for a successful execution of getting RS live. He truely was glue that kept everything together.
+
+Team Member Growth
+
+Seth coached developers in a variety of ways, from pairing to brown bags, to answering the tough questions He also helped analysts grow in the technical implications of a variety of business approaches. Seth enabled junior developers to be more productive with more quality work by coaching them regularly.
+
+"He had mastery of several domains and development best practices, and worked to instill these in other developers on the team. In a Scrummaster role, he was responsible for improving an entire team's delivery and he put in a lot of effort to do that."
+
+Seth proved himself as a natural leader and coach to other developers, able to teach and lead by always being a good example as he consistently solved problems, technical and otherwise. He should proactively look for more opportunities to deliberately do these things in 2018.
+
+"One of the things that stood out about Seth to me was that he led by example. For example, even though he had a lot of higher-level technical responsibilities and tasks, he did not forego all his sprint work and still contributed as a subject matter expert on more detailed development tasks."
+
 
 #### Sean
 
@@ -250,14 +398,64 @@ Went over this:
 - Discuss other projects (xpert, etc)
 
 
+##### Appraisal
+
+
+Sean 
+
+Proactive in a huge variety of ways, Sean had a very successful year in terms of results and broad areas he affected. He was a key player is getting the NRECA RS on a track where it could make it to go-live, and he went beyond external xPert activities in conributing to Excella and the community. He is an example in leadership growth, initaitve, flexiblility in different roles, tasks and visions, and big picture and results-oriented thinking.
+
+Sean pushed persistently and passionly enough to catalyze the serious change so desperately needed at NRECA. He contributed in all areas, and put in an immense number of hours to ensure the desired results. He has an eye for process - pivotal in restructuring the NRECA project in critical ways. He was a champion of TDD, CI/CD, and clean code. Ultimately he increased the quality of the RS product and helped lead to a successful, quality release that had few major issues after production release. He managed this while acting as tech lead with a lot of client interfacing and communicating across the project.
+
+His xPert output and initatives in non-client work was strong. This was especially impressive whole approaching a production deadline at NRECA. This year he can further focus his xPert activities so they build on one another.
+
+Sean has a lot of impact yet to give as he keeps growing in his natural leadership and strategic abilities. His initiative, vision and attention to detail were big factors in the long-sought launch of RS. Sean has a lot to work with in becoming an effective, technical leader. "While interim results may have been bumpy, he paved the way for the team to enter 2018 without fixed scope releases which has made for a very happy team." Enhanced the project significantly in the long run.
+
+Communication
+
+Sean's communication is excellent. His emails on production issues and the resolution left no questions unanswered. He documents well and makes a habit of writing down when something should be shared knowledge. He very reliably keeps people updated and doesn't overlook anyone.
+
+Sean is always willing to have open, important and tough conversations. He is very proactive in reaching out, and his connections and influence were wide-ranging at NRECA. He was able to form relationships with people all around him, quickly becoming the go-to person for Justin Winthers and the head product owner Angel Gill.
+
+The NRECA project has been heavily improved by Sean's process work. Along the way there were things to be improved, such as considering the broader picture when approaching things that affect the whole project. An example would be considering business analysts as well as developers in pushing for process changes. Focus on reviewing his own work, asking the team how they feel about changes, and molding processes that fit the teaem instead of an ideal situation. The path there should be able to be smoothed out more and more as Sean gains experience and applies feedback from these initiatives.
+
+Expertise
+
+Sean draws from a wealth of technical knowledge and is constantly learning. He built a technical roadmap with suggested system improvements which the client used as input to a strategic planning session at NRECA. He is a skilled developer and took on many of the large scale architectural tasks for RSP.
+
+He continues to build his in-depth knowledgebank, adding graph databases to Akka among some of the more niche things he's focued on. He should choose a single or a few specific technologies to go deep into in 2018, as this depth readily transfers and increases the speed to learning other things.
+
+Team Vision, Alignment, and Execution
+
+Sean was pivotal in changing processes and culture at NRECA, enabling the teams to complete the project. He was able to relentlessly fight until fundamental changes could be tried that allowed for sustainable, quality work from the developers. This turned out to ultimately be a key strategy in getting the project to go-live.
+
+He does have to try to see success possibilities beyond using strict prescriptions of Scrum. Every team is different no matter what Scrum approaches have worked in the past, and there are a plethora of things that might be best for a team.
+
+He should reach out proactively to other leaders, such as client and Excella leads, to foster more buy-in before pushing unilaterally for widespread change. Any type of change is usually wrought with more political hurdles than first meet the eye.
+
+Sean enabled the team in so many ways to make this incredibly long project finally get to completion. He knew he had to focus on broader vision, cross-team alignment, and making it all work together to output a great product. He was able to shift his roles and contribute in many critical areas, being quite a force for change and execution. All while coordinating so much, he was also able to contribute to the team technically.
+
+Team Memeber Growth
+
+Sean educated teammates and NRECA on Agile processes, he modeled expected behaviors for a functioning team, and he instilled discipline in team thought and action. He inspired team to be the best they can.
+
+"He also has pushed me very hard to improve rapidly. And it has genuinely made a huge difference."
+
+"He is always there when I need a question answered. He always pings me to say hi, assures me my questions are important, always listens with a smile as long as I need to vent, always points me in the right direction." 
+
+"He’s also been a fierce advocate for my career as a developer. He’s pointed me to specific skills and projects and experiences he thinks I should learn or use or work on."
+
+He should work on when to defer and when leading is most effective for everyone and the project. Taking every action on himself for follow-up sometimes crosses into others' responsibility areas, may prevent opportunities for others and sets an example of overwork. At times he takes on too much work.
+
+He should look for times when he should step out and let others take control. Sean has the ability to manage many different concepts but that could hurt him focus or take on larger initiatives if he continuously takes sole responsibility of smaller tasks.
+
+
+
 
 
 
 
 ## xpert meeting notes
-
-
-xpert notes:
 
 - xpert agenda send out, discussions with themes (i.e. 6 month plan, upcoming themes & trends, personal project)
     - Clear outcomes.
