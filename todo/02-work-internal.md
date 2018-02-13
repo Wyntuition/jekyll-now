@@ -180,6 +180,7 @@ He has demonstrated effective communication during his knowledge sharing on test
 
 Planning and execution
 
+Working with DevOps to learn about creating pipelines and removing bottlenecks took good planning and execution, especically since it was in addition to his regular workload. He showed leadership in running a side project to train new Ruby developers. Along with his other initiatives, he was effective and productive in many areas while not letting quality suffer.
 
 Teamwork
 Glenn Sr: Coordinates work activities with other team members in a
