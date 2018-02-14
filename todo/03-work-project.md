@@ -11,6 +11,9 @@
 
 ## ASAP
 
+- compoare query plan of normal vs doc one, with func. 
+    - remove funcs.
+
 - fail on constraint/index failre
 - STORY
     - no pkeys? Need to clear stats to get right indexes (i.e. ch.login_id)
