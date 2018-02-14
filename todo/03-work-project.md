@@ -12,7 +12,7 @@
 ## ASAP
 
 - STORY
-    - no pkeys?
+    - no pkeys? Need to clear stats to get right indexes (i.e. ch.login_id)
     - before/after, to compare perf of scripts
     - create schema, if not exist (on master nonprod, feature branches)
 
