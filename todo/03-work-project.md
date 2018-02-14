@@ -13,7 +13,7 @@
 
 - compoare query plan of normal vs doc one, with func. 
     - remove funcs.
-    - index on mod case header?
+    - index on mod case header/etc?
 
 - fail on constraint/index failre
 - STORY
