@@ -447,6 +447,14 @@ He should look for times when he should step out and let others take control. Se
 
 ## xpert meeting notes
 
+- xperts > trello > fadi, tied to Jeff's initatives. 
+    - Prep for 
+        - new projects
+        - RFP responses
+        - showcases
+        - build capabilities
+        - Hold each other accountable
+        - Collab with other service areas
 - xpert agenda send out, discussions with themes (i.e. 6 month plan, upcoming themes & trends, personal project)
     - Clear outcomes.
         - Review our progress
