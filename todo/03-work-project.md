@@ -4,10 +4,10 @@
 
     ThisPlaceIsCrazyxxx!
 
+- case status test, #'s ,etc
 - compoare query plan of normal vs doc one, with func. 
     - remove funcs.
     - index on mod case header/etc?
-- case status test, #'s ,etc
 
 ## ASAP
 
