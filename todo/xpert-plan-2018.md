@@ -1,7 +1,7 @@
 # Goals for 2018
 
 +BD-oriented early (ie blog posts
-    +we teach, workshops, etc.
+    +business prob; we teach, workshops, etc.
 
 SUMAMRY:
 
