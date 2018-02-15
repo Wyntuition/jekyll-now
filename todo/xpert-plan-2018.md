@@ -1,6 +1,7 @@
 # Goals for 2018
 
-+BD-oriented early (ie blog posts)
++BD-oriented early (ie blog posts
+)
 
 SUMAMRY:
 
