@@ -6,6 +6,11 @@
 
 ### ASAP
 
+- Docker WS marketing: on cal, to Docker contacts if they can send any clients, 
+- Sponsor, Docker Summit
+- upload zoom (Chrinstine's)
+
+- cert with Docker, 
 
 
 - update PD policy? (linked from appraisal) https://excellaco.sharepoint.com/internal/HR/teamsite/Excella%20Employee%20Guide/Professional%20Development.aspx

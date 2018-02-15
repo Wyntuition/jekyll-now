@@ -5,10 +5,6 @@
     ThisPlaceIsCrazyxxx!
 
 
-
-
-
-
 ## ASAP
 
 - compoare query plan of normal vs doc one, with func. 
