@@ -2,19 +2,30 @@
 
 Microservices promise many benefits that are of interest to application architects and development teams, including fluid, flexible delivery of changes, implementation technology flexibility, precise scalability and cloud readiness.
 
-Most organisations will find microservices too complex, expensive and disruptive to deliver a return on the investment required. Meanwhile, organisations can derive tremendous value from the miniservices model, which advocates a more pragmatic, coarse-grained services approach with relaxed architectural constraints. 
+## Archiectural Choices
 
-Benefits
+- SPECTRUM: Monolith ... hybrid services ...  microservices
+- Most organisations will find microservices too complex, expensive and disruptive to deliver a return on the investment required. 
+- Meanwhile, organisations can derive tremendous value from the miniservices model, which advocates a more pragmatic, coarse-grained services approach with relaxed architectural constraints. 
 
-Examples of where to do it
+## Benefits
 
-  - Most volitile areas, most needing of scaling and agile delivery
+## Drawbacks
 
-Options of approaches
+## Examples of where to do it
 
-Drawbacks
+- Most volitile areas, most needing of scaling and agile delivery
 
-Questions to Ask
+## Options of approaches
+
+
+## Questions to Ask
+
+- What is the nature and size of your software project? 
+
+Q: What is the experience level of your team(s)?
+
+A: 
 
 - Determine whether your organisation is mature enough to adopt microservices. Do you have a strong application architecture practice? Do you have a mature agile and DevOps practice? Will your data management team support it?
 
