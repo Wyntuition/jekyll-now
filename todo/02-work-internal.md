@@ -29,6 +29,13 @@
 In deploying apps that have been containerized, you have a lot to think about regarding what to use in production. There are a lot of things to manage, so orchestrators become a huge help. providing many services together such as scheduling, container communication, scaling, health, and more. There are major platforms to consider from Kubernetes, Swarm to ECS. In this talk we'll go through the overview of orchestrators and some of the differences between the big players. You should come out of the talk knowing where to go next in determining your orchestrator needs.
 
 
+## SDSA, Fadi check-ins
+
+UPDATES:
+
+- DockerCon, Docker Gov Summit; docker workshops, orchestration presentation
+- plan
+
 ## INFO
 
 ### PTO Balance: 12/28/17: 75.5
