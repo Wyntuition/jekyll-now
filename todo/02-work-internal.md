@@ -237,7 +237,7 @@ Appraisal, 1/2018
 
 
 - Meeting
-    - as lead, need to work on COMM: He should work on proactive communication, such as checking in with people without a specific reason, such as just to see how protégées are doing, how the client is doing, and regular check-ins with the folks around you. This is especially true for the people who he has some influence on, to maintain connection so when collaboration is needed it is easier.
+    - as lead, need to work on COMM: He should work on proactive communication (practice), such as checking in with people without a specific reason, such as just to see how protégées are doing, how the client is doing, and regular check-ins with the folks around you. This is especially true for the people who he has some influence on, to maintain connection so when collaboration is needed it is easier.
 
 2/6/18 Meeting with Reena & Suzanne
 
