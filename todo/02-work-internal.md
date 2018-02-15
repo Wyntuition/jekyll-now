@@ -35,6 +35,7 @@ UPDATES:
 
 - DockerCon, Docker Gov Summit; docker workshops, orchestration presentation
 - plan
+- PROJECTS: chatbot, orchestration w/microservices sandbox w/all the fun stuff
 
 ## INFO
 
