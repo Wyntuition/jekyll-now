@@ -60,7 +60,7 @@ In deploying apps that have been containerized, you have a lot to think about re
     - How's it going towards your goals?
     - tech, not
     - Where are you looking to go?
-- PD: review where you're at
+- PD: review where you're at, development plan
 - Discuss other projects (xpert, etc)
 - Praise
 
