@@ -4,6 +4,7 @@
 
     ThisPlaceIsCrazyxxx!
 
+-refresh issue, index create issue
 - case status test, #'s ,etc
 - compoare query plan of normal vs doc one, with func. 
     - remove funcs.
