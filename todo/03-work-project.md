@@ -5,6 +5,7 @@
     ThisPlaceIsCrazyxxx!
 
 -refresh issue, index create issue
+    -clean up old schemas on nonprod
 - case status test, #'s ,etc
 - compoare query plan of normal vs doc one, with func. 
     - remove funcs.
