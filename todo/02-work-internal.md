@@ -31,40 +31,38 @@ In deploying apps that have been containerized, you have a lot to think about re
 
 ## INFO
 
-### Check-ins
+### PTO Balance: 12/28/17: 75.5
+
+### Report notes
+
+#### Check-ins
 
     * Seth- Call: 3rd Wednesday @4, Meet: 1st Wed @12
     * Sean- Call: 1st Thursday @4???, Meet: 3rd Wed @12
     * Dane - Meet: 1st & 3rd Mon @ 12?
     * Glenn - Meet: 1st & 3rd Tuesday @ 12?
 
-### Check-in topics & questions
+#### Check-in topics & questions
 
 [FIRST/PERODIC]
 - [How often meet?
 - What kind of feedback do you want?
-- Please provide any feedback/criticism for me? Share some that I learned.
-    
+- Please provide any feedback/criticism for me? Share some that I learned. What could I do differently to further help you?
+
 [REGULAR]
+
 - Feedback from others, myself; feedback for me
-- Project chat (status, satisfaction); BD
-- career prospects, etc.
+- Project chat
+    - status
+    - satisfaction
+    - BD
+- Career
+    - How's it going towards your goals?
     - tech, not
-    - exp in product dev
+    - Where are you looking to go?
 - PD: review where you're at
-- Career dev: where are you looking to go?
 - Discuss other projects (xpert, etc)
 - Praise
-
-
-### PTO Balance:
-
-    - 12/28/17: 75.5
-
-
-
-
-### Report notes
 
 #### Apraisal Notes
 
@@ -76,18 +74,16 @@ Performance criteria
 - Set example for all to aspire? Perf go far beyond expectations
 (Situation, task, action, results)
 
-
 Key info to gather
 - Managing
     - Mentoring people? Coaching people? Get feedback from those folks. Interviewing?
-- People 
+- People
     - Account manager, team, previous manager
 
 Development Plan
 • Goals for next year (Job/Role/Project Goals)
 • Development Goals (Competency-based Goals); and/or
 • Stretch Goals for Professional Development/Career Advancement.
-
 
 
 #### Dane
@@ -111,6 +107,9 @@ Appraisal 1/2018
                     Emily Muth <Emily.Muth@excella.com>; (BA on Serenity)
                     Suzanne Ohlhausen <Suzanne.Ohlhausen@excella.com>; (Tech Lead on Serenity)
                     Logan Glantz <logan.glantz@excella.com>; (Designer on Serenity)
+
+
+
 
 
 #### Glenn
