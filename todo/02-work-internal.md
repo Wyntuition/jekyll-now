@@ -239,6 +239,10 @@ Appraisal, 1/2018
 - Meeting
     - as lead, need to work on COMM: He should work on proactive communication (practice), such as checking in with people without a specific reason, such as just to see how protégées are doing, how the client is doing, and regular check-ins with the folks around you. This is especially true for the people who he has some influence on, to maintain connection so when collaboration is needed it is easier.
 
+    - RM: Seth appears to experience some discomfort with RM and consulting the client. He should try to build a stronger relationship with a client, for example more frequently communicating frustrations with the client and finding common ground. Try to be more sensitive to organizational awareness and taking it upon himself to talk things through when he doesn't agree with a decision, instead of making one-off disapproving remarks.
+
+    Seth should continue his work in the community, building himself as a subject matter expert in Entity Framework Core and the ecosystem around it. A thought leader in the growing cloud industry this technology supports will further grow Seth's reputation as a thought leader.
+
 2/6/18 Meeting with Reena & Suzanne
 
 ?'s 
