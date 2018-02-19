@@ -1,13 +1,5 @@
 # Goals for 2018
 
-+BD-oriented early (ie blog posts
-    +business prob; we teach, workshops, etc.
-- Agenda
-    - Review initatives (slide).
-    - Review our plans. Summary.
-    - Discuss DDSA desired initatives / survey of interests & project ideas.
-    - Create tasks / next steps.
-
 SUMAMRY:
 
 Continue focusing on going deep into containers and outputting workshop, tutorial and presentation artifacts. Expand into a deployment workshop, as this is the logical next step with a lot of demand and need.
