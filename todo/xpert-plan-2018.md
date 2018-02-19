@@ -1,5 +1,10 @@
 # Goals for 2018
 
+- INTERNAL HACKATHON FOR OS IDEAS;
+- Example microservices - Ruby, Python; (Chirs)
+- Case studies (verification, myUSIS, etc; reusable content) (Chris)
+- Excella Central
+
 
 
 SUMAMRY:
