@@ -2,6 +2,11 @@
 
 +BD-oriented early (ie blog posts
     +business prob; we teach, workshops, etc.
+- Agenda
+    - Review initatives. Slide.
+    - Review our plans. Summary.
+    - Survey of interests & project ideas.
+    - Create tasks.
 
 SUMAMRY:
 
