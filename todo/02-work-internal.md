@@ -4,6 +4,14 @@
 
 ### TODAY
 
+- DDSA strategy meeting agenda:
+    +BD-oriented early (ie blog posts
+    +business prob; we teach, workshops, etc.
+    - Review initatives (slide).
+    - Review our plans. Summary.
+    - Discuss DDSA desired initatives / survey of interests & project ideas.
+    - Create tasks / next steps.
+
 ### ASAP
 
 - Docker WS marketing: on cal, to Docker contacts if they can send any clients, 
