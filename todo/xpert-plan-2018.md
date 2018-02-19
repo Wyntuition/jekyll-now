@@ -6,7 +6,7 @@
     - Review initatives (slide).
     - Review our plans. Summary.
     - Discuss DDSA desired initatives / survey of interests & project ideas.
-    - Create tasks / next steps
+    - Create tasks / next steps.
 
 SUMAMRY:
 
