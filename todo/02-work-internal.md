@@ -17,8 +17,6 @@
 
 + docker notes: see VM file system, docker run --rm -it -v /:/vm-root alpine:edge ls -l /vm-root
 
-+ Q's fo Jenn:
-    - What have been the biggest challanges on the project? Experience? Performance? Reqs? Client vs staff?
 
 ## PROJECTS
 
