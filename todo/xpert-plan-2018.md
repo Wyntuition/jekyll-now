@@ -1,10 +1,12 @@
 # Goals for 2018
 
-- INTERNAL HACKATHON FOR OS IDEAS;
+- INTERNAL HACKATHON FOR OS IDEAS (Chris)
 - Example microservices - Ruby, Python; (Chirs)
 - Case studies (verification, myUSIS, etc; reusable content) (Chris)
 - Excella Central
-- .net new stuff
+- .net new stuff, WS/training, .NET radar updated
+- JS tech radar
+- Chatbot (DU)
 
 
 SUMAMRY:
