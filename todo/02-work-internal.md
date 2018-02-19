@@ -6,7 +6,7 @@
 
 - DDSA strategy meeting agenda:
     +BD-oriented early (ie blog posts
-    +business prob; we teach, workshops, etc.
+        +business prob; we teach, workshops, etc.
     - Review initatives (slide).
     - Review our plans. Summary.
     - Discuss DDSA desired initatives / survey of interests & project ideas.
