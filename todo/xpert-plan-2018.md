@@ -7,6 +7,7 @@
 - .net new stuff, WS/training, .NET radar updated
 - JS tech radar
 - Chatbot (DU)
+- Java showcase, radar (Cici)
 
 
 SUMAMRY:
