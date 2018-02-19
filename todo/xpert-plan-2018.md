@@ -4,10 +4,9 @@
     +business prob; we teach, workshops, etc.
 - Agenda
     - Review initatives (slide).
-    - Discuss DDSA desired initatives.
     - Review our plans. Summary.
-    - Survey of interests & project ideas.
-    - Create tasks.
+    - Discuss DDSA desired initatives / survey of interests & project ideas.
+    - Create tasks / next steps
 
 SUMAMRY:
 
