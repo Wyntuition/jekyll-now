@@ -4,7 +4,7 @@
 - Example microservices - Ruby, Python; (Chirs)
 - Case studies (verification, myUSIS, etc; reusable content) (Chris)
 - Excella Central
-
+- .net new stuff
 
 
 SUMAMRY:
