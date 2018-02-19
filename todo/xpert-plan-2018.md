@@ -1,5 +1,7 @@
 # Goals for 2018
 
+
+
 SUMAMRY:
 
 Continue focusing on going deep into containers and outputting workshop, tutorial and presentation artifacts. Expand into a deployment workshop, as this is the logical next step with a lot of demand and need.
