@@ -5,7 +5,7 @@
     ThisPlaceIsCrazyxxx!
 
 - DOC
-    - draw out sequence
+    - draw out sequence; why seq scan on cvi?
     - compoare query plan of normal vs doc one, with func. 
 
 - index create issue
