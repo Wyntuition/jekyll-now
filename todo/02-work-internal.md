@@ -17,18 +17,22 @@ https://trello.com/b/Vj7P4Pkf/dd-2018-goals, https://docs.google.com/spreadsheet
     - Discuss DDSA desired initatives / survey of interests & project ideas.
     - Create tasks / next steps.
 
+-PS bill; reminder for Safari
+
 ### ASAP
 
++ prez: efficiently developing pipelines, locallly (w/Jenkins in docker)
 - Docker WS marketing: on cal, to Docker contacts if they can send any clients, 
 - Sponsor, Docker Summit
 - upload zoom (Chrinstine's)
 
 - cert with Docker, 
 
-
 - update PD policy? (linked from appraisal) https://excellaco.sharepoint.com/internal/HR/teamsite/Excella%20Employee%20Guide/Professional%20Development.aspx
 
 + docker notes: see VM file system, docker run --rm -it -v /:/vm-root alpine:edge ls -l /vm-root
+
+    +pd API versioning strategy, when needed (i.e. new inputs, mult. GUIs)
 
 
 ## PROJECTS
