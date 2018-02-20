@@ -29,6 +29,8 @@ https://trello.com/b/Vj7P4Pkf/dd-2018-goals, https://docs.google.com/spreadsheet
 
 ## PROJECTS
 
++bash curric: https://github.com/progrium/bashstyle
+
 ### Talks
 
 * Container Orchestration Talk
