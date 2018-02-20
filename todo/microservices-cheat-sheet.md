@@ -29,7 +29,7 @@ WS CURRIC:
 
 Q: What is the experience level of your team(s)?
 
-A: 
+A:
 
 - Determine whether your organisation is mature enough to adopt microservices. Do you have a strong application architecture practice? Do you have a mature agile and DevOps practice? Will your data management team support it?
 
