@@ -5,6 +5,7 @@
     ThisPlaceIsCrazyxxx!
 
 - case status test, #'s ,etc
+- case status story
 
 - DOC
     - draw out sequence; why seq scan on cvi? Inner join cvi, ch & dd
