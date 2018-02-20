@@ -3,6 +3,7 @@
 Microservices promise many benefits that are of interest to application architects and development teams, including fluid, flexible delivery of changes, implementation technology flexibility, precise scalability and cloud readiness.
 
 WS CURRIC:
+
   - Spring Boot microservice - https://github.com/rohitghatol/spring-boot-microservices
 
 ## Archiectural Choices
