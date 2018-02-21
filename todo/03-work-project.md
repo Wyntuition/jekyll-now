@@ -4,13 +4,9 @@
 
     ThisPlaceIsCrazyxxx!
 
+- draw out sequence; why seq scan on cvi? Inner join cvi, ch & dd
 - commit batches?
 - case status test, #'s ,etc
-- case status story
-
-- DOC
-    - draw out sequence; why seq scan on cvi? Inner join cvi, ch & dd
-    - compoare query plan of normal vs doc one, with func. 
 
 - index create issue
 - auditing results?
