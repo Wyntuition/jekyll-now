@@ -4,6 +4,7 @@
 
     ThisPlaceIsCrazyxxx!
 
+- commit batches?
 - case status test, #'s ,etc
 - case status story
 
