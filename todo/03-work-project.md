@@ -4,7 +4,7 @@
 
     ThisPlaceIsCrazyxxx!
 
-- draw out sequence; why seq scan on cvi? Inner join cvi, ch & dd
+- gen data; draw out sequence; why seq scan on cvi? Inner join cvi, ch & dd
 - commit batches?
 - case status test, #'s ,etc
 
