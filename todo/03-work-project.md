@@ -9,6 +9,9 @@
     - commit batches?
     - materialized views, static stuff only?
     - copy to csv first?
+
+    - remove fkey's, etc?
+
 - case status test, #'s ,etc
 
 - index create issue
