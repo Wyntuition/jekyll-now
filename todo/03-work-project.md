@@ -21,6 +21,12 @@
 
 - local jenkins 
 
+PREVIEW SETTINGS:
+
+    - disabled email
+    - disbaled scripts
+    - script that adds all views for already ran scripts
+
 ## ASAP
 
 
