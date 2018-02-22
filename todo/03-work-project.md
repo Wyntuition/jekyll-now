@@ -21,14 +21,6 @@
 
 - local jenkins 
 
-PREVIEW SETTINGS:
-
-    - disabled email
-    - disbaled scripts
-    - script that adds all views for already ran scripts
-    - point to public schema
-    - comment out 01 constraints script?
-
 ## ASAP
 
 
