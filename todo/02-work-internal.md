@@ -58,6 +58,7 @@ One-off's
     - BAL: 123.5
     - 2 weeks, 9/2018
     - 11/25, 11/28, 12/26
+    - BAL: 19.5, NEED: 40
     - 1 week, March ski trip
 
 ### Report notes
