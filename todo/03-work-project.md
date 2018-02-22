@@ -5,7 +5,8 @@
     ThisPlaceIsCrazyxxx!
 
 - gen data; draw out sequence; why seq scan on cvi? Inner join cvi, ch & dd
-- commit batches?
+    - commit batches?
+    - materialized views, static stuff only?
 - case status test, #'s ,etc
 
 - index create issue
