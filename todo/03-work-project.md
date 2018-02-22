@@ -4,6 +4,7 @@
 
     ThisPlaceIsCrazyxxx!
 
+- inddexes back on preview.public
 - re-add preview indexes
 - gen data; draw out sequence; why seq scan on cvi? Inner join cvi, ch & dd
     - test parallel
