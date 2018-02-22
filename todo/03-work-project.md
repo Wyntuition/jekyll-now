@@ -5,8 +5,10 @@
     ThisPlaceIsCrazyxxx!
 
 - gen data; draw out sequence; why seq scan on cvi? Inner join cvi, ch & dd
+    - test parallel
     - commit batches?
     - materialized views, static stuff only?
+    - copy to csv first?
 - case status test, #'s ,etc
 
 - index create issue
