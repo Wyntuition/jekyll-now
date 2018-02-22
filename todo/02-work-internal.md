@@ -50,6 +50,16 @@ UPDATES:
 
 ### PTO Balance: 12/28/17: 75.5
 
+One-off's
+    - +160=235.5
+    - 2/22, 3/26, 3/8, 3/11
+    - 1 week - DC
+    - 1 week - Belize
+    - BAL: 123.5
+    - 2 weeks, 9/2018
+    - 11/25, 11/28, 12/26
+    - 1 week, March ski trip
+
 ### Report notes
 
 #### Check-ins
