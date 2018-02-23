@@ -600,3 +600,22 @@ He didn't describe his past work and experience in terms of impact.
 
 Concerns
 His level of knowledge based on his number of years of experience. He couldn't be considered a sr. dev with his knowledge but that is what he was expecting. 
+
+
+##### Docker Notes
+
+[- docker WS prep
+        - UPDATE:
+            - update to new docker commands
+            - fix end/
+            - building dockerfile, finding actual dependencies
+            - multistage apps
+            - check old ws notes
+            - try in windows bash, add to prep work.
+
+            - orches. slides (see spreadsheet)
+            - Jenkins, my image? Windows? Ruby? Scala, SB - HOW EASY? Use images in jenkins. My images in Hub.
+            - update OUTLINE.mnd
+            - update sllides linked from repo, & from local changes on dl GFE
+            - PREP
+                -zoom, ?
