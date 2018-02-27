@@ -19,6 +19,7 @@
         - CI: automated implementation of pipeline (i.e. IAC, Vagrant), Jenkins, blue-green
         - Clustering and autoscaling: Axis scaling, clustering, Kube vw Swarm vs Mesos
         - Self-healing systems, centralized logging & monitoring
+    - Managers Path analysis, Radical Candor, PD Plan: AI, sandbox
 
 ## Plan - Current
 
