@@ -4,7 +4,7 @@
 
     ThisPlaceIsCrazyxxx!
 
-- indexes?
+- indexes? better scans/ jouins?
     - See times. Create lots of data locally to see times. 
 - test parallel
 - local jenkins 
