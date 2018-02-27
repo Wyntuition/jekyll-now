@@ -404,53 +404,53 @@ Seth proved himself as a natural leader and coach to other developers, able to t
 
 Appraisal, 1.2018
 
-- 3rd
-    * Pat Leong
-    * Seth Puckett
-    * Joan Nelson
-        -  his actions can at times be boundless, crossing into other's responsibility area. This mindset also leads to a lack of delegation for enabling team member growth.
-    * Brendan Sawyer
-    * Gabriel Diaz
-    * Dan Stalcup
+    - 3rd
+        * Pat Leong
+        * Seth Puckett
+        * Joan Nelson
+            -  his actions can at times be boundless, crossing into other's responsibility area. This mindset also leads to a lack of delegation for enabling team member growth.
+        * Brendan Sawyer
+        * Gabriel Diaz
+        * Dan Stalcup
 
-- lead NRECA strategicly to improve deeply and long term
-- grew and guided people
--? exemplery on tech skills? Ask Seth.
--?FADI - no self-rating on TV&TML?
-- Very competant; thinks of lot of ideas, handles a lot, very efficient, thinks like a leader
-    - needs to work on things, but has done tons of broad things, proposals/BD, connections, Riccardo brought on
-    - for managing, you take on feeling of ownership of Excella's success -> pretty much doing that.
+    - lead NRECA strategicly to improve deeply and long term
+    - grew and guided people
+    -? exemplery on tech skills? Ask Seth.
+    -?FADI - no self-rating on TV&TML?
+    - Very competant; thinks of lot of ideas, handles a lot, very efficient, thinks like a leader
+        - needs to work on things, but has done tons of broad things, proposals/BD, connections, Riccardo brought on
+        - for managing, you take on feeling of ownership of Excella's success -> pretty much doing that.
 
 +S, 1/23/18
-- No CMS
-Career path
-    - Env for entrepreneurial attitude; partnerships in creating value for org; involved in whole lifecycle
-    - mgmnt path; tech manager? Pair coding mentoring session also to grow people.
-        +++xperts to manage; open to any stack
-        +formalize tech mgr
-        ? best use of Riccardo
-        +actor model
+
+    - No CMS
+    Career path
+        - Env for entrepreneurial attitude; partnerships in creating value for org; involved in whole lifecycle
+        - mgmnt path; tech manager? Pair coding mentoring session also to grow people.
+            +++xperts to manage; open to any stack
+            +formalize tech mgr
+            ? best use of Riccardo
+            +actor model
 
 1/16/18
 
-Went over this: 
-[FIRST/PERODIC]
-- [How often meet?
-- What kind of feedback do you want?
-    - fb on better TL from account; blunt
-    - nebulous things in org - things are expected of xperts, leaders etc.
-    - where are things coming from? (i.e. Jeff said...)
-    - next step w/i Excella; long term fits, impact, home (i.e. run this initative), niche, Excella expert
+    Went over this:
+    [FIRST/PERODIC]
+    - [How often meet?
+    - What kind of feedback do you want?
+        - fb on better TL from account; blunt
+        - nebulous things in org - things are expected of xperts, leaders etc.
+        - where are things coming from? (i.e. Jeff said...)
+        - next step w/i Excella; long term fits, impact, home (i.e. run this initative), niche, Excella expert
 
-- Any feedback/criticism for me? Share some that I learned.
-    - getting value
-    - more direction, help with goals
-    - start convo to rethink priorities; map back strategically
+    - Any feedback/criticism for me? Share some that I learned.
+        - getting value
+        - more direction, help with goals
+        - start convo to rethink priorities; map back strategically
 
 ##### Appraisal
 
-
-Sean 
+Sean
 
 Proactive in a huge variety of ways, Sean had a very successful year in terms of results and broad areas he affected. He was a key player is getting the NRECA RS on a track where it could make it to go-live, and he went beyond external xPert activities in conributing to Excella and the community. He is an example in leadership growth, initaitve, flexiblility in different roles, tasks and visions, and big picture and results-oriented thinking.
 
