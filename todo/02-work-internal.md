@@ -394,16 +394,15 @@ Seth proved himself as a natural leader and coach to other developers, able to t
 - Discuss other projects (xpert, etc)
 - Praise
 
-[2/27/18]
+2/27/18
 
-TODO:
+    TODO:
 
-- xpert/2018 plan
-- 
+    - xpert/2018 plan
+    -
 
 
-
-* Appraisal, 1.2018
+Appraisal, 1.2018
 
 - 3rd
     * Pat Leong
