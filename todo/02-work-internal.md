@@ -403,7 +403,8 @@ TODO:
 
 
 
-Appraisal, 1.2018
+* Appraisal, 1.2018
+
 - 3rd
     * Pat Leong
     * Seth Puckett
