@@ -393,12 +393,11 @@ Seth proved himself as a natural leader and coach to other developers, able to t
 - PD: review where you're at, development plan
 - Discuss other projects (xpert, etc)
 - Praise
-
-2/27/18
-
-    TODO:
+- TODO:
 
     - xpert/2018 plan
+
+2/27/18
 
 - Plan:
     1. Tools for us and showcase: portfolio ss (who did what on github) w/Vue
