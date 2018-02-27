@@ -399,7 +399,9 @@ Seth proved himself as a natural leader and coach to other developers, able to t
     TODO:
 
     - xpert/2018 plan
-    -
+
+- Plan:
+    - tools for us and showcase: portfolio ss (who did what on github) w/Vue, 
 
 
 Appraisal, 1.2018
