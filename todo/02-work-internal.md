@@ -386,7 +386,7 @@ Seth proved himself as a natural leader and coach to other developers, able to t
     - status
     - satisfaction
     - BD
-- Career
+- Career (service area lead?, management, cool tools/showcase)
     - How's it going towards your goals?
     - tech, not
     - Where are you looking to go?
