@@ -409,6 +409,10 @@ Career path
         ? best use of Riccardo
         +actor model
 
+2/27/18
+
+
+
 Went over this: 
 [FIRST/PERODIC]
 - [How often meet?
