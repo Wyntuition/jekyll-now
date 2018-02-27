@@ -392,6 +392,10 @@ Seth proved himself as a natural leader and coach to other developers, able to t
 
 2/27/18
 
+TODO:
+- xpert/2018 plan
+- 
+
 
 
 Appraisal, 1.2018
@@ -437,8 +441,6 @@ Went over this:
     - getting value
     - more direction, help with goals
     - start convo to rethink priorities; map back strategically
-
-
 
 ##### Appraisal
 
