@@ -5,7 +5,7 @@
     * Twitter University, engineering blogs
 
 ## NOW
-
+    - [10xX] akka, graph, mongo, react, scala
     - Database mechanics: Safari books 
         - PostgreSQL Development Essentials, Postgres High Performance Cookbook vs Postgres 9.6 High Performance, 
         - steps to analyze and optimize statements (how to establish local, relative cost baseline)
