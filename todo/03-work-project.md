@@ -6,7 +6,6 @@
 
 - indexes?
     - See times. Create lots of data locally to see times. 
-        - case status test, #'s ,etc. can pull counts from legacy directly? 2nd count/counts wrong?
 - test parallel
 - local jenkins 
 
