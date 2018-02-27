@@ -397,6 +397,7 @@ Seth proved himself as a natural leader and coach to other developers, able to t
 2/27/18
 
 TODO:
+
 - xpert/2018 plan
 - 
 
