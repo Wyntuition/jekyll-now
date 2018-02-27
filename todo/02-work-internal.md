@@ -373,7 +373,6 @@ Seth proved himself as a natural leader and coach to other developers, able to t
 
 "One of the things that stood out about Seth to me was that he led by example. For example, even though he had a lot of higher-level technical responsibilities and tasks, he did not forego all his sprint work and still contributed as a subject matter expert on more detailed development tasks."
 
-
 #### Sean
 
 - trello
