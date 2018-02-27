@@ -394,7 +394,7 @@ Seth proved himself as a natural leader and coach to other developers, able to t
 - Discuss other projects (xpert, etc)
 - Praise
 
-2/27/18
+[2/27/18]
 
 TODO:
 
