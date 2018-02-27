@@ -380,6 +380,19 @@ Seth proved himself as a natural leader and coach to other developers, able to t
 - xpert stuff
 - manager's path
 
+[REGULAR]
+- Feedback from others, myself
+- Project chat (status, satisfaction); BD
+- career prospects, etc.
+    - tech, not
+    - exp in product dev
+- PD: review where you're at
+- Career dev: where are you looking to go?
+- Discuss other projects (xpert, etc)
+
+2/27/18
+
+
 
 Appraisal, 1.2018
 - 3rd
@@ -409,9 +422,6 @@ Career path
         ? best use of Riccardo
         +actor model
 
-2/27/18
-
-
 1/16/18
 
 Went over this: 
@@ -428,15 +438,6 @@ Went over this:
     - more direction, help with goals
     - start convo to rethink priorities; map back strategically
 
-[REGULAR]
-- Feedback from others, myself
-- Project chat (status, satisfaction); BD
-- career prospects, etc.
-    - tech, not
-    - exp in product dev
-- PD: review where you're at
-- Career dev: where are you looking to go?
-- Discuss other projects (xpert, etc)
 
 
 ##### Appraisal
