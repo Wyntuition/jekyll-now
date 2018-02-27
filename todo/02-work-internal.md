@@ -390,6 +390,21 @@ Seth proved himself as a natural leader and coach to other developers, able to t
 - Career dev: where are you looking to go?
 - Discuss other projects (xpert, etc)
 
+[REGULAR]
+
+- Feedback from others, myself; feedback for me
+- Project chat
+    - status
+    - satisfaction
+    - BD
+- Career
+    - How's it going towards your goals?
+    - tech, not
+    - Where are you looking to go?
+- PD: review where you're at, development plan
+- Discuss other projects (xpert, etc)
+- Praise
+
 2/27/18
 
 TODO:
