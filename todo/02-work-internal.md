@@ -381,6 +381,7 @@ Seth proved himself as a natural leader and coach to other developers, able to t
 - manager's path
 
 [REGULAR]
+
 - Feedback from others, myself
 - Project chat (status, satisfaction); BD
 - career prospects, etc.
