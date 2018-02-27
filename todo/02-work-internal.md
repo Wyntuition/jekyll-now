@@ -13,7 +13,7 @@ https://trello.com/b/Vj7P4Pkf/dd-2018-goals, https://docs.google.com/spreadsheet
 
 ### ASAP
 
-
+- finalize v1 jenkins docker 
 + prez: efficiently developing pipelines, locallly (w/Jenkins in docker)
 - Docker WS marketing: on cal, to Docker contacts if they can send any clients, 
 - Sponsor, Docker Summit
