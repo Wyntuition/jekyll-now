@@ -405,7 +405,6 @@ Seth proved himself as a natural leader and coach to other developers, able to t
     1. How to get in front of business prospects more reg (like our dev meetups) - surface our docs like white papers, etc to BD folks to have complete resources - i.e. search microservice, and sees our literate, past projects, people, talks, tools, etc. Tag artifacts with tech, project, client, etc.
     1. dotnet new - neo4j, postgres, elasticsearch
 
-
 Appraisal, 1.2018
 
     - 3rd
