@@ -412,6 +412,7 @@ Career path
 2/27/18
 
 
+1/16/18
 
 Went over this: 
 [FIRST/PERODIC]
