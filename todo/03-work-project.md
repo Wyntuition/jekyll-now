@@ -4,43 +4,17 @@
 
     ThisPlaceIsCrazyxxx!
 
-- inddexes back on preview.public
-- re-add preview indexes
-- gen data; draw out sequence; why seq scan on cvi? Inner join cvi, ch & dd
-    - test parallel
-    - commit batches?
-    - materialized views, static stuff only?
-    - copy to csv first?
+- case status test, #'s ,etc. can pull counts from legacy directly? 2nd count/counts wrong?
+- test parallel
+- local jenkins 
 
-    - remove fkey's, etc?
-
-- case status test, #'s ,etc
-
-- index create issue
 - auditing results?
 - ECS?
-
-- local jenkins 
 
 ## ASAP
 
 
 
-
-
-
-    
-
-
-
-- CaseStatusTest - can pull counts from legacy directly? 2nd count/counts wrong?
-    STARTING SCRIPT V0001__add_vis_foreign_keys.sqlpsql:<stdin>:1: ERROR:  syntax error at or near "$"
-LINE 1: SET search_path TO ${PG_VIS_TABLE_SOURCE_SCHEMA};
-
-    ??:
-
-        - caee status mapping w/VQ
-        - story for truncate/drop strategy
 
 - jenkins   
         - catch error and fail
