@@ -8,6 +8,7 @@
 
     - Database mechanics: Safari books 
         - PostgreSQL Development Essentials, Postgres High Performance Cookbook vs Postgres 9.6 High Performance, 
+        - steps to analyze and optimize statements (how to establish local, relative cost baseline)
     - Container Patterns, Orchestration [sandbox]
     - Microservices workshop [sandbox, real apps]
     - Distributed App Curric
