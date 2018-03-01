@@ -5,14 +5,13 @@
     ThisPlaceIsCrazyxxx!
 
 - way to output statement status in job?
-- Bulk job in jenkins?
+- Bulk job in jenkins? ECS?
 - overall perf - 
     - smaller commits? Break up doc view? 
 - Test time
     - indexes? better scans/ jouins?
         - See times. Create lots of data locally to see times. 
 
-- ECS?
 - auditing results?
 - local jenkins 
 
