@@ -4,8 +4,11 @@
 
     ThisPlaceIsCrazyxxx!
 
-- indexes? better scans/ jouins?
-    - See times. Create lots of data locally to see times. 
+- overall perf - 
+    - smaller commits?
+- Test time
+    - indexes? better scans/ jouins?
+        - See times. Create lots of data locally to see times. 
 
 - ECS?
 - auditing results?
