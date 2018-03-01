@@ -4,6 +4,8 @@
 
     ThisPlaceIsCrazyxxx!
 
+- way to output statement status in job?
+- Bulk job in jenkins?
 - overall perf - 
     - smaller commits? Break up doc view? 
 - Test time
