@@ -2,8 +2,6 @@
 
 ## TODAY
 
-    ThisPlaceIsCrazyxxx!
-
 - way to output statement status in job?
 - Bulk job in jenkins? ECS?
 - overall perf - 
