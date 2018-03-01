@@ -5,7 +5,7 @@
     ThisPlaceIsCrazyxxx!
 
 - overall perf - 
-    - smaller commits?
+    - smaller commits? Break up doc view? 
 - Test time
     - indexes? better scans/ jouins?
         - See times. Create lots of data locally to see times. 
