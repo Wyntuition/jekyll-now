@@ -9,6 +9,7 @@ https://trello.com/b/Vj7P4Pkf/dd-2018-goals, https://docs.google.com/spreadsheet
 
 ### TODAY
 
+- PS bill; reminder for Safari
 
 ### ASAP
 
@@ -20,7 +21,7 @@ https://trello.com/b/Vj7P4Pkf/dd-2018-goals, https://docs.google.com/spreadsheet
     - Container Orchestration Overview
 
     - Coming SW apol; sw arch, MS hell
-- PS bill; reminder for Safari
+
 - MS CHEATSHEET; other BD cheatsheets, blogs, etc. My trello for things in prog, incl. DDSA, reports can be in text
 
 - jenkins
