@@ -5,6 +5,7 @@
     * Twitter University, engineering blogs
 
 ## NOW
+    - XPERT PLAN
     - [10xX]: akka, graph, mongo, react, scala
     - Database mechanics: Safari books 
         - PostgreSQL Development Essentials, Postgres High Performance Cookbook vs Postgres 9.6 High Performance, 
