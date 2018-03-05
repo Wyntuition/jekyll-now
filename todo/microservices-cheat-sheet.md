@@ -31,12 +31,12 @@ Basic attributes:
 
 ## Pros
 
-* smaller, more productive teams
-* reduced risk of change
-* faster software delivery
-* lower risk to introduce new technologies
-* lower risks and costs of replacing systems
-* reduced costs of migrating and operating in the cloud
+* Smaller, more productive teams
+* Reduced risk of change
+* Faster software delivery
+* Lower risk to introduce new technologies
+* Lower risks and costs of replacing systems
+* Reduced costs of migrating and operating in the cloud
 
 ## Cons
 
