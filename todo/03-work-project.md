@@ -15,11 +15,6 @@
 - local jenkins 
 
 - test parallel
-    - jenkins brown bag
-            - features
-                - dockerization
-            - hello world app
-                - deploy to AWS
 
 ## ASAP
 
