@@ -270,8 +270,7 @@ Appraisal, 1/2018
     - need more resume in leadership role. Sean took strong leadership traits to try and change how things how need to be - implementation not ideal but Sean was most involved in breaking down barriers to working differently, showed people a different way. Seth prob saw same issues, but got frustrated, quiet, stew about it, complain, didn't see himself as part of solution. Pat more on board with drastic changes for implementation/back to basics strategy but wasn't visionary -- this is where we need to go, set a course. 
     - unstanding that you need relationships with clients and people - expectation. Org awareness & ability to communicate
 
-
-- Meeting
+- Improvements (2017)
     - as lead, need to work on COMM: He should work on proactive communication (practice), such as checking in with people without a specific reason, such as just to see how protégées are doing, how the client is doing, and regular check-ins with the folks around you. This is especially true for the people who he has some influence on, to maintain connection so when collaboration is needed it is easier.
 
     - RM: Seth appears to experience some discomfort with RM and consulting the client. He should try to build a stronger relationship with a client, for example more frequently communicating frustrations with the client and finding common ground. Try to be more sensitive to organizational awareness and taking it upon himself to talk things through when he doesn't agree with a decision, instead of making one-off disapproving remarks.
@@ -280,7 +279,7 @@ Appraisal, 1/2018
 
 2/6/18 Meeting with Reena & Suzanne
 
-?'s 
+Specifi ?'s 
     - What opportunities do you have there as a leader to the project?
         - *Story break-down, architecture, best practices, standards
             - Own/be accountable for an area
