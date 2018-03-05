@@ -635,3 +635,23 @@ His level of knowledge based on his number of years of experience. He couldn't b
             - update sllides linked from repo, & from local changes on dl GFE
             - PREP
                 -zoom, ?
+
+
+##### .NET Notes
+
+What is really needed with .NET at Excella? More cool .NET work. How will that happen? What can we do?
+
+Cool demos 
+-	.NET Core being a fast performing and rapidly developed microservice
+-	Async APIs that are performant and easy to write 
+-	Cloud-friendly, being able to deploy and perform well in Linux and Windows environments, thus many cloud environments
+
+Communicating with BD
+-	Why .NET?
+-	What can be sold solutions-wise?
+-	What companies do .NET? What companies would do .NET and why?
+-	
+
+Thought leaders
+-	Open source project
+-	Blogs on specific topics
