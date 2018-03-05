@@ -1,7 +1,5 @@
 # Microservices Cheat Sheet
 
-Microservices promise many benefits that are of interest to application architects and development teams, including fluid, flexible delivery of changes, implementation technology flexibility, precise scalability and cloud readiness.
-
 This cheatsheet includes:
 
 * Summmary of Microservices
@@ -14,7 +12,9 @@ This cheatsheet includes:
 
 ## Summary
 
-The microservices approach is a way to architect software:
+The microservices approach is a way to architect software. Microservices promise many benefits that are of interest to application architects, development teams and organizations, including fluid, flexible delivery of changes, implementation technology flexibility, precise scalability and cloud readiness.
+
+Basic attributes:
 
 * Instead of creating one big application, it is broken into small services, each a fully independent, runnable application
 * This allows more flexibility in changing, deploying, scaling, etc. specific parts of the application without affecting the others. 
