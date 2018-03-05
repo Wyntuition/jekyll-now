@@ -32,7 +32,7 @@ Basic attributes:
 * Bugs are too often introduced in unrelated parts of the system on deployments
 * Software code gets too messy and hard to maintain
 * Deploying the entire application on every change is getting inefficient
-* Specific parts of the application need scaling, but not the whole thing
+* Specific parts of the application need scaling and/or high performance, but not the whole thing
 
 ## Use Cases
 
