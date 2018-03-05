@@ -279,7 +279,7 @@ Appraisal, 1/2018
 
 2/6/18 Meeting with Reena & Suzanne
 
-Specifi ?'s 
+Specifi ?'s
     - What opportunities do you have there as a leader to the project?
         - *Story break-down, architecture, best practices, standards
             - Own/be accountable for an area
