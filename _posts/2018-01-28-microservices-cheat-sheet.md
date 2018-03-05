@@ -60,7 +60,7 @@ Teams could architect applications that are any combination of one large applica
 
 ## Questions to Ask
 
-* What is the nature and size of your software project?
+* What is the nature, size and complexity of your software project?
 * Will multiple teams be working on it?
 * Do certain parts of the application need to scale and change frequently and independently? Is there a lot of risk to deploying the whole application for these changes?
 * Determine whether your organization is mature enough to adopt microservices.
