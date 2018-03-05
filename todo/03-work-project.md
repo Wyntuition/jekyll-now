@@ -5,6 +5,7 @@
 - Test time
     - indexes? better scans/ jouins?
         - See times. Create lots of data locally to see times. 
+- still issues with perm script?
 
 ## ASAP
 
