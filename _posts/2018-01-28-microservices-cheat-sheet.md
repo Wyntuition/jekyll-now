@@ -13,7 +13,7 @@ This BD cheatsheet includes:
 
 The microservices approach is a way to architect software by breaking up an application into small pieces that do one thing well.
 
-Microservices promise many benefits that are of interest to application architects, development teams and organizations, including fluid, flexible delivery of changes, implementation technology flexibility, precise scalability and cloud readiness.
+Microservices promise many benefits that are of interest to application architects and development teams including fluid, flexible delivery of changes, technology flexibility, and precise scalability. They are of interest to business leaders as they enable cloud readiness, cost optimization and rapid product development in the right situations.
 
 Basic attributes:
 
