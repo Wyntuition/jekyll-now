@@ -2,15 +2,17 @@
 
 Microservices promise many benefits that are of interest to application architects and development teams, including fluid, flexible delivery of changes, implementation technology flexibility, precise scalability and cloud readiness.
 
-## Summary
+This cheatsheet includes:
 
-* Summary
+* Summmary of Microservices
 * Scenarios, Examples
 * Pros & Cons
 * Choices
 * Considerations / Questions to ask
 * Assessment
 * Getting Started
+
+## Summary
 
 The microservices approach is a way to architect software:
 
