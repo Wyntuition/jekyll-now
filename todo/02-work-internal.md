@@ -247,21 +247,7 @@ Glenn pushed for rebooting the NoVA Elixir Meetup, provided workshops and conten
 
 Glenn represents himself well in client meetings. He always asks thought provoking questions in refinement and planning meetings in front of the client. He also does a really good job explaining some tough technical concepts to our Product Owner from a business value perspective.
 
-
-
-
 #### Seth
-
-Appraisal, 1/2018
-- 3rd party feedback:
-    Pat Leong
-    Sean Killeen
-    Waleed Ershad
-    Sam Blissard
-    Joan Nelson
-    Starr Chen
-    Brent Fuller - in person, leads by example, takes up a variety of tasks includnig scrum master, DevOps, process improvement analyst, etc. He reliably delivered things on time, and communicated what was necessary. Wants to lead people?
-        - he knows the right thing to most effectively add value. He dives into the business domain, and bridges the tech/business gaps and prevents problems and reduces risk.
 
 - Promotion
     - Want to lead people? How to be manager without that?
@@ -328,6 +314,16 @@ Specifi ?'s
 - Overwhelmed by learning new business domain, and stack, and logistics 
 
 ##### Appraisal notes, 3rd party, what to go on form
+
+- 3rd party feedback:
+    Pat Leong
+    Sean Killeen
+    Waleed Ershad
+    Sam Blissard
+    Joan Nelson
+    Starr Chen
+    Brent Fuller - in person, leads by example, takes up a variety of tasks includnig scrum master, DevOps, process improvement analyst, etc. He reliably delivered things on time, and communicated what was necessary. Wants to lead people?
+        - he knows the right thing to most effectively add value. He dives into the business domain, and bridges the tech/business gaps and prevents problems and reduces risk.
 
 Seth contributed in a multitude of ways and roles in 2017, including as a senior developer, Scrum Master, tech lead, and xPert. Seth knew his client, NRECA, was pushing for go-live, so through pragmatic, smart and hard-working approaches, Seth was a key contributor to making this happen, while coaching his teammates, interfacing with the client, and relevant delivering xPert content such his talk Entity Framework Core, where he showcased Microsoft's new open-source ORM.
 
