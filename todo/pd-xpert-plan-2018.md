@@ -11,7 +11,7 @@ Supplement containers with related microservices and cloud material, including b
 - Deploying to AWS/Azure via Kubenetes; Doguhan on other hosts, Pat on Kube
 - (o) ML
 
-## 3 months: Further myself as a Docker thought leader by offering the level 1 workshop more, and add a deployment workshop to the series.
+## 3 months: Further myself as a Docker thought leader by offering the level 1 workshop more, and add a deployment workshop to the series
 
     - Getting Started Docker Workshop for USCIS, to fill in gaps and ramp up (3)
     - Docker Workshop Series: Getting Started with Docker Workshop, at meetup (8)
