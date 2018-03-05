@@ -7,6 +7,7 @@
     - indexes? better scans/ jouins? GEN BIG DATA?
     - See times. Create lots of data locally to see times. 
 - still issues with perm script?
+- SK TB
 
 ## ASAP
 
