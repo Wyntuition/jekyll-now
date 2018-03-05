@@ -44,8 +44,9 @@ Basic attributes:
 ## Cons
 
 * Many projects and organizations will find microservices too complex, expensive and disruptive to deliver a return on the investment required.
+* Must do comprehensive analysis on the software requirements to determine if it would overall benefit
 * Need specific experience in building, deploying and managing microservices and distributed applications.
-* Can be harder to manage
+* Can be harder to manage; more pieces
 * Can be overkill for many applications
 * Hard to know how to break up into small pieces; must know business domain and infrastructure very well
 
