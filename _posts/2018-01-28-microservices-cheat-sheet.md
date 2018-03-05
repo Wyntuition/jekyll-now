@@ -52,7 +52,7 @@ Basic attributes:
 
 ## Alternative Choices
 
-Teams could architect applications that are any combination of one large application, all the way to many microsoervices combining to make one application.
+Teams could architect applications that are any combination of one large application, a few large services with some microservices, all the way to many microsoervices combining to make one application.
 
 * Monolith architecture - application is a single service/piece of software
 * Service hybrid architecture - microservices for only what makes sense, and monoliths, etc. elsewhere
