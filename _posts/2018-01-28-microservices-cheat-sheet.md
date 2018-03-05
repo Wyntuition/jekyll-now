@@ -55,7 +55,7 @@ Basic attributes:
 Teams could architect applications that are any combination of one large application, a few large services with some microservices, all the way to many microsoervices combining to make one application.
 
 * Monolith architecture - application is a single service/piece of software
-* Service hybrid architecture - microservices for only what makes sense, and monoliths, etc. elsewhere
+* Service hybrid architecture - microservices for only what makes sense, and monoliths, etc. elsewhere. Gaining traction today.
 * Microservices architecture - application is all made of microservices
 
 ## Questions to Ask
