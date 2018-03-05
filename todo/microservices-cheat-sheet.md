@@ -22,6 +22,7 @@ Basic attributes:
 * This allows more flexibility in changing, deploying, scaling, etc. specific parts of the application without affecting the others. 
 * It makes the application distributed, since the small services (microservices) are typically distributed across servers. This increases the complexity and the needed knowledge of the team.
 * Often thought of as the evolution of SOA
+* Advancements in tooling are making microservices broadly accessible, where once they were only used by giants like Netflix
 
 ## Use Cases
 
