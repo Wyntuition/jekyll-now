@@ -26,7 +26,7 @@ Basic attributes:
 
 ## Use Cases
 
-* Large applications with many teams
+* Large applications with many teams, some that require scaling, independent deployment, different technologies
 * Teams that have some experience in distributed applications
 * Volitile areas of software, needing scaling and agile delivery
 
@@ -36,6 +36,7 @@ Basic attributes:
 * Reduced risk of change
 * Faster software delivery
 * Lower risk to introduce new technologies
+* Much flexibility in using whatever technology/language is right for the particular piece
 * Lower risks and costs of replacing systems
 * Reduced costs of migrating and operating in the cloud
 
