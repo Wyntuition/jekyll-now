@@ -2,8 +2,8 @@
 
 This cheatsheet includes:
 
-* Summmary of Microservices
-* Scenarios, Examples
+* Summmary of microservices
+* Use Cases
 * Pros & Cons
 * Choices
 * Considerations / Questions to ask
@@ -51,17 +51,21 @@ Basic attributes:
 
 ## Alternative Choices
 
-Teams could architect applications that are any combination of one large application, all the way to many microsoervices combining to make one application. 
+Teams could architect applications that are any combination of one large application, all the way to many microsoervices combining to make one application.
 
-* Monolith architecture
-* Service hybrid architecture
-* Microservices architecture
+* Monolith architecture - application is a single service/piece of software
+* Service hybrid architecture - microservices for only what makes sense, and monoliths, etc. elsewhere
+* Microservices architecture - application is all made of microservices
 
 ## Questions to Ask
 
 * What is the nature and size of your software project?
-* What is the experience level of your team(s)?
-* Determine whether your organisation is mature enough to adopt microservices. Do you have a strong application architecture practice? Do you have a mature agile and DevOps practice? Will your data management team support it?
+* Will multiple teams be working on it?
+* Do certain parts of the application need to scale and change frequently and independently? Is there a lot of risk to deploying the whole application for these changes?
+* Determine whether your organization is mature enough to adopt microservices.
+  * Do you have a strong application architecture practice?
+  * Do you have a mature agile and DevOps practice?
+  * Will your data management team support it? Do you have experience with cloud, containers and distributed applications?
 
 ## Getting Started
 
