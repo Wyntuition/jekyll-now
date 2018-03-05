@@ -34,12 +34,12 @@ Basic attributes:
 ## Pros
 
 * Smaller, more productive teams
-* Reduced risk of change
-* Faster software delivery
-* Lower risk to introduce new technologies
+* Reduced risk of change given isolated microservices
+* Faster software delivery given it's easier to frequently deploy a small, independent service
+* Lower risk to introduce new technologies since it only affects a small service
 * Much flexibility in using whatever technology/language is right for the particular piece
-* Lower risks and costs of replacing systems
-* Reduced costs of migrating and operating in the cloud
+* Lower risks and costs of replacing systems since they can more easily be replaced in pieces
+* Reduced costs of migrating and operating in the cloud since they can be migrated in pieces
 
 ## Cons
 
@@ -74,3 +74,4 @@ Teams could architect applications that are any combination of one large applica
 * Expect to implement a microservices infrastructure to provide the outer architecture capabilities needed to build, deploy and operate fleets of microservices. PaaS and container management platforms can provide a core, but you’ll need to supplement this with capabilities such as API gateways, service discovery, monitoring and telemetry, build and test automation, messaging and data persistence.
 * Choose a low risk project to start with.
 * Bring in outside distributed applications, container, cloud and microservices expertise if this is possible. If not, plan for learning time.
+* Lift and shift an application into a container, and deploy that to a container management system
