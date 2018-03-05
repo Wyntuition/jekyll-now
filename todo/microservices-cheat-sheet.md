@@ -19,6 +19,7 @@ Basic attributes:
 * Instead of creating one big application, it is broken into small services, each a fully independent, runnable application
 * This allows more flexibility in changing, deploying, scaling, etc. specific parts of the application without affecting the others. 
 * It makes the application distributed, since the small services (microservices) are typically distributed across servers. This increases the complexity and the needed knowledge of the team.
+* Often thought of as the evolution of SOA
 
 ## Use Cases
 
@@ -32,26 +33,19 @@ Basic attributes:
 
 * Many projects and organizations will find microservices too complex, expensive and disruptive to deliver a return on the investment required.
 
-## Archiectural Choices
+## Alternative Choices
 
-* SPECTRUM: Monolith ... hybrid services ...  microservices
+Teams could architect applications that are any combination of one large application, all the way to many microsoervices combining to make one application. 
 
-* Meanwhile, organisations can derive tremendous value from the miniservices model, which advocates a more pragmatic, coarse-grained services approach with relaxed architectural constraints. 
+* Monolith architecture
+* Service hybrid architecture
+* Microservices architecture
 
 ## Questions to Ask
 
-- What is the nature and size of your software project? 
-
-Q: What is the experience level of your team(s)?
-
-A:
-
-  - Use in cloud?
-  - Lift and shift?
-  - on-prem?
-
-
-- Determine whether your organisation is mature enough to adopt microservices. Do you have a strong application architecture practice? Do you have a mature agile and DevOps practice? Will your data management team support it?
+* What is the nature and size of your software project?
+* What is the experience level of your team(s)?
+* Determine whether your organisation is mature enough to adopt microservices. Do you have a strong application architecture practice? Do you have a mature agile and DevOps practice? Will your data management team support it?
 
 ## Getting Started
 
