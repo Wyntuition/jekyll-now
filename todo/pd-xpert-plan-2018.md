@@ -8,7 +8,7 @@ Supplement containers with related microservices and cloud material, including b
 
 - Containers
 - Microservices overview, getting started with building, and determining if needed
-- Deploying to AWS/Azure
+- Deploying to AWS/Azure via Kubenetes; Doguhan on other hosts, Pat on Kube
 - (o) ML
 
 ## 3 months: Further myself as a Docker thought leader by offering the level 1 workshop more, and add a deployment workshop to the series.
