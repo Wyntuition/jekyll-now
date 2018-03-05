@@ -300,6 +300,25 @@ Specifi ?'s
     -* DEV PLAN
     - ** Suzanne in appraisal?
 
+[Regular]
+
+- Feedback from others, myself; feedback for me
+- Project chat
+    - status
+    - satisfaction
+    - BD
+- Career
+    - How's it going towards your goals?
+    - tech, not
+    - Where are you looking to go?
+- PD: review where you're at, development plan
+- Discuss other projects (xpert, etc)
+- Praise
+
+3/5 meeting
+
+
+
 2/7/18 Meeting with Seth
 
 - Feels tech leads are in too many meeting to pair, etc.
