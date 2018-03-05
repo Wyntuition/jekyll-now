@@ -66,3 +66,4 @@ Teams could architect applications that are any combination of one large applica
 * Create version 1 as a monolith, then slice off microservices as they make sense. This also gives time to build up the tooling and infrastructure incrementally.
 * Expect to implement a microservices infrastructure to provide the outer architecture capabilities needed to build, deploy and operate fleets of microservices. PaaS and container management platforms can provide a core, but you’ll need to supplement this with capabilities such as API gateways, service discovery, monitoring and telemetry, build and test automation, messaging and data persistence.
 * Choose a low risk project to start with.
+* Bring in outside distributed applications, container, cloud and microservices expertise if this is possible. If not, plan for learning time.
