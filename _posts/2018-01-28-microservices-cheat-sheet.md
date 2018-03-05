@@ -22,6 +22,7 @@ Basic attributes:
 * It makes the application distributed, since the small services (microservices) are typically distributed across servers (whether or not in the cloud). This increases the complexity and the needed knowledge and experience of the team, so it is critical to clearly analyze where microservices should be used so it is worth it.
 * Microservices are often thought of as the evolution of SOA.
 * Advancements in tooling are making microservices broadly accessible, where once they were only used by giants like Netflix.
+* Often discussed in combination with cloud migrations, though cloud is not required
 
 ## Use Cases
 
