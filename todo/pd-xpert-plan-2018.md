@@ -1,16 +1,5 @@
 # Goals for 2018
 
-- Example microservices - Ruby, Python; (Chirs); different SA's build their MS in their stack.
-    - ? - what solution for microservies app?
-    + - Blog - something my stack excels at
-- INTERNAL HACKATHON FOR OS IDEAS (Chris)
-- Case studies (verification, myUSIS, etc; reusable content) (Chris)
-- Excella Central
-- .net new stuff, WS/training, .NET radar updated
-- JS tech radar
-- Chatbot (DU)
-- Java showcase, radar (Cici)
-
 SUMAMRY:
 
 Continue focusing on going deep into containers and outputting workshop, tutorial and presentation artifacts. Expand into a deployment workshop, as this is the logical next step with a lot of demand and need.
