@@ -17,7 +17,7 @@ Microservices promise many benefits that are of interest to application architec
 
 Basic attributes:
 
-* Instead of creating one big application, it is broken into small services, each a fully independent, runnable application
+* Instead of creating one big application, it is broken into small services, each a fully independent, runnable application that communicates over the network with the other pieces
 * This allows more flexibility in changing, deploying, scaling, etc. specific parts of the application without affecting the others. 
 * It makes the application distributed, since the small services (microservices) are typically distributed across servers. This increases the complexity and the needed knowledge of the team.
 * Often thought of as the evolution of SOA
