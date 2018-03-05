@@ -20,9 +20,11 @@ Basic attributes:
 * This allows more flexibility in changing, deploying, scaling, etc. specific parts of the application without affecting the others. 
 * It makes the application distributed, since the small services (microservices) are typically distributed across servers. This increases the complexity and the needed knowledge of the team.
 
-## Examples of where to do it
+## Use Cases
 
-* Most volitile areas, most needing of scaling and agile delivery
+* Large applications with many teams
+* Teams that have some experience in distributed applications
+* Volitile areas of software, needing scaling and agile delivery
 
 ## Pros
 
