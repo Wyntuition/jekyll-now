@@ -14,8 +14,12 @@ https://trello.com/b/Vj7P4Pkf/dd-2018-goals, https://docs.google.com/spreadsheet
 
 - PS bill; reminder for Safari
 - MS CHEATSHEET; other BD cheatsheets, blogs, etc. My trello for things in prog, incl. DDSA, reports can be in text
-- finalize v1 jenkins docker 
-+ prez: efficiently developing pipelines, locallly (w/Jenkins in docker)
+
+- jenkins
+    - finalize v1 jenkins docker 
+    - prez: efficiently developing pipelines, locallly (w/Jenkins in docker)
+    - jenkins brown bag - features, dockerization, hello world app, deploy to AWS
+
 - Docker WS marketing: on cal, to Docker contacts if they can send any clients, 
 - Sponsor, Docker Summit
 - upload zoom (Chrinstine's)
