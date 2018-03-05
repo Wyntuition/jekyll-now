@@ -24,7 +24,7 @@ https://trello.com/b/Vj7P4Pkf/dd-2018-goals, https://docs.google.com/spreadsheet
 - Sponsor, Docker Summit
 - upload zoom (Chrinstine's)
 
-- cert with Docker, 
+- cert with Docker
 
 - update PD policy? (linked from appraisal) https://excellaco.sharepoint.com/internal/HR/teamsite/Excella%20Employee%20Guide/Professional%20Development.aspx
 
