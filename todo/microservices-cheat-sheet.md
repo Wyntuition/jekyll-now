@@ -5,9 +5,8 @@ This cheatsheet includes:
 * Summmary of microservices
 * Use Cases
 * Pros & Cons
-* Choices
-* Considerations / Questions to ask
-* Assessment
+* Alternative Choices
+* Questions to ask
 * Getting Started
 
 ## Summary
