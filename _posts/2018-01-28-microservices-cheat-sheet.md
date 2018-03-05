@@ -3,7 +3,7 @@
 This BD cheatsheet includes:
 
 * Summmary of microservices
-* Problem addressing
+* Why? Problems addressing:
   * Pain points
   * Use Cases
   * Pros & Cons
