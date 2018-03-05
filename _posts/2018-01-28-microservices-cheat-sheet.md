@@ -75,3 +75,4 @@ Teams could architect applications that are any combination of one large applica
 * Choose a low risk project to start with.
 * Bring in outside distributed applications, container, cloud and microservices expertise if this is possible. If not, plan for learning time.
 * Lift and shift an application into a container, and deploy that to a container management system
+
