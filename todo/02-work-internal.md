@@ -12,6 +12,14 @@ https://trello.com/b/Vj7P4Pkf/dd-2018-goals, https://docs.google.com/spreadsheet
 
 ### ASAP
 
+- blog (into 2018 plan)
+    +brown bag on ETL, perf op - Early March
+    - 2018 trends
+        - state of MS from QCon, etc
+        - How to get started with MD
+    - Container Orchestration Overview
+
+    - Coming SW apol; sw arch, MS hell
 - PS bill; reminder for Safari
 - MS CHEATSHEET; other BD cheatsheets, blogs, etc. My trello for things in prog, incl. DDSA, reports can be in text
 
