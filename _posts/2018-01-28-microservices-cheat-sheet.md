@@ -56,7 +56,7 @@ Teams could architect applications that are any combination of one large applica
 
 * Monolith architecture - application is a single service/piece of software
 * Service hybrid architecture - microservices for only what makes sense, and monoliths, etc. elsewhere. Gaining traction today.
-* Microservices architecture - application is all made of microservices
+* Microservices architecture - application is all made of microservices; largest, most complex software merits this.
 
 ## Questions to Ask
 
