@@ -26,9 +26,10 @@ Basic attributes:
 
 ## Use Cases
 
-* Large applications with many teams, some that require scaling, independent deployment, different technologies
-* Teams that have some experience in distributed applications
-* Volitile areas of software, needing scaling and agile delivery
+* Large applications that require some that require independent scaling, deployment, different technologies
+* Volitile areas of software can be broken into microservices, so they can be worked on and deployed independently
+* Resource intensive areas of software can be broken into microservices
+* A relatively large number of developers need to work on the application in multiple teams
 
 ## Pros
 
