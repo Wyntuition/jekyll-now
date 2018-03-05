@@ -6,6 +6,8 @@
     - indexes? better scans/ jouins?
         - See times. Create lots of data locally to see times. 
 
+## ASAP
+
 - way to output statement status in job?
 - Bulk job in jenkins? ECS?
 - overall perf - 
@@ -14,11 +16,9 @@
 - auditing results?
 - local jenkins 
 
+
 - test parallel
-
-## ASAP
-
-    - any other logs/metrics we need for ETL job?
+- any other logs/metrics we need for ETL job?
     - DMS in pipeline?
         - DMS always run in master/etc in pipeline (FIRST: be able to point pipeline to perf/unstable)
 
