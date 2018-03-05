@@ -26,6 +26,10 @@ Basic attributes:
 * Advancements in tooling are making microservices broadly accessible, where once they were only used by giants like Netflix.
 * Often discussed in combination with cloud migrations, though cloud is not required
 
+## Pain Points
+
+
+
 ## Use Cases
 
 * Large applications that require some pieces to independently scale and be deployed separately
