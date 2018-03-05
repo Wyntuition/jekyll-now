@@ -12,7 +12,9 @@ This cheatsheet includes:
 
 ## Summary
 
-The microservices approach is a way to architect software. Microservices promise many benefits that are of interest to application architects, development teams and organizations, including fluid, flexible delivery of changes, implementation technology flexibility, precise scalability and cloud readiness.
+The microservices approach is a way to architect software by breaking up an application into small pieces that do one thing well.
+
+Microservices promise many benefits that are of interest to application architects, development teams and organizations, including fluid, flexible delivery of changes, implementation technology flexibility, precise scalability and cloud readiness.
 
 Basic attributes:
 
@@ -29,9 +31,19 @@ Basic attributes:
 
 ## Pros
 
+* smaller, more productive teams
+* reduced risk of change
+* faster software delivery
+* lower risk to introduce new technologies
+* lower risks and costs of replacing systems
+* reduced costs of migrating and operating in the cloud
+
 ## Cons
 
 * Many projects and organizations will find microservices too complex, expensive and disruptive to deliver a return on the investment required.
+* Need specific experience in building, deploying and managing microservices and distributed applications.
+* Can be harder to manage
+* Can be overkill for many applications
 
 ## Alternative Choices
 
