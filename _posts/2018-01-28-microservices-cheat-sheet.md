@@ -24,7 +24,7 @@ This BD cheat sheet includes:
 
 The microservices approach is ***a way to architect software by breaking up an application into small, independent pieces*** that do one thing well.
 
-Typically applications are built as **monoliths** - with all functionality contained together in a single runnable program, or with a small number of large services making up an application. 
+Typically applications are built as **monoliths** - with all functionality contained together in a single runnable program, or with a small number of large services making up an application. Microservices are vastly different in being **many small services**. They can be considered an evolution and the result of lessons learned from *SOA* (software-oriented architecture).
 
 Microservices promise many benefits that are of interest to application architects and development teams including fluid, **flexible delivery** of changes, **technology flexibility**, and **precise scalability**. They are of interest to business leaders as they **enable cloud readiness, cost optimization** and **rapid product deployment & delivery** in the right situations.
 
