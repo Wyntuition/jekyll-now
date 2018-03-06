@@ -27,8 +27,7 @@ Basic attributes:
 * Microservices are often thought of as the evolution of SOA.
 * Advancements in tooling are making microservices broadly accessible, where once they were only used by giants like Netflix.
 * Often discussed in combination with cloud migrations, though cloud is not required
-
-* A microservice can be any component of a software system
+* A microservice can be any component of a software system, including an API, back-end service, UI, batch service - really anything any software application can do.
 
 ## Pain Points Microservice Could Help
 
@@ -48,7 +47,7 @@ Basic attributes:
 * A relatively large number of developers need to work on the application in multiple teams
 * Development teams want to use different technologies/languages for different parts of the application
 
-## Pros
+## Pros of Microservices
 
 * Faster software delivery given it's easier to frequently deploy a small, independent service
 * Reduced costs of migrating and operating in the cloud since they can be migrated in pieces
@@ -60,7 +59,7 @@ Basic attributes:
 * Much flexibility in using whatever technology/language is right for the particular piece
 * Potential reuse of software with a service-based architecture with microserivces. For example, you might have a pricing microserive that is used across business units for various price calulations, or a search service used organization-wide.
 
-## Cons
+## Cons of Microservices
 
 * Many projects and organizations will find microservices too complex, expensive and disruptive to deliver a return on the investment required.
 * Must do comprehensive analysis on the software requirements to determine if it would overall benefit
