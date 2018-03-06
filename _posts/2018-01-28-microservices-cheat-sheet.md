@@ -112,11 +112,19 @@ Teams could architect applications that are any combination of one large applica
   * Do you have a mature Agile and **DevOps** practice?
   * Will your data management team support it?
 
-## Success Stories 
+## Success Stories
 
-* **Incrementally added** microservices to software ecosystem by **starting small,** by appropriately analyzing the **cost/benefit trade-offs**, and determining a worthwhile place - an API to deliver and record test scores - to start building a microservice. Incrementally built up **supporting infrastructure** by adding on to the existing architecture, while also paving the way for the organization to progress with more microservices. **Transferred knowledge** of building microservices and microservices architecture to the organization, giving them their current **foundation for microservices** and next gen software, cloud migrations, and helping them with faster delivery of new productive initiatives. [NCARB]
+* **Incrementally added** microservices to software ecosystem by **starting small,** by appropriately analyzing the **cost/benefit trade-offs**, and determining a worthwhile place - an API to deliver and record test scores - to start building a microservice. Incrementally built up **supporting infrastructure** by adding on to the existing architecture, while also paving the way for the organization to progress with more microservices. **Transferred knowledge** of building microservices and microservices architecture to the organization, giving them their current **foundation for microservices** and next gen software, cloud migrations, and helping them with faster delivery of new productive initiatives. [NCARB Certificate Portfolio]
 
-* **Modernized** legacy system with a microservices architecture, allowing the **better organization** of **multiple teams**, with **more flexibility** in deployments, scaling and technology choice. This allowed much agility in technology decisions in response to changing client requirements. It also allowed **multiple languages** allowing each team to pick the **tool best for the job**. It allowed for more **rapid development and deployment** in using the microservices inside *containers* that could be shipped around easily from developer to production infrastructure. [USCIS Verifications]
+* **Modernized** legacy system with a microservices architecture, allowing the **better organization** of **multiple teams**, with **more flexibility** in deployments, scaling and technology choice. This allowed much agility in technology decisions in response to changing client requirements. It also allowed **multiple languages** allowing each team to pick the **tool best for the job**. It allowed for more **rapid development and deployment** in using the microservices inside *containers* that could be shipped around easily from developer to production infrastructure. [USCIS Verifications - e-Verify and SAVE]
+
+## Key Differentiators
+
+* We have broad technology skills, which can be leveraged in a microservices architecture to use the right tool for the right job. Excella can thus very efficiently and effectively recommend and implement the right piece at the right time, and not because they are experts in just one technology stack.
+
+* We have experience in multiple software development styles, and can recommend the right approach in the right situation. Microservices is not the right answer in many cases but many people will say it is, which can lead to great pain and failure. We can draw on our broad experience and knowledge to make nuanced and appropriate decisions.
+
+* We have worked with this approach on clients large and small
 
 ## Getting Started
 
