@@ -17,11 +17,12 @@ This BD cheat sheet includes:
   * Pros & Cons
   * Alternative Choices
   * Questions to ask
+  * Success stories
 * Getting Started
 
 ## Summary of Microservices
 
-The microservices approach is **a way to architect software by breaking up an application into small, independent pieces** that do one thing well.
+The microservices approach is * **a way to architect software by breaking up an application into small, independent pieces** * that do one thing well.
 
 Microservices promise many benefits that are of interest to application architects and development teams including fluid, flexible delivery of changes, technology flexibility, and precise scalability. They are of interest to business leaders as they **enable cloud readiness, cost optimization and rapid product delivery in the right situations**.
 
