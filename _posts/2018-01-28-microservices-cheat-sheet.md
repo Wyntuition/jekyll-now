@@ -24,7 +24,7 @@ This BD cheat sheet includes:
 
 The microservices approach is ***a way to architect software by breaking up an application into small, independent pieces*** that do one thing well.
 
-Microservices promise many benefits that are of interest to application architects and development teams including fluid, **flexible delivery** of changes, technology flexibility, and **precise scalability**. They are of interest to business leaders as they **enable cloud readiness, cost optimization** and **rapid product delivery** in the right situations.
+Microservices promise many benefits that are of interest to application architects and development teams including fluid, **flexible delivery** of changes, **technology flexibility**, and **precise scalability**. They are of interest to business leaders as they **enable cloud readiness, cost optimization** and **rapid product delivery** in the right situations.
 
 Basic attributes:
 
@@ -44,7 +44,7 @@ Basic attributes:
 * Software is too expensive and **risky to change**
 * **Bugs are often introduced** in unrelated parts of the system on deployments
 * Software code gets too messy and hard to test; becomes **maintenance nightmare**
-* Deploying the entire application on every change is getting inefficient
+* **Deploying the entire application** on every change is getting inefficient
 * It is **difficult to scale** your software. It could be because since it's one big piece of software, all you can do is add more hardware.
 * Specific parts of the application need scaling and/or **high performance**, but not the whole thing. Scaling just the microservices that need scaling is **cheaper** and easier than trying to scale the entire application.
 
