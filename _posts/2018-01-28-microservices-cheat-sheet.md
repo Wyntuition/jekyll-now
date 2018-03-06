@@ -118,7 +118,7 @@ Teams could architect applications that are any combination of one large applica
 ## When will customers ask for them?
 
 * CIOs, some CEOs given the potenial organizational impact financially and competitively, technoly decision-makers and all engineers will be aware of the approach given it's impact on the industry and popularity
-* When **exploring a modernization effort**, if the solution is large enough this approach must be considered. Many organizations will have **no experience** with them so may be saying them need them when they really don't know.
+* When **exploring a modernization effort**, if the solution is large enough this approach must be considered. Many organizations will have **no experience** with them so may be saying them need they when they really don't know.
 * When they need any **greenfield application of enough size or complexity**
 
 ## Success Stories
