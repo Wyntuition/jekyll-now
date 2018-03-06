@@ -2,6 +2,12 @@
 
 This cheatsheet is to help business develoment practitioners understand key things quickly when trying to sell microservices.
 
+## Who Cares?
+
+Microservices have become the hot way build software, with every CTO thinking they might need them for competitive advantage, and every engineer wanting to build them. Certainly it's not that simple, and many considerations must be made before using the microservices in approach in building solutions.
+
+An overview of this landscape is as followed, which should help discuss microservices in terms of solutions with decision-makers.
+
 This BD cheatsheet includes:
 
 * Summmary of microservices
@@ -12,12 +18,6 @@ This BD cheatsheet includes:
   * Alternative Choices
   * Questions to ask
 * Getting Started
-
-## Who Cares?
-
-Microservices have become the hot way build software, with every CTO thinking they might need them for competitive advantage, and every engineer wanting to build them. Certainly it's not that simple, and many considerations must be made before using the microservices in approach in building solutions.
-
-An overview of this landscape is as followed, which should help discuss microservices in terms of solutions with decision-makers.
 
 ## Summary of Microservices
 
