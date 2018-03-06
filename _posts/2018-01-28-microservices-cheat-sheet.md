@@ -105,11 +105,11 @@ Teams could architect applications that are any combination of one large applica
 
 * Is there a lot of **risk to deploying** the whole application when it changes?
 
-  *Possible answers: you could break off those parts of your application into microservices and scale them independently internally or on any cloud provider, no matter where the original application is hosted*
+  *Possible suggestions: you could break off those parts of your application into microservices and scale them independently internally or on any cloud provider, no matter where the original application is hosted*
 
 * Do you think you're **spending too much** on infrastructure for your application?
 
-  *Possible answers: Scaling and hosting with microserivces can be **cheaper** by paying for more infrastructure only for the parts of your application that utilize it. It's also easier to **leverage cloud pricing** in general with microservices as you can control what you're paying for much more at the software level.*
+  *Possible suggestions: Scaling and hosting with microserivces can be **cheaper** by paying for more infrastructure only for the parts of your application that utilize it. It's also easier to **leverage cloud pricing** in general with microservices as you can control what you're paying for much more at the software level.*
 
 * Determine whether your organization is mature enough to adopt microservices.
   * Does your organization have **experience with cloud**, containers and distributed applications?
