@@ -29,6 +29,7 @@ Basic attributes:
 ## Pain Points
 
 * Software delivery is too slow
+* Competition is gaining competitive advantages by delivering software faster and better
 * Bugs are too often introduced in unrelated parts of the system on deployments
 * Software code gets too messy and hard to maintain
 * Deploying the entire application on every change is getting inefficient
