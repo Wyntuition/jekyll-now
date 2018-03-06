@@ -36,7 +36,7 @@ Basic attributes:
 * Microservices are often thought of as the evolution of SOA.
 * A microservice can be any component of a software system, including a whole or partial API, a back-end service, a UI, a batch job, a single piece of critical functionality and more.
 
-## Pain Points Microservice Could Help
+## Pain Points Microservices Could Help
 
 * Competition is gaining competitive advantages by delivering software faster and better
 * Software delivery is too slow. It could be because it's a large system and slow to change, or hard and risky to deploy, or other reasons.
