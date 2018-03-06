@@ -148,5 +148,5 @@ Teams could architect applications that are any combination of one large applica
 
 ## Additional Resources
 
-[Microservices](https://martinfowler.com/articles/microservices.html), Martin Fowler
-[Microservices Prerequisites](https://martinfowler.com/bliki/MicroservicePrerequisites.html), Martin Fowler
+* [Microservices](https://martinfowler.com/articles/microservices.html), Martin Fowler
+* [Microservices Prerequisites](https://martinfowler.com/bliki/MicroservicePrerequisites.html), Martin Fowler
