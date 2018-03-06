@@ -1,6 +1,6 @@
 # Overview
 
-This cheat sheet is for helping business develoment practitioners quickly understand key things when discussing and trying to sell microservices.
+This cheat sheet is for helping business development practitioners quickly understand key things when discussing and trying to sell microservices.
 
 ## Who Cares?
 
@@ -49,7 +49,7 @@ Basic attributes:
 ## Use Cases
 
 * Large applications that require some pieces to independently scale and be developed and deployed separately
-* Volitile areas of software can be broken into microservices, so they can be worked on and deployed independently
+* Volatile areas of software can be broken into microservices, so they can be worked on and deployed independently
 * Resource intensive areas of software can be broken into microservices
 * A relatively large number of developers need to work on the application in multiple teams
 * Development teams want to use different technologies/languages for different parts of the application
@@ -58,13 +58,13 @@ Basic attributes:
 
 * Faster software delivery given it's easier to frequently deploy a small, independent service
 * Reduced costs of migrating and operating in the cloud since they can be migrated in pieces
-* More flexibility in cloud deployment, from being able to deploy different parts of the application to different parts of the cloud, leave some in-house, depending on pricing, security, techinical and other factors.
+* More flexibility in cloud deployment, from being able to deploy different parts of the application to different parts of the cloud, leave some in-house, depending on pricing, security, technical and other factors.
 * Lower risks and costs of upgrading and replacing systems since they can more easily be maintained in pieces
 * Smaller, more productive teams
 * Reduced risk of change given isolated microservices
 * Lower risk to introduce new technologies since it only affects a small service
 * Much flexibility in using whatever technology/language is right for the particular piece
-* Potential reuse of software with a service-based architecture with microserivces. For example, you might have a pricing microserive that is used across business units for various price calulations, or a search service used organization-wide.
+* Potential reuse of software with a service-based architecture with microserivces. For example, you might have a pricing microserive that is used across business units for various price calculations, or a search service used organization-wide.
 
 ## Cons of Microservices
 
@@ -94,7 +94,7 @@ Teams could architect applications that are any combination of one large applica
   * Does your organization have experience with distributed applications?
   * Do you have a strong application architecture practice?
   * Do you have a mature agile and DevOps practice?
-  * Will your data management team support it? 
+  * Will your data management team support it?
   * Do you have experience with cloud, containers and distributed applications?
 
 ## Getting Started
