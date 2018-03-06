@@ -40,10 +40,9 @@ Basic attributes:
 * Software code gets too messy and hard to test and maintain
 * Deploying the entire application on every change is getting inefficient
 
-
 ## Use Cases
 
-* Large applications that require some pieces to independently scale and be deployed separately
+* Large applications that require some pieces to independently scale and be developed and deployed separately
 * Volitile areas of software can be broken into microservices, so they can be worked on and deployed independently
 * Resource intensive areas of software can be broken into microservices
 * A relatively large number of developers need to work on the application in multiple teams
