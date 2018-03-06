@@ -70,8 +70,8 @@ Basic attributes:
 ## Cons of Microservices
 
 * Many projects and organizations will find microservices too complex, expensive and disruptive to deliver a return on the investment required *Organizations must diligently analyze all the key factors for their situation before deciding to use microservices*
-* Must do comprehensive analysis on the software requirements to determine if it would overall benefit
 * Need specific experience in building, deploying and managing distributed applications and ideally microservices
+* Extra overhead to do comprehensive analysis up front to determine if microservices would be worth the cost
 * Can be harder to manage - more moving parts *Often the added complexity is better than the complexity of a giant monolithic software application though - this must be analyzed up front*
 * Can be harder to integration and end-to-end test with more pieces
 * Can be overkill for many applications
