@@ -98,11 +98,10 @@ Teams could architect applications that are any combination of one large applica
   *Possible answers: Scaling and hosting with microserivces can be cheaper by paying for more infrastructure only for the parts of your application that utilize it. It's also easier to leverage cloud pricing in general with microservices as you can control what you're paying for much more at the software level.*
 
 * Determine whether your organization is mature enough to adopt microservices.
-  * Does your organization have experience with distributed applications?
+  * Does your organization have experience with cloud, containers and distributed applications?
   * Do you have a strong application architecture practice?
   * Do you have a mature Agile and DevOps practice?
   * Will your data management team support it?
-  * Do you have experience with cloud, containers and distributed applications?
 
 ## Getting Started
 
