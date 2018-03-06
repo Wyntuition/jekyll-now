@@ -52,11 +52,12 @@ Basic attributes:
 
 * Faster software delivery given it's easier to frequently deploy a small, independent service
 * Reduced costs of migrating and operating in the cloud since they can be migrated in pieces
+* More flexibility in cloud deployment, from being able to deploy different parts of the application to different parts of the cloud, leave some in-house, depending on pricing, security, techinical and other factors.
+* Lower risks and costs of upgrading and replacing systems since they can more easily be maintained in pieces
 * Smaller, more productive teams
 * Reduced risk of change given isolated microservices
 * Lower risk to introduce new technologies since it only affects a small service
 * Much flexibility in using whatever technology/language is right for the particular piece
-* Lower risks and costs of upgrading and replacing systems since they can more easily be maintained in pieces
 * Potential reuse of software with a service-based architecture with microserivces. For example, you might have a pricing microserive that is used across business units for various price calulations, or a search service used organization-wide.
 
 ## Cons
