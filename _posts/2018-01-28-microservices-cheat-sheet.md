@@ -59,23 +59,23 @@ Basic attributes:
 
 * Faster software delivery given it's easier to frequently deploy a small, independent service
 * Reduced costs of migrating and operating in the cloud since they can be migrated in pieces
-* More flexibility in cloud deployment, from being able to deploy different parts of the application to different parts of the cloud, leave some in-house, depending on pricing, security, technical and other factors.
+* More flexibility in cloud deployment, from being able to deploy different parts of the application to different parts of the cloud, leave some in-house, depending on pricing, security, technical and other factors
 * Lower risks and costs of upgrading and replacing systems since they can more easily be maintained in pieces
 * Smaller, more productive teams
-* Reduced risk of change given isolated microservices
+* Reduced risk of change & introdicing bugs given isolated microservices
 * Lower risk to introduce new technologies since it only affects a small service
 * Much flexibility in using whatever technology/language is right for the particular piece
 * Potential reuse of software with a service-based architecture with microserivces. For example, you might have a pricing microserive that is used across business units for various price calculations, or a search service used organization-wide.
 
 ## Cons of Microservices
 
-* Many projects and organizations will find microservices too complex, expensive and disruptive to deliver a return on the investment required.
+* Many projects and organizations will find microservices too complex, expensive and disruptive to deliver a return on the investment required
 * Must do comprehensive analysis on the software requirements to determine if it would overall benefit
-* Need specific experience in building, deploying and managing microservices and distributed applications.
-* Can be harder to manage; more pieces
+* Need specific experience in building, deploying and managing distributed applications and ideally microservices
+* Can be harder to manage - more moving parts
 * Can be harder to integration and end-to-end test with more pieces
 * Can be overkill for many applications
-* Hard to know how to break up into small pieces; must know business domain and infrastructure very well
+* Hard to know how to break up into small pieces; must know business domain, volatile areas of the software and the infrastructure very well
 
 ## Alternative Choices
 
