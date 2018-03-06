@@ -80,11 +80,13 @@ Teams could architect applications that are any combination of one large applica
 
 * What is the nature, size and complexity of your software project?
 * Will multiple teams be working on it?
-* Do certain parts of the application need to scale and change frequently and independently? Is there a lot of risk to deploying the whole application for these changes?
+* Do certain parts of the application need to scale and change frequently and independently? Is there a lot of risk to deploying the whole application for these changes? *Possible answers: you could break off those parts of your application into microservices and scale them independently internally or on any cloud provider, no matter where the original application is hosted*
 * Determine whether your organization is mature enough to adopt microservices.
+  * Does your organization have experience with distributed applications?
   * Do you have a strong application architecture practice?
   * Do you have a mature agile and DevOps practice?
-  * Will your data management team support it? Do you have experience with cloud, containers and distributed applications?
+  * Will your data management team support it? 
+  * Do you have experience with cloud, containers and distributed applications?
 
 ## Getting Started
 
