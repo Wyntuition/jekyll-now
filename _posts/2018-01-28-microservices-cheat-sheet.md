@@ -45,7 +45,7 @@ Basic attributes:
 * **Bugs are often introduced** in unrelated parts of the system on deployments
 * Software code gets too messy and hard to test; becomes **maintenance nightmare**
 * **Deploying the entire application** on every change is getting inefficient
-* It is **difficult to scale** your software. It could be because since it's one big piece of software, all you can do is add more hardware.
+* It is **difficult to scale** your software. It could be because since it's one big piece of software, all you can do is **throw more hardware at it**.
 * Specific parts of the application need scaling and/or **high performance**, but not the whole thing. Scaling just the microservices that need scaling is **cheaper** and easier than trying to scale the entire application.
 
 ## Use Cases
