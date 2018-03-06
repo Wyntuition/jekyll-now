@@ -24,9 +24,9 @@ Basic attributes:
 * Instead of creating one big application, it is broken into small services, each a fully independent, runnable application that communicates over the network with the other pieces.
 * This allows more flexibility in changing, deploying, and scaling specific parts of the application without affecting the others.
 * It makes the application distributed, since the small services (microservices) are typically distributed across servers (whether or not in the cloud). This increases the complexity and the needed knowledge and experience of the team, so it is critical to clearly analyze where microservices should be used so it is worth it.
-* Microservices are often thought of as the evolution of SOA.
 * Advancements in tooling are making microservices broadly accessible, where once they were only used by giants like Netflix.
-* Often discussed in combination with cloud migrations, though cloud is not required
+* Often discussed in combination with cloud migrations because they can add benefit to the transition, though cloud tech is not required
+* Microservices are often thought of as the evolution of SOA.
 * A microservice can be any component of a software system, including an API, back-end service, UI, batch service - really anything any software application can do.
 
 ## Pain Points Microservice Could Help
