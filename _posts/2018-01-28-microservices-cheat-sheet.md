@@ -114,7 +114,9 @@ Teams could architect applications that are any combination of one large applica
 
 ## Success Stories 
 
-* 
+* **Incrementally added** microservices to software ecosystem by **starting small,** by appropriately analyzing the **cost/benefit trade-offs**, and determining a worthwhile place - an API to deliver and record test scores - to start building a microservice. Incrementally built up **supporting infrastructure** by adding on to the existing architecture, while also paving the way for the organization to progress with more microservices. **Transferred knowledge** of building microservices and microservices architecture to the organization, giving them their current **foundation for microservices** and next gen software, cloud migrations, and helping them with faster delivery of new productive initiatives. [NCARB]
+
+* **Modernized** legacy system with a microservices architecture, allowing the **better organization** of **multiple teams**, with **more flexibility** in deployments, scaling and technology choice. This allowed much agility in technology decisions in response to changing client requirements. It also allowed **multiple languages** allowing each team to pick the **tool best for the job*.
 
 ## Getting Started
 
