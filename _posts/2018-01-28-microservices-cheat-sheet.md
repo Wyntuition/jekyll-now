@@ -118,6 +118,10 @@ Teams could architect applications that are any combination of one large applica
   * Do you have a mature Agile and **DevOps** practice?
   * Will your data management team support it?
 
+## Success Stories 
+
+* 
+
 ## Getting Started
 
 * Take it **slowly**. Initially use microservices only where you need to — for functionality with agility or scalability requirements. Direct teams to experiment with the new patterns and technologies and build expertise. Direct a team to start building a **sandbox**.
