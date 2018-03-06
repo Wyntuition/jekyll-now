@@ -17,6 +17,7 @@ This BD cheat sheet includes:
   * Pros & Cons
   * Alternative Choices
   * Questions to ask
+  * When will customers ask for them?
   * Success stories & Key differentiators
 * Getting Started
 
@@ -113,6 +114,12 @@ Teams could architect applications that are any combination of one large applica
   * Do you have a **strong application architecture** practice?
   * Do you have a mature Agile and **DevOps** practice?
   * Will your data management team support it?
+
+## When will customers ask for them?
+
+* CIOs, some CEOs given the potenial organizational impact financially and competitively, technoly decision-makers and all engineers will be aware of the approach given it's impact on the industry and popularity
+* When **exploring a modernization effort**, if the solution is large enough this approach must be considered. Many organizations will have **no experience** with them so may be saying them need them when they really don't know.
+* When they need any **greenfield application of enough size or complexity**
 
 ## Success Stories
 
