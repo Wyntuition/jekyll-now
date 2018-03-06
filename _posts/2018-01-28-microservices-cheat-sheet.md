@@ -89,7 +89,7 @@ Basic attributes:
 
 ## Alternative Choices
 
-Teams could architect applications that are any combination of one large application, a few large services with some microservices, all the way to many microsoervices combining to make one application.
+Teams could architect applications that are any combination of one large application, a few large services with some microservices, all the way to many microsoervices combining to make one application. There are also other niche ways to architect software, such as a pluggable architecture, but this won't get that specific.
 
 * **Monolith** architecture - application is a single service/piece of software; most common
 * Service hybrid architecture - microservices for only what makes sense, and monoliths, etc. elsewhere. Gaining traction today in response to scenarios where all microservices are overkill.
