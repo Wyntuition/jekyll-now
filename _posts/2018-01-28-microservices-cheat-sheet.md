@@ -88,8 +88,10 @@ Teams could architect applications that are any combination of one large applica
 ## Questions to Ask
 
 * What is the nature, size and complexity of your software project?
+
 * Will multiple teams be working on it?
-* Do certain parts of the application need to scale and change frequently and independently? Is there a lot of risk to deploying the whole application for these changes? 
+
+* Do certain parts of the application need to scale and change frequently and independently? Is there a lot of risk to deploying the whole application for these changes?
 
   *Possible answers: you could break off those parts of your application into microservices and scale them independently internally or on any cloud provider, no matter where the original application is hosted*
 
