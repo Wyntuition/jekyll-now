@@ -34,7 +34,7 @@ Basic attributes:
 * Often discussed in combination with cloud migrations because they can add benefit to the transition, though cloud tech is not required
 * Often discussed in combination with containers, though they are not the same. Putting a piece of working software (a microservice) in a container greatly helps the software process, but containers are not required to build microservices. That said, it makes a lot of sense to always build them in containers.
 * Microservices are often thought of as the evolution of SOA.
-* A microservice can be any component of a software system, including an API, back-end service, UI, batch service - really anything any software application can do.
+* A microservice can be any component of a software system, including a whole or partial API, a back-end service, a UI, a batch job, a single piece of critical functionality and more.
 
 ## Pain Points Microservice Could Help
 
