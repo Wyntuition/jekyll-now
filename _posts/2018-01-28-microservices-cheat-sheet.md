@@ -57,7 +57,7 @@ Basic attributes:
 * Much flexibility in using whatever technology/language is right for the particular piece
 * Lower risks and costs of upgrading and replacing systems since they can more easily be maintained in pieces
 * Reduced costs of migrating and operating in the cloud since they can be migrated in pieces
-* Potential reuse of software with a service-based architecture with microserivces. For example, you might have a pricing microserive that is used across business units for various price calulations.
+* Potential reuse of software with a service-based architecture with microserivces. For example, you might have a pricing microserive that is used across business units for various price calulations, or a search service used organization-wide.
 
 ## Cons
 
