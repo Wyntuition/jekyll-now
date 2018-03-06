@@ -15,7 +15,9 @@ This BD cheatsheet includes:
 
 ## Who Cares?
 
-Microservices have become the hot way build software, with every CTO thinking they might need them for competitive advantage, and every engineer wanting to build them. Certainly it's not that simple, and many considerations must be made before using the microservices in approach in building solutions. An overview of this landscape is as followed, which should help discuss microservices in terms of solutions, in these types of discussions.
+Microservices have become the hot way build software, with every CTO thinking they might need them for competitive advantage, and every engineer wanting to build them. Certainly it's not that simple, and many considerations must be made before using the microservices in approach in building solutions.
+
+An overview of this landscape is as followed, which should help discuss microservices in terms of solutions with decision-makers.
 
 ## Summary of Microservices
 
