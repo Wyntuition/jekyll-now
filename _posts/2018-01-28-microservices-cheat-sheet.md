@@ -30,7 +30,7 @@ Basic attributes:
 
 * A microservice can be any component of a software system
 
-## Reasons to Consider Microservices
+## Pain Points Microservice Could Help
 
 * Software delivery is too slow
 * It is difficult to scale your software
