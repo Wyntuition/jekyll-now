@@ -1,6 +1,6 @@
 # Overview
 
-This cheatsheet is to help business develoment practitioners understand key things quickly when trying to sell microservices.
+This cheatsheet is to help business develoment practitioners understand key things quickly when discussing and trying to sell microservices.
 
 ## Who Cares?
 
