@@ -1,6 +1,6 @@
 # Overview
 
-This cheatsheet is to help business develoment practitioners understand key things quickly when discussing and trying to sell microservices.
+This cheat sheet is to help business develoment practitioners understand key things quickly when discussing and trying to sell microservices.
 
 ## Who Cares?
 
@@ -8,7 +8,7 @@ Microservices have become the hot way build software, with every CTO thinking th
 
 An overview of this landscape is as followed, which should help discuss microservices in terms of solutions with decision-makers.
 
-This BD cheatsheet includes:
+This BD cheat sheet includes:
 
 * Summmary of microservices
 * Why? Problems addressing:
