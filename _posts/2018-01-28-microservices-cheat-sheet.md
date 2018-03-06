@@ -6,7 +6,7 @@ This cheat sheet is for helping business development practitioners quickly under
 
 Microservices have become the hot way build software, with every CTO thinking they might need them for competitive advantage, and every engineer wanting to build them. Certainly it's not that simple, and many considerations must be made before using the microservices approach in building solutions.
 
-An overview of this landscape is as followed, which should help discuss microservices with decision makers in terms of solutions.
+This cheat sheet should help discuss microservices with decision makers in terms of solutions.
 
 This BD cheat sheet includes:
 
