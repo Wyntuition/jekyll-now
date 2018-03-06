@@ -31,7 +31,7 @@ Basic attributes:
 * Software delivery is too slow
 * Competition is gaining competitive advantages by delivering software faster and better
 * Bugs are too often introduced in unrelated parts of the system on deployments
-* Software code gets too messy and hard to maintain
+* Software code gets too messy and hard to test and maintain
 * Deploying the entire application on every change is getting inefficient
 * Specific parts of the application need scaling and/or high performance, but not the whole thing
 
@@ -50,7 +50,7 @@ Basic attributes:
 * Faster software delivery given it's easier to frequently deploy a small, independent service
 * Lower risk to introduce new technologies since it only affects a small service
 * Much flexibility in using whatever technology/language is right for the particular piece
-* Lower risks and costs of replacing systems since they can more easily be replaced in pieces
+* Lower risks and costs of upgrading and replacing systems since they can more easily be maintained in pieces
 * Reduced costs of migrating and operating in the cloud since they can be migrated in pieces
 
 ## Cons
