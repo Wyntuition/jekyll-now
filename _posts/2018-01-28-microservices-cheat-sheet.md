@@ -129,7 +129,7 @@ Teams could architect applications that are any combination of one large applica
 
 ## Key Differentiators
 
-* We have broad technology skills, which can be leveraged in a microservices architecture to use the right tool for the right job. Excella can thus very efficiently and effectively recommend and implement the right piece at the right time, and not because they are experts in just one technology stack.
+* We have broad technology skills, which can be leveraged in a microservices architecture to use the right tool for the right job. Excella can thus very efficiently and effectively recommend and implement the right piece at the right time, and not because they are experts in just one technology stack. Many organizations think they need microservices because they're hot, when they need something else. We can prevent them from falling into that trap.
 
 * We have experience in multiple software development styles, and can recommend the right approach in the right situation. Microservices is not the right answer in many cases but many people will say it is, which can lead to great pain and failure. We can draw on our broad experience and knowledge to make nuanced and appropriate decisions.
 
