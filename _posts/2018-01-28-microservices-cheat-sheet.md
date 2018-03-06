@@ -49,9 +49,9 @@ Basic attributes:
 
 ## Use Cases
 
-* Large applications that require some pieces to independently scale and be developed and deployed separately
+* Large applications that require some pieces to independently scale and be developed and deployed separately, whether or not by independent teams
 * Volatile areas of software can be broken into microservices, so they can be worked on and deployed independently
-* Resource intensive areas of software can be broken into microservices
+* Resource intensive areas of software can be broken into microservices and then deployed on specific hardware tuned and scaled appropriately and cost-effectively
 * A relatively large number of developers need to work on the application in multiple teams
 * Development teams want to use different technologies/languages for different parts of the application
 
