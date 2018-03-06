@@ -150,3 +150,5 @@ Teams could architect applications that are any combination of one large applica
 
 * [Microservices](https://martinfowler.com/articles/microservices.html), Martin Fowler
 * [Microservices Prerequisites](https://martinfowler.com/bliki/MicroservicePrerequisites.html), Martin Fowler
+* [Case Study: How HomeDepot.com transitioned to microservices](https://www.safaribooksonline.com/case-studies/microservices/how-homedepot-com-transitioned/9781491991336-video308630/)
+* [Case Study: Orbitz autommated its microservices](https://www.safaribooksonline.com/case-studies/microservices/orbitz-com-automates-its-micro/9781491991336-video308680/)
