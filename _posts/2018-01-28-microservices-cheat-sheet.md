@@ -85,9 +85,9 @@ Basic attributes:
 
 * Can be overkill for many applications *Often starting with a monolith is the right way to go anyway*
 
-* Hard to know how to break up into small pieces 
+* Hard to know how to break up into small pieces
 
-  *must know business domain, volatile areas of the software and the infrastructure very well*
+  *Must know business domain, volatile areas of the software and the infrastructure very well*
 
 ## Alternative Choices
 
