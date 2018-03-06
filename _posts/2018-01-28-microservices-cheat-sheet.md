@@ -150,5 +150,6 @@ Teams could architect applications that are any combination of one large applica
 
 * [Microservices](https://martinfowler.com/articles/microservices.html), Martin Fowler
 * [Microservices Prerequisites](https://martinfowler.com/bliki/MicroservicePrerequisites.html), Martin Fowler
+* [Stitch Fix CTO talks data science, modern architectures and moving up the engineering ladder](https://architecht.io/stitch-fix-cto-talks-data-science-modern-architectures-and-moving-up-the-engineering-ladder-de4c8d7b5152)
 * [Case Study: How HomeDepot.com transitioned to microservices](https://www.safaribooksonline.com/case-studies/microservices/how-homedepot-com-transitioned/9781491991336-video308630/)
 * [Case Study: Orbitz autommates its microservices](https://www.safaribooksonline.com/case-studies/microservices/orbitz-com-automates-its-micro/9781491991336-video308680/)
