@@ -13,7 +13,11 @@ This BD cheatsheet includes:
   * Questions to ask
 * Getting Started
 
-## Summary
+## Who Cares?
+
+Microservices have become the hot way build software, with every CTO thinking they might need them for competitive advantage, 
+
+## Summary of Microservices
 
 The microservices approach is a way to architect software by breaking up an application into small, independent pieces that do one thing well.
 
@@ -26,6 +30,7 @@ Basic attributes:
 * It makes the application distributed, since the small services (microservices) are typically distributed across servers (whether or not in the cloud). This increases the complexity and the needed knowledge and experience of the team, so it is critical to clearly analyze where microservices should be used so it is worth it.
 * Advancements in tooling are making microservices broadly accessible, where once they were only used by giants like Netflix.
 * Often discussed in combination with cloud migrations because they can add benefit to the transition, though cloud tech is not required
+* Often discussed in combination with containers, though they are not the same. Putting a piece of working software (a microservice) in a container greatly helps the process, but containers are not required to build microservices.
 * Microservices are often thought of as the evolution of SOA.
 * A microservice can be any component of a software system, including an API, back-end service, UI, batch service - really anything any software application can do.
 
