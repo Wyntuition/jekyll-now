@@ -38,13 +38,14 @@ Basic attributes:
 
 ## Pain Points Microservice Could Help
 
-* Software delivery is too slow
-* It is difficult to scale your software
-* Specific parts of the application need scaling and/or high performance, but not the whole thing. Scaling just the microservices that need scaling is cheaper than trying to scale the entire application.
 * Competition is gaining competitive advantages by delivering software faster and better
+* Software delivery is too slow. It could be because it's a large system and slow to change, or hard and risky to deploy, or other reasons.
+* Software is too expensive and risky to change
 * Bugs are too often introduced in unrelated parts of the system on deployments
 * Software code gets too messy and hard to test and maintain
 * Deploying the entire application on every change is getting inefficient
+* It is difficult to scale your software. It could be because since it's one big piece of software, all you can do is add more hardware.
+* Specific parts of the application need scaling and/or high performance, but not the whole thing. Scaling just the microservices that need scaling is cheaper and easier than trying to scale the entire application.
 
 ## Use Cases
 
