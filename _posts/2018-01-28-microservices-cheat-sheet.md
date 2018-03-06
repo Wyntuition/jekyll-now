@@ -74,8 +74,8 @@ Basic attributes:
 * Extra overhead to do comprehensive analysis up front to determine if microservices would be worth the cost
 * Can be harder to manage - more moving parts *Often the added complexity is better than the complexity of a giant monolithic software application though - this must be analyzed up front*
 * Can be harder to integration and end-to-end test with more pieces
-* Can be overkill for many applications
-* Hard to know how to break up into small pieces; must know business domain, volatile areas of the software and the infrastructure very well
+* Can be overkill for many applications *Often starting with a monolith is the right way to go anyway*
+* Hard to know how to break up into small pieces *must know business domain, volatile areas of the software and the infrastructure very well*
 
 ## Alternative Choices
 
