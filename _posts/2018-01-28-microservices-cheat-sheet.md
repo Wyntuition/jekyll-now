@@ -24,6 +24,8 @@ This BD cheat sheet includes:
 
 The microservices approach is ***a way to architect software by breaking up an application into small, independent pieces*** that do one thing well.
 
+Typically applications are built as **monoliths** - with all functionality contained together in a single runnable program, or with a small number of large services making up an application. 
+
 Microservices promise many benefits that are of interest to application architects and development teams including fluid, **flexible delivery** of changes, **technology flexibility**, and **precise scalability**. They are of interest to business leaders as they **enable cloud readiness, cost optimization** and **rapid product deployment & delivery** in the right situations.
 
 Basic attributes:
@@ -134,3 +136,7 @@ Teams could architect applications that are any combination of one large applica
 * **Lift and shift** an application into a container, and deploy that to a **container management system**
 * Expect to implement a **microservices infrastructure** to provide the outer architecture capabilities needed to build, deploy and operate fleets of microservices. PaaS and container management platforms can provide a core, but you’ll need to supplement this with capabilities such as API gateways, service discovery, monitoring and telemetry, build and test automation, messaging and data persistence. A serverless approach can be a quick way to get started.
 * Bring in **outside expertise** in distributed applications, container, cloud and microservices if this is possible. If not, plan for learning time.
+
+## Additional Resources
+
+* 
