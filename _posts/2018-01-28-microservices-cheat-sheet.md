@@ -1,6 +1,6 @@
 # Overview
 
-This cheatsheet is for business develoment people, especially in terms of understanding key things quickly when trying to sell microservices.
+This cheatsheet is to help business develoment understand key things quickly when trying to sell microservices.
 
 This BD cheatsheet includes:
 
