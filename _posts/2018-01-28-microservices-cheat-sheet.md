@@ -26,7 +26,7 @@ Basic attributes:
 * Advancements in tooling are making microservices broadly accessible, where once they were only used by giants like Netflix.
 * Often discussed in combination with cloud migrations, though cloud is not required
 
-## Pain Points
+## Reasons to Consider Microservices
 
 * Software delivery is too slow
 * Competition is gaining competitive advantages by delivering software faster and better
