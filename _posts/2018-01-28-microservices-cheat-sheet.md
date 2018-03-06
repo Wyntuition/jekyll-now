@@ -60,30 +60,30 @@ Basic attributes:
 * **Faster software delivery** given it's easier to frequently deploy a small, independent service
 * **Reduced costs of migrating and operating in the cloud** since they can be migrated in pieces
 * More flexibility in cloud deployment,from being able to deploy different parts of the application to different parts of the cloud, leave some in-house, depending on pricing, security, technical and other factors. This can enable **frequent deployments**.
-* Lower risks and costs of upgrading and replacing systems since they can more easily be maintained in pieces
+* **Lower risks and costs of upgrading and replacing systems** since they can more easily be maintained in pieces
 * Smaller, more productive teams
-* Reduced risk of change & introdicing bugs given isolated microservices
+* **Reduced risk of change & introducing bugs** given isolated microservices
 * Lower risk to introduce new technologies since it only affects a small service
 * Much flexibility in using whatever technology/language is right for the particular piece
 * Potential reuse of software with a service-based architecture with microserivces. For example, you might have a pricing microserive that is used across business units for various price calculations, or a search service used organization-wide.
 
 ## Cons of Microservices
 
-* Many projects and organizations will find microservices too complex, expensive and disruptive to deliver a return on the investment required
+* Many projects and organizations will find **microservices too complex**, expensive and disruptive to deliver a return on the investment required
 
-  *Organizations must diligently analyze all the key factors for their situation before deciding to use microservices*
+  *Organizations must diligently **analyze all the key factors for their situation before deciding to use microservices***
 
-* Need specific experience in building, deploying and managing distributed applications and ideally microservices
+* **Need specific experience** in building, deploying and managing distributed applications and ideally microservices
 
 * Extra overhead to do comprehensive analysis up front to determine if microservices would be worth the cost
 
-* Can be harder to manage - more moving parts
+* **Can be more complex to manage** - more moving parts
 
-  *Often the added complexity is better than the complexity of a giant monolithic software application though - this must be analyzed up front*
+  *Often the added complexity is **better than the complexity of a giant monolithic software application** though - this must be analyzed up front*
 
 * Can be harder to integration and end-to-end test with more pieces
 
-* Can be overkill for many applications *Often starting with a monolith is the right way to go anyway*
+* **Can be overkill** for many applications *Often starting with a monolith is the right way to go anyway*
 
 * Hard to know how to break up into small pieces
 
