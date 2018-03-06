@@ -30,7 +30,7 @@ Basic attributes:
 * Instead of creating one big application, it is broken into small services, each a fully independent, runnable application that communicates over the network with the other pieces to function as a whole.
 * This allows **more flexibility in changing, deploying, and scaling specific parts of the application without affecting the others**.
 * It makes the application distributed, since the small services (microservices) are typically distributed across servers (whether or not in the cloud). This increases the solution's complexity and the needed knowledge and experience of the team, so it is critical to clearly analyze where microservices should be used so it is worth it.
-* Advancements in tooling are making microservices broadly accessible, where once they were only used by giants like Netflix.
+* **Advancements in tooling are making microservices broadly accessible**, where once they were only used by giants like Netflix.
 * Often discussed in combination with cloud migrations because they can add benefit to the transition, though cloud tech is not required
 * Often discussed in combination with containers, though they are not the same. Putting a piece of working software (a microservice) in a container greatly helps the software process, but containers are not required to build microservices. That said, it makes a lot of sense to always build them in containers.
 * Microservices are often thought of as the evolution of SOA.
@@ -49,17 +49,17 @@ Basic attributes:
 
 ## Use Cases
 
-* Large applications that require some pieces to independently scale and be developed and deployed separately, whether or not by independent teams
-* Volatile areas of software can be broken into microservices, so they can be worked on and deployed independently
-* Resource intensive areas of software can be broken into microservices and then deployed on specific hardware tuned and scaled appropriately and cost-effectively
+* Large applications that require some pieces to **independently scale and be developed and deployed separately**, whether or not by independent teams
+* **Volatile areas of software can be broken into microservices**, so they can be worked on and deployed independently
+* **Resource intensive areas of software can be broken into microservices** and then deployed on specific hardware tuned and scaled appropriately and cost-effectively
 * A relatively large number of developers need to work on the application in multiple teams
 * Development teams want to use different technologies/languages for different parts of the application
 
 ## Pros of Microservices
 
-* Faster software delivery given it's easier to frequently deploy a small, independent service
-* Reduced costs of migrating and operating in the cloud since they can be migrated in pieces
-* More flexibility in cloud deployment, from being able to deploy different parts of the application to different parts of the cloud, leave some in-house, depending on pricing, security, technical and other factors
+* **Faster software delivery** given it's easier to frequently deploy a small, independent service
+* **Reduced costs of migrating and operating in the cloud** since they can be migrated in pieces
+* More flexibility in cloud deployment,from being able to deploy different parts of the application to different parts of the cloud, leave some in-house, depending on pricing, security, technical and other factors. This can enable **frequent deployments**.
 * Lower risks and costs of upgrading and replacing systems since they can more easily be maintained in pieces
 * Smaller, more productive teams
 * Reduced risk of change & introdicing bugs given isolated microservices
