@@ -17,8 +17,8 @@ This BD cheat sheet includes:
   * Pros & Cons
   * Alternative Choices
   * Questions to ask
-  * When will customers ask for them?
-  * Success stories & Key differentiators
+* When will customers ask for them?
+* Success stories & Key differentiators
 * Getting Started
 
 ## Summary of Microservices
