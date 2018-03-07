@@ -2,6 +2,7 @@
 
 ## TODAY
 
+- still issues with perm script - re-run test on preview repeats
 - 
     
     - 1-1 against Paul's counts
@@ -11,7 +12,6 @@
     - gen SQL from tests to see what diffs etc are really doing
     - indexes? better scans/ jouins? GEN BIG DATA?
     - See times. Create lots of data locally to see times. 
-- still issues with perm script?
 - SK TB
 
 -turn off vaccum?
