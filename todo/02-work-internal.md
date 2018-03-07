@@ -35,6 +35,7 @@ https://trello.com/b/Vj7P4Pkf/dd-2018-goals, https://docs.google.com/spreadsheet
 
 - Docker WS marketing: on cal, to Docker contacts if they can send any clients, 
 - Sponsor, Docker Summit
+- upload zoom - wathc and see if worth it to recreate first part
 
 - cert with Docker
 
