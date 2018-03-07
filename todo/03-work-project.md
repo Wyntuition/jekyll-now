@@ -14,6 +14,8 @@
 - still issues with perm script?
 - SK TB
 
+-turn off vaccum?
+
 ## ASAP
 
 - way to output statement status in job?
