@@ -9,8 +9,6 @@ https://trello.com/b/Vj7P4Pkf/dd-2018-goals, https://docs.google.com/spreadsheet
 
 ### TODAY
 
-
-
 - MS curric list. Specifically, brown bags: for chassis, different attribues; setting up infra;
 
 - PS bill; reminder for Safari
