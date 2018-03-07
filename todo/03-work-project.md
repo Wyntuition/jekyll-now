@@ -6,7 +6,7 @@
 - right process to analyze pref locally? 1) clear stats, [gen data], est. baseline
     
     - 1-1 against Paul's counts
-
+- update ms cheatsheet
 
 - Test time
     - gen SQL from tests to see what diffs etc are really doing
