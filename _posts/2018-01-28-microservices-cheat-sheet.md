@@ -23,7 +23,7 @@ This BD cheat sheet includes:
 
 ## Summary of Microservices
 
-The microservices approach is ***a way to architect software by breaking up a single application into small, independent pieces*** that each do one thing well.
+The microservices approach is ***a way to architect software by breaking up a single application into small, independent pieces*** that each do something well. Instead of creating one big application, each piece is a fully runnable application that communicates over the network with the other pieces to function as a whole.
 
 Typically applications are built as **monoliths** - with all functionality contained together in a single runnable program, or with a small number of large services making up an application. Microservices are vastly different in being **many small services**. They can be considered an evolution and the result of lessons learned from *SOA* (software-oriented architecture).
 
@@ -31,8 +31,7 @@ Microservices promise many benefits that are of interest to application architec
 
 Basic attributes:
 
-* Instead of creating one big application, it is broken into **small, independent services**, each a fully runnable application that communicates over the network with the other pieces to function as a whole.
-* This allows more flexibility in changing, deploying, and scaling specific parts of the application without affecting the others.
+* **Small pieces** allow more **flexibility** in changing, deploying, and scaling specific parts of the application without affecting the others.
 * It makes the application **distributed**, since the small services (microservices) are typically distributed across servers (whether or not in the cloud). This increases the solution's complexity and the needed knowledge and experience of the team, so it is critical to clearly analyze where microservices should be used so it is worth it.
 * Advancements in tooling are making microservices **more broadly accessible**, where once they were only used by giants like Netflix.
 * Often discussed in combination with **cloud migrations** because they can add benefit to the transition, though cloud tech is not required
