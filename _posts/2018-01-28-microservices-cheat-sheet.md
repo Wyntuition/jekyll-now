@@ -23,7 +23,7 @@ This BD cheat sheet includes:
 
 ## Summary of Microservices
 
-The microservices approach is ***a way to architect software by breaking up a single application into small, independent pieces*** that each do something well. Instead of creating one big application, each piece is a fully runnable application that communicates over the network with the other pieces to function as a whole.
+The microservices approach is ***a way to architect software by breaking up a single application into small, independent pieces*** that each do something well. Instead of creating one big application, each of many pieces is a fully runnable program that communicates over the network with the others to function as a whole.
 
 Typically applications are built as **monoliths** - with all functionality contained together in a single runnable program, or with a small number of large services making up an application. Microservices are vastly different in being **many small services**. They can be considered an evolution and the result of lessons learned from *SOA* (software-oriented architecture).
 
