@@ -13,8 +13,13 @@ https://trello.com/b/Vj7P4Pkf/dd-2018-goals, https://docs.google.com/spreadsheet
 
 - PS bill; reminder for Safari
 
+- fadi conf check out (agile gov summit); others; business ones; cloud business, etc
+
+- blog
+
 ### ASAP
 
+- MS cheatsheet follow-up; then Docker, .NET Core; next initative to get into. orig notes?
 - blog (into 2018 plan)
     +brown bag on ETL, perf op - Early March
     - 2018 trends
