@@ -22,6 +22,10 @@ https://trello.com/b/Vj7P4Pkf/dd-2018-goals, https://docs.google.com/spreadsheet
 
 ### ASAP
 
+-PG curric (brownbag)
+    + modifying large tables in prod, http://leopard.in.ua/2016/09/20/safe-and-unsafe-operations-postgresql#.WqAUy5PwYUE
+    
+
 - lists for projects
     - testing guidelines
     - norms
