@@ -2,6 +2,11 @@
 
 ## TODAY
 
+- 
+    
+    - 1-1 against Paul's counts
+
+
 - Test time
     - gen SQL from tests to see what diffs etc are really doing
     - indexes? better scans/ jouins? GEN BIG DATA?
