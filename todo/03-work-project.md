@@ -2,10 +2,17 @@
 
 ## TODAY
 
+- separate queries for count so others aren't joining?
+- legacy access script
+- metadata
+-jen p
+
 - still issues with perm script - re-run test on preview repeats
 - right process to analyze pref locally? 1) clear stats, [gen data], est. baseline
-    
-    - 1-1 against Paul's counts
+
+pg 9.6
+
+- 1-1 against Paul's counts
 - update ms cheatsheet
 
 - Test time
