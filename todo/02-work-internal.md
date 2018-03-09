@@ -12,6 +12,7 @@ https://trello.com/b/Vj7P4Pkf/dd-2018-goals, https://docs.google.com/spreadsheet
 - MS stuff
 - blog
 -jen p
+-supervisor guidelines :- sean
 
 ### ASAP
 
@@ -22,7 +23,6 @@ https://trello.com/b/Vj7P4Pkf/dd-2018-goals, https://docs.google.com/spreadsheet
 - fadi conf check out (agile gov summit); others; business ones; cloud business, etc
 
 
-- Sean supervising 
 -PG curric (brownbag)
     + modifying large tables in prod, http://leopard.in.ua/2016/09/20/safe-and-unsafe-operations-postgresql#.WqAUy5PwYUE
     
