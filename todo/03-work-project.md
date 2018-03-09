@@ -9,6 +9,8 @@
 
 - still issues with perm script - re-run test on preview repeats
 - right process to analyze pref locally? 1) clear stats, [gen data], est. baseline
+- pw in thing
+- rem from public
 
 pg 9.6
 
