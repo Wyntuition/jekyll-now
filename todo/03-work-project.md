@@ -2,12 +2,28 @@
 
 ## TODAY
 
+- separate queries for count so others aren't joining?
+- legacy access script
+- metadata
+-jen p
+
+- still issues with perm script - re-run test on preview repeats
+- right process to analyze pref locally? 1) clear stats, [gen data], est. baseline
+- pw in thing
+- rem from public
+
+pg 9.6
+
+- 1-1 against Paul's counts
+- update ms cheatsheet
+
 - Test time
     - gen SQL from tests to see what diffs etc are really doing
     - indexes? better scans/ jouins? GEN BIG DATA?
     - See times. Create lots of data locally to see times. 
-- still issues with perm script?
 - SK TB
+
+-turn off vaccum?
 
 ## ASAP
 

@@ -6,9 +6,9 @@ Continue focusing on going deep into containers and outputting workshop, tutoria
 
 Supplement containers with related microservices and cloud material, including blogs on getting started with & determining the need for microservices. Supplement that with microservices tutorials and deployment contant from there into AWS and/or Azure.
 
-- Containers
+- Containers - BD material, workshops, training, Labs site
 - Microservices overview, getting started with building, and determining if needed
-- Deploying to AWS/Azure via Kubenetes; Doguhan on other hosts, Pat on Kube, Seth, Chris A
+- [COLLAB] Deploying to AWS/Azure via Kubenetes; Doguhan on other hosts, Pat on Kube, Seth, Chris A
 - (o) ML
 - misc showcase: jenkins docker walk thru, postgres tools
     - Skillu demo
