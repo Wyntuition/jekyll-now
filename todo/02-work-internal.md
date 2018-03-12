@@ -9,9 +9,12 @@ https://trello.com/b/Vj7P4Pkf/dd-2018-goals, https://docs.google.com/spreadsheet
 
 ### TODAY
 
-- MS stuff
-- blog
 -jen p
+
+### FEW DAYS
+
+- Microserivces stuff
+- blog
 -supervisor guidelines :- sean
 
 ### ASAP
