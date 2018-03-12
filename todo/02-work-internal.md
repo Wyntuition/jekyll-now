@@ -305,3 +305,19 @@ Communicating with BD
 Thought leaders
 -	Open source project
 -	Blogs on specific topics
+
+
+
+##### ai for business
+
+Course Overview
+What is AI?
+Why AI for Business?
+How is AI Used?
+Organizational Readiness For AI
+The data powering AI
+The costs of AI
+Assumptions and Risks
+Considerations
+AI… Hype or Reality?
+The Future of AI
