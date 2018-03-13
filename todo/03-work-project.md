@@ -3,7 +3,7 @@
 ## TODAY
 
 - tests run
-
+    -pcsResponse and other ignored
 - separate queries for count so others aren't joining?
 
 - prod jenkins?
