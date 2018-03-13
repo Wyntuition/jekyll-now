@@ -9,6 +9,7 @@ https://trello.com/b/Vj7P4Pkf/dd-2018-goals, https://docs.google.com/spreadsheet
 
 ### TODAY
 
+- Suzanne in appraisal 
 -jen p
 
 ### FEW DAYS
