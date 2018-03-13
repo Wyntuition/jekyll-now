@@ -5,6 +5,8 @@
 - tests run
 
 - separate queries for count so others aren't joining?
+
+- prod jenkins?
 - legacy access script
 
 ## NOW
