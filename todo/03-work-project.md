@@ -3,6 +3,7 @@
 ## TODAY
 
 - test p1 & p2
+- output all params
 - ignored tests; failing count test
     - separate queries for count so others aren't joining?
 
