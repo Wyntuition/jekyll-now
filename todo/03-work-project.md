@@ -2,11 +2,9 @@
 
 ## TODAY
 
-- tests run
-    -pcsResponse and other ignored
-- separate queries for count so others aren't joining?
+- ignored tests; failing count test
+    - separate queries for count so others aren't joining?
 
-- prod jenkins?
 - legacy access script
 
 ## NOW
