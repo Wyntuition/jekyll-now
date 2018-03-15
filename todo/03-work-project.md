@@ -2,6 +2,7 @@
 
 ## TODAY
 
+- GET FEEFBACK, RUN SETS OF TESTS
 - test p1 & p2
 - output all params
 - ignored tests; failing count test
