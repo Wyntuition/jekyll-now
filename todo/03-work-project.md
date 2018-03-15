@@ -2,7 +2,7 @@
 
 ## TODAY
 
-- GET FEEFBACK, RUN SETS OF TESTS WITH BIG DATA TO COMPARE
+- GET FEEFBACK, RUN SETS OF TESTS WITH BIG DATA TO COMPARE / TEST PARALLISM
 - test p1 & p2
 - output all params
 - ignored tests; failing count test
