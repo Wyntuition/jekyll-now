@@ -48,3 +48,4 @@ REF: https://getpocket.com/a/queue/grid/curric%20-%20scala/
 
 - Martin Odersky's Programming in Scala
   - [Scala By Example (PDF)](http://www.scala-lang.org/docu/files/ScalaByExample.pdf)
+
