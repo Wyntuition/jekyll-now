@@ -2,6 +2,15 @@
 
 ## TODAY
 
+- Scenarios:
+    - Phase 1 - existing database
+        - Success
+        - Fail, restart
+    - Phase 1 - public schema?
+    - Phase 2 
+        - Sucesss
+        - Fail/restart 
+
 - legacy access script
 - GET FEEFBACK, RUN SETS OF TESTS WITH BIG DATA TO COMPARE / TEST PARALLISM
 - test p1 & p2
