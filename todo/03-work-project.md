@@ -2,6 +2,8 @@
 
 ## TODAY
 
+- dms_mod, dms_vis ref'd in perm script, so just going to fail?
+
 - Scenarios:
     - Phase 1 - existing database
         - Success
