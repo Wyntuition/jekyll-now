@@ -2,68 +2,37 @@
 
 ## TODAY
 
-- perf analysis on tests
-- dms_mod, dms_vis ref'd in perm script, so just going to fail?
-
-- Scenarios:
-    - Phase 1 - existing database
-        - Success
-        - Fail, restart
-    - Phase 1 - public schema?
-    - Phase 2 
-        - Sucesss
-        - Fail/restart 
-
-- legacy access script
-- GET FEEFBACK, RUN SETS OF TESTS WITH BIG DATA TO COMPARE / TEST PARALLISM
-- test p1 & p2
-- output all params
-- ignored tests; failing count test
+- TESTS
+    - test on 1% dataset
+    - perf analysis on tests; SETS OF TESTS WITH BIG DATA TO COMPARE / TEST PARALLISM
+    - ignored tests; failing count test
     - separate queries for count so others aren't joining?
+    - gen SQL from tests to see what diffs etc are really doing. indexes? better scans/ jouins? GEN BIG DATA?
+    - See times. Create lots of data locally to see times. 
+
+- perm script rem
+- restart p2 on error, test doesnt wipe vis view dependencies (work view)
+    - Scenarios:
+        - Phase 1 - existing database
+            - Success
+            - Fail, restart
+        - Phase 1 - public schema?
+        - Phase 2 
+            - Sucesss
+            - Fail/restart 
 
 
 ## NOW
 
 + etl bb 
 
-- still issues with perm script - re-run test on preview repeats
-- right process to analyze pref locally? 1) clear stats, [gen data], est. baseline
-- pw in thing
-- rem from public
-
-pg 9.6
-
-- 1-1 against Paul's counts
-- update ms cheatsheet
-
-- Test time
-    - gen SQL from tests to see what diffs etc are really doing
-    - indexes? better scans/ jouins? GEN BIG DATA?
-    - See times. Create lots of data locally to see times. 
-- SK TB
-
--turn off vaccum?
 
 ## ASAP
-
-- way to output statement status in job?
-- Bulk job in jenkins? ECS?
-- overall perf - 
-    - if ch runs alone, faster (gen a bunch of recs)? Smaller commits? Break up doc view? 
-
-- auditing results?
-- local jenkins 
-
-
-- test parallel
-- any other logs/metrics we need for ETL job?
-    - DMS in pipeline?
-        - DMS always run in master/etc in pipeline (FIRST: be able to point pipeline to perf/unstable)
-
-    - using hangs
-    +lrg perf/dms/error trp/stories/etc
-
     
+
+## Notes 
+
+### Release Planning
 
     [+LIST- RELEASE PLANNING
         - Review stories by epic ensuring understanding and we're not missing anything
@@ -81,7 +50,7 @@ pg 9.6
 RP 1/15/18
 
 
-## Leadership
+### Leadership
 
 - how is the support team's morale?
 - biggest current challenges?
