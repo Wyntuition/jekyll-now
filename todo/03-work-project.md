@@ -2,6 +2,7 @@
 
 ## TODAY
 
+- perf analysis on tests
 - dms_mod, dms_vis ref'd in perm script, so just going to fail?
 
 - Scenarios:
