@@ -4,6 +4,7 @@
 
 - TESTS
     - test on 1% dataset
+        - REF to be able to merge; 
     - ignored tests; failing count test
     - See times. Create lots of data locally to see times. 
 
