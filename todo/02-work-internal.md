@@ -21,7 +21,7 @@ https://trello.com/b/Vj7P4Pkf/dd-2018-goals, https://docs.google.com/spreadsheet
 ### FEW DAYS
 
 +kube curric: https://landing.google.com/sre/
-- Microserivces stuff
+    - Microserivces
 -supervisor guidelines :- sean
 
 ### ASAP
