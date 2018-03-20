@@ -333,3 +333,17 @@ Assumptions and Risks
 Considerations
 AI… Hype or Reality?
 The Future of AI
+
+
+##### BD cheatsheets
+
+- Cloud Migration I: What are all the parts of a cloud migration, and why does any business care?
+    - Cloud Components Part I: Overview of microservices vs. containers vs. Docker. What are these things and how do they relate?
+    - Cloud Components Part II: What does cloud have to do with containers/Docker/microservices? Why do CEOs care about these things?
+DevOps:
+- DevOps Business Care: Bringing your IT shop into the future; delivery as fast as your competition
+- DevOps Components: What are all these things like Jenkins and why does an organization care?
+Automated testing:
+- What is an automated test strategy and why should it be important to leadership?
+- Automating regression suites, and changing the QA culture
+- Web stacks: A landscape of the web stacks, and why would you want to consider which? What are they, what do they do for an organization, and how are they different from a high level?
