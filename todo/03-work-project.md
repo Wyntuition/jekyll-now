@@ -2,6 +2,8 @@
 
 ## TODAY
 
+- restart p2 on error, test doesnt wipe vis view dependencies (work view)
+
 - RUN p2 tests on preview (- test on 1% dataset)
 
 - TESTS
@@ -16,8 +18,6 @@
     - gen SQL from tests to see what diffs etc are really doing. indexes? better scans/ jouins? GEN BIG DATA?
     
 - perm script rem
-
-- restart p2 on error, test doesnt wipe vis view dependencies (work view)
 
 - Scenarios:
         - Phase 1 - existing database
