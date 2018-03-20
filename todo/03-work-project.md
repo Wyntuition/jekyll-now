@@ -4,15 +4,19 @@
 
 - TESTS
     - test on 1% dataset
-    - perf analysis on tests; SETS OF TESTS WITH BIG DATA TO COMPARE / TEST PARALLISM
     - ignored tests; failing count test
-    - separate queries for count so others aren't joining?
-    - gen SQL from tests to see what diffs etc are really doing. indexes? better scans/ jouins? GEN BIG DATA?
     - See times. Create lots of data locally to see times. 
 
+    - perf analysis on tests; SETS OF TESTS WITH BIG DATA TO COMPARE / TEST PARALLISM
+    - separate queries for count so others aren't joining?
+
+    - gen SQL from tests to see what diffs etc are really doing. indexes? better scans/ jouins? GEN BIG DATA?
+    
 - perm script rem
+
 - restart p2 on error, test doesnt wipe vis view dependencies (work view)
-    - Scenarios:
+
+- Scenarios:
         - Phase 1 - existing database
             - Success
             - Fail, restart
