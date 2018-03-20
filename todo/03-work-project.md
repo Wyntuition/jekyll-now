@@ -2,6 +2,8 @@
 
 ## TODAY
 
+- RUN p2 tests on preview
+
 - TESTS
     - test on 1% dataset
         - REF to be able to merge; 
