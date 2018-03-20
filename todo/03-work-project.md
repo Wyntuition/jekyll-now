@@ -5,7 +5,7 @@
 - TESTS
     - test on 1% dataset
         - REF to be able to merge; 
-        - DEF joined can't run in p1 right?
+        - DEF joined can't run in p1 right? (compare increase in perf of one major test)
     - ignored tests; failing count test
     - See times. Create lots of data locally to see times. 
 
