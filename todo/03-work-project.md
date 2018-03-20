@@ -4,7 +4,6 @@
 
 - restart p2 on error, test doesnt wipe vis view dependencies (work view)
     - NO DROP TEST; PREVIEW WEIRD ERROR
-    - ISSUE: run tests only not creating views for phase 2, even tho p2 was run in preview?
 
 - RUN p2 tests on preview (- test on 1% dataset)
 
