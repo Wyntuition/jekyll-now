@@ -8,9 +8,10 @@ https://trello.com/b/Vj7P4Pkf/dd-2018-goals, https://docs.google.com/spreadsheet
 ## TO DO
 
 ### TODAY
- 
--jen p
-- pluralsight payment?
+
+- matt feedback 
+
+-jen p; market series
 
 - check in with bosses
 
@@ -26,6 +27,8 @@ https://trello.com/b/Vj7P4Pkf/dd-2018-goals, https://docs.google.com/spreadsheet
 ### ASAP
 
 - blog
+
+Burn-Secretary-Bottom-Furnish-
 
 - MS curric list. Specifically, brown bags: for chassis, different attribues; setting up infra;
     - ?: forms for editing markdown, could then be labs? Gen to marketing slick? (Jekyll theme for it)
