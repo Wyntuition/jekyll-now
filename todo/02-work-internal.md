@@ -9,14 +9,11 @@ https://trello.com/b/Vj7P4Pkf/dd-2018-goals, https://docs.google.com/spreadsheet
 
 ### TODAY
 
-- matt feedback 
+- Matt updates; CMS: gitlabs w/gmaail ;BD cheatsheet notes
 
 -jen p; market series
 
 - check in with bosses
-
-- CMS
-    -+containers vs docker vs microservies vs cloud (define each)
 
 ### FEW DAYS
 
