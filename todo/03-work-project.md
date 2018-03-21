@@ -2,6 +2,8 @@
 
 ## TODAY
 
+- updated issue - local data set and test time? + index?
+
 - p2
     - updated tests
     - p2 tests there
