@@ -3,6 +3,7 @@
 ## TODAY
 
 - perm scr ran on preview;
+
 - analyze test time on ones ran on prod vs preview before; 
 
 - p2
