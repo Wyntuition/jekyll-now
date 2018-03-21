@@ -2,10 +2,11 @@
 
 ## TODAY
 
+- prod tests
+- gradle issue preview; RUN p2 tests on preview (- test on 1% dataset)
 - restart p2 on error, test doesnt wipe vis view dependencies (work view)
     - NO DROP TEST; PREVIEW WEIRD ERROR
 
-- RUN p2 tests on preview (- test on 1% dataset)
 
 - TESTS
         - REF to be able to merge; 
