@@ -3,7 +3,6 @@
 ## TODAY
 
 - analyze test time on ones ran on prod vs preview before; 
-- updated issue - local data set and test time? + index?
 
 - p2
     - updated tests
