@@ -14,17 +14,7 @@
 - restart p2 on error, test doesnt wipe vis view dependencies (work view)
     - NO DROP TEST; PREVIEW WEIRD ERROR
 
-
-- TESTS
-        - REF to be able to merge; 
-        - DEF joined can't run in p1 right? (compare increase in perf of one major test)
-    - ignored tests; failing count test
-    - See times. Create lots of data locally to see times. 
-
-    - perf analysis on tests; SETS OF TESTS WITH BIG DATA TO COMPARE / TEST PARALLISM
-    - separate queries for count so others aren't joining?
-
-    - gen SQL from tests to see what diffs etc are really doing. indexes? better scans/ jouins? GEN BIG DATA?
+- brown bag on our ETL sln
     
 - perm script rem
 
