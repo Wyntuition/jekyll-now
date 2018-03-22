@@ -37,6 +37,14 @@
             - Multibranch SCM polling
 
 
+## Jenkins Overview
+
+* Pipeline plug-in, Jenkinsfile
+* Multi-branch pipelines
+* Declarative pipelines
+* Nodes
+* Running in Docker
+
 - Resources
     
     * https://jenkins.io/blog/2017/02/15/declarative-notifications/
