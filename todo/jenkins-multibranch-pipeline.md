@@ -35,3 +35,9 @@
             - Configures multibranch pipeline
             - USCIS Jenkins generator points to it`
             - Multibranch SCM polling
+
+
+- Resources
+    
+    * https://jenkins.io/blog/2017/02/15/declarative-notifications/
+    * [Declarative Pipeline Reference](https://jenkins.io/doc/book/pipeline/syntax/#declarative-pipeline)
