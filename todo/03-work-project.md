@@ -2,6 +2,7 @@
 
 ## TODAY
 
+- restart p2 on error, test doesnt wipe vis view dependencies (work view)
 - phase 2 preivew; 
 - glenn sign off
 - test only indicator to title 
@@ -18,8 +19,6 @@ final def CONTENT = "Build failed. Check console output at ${env.BUILD_URL} to v
 
 - phase 2 test consolidate
 
-- restart p2 on error, test doesnt wipe vis view dependencies (work view)
-    - NO DROP TEST; PREVIEW WEIRD ERROR
 
 
 - brown bag on our ETL sln
