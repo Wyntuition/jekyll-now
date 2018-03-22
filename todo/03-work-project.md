@@ -2,32 +2,17 @@
 
 ## TODAY
 
+- phase 2 preivew; 
+
+
 - perm scr ran on preview;
-
-- analyze test time on ones ran on prod vs preview before; 
-
-- p2
-    - updated tests
-    - p2 tests there
-    - gradle issue preview; RUN p2 tests on preview (- test on 1% dataset)
-- prod tests
 
 - restart p2 on error, test doesnt wipe vis view dependencies (work view)
     - NO DROP TEST; PREVIEW WEIRD ERROR
 
+
 - brown bag on our ETL sln
     
-- perm script rem
-
-- Scenarios:
-        - Phase 1 - existing database
-            - Success
-            - Fail, restart
-        - Phase 1 - public schema?
-        - Phase 2 
-            - Sucesss
-            - Fail/restart 
-
 
 ## NOW
 
