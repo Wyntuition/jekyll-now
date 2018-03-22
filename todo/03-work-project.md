@@ -17,6 +17,7 @@ final def CONTENT = "Build failed. Check console output at ${env.BUILD_URL} to v
 
 - brown bag on our ETL sln
     
+- jenkins local/pipeline brownbag
 
 ## NOW
 
