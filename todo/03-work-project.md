@@ -9,6 +9,8 @@
 
 - perm scr ran on preview;
 
+- phase 2 test consolidate
+
 - restart p2 on error, test doesnt wipe vis view dependencies (work view)
     - NO DROP TEST; PREVIEW WEIRD ERROR
 
