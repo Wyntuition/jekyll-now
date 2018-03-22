@@ -4,6 +4,7 @@
 
 - phase 2 preivew; 
 - glenn sign off
+- test only indicator to title 
 
 - email notifiy back
 
