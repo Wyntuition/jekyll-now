@@ -6,6 +6,12 @@
 - glenn sign off
 - test only indicator to title 
 
+
+final def CONTENT = "Build failed. Check console output at ${env.BUILD_URL} to view the results."
+        mail to:"ali.jafari@uscis.dhs.gov, paul.a.schneider@uscis.dhs.gov, jonathan.j.simon@uscis.dhs.gov, eric.p.hultman@uscis.dhs.gov, james.m.weir@uscis.dhs.gov, winslow.b.vandevanter@uscis.dhs.gov", subject:"FAILURE: ${currentBuild.fullDisplayName}", body: CONTENT
+
+
+
 - email notifiy back
 
 - perm scr ran on preview;
