@@ -3,7 +3,7 @@
 ## TODAY
 
 - phase 2 preivew; 
-
+- glenn sign off
 
 - perm scr ran on preview;
 
