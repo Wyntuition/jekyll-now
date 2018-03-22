@@ -5,6 +5,8 @@
 - phase 2 preivew; 
 - glenn sign off
 
+- email notifiy back
+
 - perm scr ran on preview;
 
 - restart p2 on error, test doesnt wipe vis view dependencies (work view)
