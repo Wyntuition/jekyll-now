@@ -45,7 +45,7 @@
 * Nodes
 * Running in Docker
 
-- Resources
+### Resources
     
     * https://jenkins.io/blog/2017/02/15/declarative-notifications/
     * [Declarative Pipeline Reference](https://jenkins.io/doc/book/pipeline/syntax/#declarative-pipeline)
