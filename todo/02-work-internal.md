@@ -179,10 +179,6 @@ Development Plan
 
 
 
-
-
-
-
 ## xpert meeting notes
 
 - xperts > trello > fadi, tied to Jeff's initatives. 
