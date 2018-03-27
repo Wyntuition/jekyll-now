@@ -13,6 +13,7 @@ https://trello.com/b/Vj7P4Pkf/dd-2018-goals, https://docs.google.com/spreadsheet
 - FADI Q
     - Sean supervising
     - Gartner conf
+    - Glenn conf, appraisal - xpert plan
 
 
 - Matt updates; CMS: gitlabs w/gmaail ;BD cheatsheet notes
