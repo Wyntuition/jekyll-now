@@ -10,11 +10,6 @@ https://trello.com/b/Vj7P4Pkf/dd-2018-goals, https://docs.google.com/spreadsheet
 ### TODAY
 
 - read s app + notes & review old notes, m
-- FADI Q/UPDATE:
-    - Sean supervising
-    - Gartner conf
-    - Glenn conf, appraisal - xpert plan
-
 
 - Matt updates; CMS: gitlabs w/gmaail ;BD cheatsheet notes
 
@@ -37,7 +32,10 @@ https://trello.com/b/Vj7P4Pkf/dd-2018-goals, https://docs.google.com/spreadsheet
         ?- Feedback on management, team vision section
     - WORK(ING) ON: 
         - Tech leadership: establishing consensus, radial candor
-    
+    - FADI Q/UPDATE:
+        - Sean supervising
+        - Gartner conf
+        - Glenn conf, appraisal - xpert plan
 
 - blog
 
