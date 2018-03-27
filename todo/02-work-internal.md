@@ -38,6 +38,7 @@ https://trello.com/b/Vj7P4Pkf/dd-2018-goals, https://docs.google.com/spreadsheet
             - sw dev, cs gaps
             - tool, tech gaps
 
+- 
 
 +new accomplish list/journal: 
     - Curric for Scala; ramping up process (run, test, config, patterns, structure, )
