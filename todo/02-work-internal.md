@@ -27,17 +27,7 @@ https://trello.com/b/Vj7P4Pkf/dd-2018-goals, https://docs.google.com/spreadsheet
 
 +new accomplish list/journal: 
     - Curric for Scala; ramping up process (run, test, config, patterns, structure, )
-    - NEXT: 
-        ?- what are role needs leading up for me? Training, architecture, BPs, training leaders, techincal depth
-        ?- Feedback on management, team vision section
-    - WORK(ING) ON: 
-        - Tech leadership: establishing consensus, radial candor
-    - FADI Q/UPDATE:
-        - Sean supervising
-        - Gartner conf
-        - Glenn conf, appraisal - xpert plan
-
-
+    
 - blog
 
 Burn-Secretary-Bottom-Furnish-
@@ -107,6 +97,11 @@ UPDATES:
 - DockerCon, Docker Gov Summit; docker workshops, orchestration presentation
 - plan
 - PROJECTS: chatbot, orchestration w/microservices sandbox w/all the fun stuff
+
+- FADI Q/UPDATE:
+        - Sean supervising
+        - Gartner conf
+        - Glenn conf, appraisal - xpert plan
 
 ## INFO
 
