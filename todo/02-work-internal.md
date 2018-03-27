@@ -37,6 +37,7 @@ https://trello.com/b/Vj7P4Pkf/dd-2018-goals, https://docs.google.com/spreadsheet
         - Gartner conf
         - Glenn conf, appraisal - xpert plan
 
+
 - blog
 
 Burn-Secretary-Bottom-Furnish-
