@@ -21,12 +21,22 @@ https://trello.com/b/Vj7P4Pkf/dd-2018-goals, https://docs.google.com/spreadsheet
 
 ### FEW DAYS
 
+- supervisor guidelines; supervisor plan/curric for 2018
+
 +kube curric: https://landing.google.com/sre/
     - Microserivces
 -supervisor guidelines :- sean
 
 ### ASAP
 
+- 2018 tasks
+    - xpert plan, D&D exact plan (kube plan)
+    - AWS cert
+    - PD goals (work into over PD plan and list to do)
+        - GAPS
+            - big table mod, db deep
+            - sw dev, cs gaps
+            - tool, tech gaps
 
 
 +new accomplish list/journal: 
