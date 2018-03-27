@@ -10,7 +10,7 @@ https://trello.com/b/Vj7P4Pkf/dd-2018-goals, https://docs.google.com/spreadsheet
 ### TODAY
 
 - read s app + notes & review old notes, m
-- FADI Q/UPDATE
+- FADI Q/UPDATE:
     - Sean supervising
     - Gartner conf
     - Glenn conf, appraisal - xpert plan
