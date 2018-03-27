@@ -21,7 +21,7 @@ https://trello.com/b/Vj7P4Pkf/dd-2018-goals, https://docs.google.com/spreadsheet
 
 ### FEW DAYS
 
-- supervisor guidelines; supervisor plan/curric for 2018
+- supervisor guidelines; supervisor plan/curric for 2018; help dev leaders
 
 +kube curric: https://landing.google.com/sre/
     - Microserivces
@@ -30,7 +30,7 @@ https://trello.com/b/Vj7P4Pkf/dd-2018-goals, https://docs.google.com/spreadsheet
 ### ASAP
 
 - 2018 tasks
-    - xpert plan, D&D exact plan (kube plan)
+    - xpert plan (thought leadership), D&D exact plan (kube plan); .net core w/riccardo & leverage MVP & radar
     - AWS cert
     - PD goals (work into over PD plan and list to do)
         - GAPS
