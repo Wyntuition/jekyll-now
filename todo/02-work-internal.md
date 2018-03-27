@@ -9,6 +9,8 @@ https://trello.com/b/Vj7P4Pkf/dd-2018-goals, https://docs.google.com/spreadsheet
 
 ### TODAY
 
+- Seth: sign off 
+
 - read s app + notes & review old notes, m
 
 - Matt updates; CMS: gitlabs w/gmaail ;BD cheatsheet notes
@@ -24,6 +26,8 @@ https://trello.com/b/Vj7P4Pkf/dd-2018-goals, https://docs.google.com/spreadsheet
 -supervisor guidelines :- sean
 
 ### ASAP
+
+
 
 +new accomplish list/journal: 
     - Curric for Scala; ramping up process (run, test, config, patterns, structure, )
