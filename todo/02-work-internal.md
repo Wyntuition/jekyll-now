@@ -9,6 +9,9 @@ https://trello.com/b/Vj7P4Pkf/dd-2018-goals, https://docs.google.com/spreadsheet
 
 ### TODAY
 
+- read s app + notes & review old notes, m
+
+
 - Matt updates; CMS: gitlabs w/gmaail ;BD cheatsheet notes
 
 -jen p; market series
