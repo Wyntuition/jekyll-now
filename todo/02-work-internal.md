@@ -34,7 +34,7 @@ https://trello.com/b/Vj7P4Pkf/dd-2018-goals, https://docs.google.com/spreadsheet
     - Curric for Scala; ramping up process (run, test, config, patterns, structure, )
     - NEXT: 
         ?- what are role needs leading up for me? Training, architecture, BPs, training leaders, techincal depth
-        ?- how is my management feedback reflected in my appraisal?
+        ?- Feedback on management, team vision section
     - WORK(ING) ON: 
         - Tech leadership: establishing consensus, radial candor
     
