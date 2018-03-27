@@ -94,10 +94,7 @@ In deploying apps that have been containerized, you have a lot to think about re
 
 UPDATES:
 
-- DockerCon, Docker Gov Summit; docker workshops, orchestration presentation
-- plan
 - PROJECTS: chatbot, orchestration w/microservices sandbox w/all the fun stuff
-
 - FADI Q/UPDATE:
         - Sean supervising
         - Gartner conf
