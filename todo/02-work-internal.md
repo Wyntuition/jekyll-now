@@ -26,6 +26,8 @@ https://trello.com/b/Vj7P4Pkf/dd-2018-goals, https://docs.google.com/spreadsheet
 
 - check in with bosses
 
+- [Incre] Messaging system, microservices sandbox [scratch, components - CB, sidecar, retries; lagom, spring cloud], react/play
+
 ### FEW DAYS
 
 - supervisor guidelines; supervisor plan/curric for 2018; help dev leaders
