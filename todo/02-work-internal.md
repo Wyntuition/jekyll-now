@@ -15,6 +15,8 @@ https://trello.com/b/Vj7P4Pkf/dd-2018-goals, https://docs.google.com/spreadsheet
     - Dig Xformation - Digital transformation is driven by automation, data exchanges, cloud, cyber-physical systems, robots, big data, artificial intelligence, learning systems, IoT, and autonomy. Presentations in the topic area will address how agile, lean, and DevOps are contributing the pace of change at the intersection of people, new technologies, and innovation in government and industry.
     - Agile architecture refers to both the use of agile methods in developing architectures of various types and levels (enterprise, solution, data, etc.) as well as the architecture necessary to integrate multiple activities for agile development on a large scale. This session will address both perspectives of agile architecture and will provide insights from projects applying the concepts. Attendees will learn to appreciate the mutually reinforcing roles of architecture and agility.
 
+- +add check in on appraisal goals to checklist; grooming excellians & rolling out xpert vision for apprraisal sections
+
 - read s app + notes & review old notes, m
 
 - Matt updates; CMS: gitlabs w/gmaail ;BD cheatsheet notes
