@@ -19,6 +19,7 @@ https://trello.com/b/Vj7P4Pkf/dd-2018-goals, https://docs.google.com/spreadsheet
     - Modernization KMT: prioritizing BD materials; deliverables
         - add Sean?
         - reusable content for proposals, BD
+        - prioritizing BD rquests, what BD is hearing and doing
 
 - devopsdaysDC? https://www.devopsdays.org/events/2018-washington-dc/welcome/
 - apply for nida (http://application.ndia.org/abstracts/8a01/)
