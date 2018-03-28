@@ -16,6 +16,7 @@ https://trello.com/b/Vj7P4Pkf/dd-2018-goals, https://docs.google.com/spreadsheet
     - headings of cheatsheet
     - container-base hybrid cloud modernizations with microservices as appropriate
     - lift & shift demo, ms infra in a box, docker partnership
+    - KMT: prioritizing BD materials
 
 - devopsdaysDC? https://www.devopsdays.org/events/2018-washington-dc/welcome/
 - apply for nida (http://application.ndia.org/abstracts/8a01/)
