@@ -11,6 +11,9 @@ https://trello.com/b/Vj7P4Pkf/dd-2018-goals, https://docs.google.com/spreadsheet
 
 - BD
     - what content is needed? Able to sell container-based hybrid cloud moderiztions, microservices, distributed apps for flexibility, innovation, scalability, cost savings
+        - kanban board?
+        - other topics? DevOps, AI for business, etc
+    - headings of cheatsheet
 
 - devopsdaysDC? https://www.devopsdays.org/events/2018-washington-dc/welcome/
 - apply for nida (http://application.ndia.org/abstracts/8a01/)
