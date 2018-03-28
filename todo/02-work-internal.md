@@ -9,18 +9,8 @@ https://trello.com/b/Vj7P4Pkf/dd-2018-goals, https://docs.google.com/spreadsheet
 
 ### TODAY
 
-- BD
-    - what content is needed? Able to sell container-based hybrid cloud moderiztions, microservices, distributed apps for flexibility, innovation, scalability, cost savings
-        - kanban board?
-        - other topics? DevOps, AI for business, etc
-    - headings of cheatsheet
-    - container-base hybrid cloud modernizations with microservices as appropriate
-    - lift & shift demo, ms infra in a box, docker partnership
-    - Modernization KMT: prioritizing BD materials; deliverables
-        - add Sean?
-        - reusable content for proposals, BD
-        - prioritizing BD requests, what BD is hearing and doing
-        
+
+
 
 - devopsdaysDC? https://www.devopsdays.org/events/2018-washington-dc/welcome/
 - apply for nida (http://application.ndia.org/abstracts/8a01/)
@@ -396,6 +386,18 @@ Considerations
 AI… Hype or Reality?
 The Future of AI
 
+#### BD Notes
+
+- what content is needed? Able to sell container-based hybrid cloud moderiztions, microservices, distributed apps for flexibility, innovation, scalability, cost savings
+    - kanban board?
+    - other topics? DevOps, AI for business, etc
+- headings of cheatsheet
+- container-base hybrid cloud modernizations with microservices as appropriate
+- lift & shift demo, ms infra in a box, docker partnership
+- Modernization KMT: prioritizing BD materials; deliverables
+    - add Sean?
+    - reusable content for proposals, BD
+    - prioritizing BD requests, what BD is hearing and doing
 
 ##### BD cheatsheets
 
