@@ -30,6 +30,8 @@ https://trello.com/b/Vj7P4Pkf/dd-2018-goals, https://docs.google.com/spreadsheet
 
 ### FEW DAYS
 
+- update case study on excella.com to include microservices? (Matt P)
+
 - supervisor guidelines; supervisor plan/curric for 2018; help dev leaders
 
 +kube curric: https://landing.google.com/sre/
