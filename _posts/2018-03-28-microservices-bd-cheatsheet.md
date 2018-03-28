@@ -30,8 +30,8 @@ This cheat sheet should help discuss microservices with decision makers in terms
 
 ## Relevant Priority Initatives 
 
-* **Digital Service Delivery** - microservices is the most modern & talked about software architecture approach. Embrancing it properly will help our **strategic growth** and get more **impactful work**
-* **Legacy Systems Modernization** - this is asked about frequently by customers wanting to modernize systems - if they should use the approach. We can **differentiate ourselves** by demonstrating how we know how to pick the right places to use it, and avoid the wrong places and **overarchitecture**.
+* **Digital Service Delivery** - microservices is the most modern & talked about software architecture approach, and one that organizations are worried about for competitive advantage. Embrancing it properly will help our **strategic growth** and get more **impactful work**. The agile delivery and DevOps mindset and expertise we bring helps **enable organizations to build microservices**.
+* **Legacy Systems Modernization** - this is asked about frequently by customers wanting to modernize systems - if they should use the approach. We can **differentiate ourselves** by demonstrating how we know how to pick the right places to use it, and avoid the wrong places and **overarchitecture**. Microservices, containers and cloud are key considerations in any major modernization today, as they help enable organizations to keep up with solution flexibility, scalability, and innovation.
 
 ## Landscape 
 
