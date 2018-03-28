@@ -2,27 +2,12 @@
 
 ## TODAY
 
-- restart p2 on error, test doesnt wipe vis view dependencies (work view)
-- phase 2 preivew tests; 
-- test only indicator to title 
-- email notifiy back
-
-final def CONTENT = "Build failed. Check console output at ${env.BUILD_URL} to view the results."
-        mail to:"ali.jafari@uscis.dhs.gov, paul.a.schneider@uscis.dhs.gov, jonathan.j.simon@uscis.dhs.gov, eric.p.hultman@uscis.dhs.gov, james.m.weir@uscis.dhs.gov, winslow.b.vandevanter@uscis.dhs.gov", subject:"FAILURE: ${currentBuild.fullDisplayName}", body: CONTENT
-
-
-- perm scr ran on preview;
-- phase 2 test consolidate
-
-
 - brown bag on our ETL sln
-    
-- jenkins local/pipeline brownbag
+
+- postgres, jenkins brown bags
+
 
 ## NOW
-
-+ etl bb 
-
 
 ## ASAP
     
