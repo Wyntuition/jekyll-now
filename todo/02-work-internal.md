@@ -14,6 +14,7 @@ https://trello.com/b/Vj7P4Pkf/dd-2018-goals, https://docs.google.com/spreadsheet
         - kanban board?
         - other topics? DevOps, AI for business, etc
     - headings of cheatsheet
+    - container-base hybrid cloud modernizations with microservices as appropriate
 
 - devopsdaysDC? https://www.devopsdays.org/events/2018-washington-dc/welcome/
 - apply for nida (http://application.ndia.org/abstracts/8a01/)
