@@ -31,21 +31,21 @@ This cheat sheet should help discuss microservices with decision makers in terms
 ## Relevant Priority Initatives 
 
 * **Digital Service Delivery** - microservices is the most modern & talked about software architecture approach, and one that organizations are worried about for competitive advantage. Embrancing it properly will help our **strategic growth** and get more **impactful work**. The agile delivery and DevOps mindset and expertise we bring helps **enable organizations to build microservices**.
-* **Legacy Systems Modernization** - this is asked about frequently by customers wanting to modernize systems - if they should use the approach. We can **differentiate ourselves** by demonstrating how we know how to pick the right places to use it, and avoid the wrong places and **overarchitecture**. Microservices, containers and cloud are key considerations in any major modernization today, as they help enable organizations to keep up with solution flexibility, scalability, and innovation.
+* **Legacy Systems Modernization** - this is asked about frequently by customers wanting to modernize systems - if they should use the approach. We can **differentiate ourselves** by demonstrating how we know how to pick the right places to use it, and avoid the wrong places and **overarchitecture**. Microservices, containers and cloud are key considerations in any major modernization today, as they help enable organizations to keep up with **solution flexibility, scalability, and innovation**.
 
 ## Landscape 
 
-* Container & microservice usage for production enterprise workloads is expected to increase from 25 percent to
-44 percent within the next three years. Deployment will shift heavily to Hybrid Cloud and support for
-on-premises, serverless containerized environments. Deploying only on public clouds will decrease.
-* COTS can help transition to DevOps, microservices and automation that reduce the operational and uncertainty challenges that currently overburden the container & microservices market. Things like Kubernetes, OpenShift, and microservices frameworks should be looked at.
+* Container & microservice usage for production enterprise workloads is **expected to increase** from 25 percent to
+44 percent within the next three years. Deployment will shift heavily to **hybrid cloud** and support for
+on-premises, serverless containerized environments with some microservices. **Deploying only on public clouds will decrease**.
+* **COTS** can help transition to DevOps, microservices and automation that reduce the operational and uncertainty challenges that currently overburden the container & microservices market. Things like Kubernetes, OpenShift, and microservices frameworks should be looked at.
 * In the commercial world, **consulting services** are considered only necessary for **complex endeavors** — for example (and especially), when companies seek to leverage AI within containerized apps and need support for
 non-x86 architectures, and when designing a microservices & cloud infrastructure.
-  * Across the range of roles, respondents see insufficient internal expertise as one of the significant
+  * Across the range of roles, respondents see **insufficient internal expertise** as one of the significant
     challenges of adopting microservices & container-based app development. IT executives are concerned with
-    time and cost uncertainty, whereas developers are bogged down by operational challenges like
+    **time and cost uncertainty**, whereas developers are bogged down by **operational challenges** like
     redesigning on-premises apps and managing data across containers.
-* IT executives value compatibility with their current IT environment and ease of use rank among the top
+* IT executives value **compatibility** with their current IT environment and **ease of use** rank among the top
 reasons why a container platform is selected.
 
 ## Deciders
