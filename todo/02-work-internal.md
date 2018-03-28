@@ -9,6 +9,9 @@ https://trello.com/b/Vj7P4Pkf/dd-2018-goals, https://docs.google.com/spreadsheet
 
 ### TODAY
 
+- BD
+    - what content is needed? Able to sell container-based hybrid cloud moderiztions, microservices, distributed apps for flexibility, innovation, scalability, cost savings
+
 - devopsdaysDC? https://www.devopsdays.org/events/2018-washington-dc/welcome/
 - apply for nida (http://application.ndia.org/abstracts/8a01/)
     - how DevOps can be applied to Government organizations, which practices when, how fast, how much, implementation/adoption patterns, key success factors, etc. Presenters are asked to discuss their learnings, results, benefits, patterns, and antipatterns.
