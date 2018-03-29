@@ -38,6 +38,3 @@ RP 1/15/18
 - biggest current challenges?
 - Intimate awareness of teams
 
-
-##### SAVE notes 
-
