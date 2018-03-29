@@ -24,6 +24,8 @@
     - Managers Path analysis, Radical Candor, PD Plan: AI, sandbox
     - YDNJS
 
+    + git:rebase use cases to core dev curric
+    
 ## Plan - Current
 
 - ORG PD. This should be on PD plan regularly reviewed
