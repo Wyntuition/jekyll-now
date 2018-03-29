@@ -29,6 +29,10 @@ https://trello.com/b/Vj7P4Pkf/dd-2018-goals, https://docs.google.com/spreadsheet
 
 ### FEW DAYS
 
+- PG BB
+    - big table
+        - insert, update single table
+
 - update case study on excella.com to include microservices? (Matt P)
 
 - supervisor guidelines; supervisor plan/curric for 2018; help dev leaders
