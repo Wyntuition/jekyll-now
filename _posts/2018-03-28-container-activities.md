@@ -1,8 +1,8 @@
-## Managing Modern Software: An Overview of Conatiner Management presentation
+## Managing Modern Software: An Overview of Conatiner Management [presentation]
 
 [PPT](https://drive.google.com/drive/folders/0BzVVFi4AfziiMHVZdFVTMHpzSk0)
 
-In accerlating software delivery at your organizaiton, you've likely done a lot of work with DevOps, may have had interaction with containers in some way, whether it's using them locally to build or try something, or deploying software in them into the cloud, or hearing your IT executives pushing for cost savings via containerizing things. Containers are an exciting technology that allows DevOps practices to make software delivery even more efficient in many ways, from cost savings to more frequent delivery.
+In accerlating software delivery at your organizaiton, you've likely done a lot of work with DevOps, and in the process may have had interaction with containers in some way, whether it's using them locally to build or try something, or deploying software in them into the cloud, or hearing your IT executives pushing for cost savings via containerizing things. Containers are an exciting technology that allows DevOps practices to make software delivery even more efficient in many ways, from cost savings to more frequent delivery.
 
 As you get more deep into containers, you'll get more deep into container management needs. As soon as you have a set of containers deployed in production, you quickly find the need to manage things, everything from how the containers will find each other out in the wild, to what happens when they crash:
 
