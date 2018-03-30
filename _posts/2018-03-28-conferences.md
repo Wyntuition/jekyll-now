@@ -77,6 +77,11 @@
 * Code Camp
   - spring, fall
 
+## Thought Leader and Decision Maker heavy
+
+* [Open FinTech Forum](https://linuxfoundation.smapply.io/prog/open_fintech_forum/)
+  - CFP Feb 12 - July 13
+
 ## Additional Resources
 
 * [it-cfp-list](https://github.com/softwaremill/it-cfp-list)
