@@ -415,6 +415,8 @@ Automated testing:
 
 ##### An Overview of Conatiner Management
 
+[PPT](https://drive.google.com/drive/folders/0BzVVFi4AfziiMHVZdFVTMHpzSk0)
+
 By now many of us have had interaction with containers in some way, whether it's using them locally to build or try something, or deploying software in them into the cloud, or hearing your IT executives pushing for cost savings via containerizing things. As you get more deep into containers, you'll get more deep into container management needs. As soon as you have a set of containers deployed in production, you quickly find the need to manage things like:
 
 * Scheduling - deploying containers on the right infrastructure depending on capacity, etc.
