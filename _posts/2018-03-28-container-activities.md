@@ -4,7 +4,7 @@
 
 In accelerating software delivery at your organization, you've likely done a lot of work with DevOps, and in the process may have had interaction with containers in some way, whether it's using them locally to build or try something, or deploying software in them into the cloud, or hearing your IT executives pushing for cost savings via containerizing things. Containers are an exciting technology that allows DevOps practices to make software delivery even more efficient in many ways, from cost savings to more frequent delivery.
 
-As you get deeper into containers, you'll get more deep into container management needs. As soon as you have a set of containers deployed in production, you quickly find the need to manage things, everything from how the containers will find each other out in the wild, to what happens when they crash:
+As you get deeper into containers, you'll get deeper into container management needs. As soon as you have a set of containers deployed in production, you quickly find the need to manage things, everything from how the containers will find each other out in the wild, to what happens when they crash:
 
 * Scheduling - deploying containers on the right infrastructure depending on capacity, etc.
 * Container-to-container communication & service discovery 
