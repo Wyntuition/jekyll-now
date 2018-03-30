@@ -29,6 +29,8 @@
   - June
 * DockerCon
   - June
+* [DevOps Talks Conference](http://devopstalks.com/submit_talk.html)
+  - August
 * [HasiConf](https://www.hashiconf.com/call-for-proposals.html)
   - Oct, 
   - CFP opens Feb/March, due July 1
