@@ -2,7 +2,7 @@
 
 * [Container World (IBM)](https://tmt.knect365.com/container-world/)
   - Feb
-* [Pipeline Conference](https://pipelineconf.info/)
+* [Pipeline Conference](https://pipelineconf.info/), 1 day
   - March
 * RedHat Summit
   - May
