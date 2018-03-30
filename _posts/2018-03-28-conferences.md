@@ -14,6 +14,7 @@
 * [DevOps Con](devopsconference.de), Germany
   - May
   - CEOs and down
+* [Continuous Lifecycle](https://continuouslifecycle.london/), London
 * [Container Camp](https://2018.container.camp/au/schedule/), Austraila
   - CFP due Feb
 * [DevSecCon](https://www.devseccon.com/call-for-proposals/)
@@ -46,8 +47,9 @@
   - SW leads
 * [JAX Developers](https://devops.jaxlondon.com/), London
   - April 10-11
-- [GOTO Conference](https://gotochgo.com/), Chicago
+* [GOTO Conference](https://gotochgo.com/), Chicago
   - April
+* [Glue Con](http://gluecon.com/)
 * [RevolutionConf](https://revolutionconf.com/)
   - May
 * [StrangeLoop](https://www.thestrangeloop.com/cfp.html)
@@ -56,9 +58,9 @@
 * Build
 * VS Live
   - All year
-- ng-conf
-- PyCon
-- RubyCon
-- No Fluff Just Stuff
-- Code Camp
+* ng-conf
+* PyCon
+* RubyCon
+* No Fluff Just Stuff
+* Code Camp
   - spring, fall
