@@ -33,7 +33,6 @@
   - Oct, 
   - CFP opens Feb/March, due July 1
 
-
 ## Software Dev
 
 * Qcon
