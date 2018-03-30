@@ -57,3 +57,4 @@
 - RubyCon
 - No Fluff Just Stuff
 - Code Camp
+  - spring, fall
