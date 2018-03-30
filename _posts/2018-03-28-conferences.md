@@ -52,3 +52,7 @@
 * Build
 * VS Live
   - All year
+- ng-conf
+- PyCon
+- RubyCon
+- No Fluff Just Stuff
