@@ -56,6 +56,8 @@
   - May
 * [RevolutionConf](https://revolutionconf.com/)
   - May
+* [flatMap Oslo](https://www.papercall.io/flatmap2018)
+  - May
 * [Open Source Summit](https://events.linuxfoundation.org/events/open-source-summit-north-america-2018/program/cfp/), Vancouver
   - August
   - CFP open Nov, due 4/29
