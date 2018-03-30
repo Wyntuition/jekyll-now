@@ -2,12 +2,8 @@
 
 * [Container World (IBM)](https://tmt.knect365.com/container-world/)
   - Feb
-* [DevOps Enterprise Summit](https://events.itrevolution.com/eur/), London
-  - June 
-  - CFP due before March?
-  - CxOs, big, innovating organizations
-* CloudNativeCon / KubeCon
-  - Dec, opens May - [North Am.](https://events.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2018/program/call-for-proposals-cfp/)
+* [Pipeline Conference](https://pipelineconf.info/)
+  - March
 * RedHat Summit
   - May
 * [Continuous Lifecycle London](https://continuouslifecycle.london)
@@ -20,6 +16,10 @@
   - CFP due Feb
 * [DevSecCon](https://www.devseccon.com/call-for-proposals/)
   - All year
+* [DevOps Enterprise Summit](https://events.itrevolution.com/eur/), London
+  - June 
+  - CFP due before March?
+  - CxOs, big, innovating organizations
 * DockerCon US & Europe
   - June
 * [O'reilly Velocity](conferences.oreilly.com/velocity/vl-ca)
@@ -27,11 +27,13 @@
   - orig. web perf, now covers everything
 * [Cloud & DevOps World](https://tmt.knect365.com/cloud-devops-world/), London
   - June
-* DockerCOn
+* DockerCon
   - June
 * [HasiConf](https://www.hashiconf.com/call-for-proposals.html)
   - Oct, 
   - CFP opens Feb/March, due July 1
+* CloudNativeCon / KubeCon
+  - Dec, opens May - [North Am.](https://events.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2018/program/call-for-proposals-cfp/)
 
 ## Software Dev
 
