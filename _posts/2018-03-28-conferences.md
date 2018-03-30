@@ -3,7 +3,8 @@
 * [Container World (IBM)](https://tmt.knect365.com/container-world/)
   - Feb
 * [DevOps Enterprise Summit](https://events.itrevolution.com/eur/), London
-  - June, due before March?
+  - June 
+  - CFP due before March?
   - CxOs, big, innovating organizations
 * CloudNativeCon / KubeCon
   - Dec, opens May - [North Am.](https://events.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2018/program/call-for-proposals-cfp/)
@@ -16,7 +17,7 @@
   - May
   - CEOs and down
 * [Container Camp](https://2018.container.camp/au/schedule/), Austraila
-  - due Feb
+  - CFP due Feb
 * [DevSecCon](https://www.devseccon.com/call-for-proposals/)
   - All year
 * DockerCon US & Europe
@@ -29,7 +30,8 @@
 * DockerCOn
   - June
 * [HasiConf](https://www.hashiconf.com/call-for-proposals.html)
-  - Oct, opens Feb/March, due July 1
+  - Oct, 
+  - CFP opens Feb/March, due July 1
 
 
 ## Software Dev
@@ -40,5 +42,5 @@
 * [RevolutionConf](https://revolutionconf.com/)
   - May
 * [StrangeLoop](https://www.thestrangeloop.com/cfp.html)
-  - CFP open July
+  - CPF opens July
   - Oct
