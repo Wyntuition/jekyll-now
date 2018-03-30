@@ -14,6 +14,8 @@
 * [DevOps Con](devopsconference.de), Germany
   - May
   - CEOs and down
+* [DevOpsCon](https://devopsconference.de/), Berlin
+  - May
 * [Continuous Lifecycle](https://continuouslifecycle.london/), London
 * [Container Camp](https://2018.container.camp/au/schedule/), Austraila
   - CFP due Feb
