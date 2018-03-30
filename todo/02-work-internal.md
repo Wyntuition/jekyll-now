@@ -411,3 +411,17 @@ Automated testing:
 - What is an automated test strategy and why should it be important to leadership?
 - Automating regression suites, and changing the QA culture
 - Web stacks: A landscape of the web stacks, and why would you want to consider which? What are they, what do they do for an organization, and how are they different from a high level?
+
+
+##### An Overview of Conatiner Management
+
+By now many of us have had interaction with containers in some way, whether it's using them locally to build or try something, to deploying software in them into the cloud, to hearing your IT executives pushing for containerizing things. As you get more deep into containers, you'll get more deep into container management needs. As soon as you have a set of containers deployed in production, you quickly need to manage things like:
+
+* Scheduling - deploying containers on the right infrastructure depending on capacity, etc.
+* Container-to-container communication & service discovery 
+* Scaling
+* Load balancing
+* Self-healing (automatic restarts)
+* Rolling updates
+* Service/App management (organizing containers that comprise an application; managing deployments)
+* Storage management
