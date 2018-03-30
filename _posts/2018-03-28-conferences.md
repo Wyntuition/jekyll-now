@@ -41,3 +41,6 @@
   - SW leads
 * [RevolutionConf](https://revolutionconf.com/)
   - May
+* [StrangeLoop](https://www.thestrangeloop.com/cfp.html)
+  - CFP open July
+  - Oct
