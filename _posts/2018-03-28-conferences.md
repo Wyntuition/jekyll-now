@@ -4,6 +4,8 @@
   - Feb
 * [Pipeline Conference](https://pipelineconf.info/), 1 day
   - March
+* [JAX Developers](https://devops.jaxlondon.com/), London
+  - April 10-11
 * RedHat Summit
   - May
 * [Continuous Lifecycle London](https://continuouslifecycle.london)
