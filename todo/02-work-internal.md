@@ -425,3 +425,7 @@ By now many of us have had interaction with containers in some way, whether it's
 * Rolling updates
 * Service/App management (organizing containers that comprise an application; managing deployments)
 * Storage management
+
+You probably have heard buzz words like Kubernetes, which is the most popular container management system (also sometimes just called an orchestrator or scheduler), which provides functionality like these, but there are others and the ecosystem is daunting at first. This presentation will give an overview of what container management is, including what container orchestration and scheduling is, and will breifly look at some of the popular tools like Kubernetes, and also Swarm and some others. 
+
+Attendees should come away with a clearer understanding of what container management is all about, why you need it, and what tools are out there for it. They will know next steps if they are in need of container management, or if they simply want to try out some of the tools.
