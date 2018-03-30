@@ -44,6 +44,8 @@
   - SW leads
 * [JAX Developers](https://devops.jaxlondon.com/), London
   - April 10-11
+- [GOTO Conference](https://gotochgo.com/), Chicago
+  - April
 * [RevolutionConf](https://revolutionconf.com/)
   - May
 * [StrangeLoop](https://www.thestrangeloop.com/cfp.html)
