@@ -7,7 +7,6 @@
 * [DevOps Enterprise Summit](https://events.itrevolution.com/eur/), London
   - June, due before March?
 * CloudNativeCon / KubeCon
-  - May
   - Dec, opens May - [North Am.](https://events.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2018/program/call-for-proposals-cfp/)
 * RedHat Summit
   - May
