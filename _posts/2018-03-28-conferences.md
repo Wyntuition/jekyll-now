@@ -4,6 +4,8 @@
   - Feb
 * [Pipeline Conference](https://pipelineconf.info/), 1 day
   - March
+* [Interop](https://www.interop.com/), Vegas
+  - April
 * RedHat Summit
   - May
 * [Continuous Lifecycle London](https://continuouslifecycle.london)
