@@ -4,8 +4,6 @@
   - Feb
 * [Pipeline Conference](https://pipelineconf.info/), 1 day
   - March
-* [JAX Developers](https://devops.jaxlondon.com/), London
-  - April 10-11
 * RedHat Summit
   - May
 * [Continuous Lifecycle London](https://continuouslifecycle.london)
@@ -44,8 +42,13 @@
 * Qcon
   - All year
   - SW leads
+* [JAX Developers](https://devops.jaxlondon.com/), London
+  - April 10-11
 * [RevolutionConf](https://revolutionconf.com/)
   - May
 * [StrangeLoop](https://www.thestrangeloop.com/cfp.html)
   - Oct
   - CPF opens July
+* Build
+* VS Live
+  - All year
