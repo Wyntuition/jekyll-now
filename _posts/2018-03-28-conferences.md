@@ -50,6 +50,7 @@
 * [GOTO Conference](https://gotochgo.com/), Chicago
   - April
 * [Glue Con](http://gluecon.com/)
+  - May
 * [RevolutionConf](https://revolutionconf.com/)
   - May
 * [StrangeLoop](https://www.thestrangeloop.com/cfp.html)
