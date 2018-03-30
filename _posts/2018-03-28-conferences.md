@@ -67,3 +67,8 @@
 * No Fluff Just Stuff
 * Code Camp
   - spring, fall
+
+## Additional Resources
+
+* [it-cfp-list](https://github.com/softwaremill/it-cfp-list)
+* [Papercall.io](https://www.papercall.io/events)
