@@ -21,6 +21,12 @@ Attendees should come away with a clearer understanding of what container manage
 
 Comments: I am a seasoned speaker with technical depth and experience in these hot container topics, and I have helped clarify the container management ecosystem for clients and co-workers. This is a hot topic I am excited to help people understand better.
 
+## Business Case for Microservices
+
+## Cloud, Containers and Microservices, what's the deal? An Overview of Cloud Infrastructure
+
+All of us in the IT industry are hearing words like containers, cloud, microservices, serverless and more. For IT decision makers who aren't able to get into the weeds of these things on a regular basis may have some trouble sorting out what all of these things are and how they relate.
+
 ## Container Deployment Workshop
 
 Many of us have come into interaction with container, otherwise know it is inevitable. Many may have also noticed that things get complicated when you start to explore deployment options for containers. Getting your hands dirty as soon as possible by deploying a containerized application will demystify a lot of things quickly and allow you to move forward faster. 
@@ -57,9 +63,9 @@ Agenda Details
 
 • Use Compose to spin up a development environment with a database
 
-## Verbose abstract
+### Verbose abstract
 
-### Part I
+#### Part I
 
 Join us for part 1 of 2 of our Getting Into Docker Workshop Series, where we will take an existing simple app and Dockerize it. The workshop will begin with a 20-minute overview of the concepts run through the concepts of Docker before we jump into Dockerizing an app, then using Compose to build and run it.
 
@@ -90,7 +96,7 @@ https://wyntuition.github.io/bio/
 // Parking and Metro //
 Parking at 2100 - 2300 Clarendon Blvd is free after 6:00. Enter the garage at 2100 Clarendon Blvd and turn right for gated parking in the garage or turn left for metered parking. The ATX is located at Courthouse Metro on the Orange and Silver lines.
 
-### Part II
+#### Part II
 
 Join us for part 2 of 2  of the Getting Into Docker Workshop Series, where we will take the containerized app from our first workshop session and deploy it.
 
