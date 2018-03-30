@@ -42,5 +42,5 @@
 * [RevolutionConf](https://revolutionconf.com/)
   - May
 * [StrangeLoop](https://www.thestrangeloop.com/cfp.html)
-  - CPF opens July
   - Oct
+  - CPF opens July
