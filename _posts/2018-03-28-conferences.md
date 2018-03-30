@@ -64,6 +64,9 @@
 * [StrangeLoop](https://www.thestrangeloop.com/cfp.html)
   - Oct
   - CPF opens July
+* Open Source Summit Japan
+  - CFP Nov, due Mar 18
+* Open Source Summit Europe
 * Build
 * VS Live
   - All year
