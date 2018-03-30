@@ -1,5 +1,3 @@
-# Conferences
-
 ## Cloud, Containers, DevOps
 
 * [Container World (IBM)](https://tmt.knect365.com/container-world/)
