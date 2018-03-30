@@ -6,6 +6,7 @@
 
 - postgres, jenkins brown bags
 
+- prod access check in
 
 ## NOW
 
