@@ -15,8 +15,7 @@ https://trello.com/b/Vj7P4Pkf/dd-2018-goals, https://docs.google.com/spreadsheet
     - Dig Xformation - Digital transformation is driven by automation, data exchanges, cloud, cyber-physical systems, robots, big data, artificial intelligence, learning systems, IoT, and autonomy. Presentations in the topic area will address how agile, lean, and DevOps are contributing the pace of change at the intersection of people, new technologies, and innovation in government and industry.
     - Agile architecture refers to both the use of agile methods in developing architectures of various types and levels (enterprise, solution, data, etc.) as well as the architecture necessary to integrate multiple activities for agile development on a large scale. This session will address both perspectives of agile architecture and will provide insights from projects applying the concepts. Attendees will learn to appreciate the mutually reinforcing roles of architecture and agility.
 
-
-- Seth: sign off 
+- +add check in on appraisal goals to checklist; grooming excellians & rolling out xpert vision for apprraisal sections
 
 - read s app + notes & review old notes, m
 
@@ -26,7 +25,15 @@ https://trello.com/b/Vj7P4Pkf/dd-2018-goals, https://docs.google.com/spreadsheet
 
 - check in with bosses
 
+- [Incre] Messaging system, microservices sandbox [scratch, components - CB, sidecar, retries; lagom, spring cloud], react/play
+
 ### FEW DAYS
+
+- PG BB
+    - big table
+        - insert, update single table
+
+- update case study on excella.com to include microservices? (Matt P)
 
 - supervisor guidelines; supervisor plan/curric for 2018; help dev leaders
 
@@ -45,12 +52,12 @@ https://trello.com/b/Vj7P4Pkf/dd-2018-goals, https://docs.google.com/spreadsheet
             - sw dev, cs gaps
             - tool, tech gaps
 
+- PD - org my curric/plan in one place (onenote notes vs )
+
 +new accomplish list/journal: 
     - Curric for Scala; ramping up process (run, test, config, patterns, structure, )
     
 - blog
-
-Burn-Secretary-Bottom-Furnish-
 
 - MS curric list. Specifically, brown bags: for chassis, different attribues; setting up infra;
     - ?: forms for editing markdown, could then be labs? Gen to marketing slick? (Jekyll theme for it)
@@ -79,16 +86,12 @@ Burn-Secretary-Bottom-Furnish-
 
     - Coming SW apol; sw arch, MS hell
 
-- MS CHEATSHEET; other BD cheatsheets, blogs, etc. My trello for things in prog, incl. DDSA, reports can be in text
-
 - jenkins
     - finalize v1 jenkins docker 
     - prez: efficiently developing pipelines, locallly (w/Jenkins in docker)
     - jenkins brown bag - features, dockerization, hello world app, deploy to AWS
 
 - Docker WS marketing: on cal, to Docker contacts if they can send any clients, 
-- Sponsor, Docker Summit
-- upload zoom - wathc and see if worth it to recreate first part
 
 - cert with Docker
 
@@ -102,6 +105,32 @@ Burn-Secretary-Bottom-Furnish-
 ## PROJECTS
 
 +bash curric: https://github.com/progrium/bashstyle
+
+### Sandbox details
+
+- PD 10x4, use curric - current for current learn tabs (so same at work and home and phoen)
+    - 10xX: akka, graph, mongo, react, scala
+    - review xpert plan for point pace; conference apply
+        - xpert strategy, plan, conf sch, PD plan & class
+        - conf apply sch. Mod topics list. (blogs, workshops, PD too. +Mongo, Akka, Scala, React, Rails, kube/openshift
+        +MS: - Spring Boot microservice - https://github.com/rohitghatol/spring-boot-microservices
+    - Sandbox for future work (docker locally/AWS via swarm/kube, scala w/play api MS & react fe auto MS)
+    - Docker, AWS Cert
+    - My Data app
+    - Organize projects list so they can all roll up in one place is easy to check all the projects are timely and prevent them from the city such as the AI one
+    - Scala funda, https://www.youtube.com/watch?v=DzFt0YkZo8M
+- SANDBOX: React, .NET Core Razor, Kube, MS: Play, Node, .NET Core, Rails, Spring Boot; Mongo, Akka, streams
+    - Container Management System, deployment platform (PaaS)
+        - Kube/EKS, OpenShift/Docker EE
+        - Pipeline
+        - Microservices
+        - Misc infra: Consul, Vault, Prometheus, Kafka, container registration, container pttterns
+    - Contaner patterns, auth microservice
+    -[2] try kube, mongo v. etc. sandbox
+    db perf lit; mongo/nosql, akka/etl sandbox    
+    - nosql p/c - fast when migrating apis? 
+    - THEN: other xpert tasks (AI projects, skillustrator), QCON vids to watch
+
 
 ### Talks
 
@@ -357,6 +386,18 @@ Considerations
 AI… Hype or Reality?
 The Future of AI
 
+#### BD Notes
+
+- what content is needed? Able to sell container-based hybrid cloud moderiztions, microservices, distributed apps for flexibility, innovation, scalability, cost savings
+    - kanban board?
+    - other topics? DevOps, AI for business, etc
+- headings of cheatsheet
+- container-base hybrid cloud modernizations with microservices as appropriate
+- lift & shift demo, ms infra in a box, docker partnership
+- Modernization KMT: prioritizing BD materials; deliverables
+    - add Sean?
+    - reusable content for proposals, BD
+    - prioritizing BD requests, what BD is hearing and doing
 
 ##### BD cheatsheets
 

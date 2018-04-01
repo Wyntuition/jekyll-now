@@ -1,5 +1,17 @@
 # Jenkins Multistage Pipeline
 
+They allow the developer to keep their pipeline and their build near their code.
+
+But developing a Pipeline can quickly become cumbersome:
+
+The text area of the Jenkins UI is not really convenient when you start writing pipelines a bit more complex than your basic hello world.
+
+Your code can grow and become hard to maintain (yeah, we end up having the same problems in our builds than in the rest of our code!).
+
+Validation is not easy…​
+
+
+
 ## Summary
 
     - The pipeline is called `vis-case-processing-etl` on VDM Jenkinks - you can search for on the desired environments.
