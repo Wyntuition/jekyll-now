@@ -25,6 +25,10 @@ Comments: I am a seasoned speaker with technical depth and experience in these h
 
 The microservices approach has been taking the software industry by storm, promising to make organizations more competitive and faster at delivering software. It doesn’t only have to be for the most complex systems like those at Netflix. The benefits hit many common pain points of so many software projects. Microservices can give organizations more agility with business decisions as the software can respond faster to constant change which is inevitable in the business world. A successfully implemented microservices approach can speed up software delivery, but it is daunting to get into and filled with uncertainty. This presentation will go into more detail to paint the big picture around microservices and where they fit. It will demystify the ecosystem and provide actionable next steps for determining if microservices fit into your strategy.
 
+Audience: CxOs, IT executives, DevOps and software architects, needing to make decisions around cloud, containers, microservices and how to deliver software.
+
+Benefits: Microservices, containers and cloud change paradigms for how software is created and delivered. The shifts are huge, so it's daunting for organizations to break into the approaches and technology, but it's critical to stay competitive. Decision-makers need the right information to make the right decisions in this new era of software, and this presentation attempts to provide it.
+
 ## Cloud, Containers and Microservices, what's the deal? An Overview of Cloud Infrastructure
 
 All of us in the IT industry are hearing words like containers, cloud, microservices, serverless and more. For IT decision makers who aren't able to get into the weeds of these things on a regular basis may have some trouble sorting out what all of these things are and how they relate.
