@@ -29,9 +29,9 @@ Audience: CxOs, IT executives, DevOps and software architects, needing to make d
 
 Benefits: Microservices, containers and cloud change paradigms for how software is created and delivered. The shifts are huge, so it's daunting for organizations to break into the approaches and technology, but it's critical to stay competitive. Decision-makers need the right information to make the right decisions in this new era of software, and this presentation attempts to provide it.
 
-## Cloud, Containers and Microservices, what's the deal? An Overview of Cloud Infrastructure
+## Cloud, containers and microservices, oh my! An overview of cloud infrastructure
 
-All of us in the IT industry are hearing words like containers, cloud, microservices, serverless and more. For IT decision makers who aren't able to get into the weeds of these things on a regular basis may have some trouble sorting out what all of these things are and how they relate.
+All of us in the IT industry are hearing words like containers, cloud, microservices, serverless and more. For IT decision makers who aren't able to get into the weeds of these things on a regular basis may have some trouble sorting out what all of these things are and how they relate. This talk will illustrate the big picture of cloud, and key moderm compoents fit including containers, microservices and serverless computing. This will help defog the ecosystem which is changing so drastically, creating new standards and paradigms for software delivery.
 
 ## Getting Started with Container Deployment Workshop
 
