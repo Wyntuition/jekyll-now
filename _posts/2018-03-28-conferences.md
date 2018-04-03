@@ -62,6 +62,8 @@
   - May
 * [flatMap Oslo](https://www.papercall.io/flatmap2018)
   - May
+* [International Conference on Software Engineering](https://www.icse2018.org/), Sweden
+  - May
 * NDC Oslo
   - CFP due Feb
   - August
