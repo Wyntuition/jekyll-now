@@ -15,9 +15,9 @@ As you get deeper into containers, you'll get deeper into container management n
 * Service/App management (organizing containers that comprise an application; managing deployments)
 * Storage management
 
-You probably have heard buzz words like Kubernetes, which provides functionality like these and much more, but the ecosystem overall is daunting at first. This presentation will summarize the ecosystem, giving an overview of what container management is, and will briefly look at some of the popular tools, including Kubernetes.
+You probably have heard buzz words like Kubernetes, which provides functionality like these and much more, but the ecosystem overall is daunting at first. This presentation will summarize the ecosystem, giving an overview of what container management and orchestration is, and will look at some tools, including Kubernetes, Swarm and Mesos.
 
-Attendees should come away with a clearer understanding of what container management is all about, why you need it, and what tools are out there for it. Attendees will come out with some actionable next steps if they are in need of container management, or if they simply want to try out some of the tools.
+Attendees should come away with a clearer understanding of container management, why you need it, and what tools are out there. Additionally they will come out with actionable next steps in container management.
 
 Comments: I am a seasoned speaker with technical depth and experience in these hot container topics, and I have helped clarify the container management ecosystem for clients and co-workers. This is a hot topic I am excited to help people understand better.
 
