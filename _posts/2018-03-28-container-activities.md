@@ -35,7 +35,7 @@ In this 2-hour workshop, we will take an existing simple app that is running in 
 
 Audience Skill Level: practical hands-on experience and understanding of Docker (we won't have time to go over Docker concepts)
 
-Benefits: Many know the need of containerization in order to take advantage of the benefits of modern software delivery approaches. Container-based software is relatively new to most organizations, and the ecosystem seems daunting when first entering it. One of the best ways to understand how to move forward on container orchestration and management is trying it out or seeing it in action. This will show how to get started with container management by deploying a containerized application into a container management system such as Kubernetes.
+Benefits: Many know the need of containerization in order to take advantage of the benefits of modern software delivery approaches. Container-based software is relatively new to most organizations, and the ecosystem seems daunting when first entering it. One of the best ways to understand how to move forward is trying it out or seeing it in action. This tutorial will take you through how to get started with container management, by setting up a container management system such as Kubernetes, and deploying a containerized application into it.
 
 [Instructor Bio](https://wyntuition.github.io/bio/)
 
