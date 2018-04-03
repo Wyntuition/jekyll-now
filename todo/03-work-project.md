@@ -8,6 +8,8 @@
 
 - prod access check in
 
+- SAVE app; scala app, curric
+
 ## NOW
 
 ## ASAP
