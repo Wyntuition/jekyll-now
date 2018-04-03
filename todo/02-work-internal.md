@@ -14,6 +14,8 @@ https://trello.com/b/Vj7P4Pkf/dd-2018-goals, https://docs.google.com/spreadsheet
 ### FEW DAYS
 
 - supervisor guidelines; supervisor plan/curric for 2018; help dev leaders
+    - discuss performance throughout year
+    
 - LESS concepts; project CL (norms, etc)
 
 - +add check in on appraisal goals to checklist; grooming excellians & rolling out xpert vision for apprraisal sections
