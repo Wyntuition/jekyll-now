@@ -48,6 +48,8 @@
 * Qcon
   - All year
   - SW leads
+* O'Reilly Software Architecture Conference, US
+  - Feb
 * Open Source Summit Japan (see LinuxFoundation conferences)
   - CFP Nov, due Mar 18
 * [JAX Developers](https://devops.jaxlondon.com/), London
@@ -68,7 +70,8 @@
   - CFP open Nov, due 4/29
 * [NDC Sydney](https://ndcsydney.com/page/call-for-papers/)
   - Sept
-* O'Reilly Software Architecture Conferences
+* O'Reilly Software Architecture Conference, London
+  - Oct
 * [StrangeLoop](https://www.thestrangeloop.com/cfp.html)
   - Oct
   - CPF opens July
