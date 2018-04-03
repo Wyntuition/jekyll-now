@@ -62,9 +62,12 @@
   - May
 * NDC Oslo
   - CFP due Feb
+  - August
 * [Open Source Summit](https://events.linuxfoundation.org/events/open-source-summit-north-america-2018/program/cfp/), Vancouver
   - August
   - CFP open Nov, due 4/29
+* [NDC Sydney](https://ndcsydney.com/page/call-for-papers/)
+  - Sept
 * O'Reilly Software Architecture Conferences
 * [StrangeLoop](https://www.thestrangeloop.com/cfp.html)
   - Oct
