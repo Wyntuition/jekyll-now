@@ -23,11 +23,15 @@ Comments: I am a seasoned speaker with technical depth and experience in these h
 
 ## Business Case for Microservices
 
+The microservices approach has been taking the software industry by storm, promising to make organizations more competitive and faster at delivering software. Many newer technologies are greatly reducing the overhead cost of moving to microservices and many more projects can be considered for it than could be just a few years ago. It doesn’t only have to be for the biggest, most complex systems like those at Netflix. The benefits hit so many common pain points of so many software projects. In many ways, microservices can give organizations significantly more agility with business decisions. The software can respond faster to constant change that is inevitable in the business world and necessary for a competitive advantage. New technologies can be experimented with less risk, which is also critical for keeping pace with competitors. Ultimately, a successfully implemented microservices approach can speed up software delivery. 
+
+This presentation will go into more detail of the big picture around microservices, pros and cons, pain points addressed, success stories and use cases out in the industry.
+
 ## Cloud, Containers and Microservices, what's the deal? An Overview of Cloud Infrastructure
 
 All of us in the IT industry are hearing words like containers, cloud, microservices, serverless and more. For IT decision makers who aren't able to get into the weeds of these things on a regular basis may have some trouble sorting out what all of these things are and how they relate.
 
-## Container Deployment Workshop
+## Getting Started with Container Deployment Workshop
 
 Many of us have come into interaction with containers, otherwise know it is inevitable. Many may have also noticed that things get complicated when you start to explore deployment options for containers. Getting your hands dirty as soon as possible by deploying a containerized application will demystify a lot of things quickly and allow you to move forward faster. 
 
@@ -69,7 +73,7 @@ Agenda Details
 
 #### Part I
 
-Join us for part 1 of 2 of our Getting Into Docker Workshop Series, where we will take an existing simple app and Dockerize it. The workshop will begin with a 20-minute overview of the concepts run through the concepts of Docker before we jump into Dockerizing an app, then using Compose to build and run it.
+Join us for part 1 of 2 of our Getting Into Docker Workshop Series, where we will take an existing simple app and Dockerize it. We will take an existing simple app and Dockerize it. The workshop will begin with a 20-minute overview of the concepts of Docker before we jump into Dockerizing an app, then using Compose to build and run it. 
 
 // Set up before the Event //
 Docker installed in working (5-10 minutes)
