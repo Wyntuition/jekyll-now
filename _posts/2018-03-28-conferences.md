@@ -72,6 +72,7 @@
   - CFP open Nov, due 4/29
 * [NDC Sydney](https://ndcsydney.com/page/call-for-papers/)
   - Sept
+  - CFP due May
 * [O'Reilly Software Architecture Conference, London](https://conferences.oreilly.com/software-architecture/sa-eu/public/cfp/645)
   - Oct
   - CFP due May
