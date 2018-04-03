@@ -78,6 +78,9 @@
 * [StrangeLoop](https://www.thestrangeloop.com/cfp.html)
   - Oct
   - CPF opens July
+- [Oredev Developer Conference](http://oredev.org/_)
+  - Nov
+  - CFP due before April
 * Open Source Summit Europe
 * Build
 * VS Live
