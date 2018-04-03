@@ -65,6 +65,7 @@
 * [Open Source Summit](https://events.linuxfoundation.org/events/open-source-summit-north-america-2018/program/cfp/), Vancouver
   - August
   - CFP open Nov, due 4/29
+* O'Reilly Software Architecture Conferences
 * [StrangeLoop](https://www.thestrangeloop.com/cfp.html)
   - Oct
   - CPF opens July
