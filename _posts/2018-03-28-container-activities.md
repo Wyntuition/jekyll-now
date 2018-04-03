@@ -29,7 +29,7 @@ All of us in the IT industry are hearing words like containers, cloud, microserv
 
 ## Container Deployment Workshop
 
-Many of us have come into interaction with container, otherwise know it is inevitable. Many may have also noticed that things get complicated when you start to explore deployment options for containers. Getting your hands dirty as soon as possible by deploying a containerized application will demystify a lot of things quickly and allow you to move forward faster. 
+Many of us have come into interaction with containers, otherwise know it is inevitable. Many may have also noticed that things get complicated when you start to explore deployment options for containers. Getting your hands dirty as soon as possible by deploying a containerized application will demystify a lot of things quickly and allow you to move forward faster. 
 
 In this 2-hour workshop, we will take an existing simple app that is running in Docker, and go through steps to deploy it to Kubernetes. 
 
