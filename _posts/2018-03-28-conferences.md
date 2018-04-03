@@ -48,6 +48,8 @@
 * Qcon
   - All year
   - SW leads
+* Open Source Summit Japan (see LinuxFoundation conferences)
+  - CFP Nov, due Mar 18
 * [JAX Developers](https://devops.jaxlondon.com/), London
   - April 10-11
 * [GOTO Conference](https://gotochgo.com/), Chicago
@@ -58,14 +60,14 @@
   - May
 * [flatMap Oslo](https://www.papercall.io/flatmap2018)
   - May
+* NDC Oslo
+  - CFP due Feb
 * [Open Source Summit](https://events.linuxfoundation.org/events/open-source-summit-north-america-2018/program/cfp/), Vancouver
   - August
   - CFP open Nov, due 4/29
 * [StrangeLoop](https://www.thestrangeloop.com/cfp.html)
   - Oct
   - CPF opens July
-* Open Source Summit Japan
-  - CFP Nov, due Mar 18
 * Open Source Summit Europe
 * Build
 * VS Live
