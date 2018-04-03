@@ -13,19 +13,16 @@ https://trello.com/b/Vj7P4Pkf/dd-2018-goals, https://docs.google.com/spreadsheet
 
 - supervisor guidelines; supervisor plan/curric for 2018; help dev leaders
 - LESS concepts; project CL (norms, etc)
+
 - +add check in on appraisal goals to checklist; grooming excellians & rolling out xpert vision for apprraisal sections
 
 - check in with Docker contact 
-
-- read s app + notes & review old notes, m
 
 - CMS: gitlabs w/gmaail ;BD cheatsheet notes
 
 - docker deploy workshop: market series
 
-- check in with bosses
-
-- [Incre] Messaging system, microservices sandbox [scratch, components - CB, sidecar, retries; lagom, spring cloud], react/play
+- [Incre Sandbox] Messaging system, microservices sandbox [scratch, components - CB, sidecar, retries; lagom, spring cloud], react/play
 
 - PG BB
     - big table
@@ -35,6 +32,8 @@ https://trello.com/b/Vj7P4Pkf/dd-2018-goals, https://docs.google.com/spreadsheet
     - Microserivces
 
 ### ASAP
+
+- check in with bosses
 
 - 2018 tasks
     - xpert plan (thought leadership), D&D exact plan (kube plan); .net core w/riccardo & leverage MVP & radar
