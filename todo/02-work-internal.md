@@ -9,6 +9,8 @@ https://trello.com/b/Vj7P4Pkf/dd-2018-goals, https://docs.google.com/spreadsheet
 
 ### TODAY
 
+- Talk to Glenn about Dane
+
 ### FEW DAYS
 
 - supervisor guidelines; supervisor plan/curric for 2018; help dev leaders
