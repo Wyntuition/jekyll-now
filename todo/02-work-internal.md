@@ -31,8 +31,7 @@ https://trello.com/b/Vj7P4Pkf/dd-2018-goals, https://docs.google.com/spreadsheet
     - big table
         - insert, update single table
 
-+kube curric: https://landing.google.com/sre/
-    - Microserivces
++kube/ms curric: https://landing.google.com/sre/
 
 ### ASAP
 
