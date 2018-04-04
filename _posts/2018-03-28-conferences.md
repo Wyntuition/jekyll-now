@@ -40,6 +40,8 @@
   - Oct, 
   - CFP opens Feb/March, due July 1
 * [Cloud Expo](http://www.cloudcomputingexpo.com/general/papers2018east.htm)
+* AWS:reinvent
+  - Nov
 * CloudNativeCon / KubeCon
   - Dec, opens May - [North Am.](https://events.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2018/program/call-for-proposals-cfp/)
 
@@ -100,6 +102,8 @@
 
 * [Open FinTech Forum](https://linuxfoundation.smapply.io/prog/open_fintech_forum/)
   - CFP Feb 12 - July 13
+* [CIO Cloud Summit](http://ciocloudsummit.com/agenda)
+  - March
 
 ## Additional Resources
 
