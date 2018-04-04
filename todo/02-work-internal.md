@@ -15,7 +15,7 @@ https://trello.com/b/Vj7P4Pkf/dd-2018-goals, https://docs.google.com/spreadsheet
 
 - supervisor guidelines; supervisor plan/curric for 2018; help dev leaders
     - discuss performance throughout year
-    
+
 - LESS concepts; project CL (norms, etc)
 
 - +add check in on appraisal goals to checklist; grooming excellians & rolling out xpert vision for apprraisal sections
@@ -37,6 +37,13 @@ https://trello.com/b/Vj7P4Pkf/dd-2018-goals, https://docs.google.com/spreadsheet
 
 ### ASAP
 
++micrroservices business notes: 
+        "More than 70 percent of companies want to intensify their usage of Microservices
+
+        The ability to deploy new releases multiple times per week, gives companies an incredible advance, as they can react much better to their clients’ needs and to market changes. The study proved that, with the help of Microservices, new weekly releases quadrupled.
+
+        Even though, many companies have not put Microservices into practice yet. Only 17 percent of companies currently release weekly deploys. For 51 percent of studied companies, the standard release cycle is a few times per year, while ¼ of companies deploys monthly releases."
+        
 - check in with bosses
 
 - 2018 tasks
