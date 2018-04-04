@@ -34,6 +34,8 @@
   - June
 * DockerCon
   - June
+* [Google Cloud Next](https://cloud.withgoogle.com/next18/sf/)
+  - July
 * [DevOps Talks Conference](http://devopstalks.com/submit_talk.html)
   - August
 * [HasiConf](https://www.hashiconf.com/call-for-proposals.html)
