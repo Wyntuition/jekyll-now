@@ -11,19 +11,18 @@ https://trello.com/b/Vj7P4Pkf/dd-2018-goals, https://docs.google.com/spreadsheet
 
 - Talk to Glenn about Dane
 
-### FEW DAYS
+- Alex' xpert plan review
 
 - supervisor guidelines; supervisor plan/curric for 2018; help dev leaders
     - discuss performance throughout year
 
-- LESS concepts; project CL (norms, etc)
+### FEW DAYS
 
+- LESS concepts; project CL (norms, etc)
 - +add check in on appraisal goals to checklist; grooming excellians & rolling out xpert vision for apprraisal sections
 
 - check in with Docker contact 
-
 - CMS: gitlabs w/gmaail ;BD cheatsheet notes
-
 - docker deploy workshop: market series
 
 - [Incre Sandbox] Messaging system, microservices sandbox [scratch, components - CB, sidecar, retries; lagom, spring cloud], react/play
