@@ -1,14 +1,18 @@
-## Microservices Curriculum
+# Microservices Curriculum
 
-### First pass start
+## Key Concepts
 
-#### Try it out local
+## First pass start
+
+### Try it out local
 
 * I.E. via this [Minikube, Envoy, Istio sample](http://blog.christianposta.com/istio-workshop/slides)
 
-#### Try running  a production-ready cluster 
+### Try running  a production-ready cluster 
 
 1. Try deploying a Kubernetes cluster on AWS or GCE via `Kops`,`https://github.com/kubernetes/kops` (see tutorials here)
+
+## Details 
 
 ## Service Mesh
 
