@@ -6,7 +6,7 @@
 
 Production cluster running:
 
-`https://github.com/kubernetes/kops`
+1. Try deploying a Kubernetes cluster on AWS or GCE via `Kops`,`https://github.com/kubernetes/kops` (see tutorials here)
 
 ## Service Mesh
 
