@@ -66,6 +66,7 @@
   - May
 * [International Conference on Software Engineering](https://www.icse2018.org/), Sweden
   - May
+* [Openstack Summit](https://www.openstack.org/summit)
 * [DeveloperWeek New York](http://www.developerweek.com/NYC/conference/apply-to-speak/)
 * NDC Oslo
   - CFP due Feb
