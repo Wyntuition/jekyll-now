@@ -1,4 +1,4 @@
-## Curric
+## Microservices Curriculum
 
 ### First pass start
 
