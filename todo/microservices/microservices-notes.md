@@ -4,7 +4,7 @@
 
 #### Try it out local
 
-* I.E. via [Minikube, Envoy, Istio sample]()
+* I.E. via this [Minikube, Envoy, Istio sample](http://blog.christianposta.com/istio-workshop/slides)
 
 #### Try running  a production-ready cluster 
 
