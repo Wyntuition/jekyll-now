@@ -68,6 +68,8 @@
 * NDC Oslo
   - CFP due Feb
   - August
+* [O'Reilly OSCON](https://conferences.oreilly.com/oscon/oscon-or?cmp=kn-prog-confreg-home-osor18_search)
+  - July
 * [Open Source Summit](https://events.linuxfoundation.org/events/open-source-summit-north-america-2018/program/cfp/), Vancouver
   - August
   - CFP open Nov, due 4/29
