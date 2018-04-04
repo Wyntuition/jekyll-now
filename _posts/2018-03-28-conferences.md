@@ -67,6 +67,7 @@
 * [International Conference on Software Engineering](https://www.icse2018.org/), Sweden
   - May
 * [Openstack Summit](https://www.openstack.org/summit)
+  - May
 * [DeveloperWeek New York](http://www.developerweek.com/NYC/conference/apply-to-speak/)
 * NDC Oslo
   - CFP due Feb
@@ -101,11 +102,21 @@
 
 ## Thought Leader and Decision Maker heavy
 
+[CIO Mag guide to conferences](https://www.cio.com/article/2976667/it-skills-training/your-guide-to-top-tech-conferences.html)
+
 * [Open FinTech Forum](https://linuxfoundation.smapply.io/prog/open_fintech_forum/)
   - CFP Feb 12 - July 13
+* [Gartner CIO Leadership Forum](Gartner CIO Leadership Forum)
 * [CIO Cloud Summit](http://ciocloudsummit.com/agenda)
   - March
 * [Ingram Cloud Summit](http://ingrammicrocloudsummit.com/agenda/)
+* [Evolve](Evolve)
+  - May
+  - heavy-hitters / influencers in IT
+* [D.LIVE Laguna](https://dlive.wsj.com/laguna/)
+  - Nov
+  - Invite only
+* [Agenda](http://www.agendaconference.com/)
 
 ## Additional Resources
 
