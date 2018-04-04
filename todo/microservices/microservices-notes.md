@@ -20,3 +20,7 @@ All the functionalities microservices need make it hard to implement in each ser
 
 Tools:
   - Envoy
+
+## Control Plane
+
+* OpenShift, try locally via [Minishift](https://github.com/minishift/minishift)
