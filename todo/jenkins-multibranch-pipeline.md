@@ -10,7 +10,15 @@ Your code can grow and become hard to maintain (yeah, we end up having the same 
 
 Validation is not easy…​
 
+## Set up your app to be run in a pipeline
 
+Jenkins can be added to any projects with a `Jenkinsfile`. This scaffold provides a basic one that does the key steps: build the app in the container, test, and if successful, push the image.
+
+1. *Build Step* The Jenkinsfile will build your app per your Dockerfile, or you can tweak it (i.e. using docker-compose).
+
+1. *Testing Step* The Jenkins file has a test section in order for you to trigger your test suite.
+
+1. *Push Image* If the tests pass, the next step will run which is typically to push the image. Update this with your repo and credentials (which can stored and be pulled from Jenkins credentials, etc).
 
 ## Summary
 
