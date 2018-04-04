@@ -64,6 +64,7 @@
   - May
 * [International Conference on Software Engineering](https://www.icse2018.org/), Sweden
   - May
+* [DeveloperWeek New York](http://www.developerweek.com/NYC/conference/apply-to-speak/)
 * NDC Oslo
   - CFP due Feb
   - August
