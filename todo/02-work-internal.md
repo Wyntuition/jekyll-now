@@ -11,9 +11,6 @@ https://trello.com/b/Vj7P4Pkf/dd-2018-goals, https://docs.google.com/spreadsheet
 
 - Alex' xpert plan review
 
-- supervisor guidelines; supervisor plan/curric for 2018; help dev leaders
-    - discuss performance throughout year
-
 ### FEW DAYS
 
 - LESS concepts; project CL (norms, etc)
