@@ -112,6 +112,7 @@
 * [CIO Cloud Summit](http://ciocloudsummit.com/agenda)
   - March
 * [Ingram Cloud Summit](http://ingrammicrocloudsummit.com/agenda/)
+  - April
 * [Evolve](Evolve)
   - May
   - heavy-hitters / influencers in IT
