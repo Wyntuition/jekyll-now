@@ -190,9 +190,9 @@ One-off's
 
 [PREP]
 
-- Leadership courses
-- Radical Candor
-- The Manager's Path
+- Leadership courses (DISC, etc)
+- Radical Candor (feedback approaches, supervisor techniques, etc)
+- The Manager's Path (tech lead, project leadership skills, etc)
 
 [KEY GOALS FOR SUPERVISORS]
 
