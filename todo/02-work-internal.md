@@ -205,8 +205,8 @@ One-off's
 
 Feedback
     - Is there is something I could do better for you, what would it be?
-    - Share some that I learned. What could I do differently to further help you?
     - Feedback from others
+    - Share some that I learned. What could I do differently to further help you?
 - Project chat
     - status
     - satisfaction
