@@ -424,3 +424,14 @@ Automated testing:
 - What is an automated test strategy and why should it be important to leadership?
 - Automating regression suites, and changing the QA culture
 - Web stacks: A landscape of the web stacks, and why would you want to consider which? What are they, what do they do for an organization, and how are they different from a high level?
+
+##### Org-wide Learning Strategy (Pluralsight, app, etc.)
+
+    - github check of app; exercises?
+    - curric in fixed timeframe
+    - collection of video clips
+    - standard metadata on learning task, content item?
+    - hyperlinked course transcripts, while watching
+    - **gamification**: leader, 
+        - skill assessment -> publish! Skillu; Glenn's thing
+    - JIT learning; ask bot q & offer, detect based on browsing
