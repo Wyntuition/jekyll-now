@@ -194,11 +194,17 @@ One-off's
 - Radical Candor
 - The Manager's Path
 
+[KEY GOALS FOR SUPERVISORS]
+
+- Provide feedback, and receive feedback. Create culture of radical candor.
+- Provide career guidance
+- set expectations
+
 [FIRST/PERODIC]
 
 - Set up regular check-ins (at least 1x/month). Ask report how often they think it would be good to meet.
 - What kind of feedback do you want?
-- Set stage, 2 key things: 
+- Set stage, key things: 
     - please give me feedback, and I will provide it to you
     - career discussion & guidance
     - bring agenda items to check-ins
@@ -207,7 +213,7 @@ One-off's
 
 Feedback
     - Is there is something I could do better for you, what would it be?
-    - Feedback from others
+    - Feedback from others. Progress on goals, project, general consultant expectations
     - Share some that I learned. What could I do differently to further help you?
 - Project chat
     - status
@@ -221,6 +227,10 @@ Feedback
     - Where are you looking to go? How's your long term vision, 18 month plan?
 - Discuss other projects (xpert, DDSA/internal initiatives, etc)
 - Praise
+
+[RESOURCES TO SHARE]
+
+- Next steps on things like supervising, mentoring, xpert, promotion, other advancement; role guidance (i.e. lead consultant)
 
 #### Approving timesheets
 
