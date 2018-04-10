@@ -209,6 +209,9 @@ One-off's
     - please give me feedback, and I will provide it to you
     - career discussion & guidance
     - bring agenda items to check-ins
+
+[PERODIC]
+
 - coffee with account leaders and co-workers for project and internal project feedback
 
 [REGULAR]
