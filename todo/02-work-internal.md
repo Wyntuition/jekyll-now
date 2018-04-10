@@ -188,9 +188,18 @@ One-off's
 
 #### Check-in topics & questions
 
+[PREP]
+
+- Leadership courses
+- Radical Candor
+- The Manager's Path
+
 [FIRST/PERODIC]
-- [How often meet?
+- How often would you like to meet?
 - What kind of feedback do you want?
+- Set stage, 2 key things: 
+    - please give me feedback, and I will provide it to you
+    - career discussion & guidance
 
 [REGULAR]
 
@@ -211,6 +220,9 @@ Feedback
 - Discuss other projects (xpert, etc)
 - Praise
 
+#### Approving timesheets
+
+- pretty straightforward for most people, 40 hours billed, knowing what to do with PD time, extra hours worked in a period, if xpert time not using more than is necessary, what can be + and not
 
 #### Apraisal Notes
 
