@@ -41,6 +41,10 @@ correlated with DevTest tools and tools that link
 microservices. These solutions are the bridge
 between DevOps and a microservices-based
 application architecture. 
+- Companies seeking to leverage AI within
+containerized apps will be seeking container
+consulting services and support for non-x86
+architectures (e.g., GPUs).
 
 ## Getting Started with Container Deployment Workshop
 
