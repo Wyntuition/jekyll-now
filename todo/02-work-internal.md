@@ -198,7 +198,7 @@ One-off's
 
 - Provide feedback, and receive feedback. Create culture of radical candor.
 - Provide career guidance
-- set expectations
+- set expectations: project, internal & career
 
 [FIRST/PERODIC]
 
