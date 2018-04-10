@@ -16,7 +16,6 @@ https://trello.com/b/Vj7P4Pkf/dd-2018-goals, https://docs.google.com/spreadsheet
 - LESS concepts; project CL (norms, etc)
 - +add check in on appraisal goals to checklist; grooming excellians & rolling out xpert vision for apprraisal sections
 
-- check in with Docker contact 
 - CMS: gitlabs w/gmaail ;BD cheatsheet notes
 - docker deploy workshop: market series
 
@@ -25,6 +24,7 @@ https://trello.com/b/Vj7P4Pkf/dd-2018-goals, https://docs.google.com/spreadsheet
 - PG BB
     - big table
         - insert, update single table
+
 
 +kube/ms curric: https://landing.google.com/sre/
 
@@ -42,6 +42,9 @@ https://trello.com/b/Vj7P4Pkf/dd-2018-goals, https://docs.google.com/spreadsheet
         6. Differentiate between user controls and components to appropriate use binding, resolve and auth guards,
         7. With TypeScript classes, interfaces, enums, validators and pipes maximize code reuse
 
+### REG 
+
+- check in with Docker contact 
 
 ### ASAP
 
