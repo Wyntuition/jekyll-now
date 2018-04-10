@@ -193,7 +193,6 @@ One-off's
 - Leadership courses (DISC, etc)
 - Radical Candor (feedback approaches, supervisor techniques, etc)
 - The Manager's Path (tech lead, project leadership skills, etc)
-- Regularly: coffee with account leaders and co-workers for project and internal project feedback
 - Prepare to get to know the person personally to best be able to know them to provide guidance
 
 [KEY GOALS FOR SUPERVISORS]
@@ -204,12 +203,13 @@ One-off's
 
 [FIRST/PERODIC]
 
-- Set up regular check-ins (at least 1x/month). Ask report how often they think it would be good to meet. Default to in person but check-ins can be a call, coffee, lunch, happy hour, etc.
+- Set up regular check-ins (at least 1x/month). Ask report how often they think it would be good to meet. Default to in person but check-ins can be a call, coffee, lunch, happy hour, etc.)
 - What kind of feedback do you want? What do you hope to get out of this?
 - Set stage, key things: 
     - please give me feedback, and I will provide it to you
     - career discussion & guidance
     - bring agenda items to check-ins
+- coffee with account leaders and co-workers for project and internal project feedback
 
 [REGULAR]
 
