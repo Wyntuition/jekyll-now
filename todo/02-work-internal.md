@@ -186,7 +186,7 @@ One-off's
     * Dane - Meet: 1st & 3rd Mon @ 12?
     * Glenn - Meet: 1st & 3rd Tuesday @ 12?
 
-#### Check-in topics & questions
+#### Supervisor Check-in Guidelines
 
 [PREP]
 
