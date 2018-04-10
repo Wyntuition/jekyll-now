@@ -9,9 +9,11 @@ https://trello.com/b/Vj7P4Pkf/dd-2018-goals, https://docs.google.com/spreadsheet
 
 ### TODAY
 
-- Alex' xpert plan review
+
 
 ### FEW DAYS
+
+- Alex' xpert plan review
 
 - LESS concepts; project CL (norms, etc)
 - +add check in on appraisal goals to checklist; grooming excellians & rolling out xpert vision for apprraisal sections
