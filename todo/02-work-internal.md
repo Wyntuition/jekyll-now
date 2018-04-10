@@ -202,7 +202,7 @@ One-off's
 
 [FIRST/PERODIC]
 
-- Set up regular check-ins (at least 1x/month). Ask report how often they think it would be good to meet.
+- Set up regular check-ins (at least 1x/month). Ask report how often they think it would be good to meet. Default to in person but check-ins can be a call, coffee, lunch, happy hour, etc.
 - What kind of feedback do you want? What do you hope to get out of this?
 - Set stage, key things: 
     - please give me feedback, and I will provide it to you
