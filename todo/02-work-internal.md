@@ -225,7 +225,7 @@ Feedback
     - review where you're at
     - PD plan
     - Tech looking at
-    - How's it going towards your current/upcoming goals? Aligning to Excella? Promitions.
+    - How's it going towards your current/upcoming goals? Aligning to Excella? Promitions. Thoughts on direction of your project, company?
     - Where are you looking to go? How's your long term vision, 18 month plan?
 - Discuss other projects (xpert, DDSA/internal initiatives, etc)
 - Praise
