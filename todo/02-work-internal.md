@@ -204,7 +204,7 @@ One-off's
 [REGULAR]
 
 Feedback
-    - Please provide any feedback/criticism for me. If there is something I could do better for you, what would it be?
+    - Is there is something I could do better for you, what would it be?
     - Share some that I learned. What could I do differently to further help you?
     - Feedback from others
 - Project chat
