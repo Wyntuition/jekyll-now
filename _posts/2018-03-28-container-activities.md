@@ -45,6 +45,10 @@ application architecture.
 containerized apps will be seeking container
 consulting services and support for non-x86
 architectures (e.g., GPUs).
+- Of utmost importance and
+interest is enterprise-grade security for containers. However
+only a quarter of respondents consider it widely
+available today. 
 
 ## Getting Started with Container Deployment Workshop
 
