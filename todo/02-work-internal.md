@@ -196,11 +196,12 @@ One-off's
 
 [FIRST/PERODIC]
 
-- How often would you like to meet?
+- Set up regular check-ins (at least 1x/month). Ask report how often they think it would be good to meet.
 - What kind of feedback do you want?
 - Set stage, 2 key things: 
     - please give me feedback, and I will provide it to you
     - career discussion & guidance
+    - bring agenda items to check-ins
 
 [REGULAR]
 
