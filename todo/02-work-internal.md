@@ -195,6 +195,7 @@ One-off's
 - The Manager's Path
 
 [FIRST/PERODIC]
+
 - How often would you like to meet?
 - What kind of feedback do you want?
 - Set stage, 2 key things: 
@@ -217,7 +218,7 @@ Feedback
     - Tech looking at
     - How's it going towards your goals? Aligning to Excella? Promitions.
     - Where are you looking to go? Long term vision, 18 month plan?
-- Discuss other projects (xpert, etc)
+- Discuss other projects (xpert, DDSA/internal initiatives, etc)
 - Praise
 
 #### Approving timesheets
