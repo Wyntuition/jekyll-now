@@ -217,7 +217,7 @@ Feedback
     - PD plan
     - Tech looking at
     - How's it going towards your current/upcoming goals? Aligning to Excella? Promitions.
-    - Where are you looking to go? Long term vision, 18 month plan?
+    - Where are you looking to go? How's your long term vision, 18 month plan?
 - Discuss other projects (xpert, DDSA/internal initiatives, etc)
 - Praise
 
