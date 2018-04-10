@@ -21,10 +21,6 @@ clean up emails
 - docker CMS talk; deploy workshop
 
 
-- Alex' xpert plan review
-    FB:
-        - pi cluster is a novelty but not that showcaseable for client work. Sandbox work w/me might be better.
-
 - LESS concepts; project CL (norms, etc)
 - +add check in on appraisal goals to checklist; grooming excellians & rolling out xpert vision for apprraisal sections
 
