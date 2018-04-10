@@ -33,6 +33,15 @@ Benefits: Microservices, containers and cloud change paradigms for how software 
 
 All of us in the IT industry are hearing words like containers, cloud, microservices, serverless and more. For IT decision makers who aren't able to get into the weeds of these things on a regular basis may have some trouble sorting out what all of these things are and how they relate. This talk will illustrate the big picture of cloud, and key moderm compoents fit including containers, microservices and serverless computing. This will help defog the ecosystem which is changing so drastically, creating new standards and paradigms for software delivery.
 
+- Enterprise-grade security is highly correlated with
+commercial container solutions and tools that tightly
+link containers with microservices development.
+Commercial container solutions are highly
+correlated with DevTest tools and tools that link
+microservices. These solutions are the bridge
+between DevOps and a microservices-based
+application architecture. 
+
 ## Getting Started with Container Deployment Workshop
 
 Many of us have come into interaction with containers, otherwise know it is inevitable. Many may have also noticed that things get complicated when you start to explore deployment options for containers. Getting your hands dirty as soon as possible by deploying a containerized application will demystify a lot of things quickly and allow you to move forward faster. 
