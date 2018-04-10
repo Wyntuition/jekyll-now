@@ -202,11 +202,10 @@ Feedback
     - status
     - satisfaction
     - BD
-- PD: 
+- PD & Career: 
     - review where you're at
-    - development plan
+    - PD plan
     - Tech looking at
-- Career
     - How's it going towards your goals? Aligning to Excella? Promitions.
     - Where are you looking to go? Long term vision, 18 month plan?
 - Discuss other projects (xpert, etc)
