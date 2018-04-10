@@ -191,22 +191,27 @@ One-off's
 [FIRST/PERODIC]
 - [How often meet?
 - What kind of feedback do you want?
-- Please provide any feedback/criticism for me? Share some that I learned. What could I do differently to further help you?
 
 [REGULAR]
 
-- Feedback from others, myself; feedback for me
+Feedback
+    - Please provide any feedback/criticism for me. If there is something I could do better for you, what would it be?
+    - Share some that I learned. What could I do differently to further help you?
+    - Feedback from others
 - Project chat
     - status
     - satisfaction
     - BD
+- PD: 
+    - review where you're at
+    - development plan
+    - Tech looking at
 - Career
-    - How's it going towards your goals?
-    - tech, not
-    - Where are you looking to go?
-- PD: review where you're at, development plan
+    - How's it going towards your goals? Aligning to Excella? Promitions.
+    - Where are you looking to go? Long term vision, 18 month plan?
 - Discuss other projects (xpert, etc)
 - Praise
+
 
 #### Apraisal Notes
 
