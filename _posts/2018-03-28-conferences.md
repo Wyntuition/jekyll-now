@@ -70,6 +70,8 @@
   - May
 * [Openstack Summit](https://www.openstack.org/summit)
   - May
+* [Google I/O](https://events.google.com/io/)
+  - May
 * [DeveloperWeek New York](http://www.developerweek.com/NYC/conference/apply-to-speak/)
 * NDC Oslo
   - CFP due Feb
@@ -109,6 +111,8 @@
 * [Open FinTech Forum](https://linuxfoundation.smapply.io/prog/open_fintech_forum/)
   - CFP Feb 12 - July 13
 * [Gartner CIO Leadership Forum](Gartner CIO Leadership Forum)
+* [CIO Digital Transformation Summit](http://east.digitaltransformationsummit.us/)
+  - March
 * [CIO Cloud Summit](http://ciocloudsummit.com/agenda)
   - March
 * [Ingram Cloud Summit](http://ingrammicrocloudsummit.com/agenda/)
