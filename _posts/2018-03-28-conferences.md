@@ -72,6 +72,8 @@
   - May
 * [Google I/O](https://events.google.com/io/)
   - May
+* [Apple WWDC](https://developer.apple.com/wwdc/register/)
+  - June
 * [DeveloperWeek New York](http://www.developerweek.com/NYC/conference/apply-to-speak/)
 * NDC Oslo
   - CFP due Feb
@@ -117,9 +119,17 @@
   - March
 * [Ingram Cloud Summit](http://ingrammicrocloudsummit.com/agenda/)
   - April
+* [MIT Sloan CIO Symposium](http://www.mitcio.com/)
+  - May
+* [Landmark CIO Summit (invite only)](https://www.eiseverywhere.com/ehome/282461/616590/)
+  - May
 * [Evolve](Evolve)
   - May
   - heavy-hitters / influencers in IT
+* [Midmarket CIO Forum, TX](http://boardroomevents.com/fall-2018-save-the-date/)
+  - Sept
+* [Gartner Symposium](https://www.gartner.com/events/na/orlando-symposium)
+  - Oct
 * [D.LIVE Laguna](https://dlive.wsj.com/laguna/)
   - Nov
   - Invite only
