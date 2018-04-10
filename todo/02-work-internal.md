@@ -28,8 +28,7 @@ https://trello.com/b/Vj7P4Pkf/dd-2018-goals, https://docs.google.com/spreadsheet
 
 +kube/ms curric: https://landing.google.com/sre/
 
-- Review project checklists & org
-    - ADD: 
+- Review project checklists & org & add this:
         A router-first approach to SPA design will save development teams, large and small, significant waste in duplicative work, and re-architecting of the code base to enable better collaboration or achieve sub-second first meaningful paints in your application.
     
         In order to pull off a router-first implementation, you need to:
