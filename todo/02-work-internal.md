@@ -194,6 +194,7 @@ One-off's
 - Radical Candor (feedback approaches, supervisor techniques, etc)
 - The Manager's Path (tech lead, project leadership skills, etc)
 - Regularly: coffee with account leaders and co-workers for project and internal project feedback
+- Prepare to get to know the person personally to best be able to know them to provide guidance
 
 [KEY GOALS FOR SUPERVISORS]
 
