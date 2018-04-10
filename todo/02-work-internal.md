@@ -9,9 +9,14 @@ https://trello.com/b/Vj7P4Pkf/dd-2018-goals, https://docs.google.com/spreadsheet
 
 ### TODAY
 
+Scala, ms sandbox
 
 
 ### FEW DAYS
+
+- brownbags - Jenkins, PG big table, 
+- docker CMS talk; deploy workshop
+
 
 - Alex' xpert plan review
 
