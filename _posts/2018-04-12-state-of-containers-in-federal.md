@@ -3,7 +3,7 @@ layout: post
 title: The State of Containers in the Federal Government
 ---
 
-Yesterday I attended the Docker Government Summit 2018 in downtown Washington, DC, and came away with some good insights about where the federal government is with implementing containers and related technologies, what they want and the motivations behind those things, and some of the challanges they're facing.
+Yesterday I attended the Docker Government Summit 2018 in downtown Washington, DC, and came away with some good insights about where the federal government is with implementing containers, related technologies and overall modernization. There was much talk of their motivators behind those things, and some of the challanges they're facing.
 
 ## Items of interest:
 
@@ -98,4 +98,3 @@ Goal: Provide a CaaS solution to IT user community to facilitate application agi
   1. Establish secure container-based infrastructure
   1. Build ecosystem and integrations
   1. Transition applications to CaaS platform
-  
