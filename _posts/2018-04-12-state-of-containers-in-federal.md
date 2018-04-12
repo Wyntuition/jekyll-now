@@ -57,8 +57,9 @@ There are many motivations behind wanting these big changes, including the follo
   - Improve partnership with customers
   - Reduce redundancy and promote consolidation
   - Improve utilization & reusability of technology
-  - engage customers better
-  - transform products
+  - Engage customers better
+  - Transform products
+  - Scalability
 
 ## ROI activities:
 
@@ -75,6 +76,10 @@ A holistic containerization strategy for IT is needed, as while container techno
 ### Cultural aspects of adoption:
 
 - Workforce experience to build and manage the new infrastructure
+- Continuous training
+- Exposure to new technology
+- Understanding of enterprise-wide applicationd
+- Inventory of stacks, technologies and dependencies
 
 ### Security, security, security
   
