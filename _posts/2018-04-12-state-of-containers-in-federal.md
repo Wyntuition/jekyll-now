@@ -3,7 +3,7 @@ layout: post
 title: The State of Containers in the Federal Government
 ---
 
-Yesterday I attended the Docker Government Summit 2018 in downtown Washington, DC, and came away with some good insights about where the federal government is with implementing containers and related technologies, and some of the challanges and motivations they're facing.
+Yesterday I attended the Docker Government Summit 2018 in downtown Washington, DC, and came away with some good insights about where the federal government is with implementing containers and related technologies, what they want and the motivations behind those things, and some of the challanges they're facing.
 
 ## Items of interest:
 
@@ -18,14 +18,14 @@ These are the major items that people are looking at when wanting to modernize t
 
 ## Motivations:
 
-There are many motivations behind wanting these big changes.
+There are many motivations behind wanting these big changes, including the following.
 
 ### Choice 
 
   - Use any cloud
-  - No lock-in
+  - No cloud/vendor lock-in
   - Risk mitigation
-  - Future-proof investment
+  - Future-proof investments
 
 ### Security
 
