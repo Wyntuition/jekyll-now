@@ -49,14 +49,14 @@ There are many motivations behind wanting these big changes, including the follo
 
   - Dev to Ops consistency & maturity, and greater process efficiency & effectiveness
   - Rapid delivery and response
-  - Cost efficiency
+  - Cost efficiency & savings
   - Empowering users
   - Turnkey solutions
   - Improve awareness and accountability
   - Improve communication and discovery of services
   - Improve partnership with customers
   - Reduce redundancy and promote consolidation
-  - Improve utilization of technology
+  - Improve utilization & reusability of technology
   - engage customers better
   - transform products
 
