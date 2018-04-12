@@ -3,7 +3,7 @@ layout: post
 title: The State of Containers in the Federal Government
 ---
 
-Yesterday I attended the Docker Government Summit 2018 in downtown Washington, DC, and came away with some good insights about where the federal government is with implementing containers, related technologies and overall modernization. There was much talk of their motivators behind those things, and some of the challanges they're facing.
+Yesterday I attended the Docker Government Summit 2018 in downtown Washington, DC, and came away with some good insights about where the federal government is with implementing containers, related technologies and overall modernization. There was much talk of their motivators behind those things, some of the challanges they're facing, and case studies.
 
 ## Items of interest:
 
