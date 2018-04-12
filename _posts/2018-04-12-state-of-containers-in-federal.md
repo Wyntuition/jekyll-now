@@ -75,7 +75,7 @@ A holistic containerization strategy for IT is needed, as while container techno
 
 ### Cultural aspects of adoption:
 
-- Buy-in, change, push from the top
+- Buy-in, change, push from the top is needed
 - Workforce experience to build and manage the new infrastructure
 - Continuous training
 - Exposure to new technology
