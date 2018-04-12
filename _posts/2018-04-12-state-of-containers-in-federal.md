@@ -98,7 +98,7 @@ Not surprising, security occupied a big chunk of the time. The overall idea is s
 - Several container platforms running now, but the desire is to go native for the first enterprise CaaS - platform with Docker EE, for the OOTB security and management controls.
 - Integrate CI/CD pipelines
 
-FDA:
+FDA case study:
 
 Goal: Provide a CaaS solution to IT user community to facilitate application agility, portability and standardization while achieving cost savings in infrastructure, software and operations. 
 
