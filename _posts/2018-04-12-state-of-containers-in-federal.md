@@ -97,12 +97,14 @@ Not surprising, security occupied a big chunk of the time. The overall idea is s
 - Needs hybrid cloud
 - Started decomposition of some monolithic software to microservices
 - Several container platforms running now, but the desire is to go native for the first enterprise CaaS - platform with Docker EE, for the OOTB security and management controls.
-- Integrate CI/CD pipelines
+- Integration CI/CD pipelines needed
 
 FDA case study:
 
 Goal: Provide a CaaS solution to IT user community to facilitate application agility, portability and standardization while achieving cost savings in infrastructure, software and operations. 
 
-  1. Establish secure container-based infrastructure
-  1. Build ecosystem and integrations
+  1. Establishd secure container-based infrastructure
+  1. Built CaaS ecosystem and integrations
   1. Transition applications to CaaS platform
+
+One of the success stories in the government so far, along with GSA.
