@@ -86,7 +86,7 @@ A holistic containerization strategy for IT is needed, as while container techno
   
 Not surprising, security occupied a big chunk of the time. The overall idea is security practices are very important in this new infrastructure and process, and greater security than ever before can be achieved.
 
-- 4 types of container-based security needed: imaged basd, orchestrator, service based, runtime security
+- 4 types of container-based security needed: imaged-basd, orchestrator, service-based, runtime security
 - OSCAL, FIPS and other compliance needs
 - Make containers more secure than non-containerized apps
 - New paradigms
