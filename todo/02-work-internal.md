@@ -43,6 +43,8 @@ clean up emails
 
 +Blog: Setting up a Successful Project
 
+Why have I seen so many poorly running software projects, at the same time so many young team members and young processes in response? Perhaps in the software industry we're overlooking some classic ingredients to productive, quality work: technical depth, depth in experience, depth in technical management, and classic engineering principles.
+
     - Larger the project, greater the chance of failure. Every line is chance for new bug. Ask client probing questions and listen hard.
         - Prevent developers from taking every change request from a client literally, instead of seeing the big picture of what they really want
         - Don't atomize the vision with a user story-centric view. Run release plannings that clearly lays out the application as a whole, with epic-ish things
