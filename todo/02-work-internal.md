@@ -12,9 +12,11 @@ https://trello.com/b/Vj7P4Pkf/dd-2018-goals, https://docs.google.com/spreadsheet
 
 - DDSA meeting - change back to xpert? 
     - MISSION: To work as xPerts towards Excella initiatives, collaborating whenever it makes sense
+    - Our, SA Lead meeting priorities
     - xperts only; how to collab with others.
-    - MS Infra: microservice from each specialty area (2 ways), Kubernetes expertise - local sandbox, setup in AWS/Azure, presentations on moving to microservices/when/should/etc, tool comparisons, BD materials
-    - CMS infra, needs: https://trello.com/c/pQsaCqGc/11-add-cms-capability
+        - MS Infra: microservice from each specialty area (2 ways), Kubernetes expertise - local sandbox, setup in AWS/Azure, presentations on moving to microservices/when/should/etc, tool comparisons, BD materials
+        - CMS infra, needs: https://trello.com/c/pQsaCqGc/11-add-cms-capability
+    
 
 pluralsight audit, bill
 
