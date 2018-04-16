@@ -52,6 +52,10 @@ clean up emails
     - Wrong developers for team. You pay for learning, and can take much longer and cost more from that and costly wrong turns and production bugs. Proper experience is represented for what needs to be built.
     - Enough architecture and buy-in up-front. Emergent & flexible within reason.
     - Process for addressing tech debt
+    - Don't overly business-drive the development
+        - If your firm is destined to be business-driven (can be from overly Agile), that’s fine. Don’t hire full-time engineers, though, if you want talent. You can get the best people as consultants (starting in the $200-per-hour range, and going up steeply from there) but not as full-timers, in an business-driven company. Good engineers want to work in engineer-driven firms where they will be calling shots regarding what gets worked on, without having to justify themselves to “scrum masters” and “product owners” and layers of non-technical management.
+        - disentitle the senior, most capable engineers who have to adhere to processes (work only on backlog items, spend 5-10 hours per week in status meetings) designed for people who just started writing code last month
+        - Fit proper architecture, design (so called sprint 0) stuff into your work, that doesn't necessarily have to be on up-front cards
 
 +kube/ms curric: https://landing.google.com/sre/
 
