@@ -11,6 +11,7 @@ https://trello.com/b/Vj7P4Pkf/dd-2018-goals, https://docs.google.com/spreadsheet
 
 
 - DDSA meeting - change back to xpert? 
+    - MS Infra: microservice from each specialty area (2 ways), Kubernetes expertise - local sandbox, setup in AWS/Azure, presentations on moving to microservices/when/should/etc, tool comparisons, BD materials
 
 pluralsight audit, bill
 
