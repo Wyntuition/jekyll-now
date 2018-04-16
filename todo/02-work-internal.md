@@ -11,6 +11,7 @@ https://trello.com/b/Vj7P4Pkf/dd-2018-goals, https://docs.google.com/spreadsheet
 
 
 - DDSA meeting - change back to xpert? 
+    - MISSION: To work as xPerts towards Excella initiatives, collaborating whenever it makes sense
     - xperts only; how to collab with others.
     - MS Infra: microservice from each specialty area (2 ways), Kubernetes expertise - local sandbox, setup in AWS/Azure, presentations on moving to microservices/when/should/etc, tool comparisons, BD materials
     - CMS infra, needs: https://trello.com/c/pQsaCqGc/11-add-cms-capability
@@ -39,6 +40,15 @@ clean up emails
     - big table
         - insert, update single table
 
+
++Blog: Setting up a Successful Project
+
+    - Larger the project, greater the chance of failure. Every line is chance for new bug. Ask client probing questions and listen hard.
+    - Good Team Norms
+        - Status update from each person each day, or if unavailable.
+    - Wrong developers for team. You pay for learning, and can take much longer and cost more from that and costly wrong turns and production bugs. Proper experience is represented for what needs to be built.
+    - Enough architecture and buy-in up-front. Emergent & flexible within reason.
+    - Process for addressing tech debt
 
 +kube/ms curric: https://landing.google.com/sre/
 
