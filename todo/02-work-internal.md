@@ -44,6 +44,8 @@ clean up emails
 +Blog: Setting up a Successful Project
 
     - Larger the project, greater the chance of failure. Every line is chance for new bug. Ask client probing questions and listen hard.
+        - Prevent developers from taking every change request from a client literally, instead of seeing the big picture of what they really want
+        - Don't atomize the vision with a user story-centric view. Run release plannings that clearly lays out the application as a whole, with epic-ish things
     - Good Team Norms
         - Status update from each person each day, or if unavailable.
     - Wrong developers for team. You pay for learning, and can take much longer and cost more from that and costly wrong turns and production bugs. Proper experience is represented for what needs to be built.
