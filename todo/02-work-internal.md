@@ -48,6 +48,7 @@ clean up emails
         - Don't atomize the vision with a user story-centric view. Run release plannings that clearly lays out the application as a whole, with epic-ish things
     - Good Team Norms
         - Status update from each person each day, or if unavailable.
+        - Set up pipeline and tests early, as they often provide the most benefit during development
     - Wrong developers for team. You pay for learning, and can take much longer and cost more from that and costly wrong turns and production bugs. Proper experience is represented for what needs to be built.
     - Enough architecture and buy-in up-front. Emergent & flexible within reason.
     - Process for addressing tech debt
