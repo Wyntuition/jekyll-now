@@ -10,6 +10,7 @@ https://trello.com/b/Vj7P4Pkf/dd-2018-goals, https://docs.google.com/spreadsheet
 ### TODAY
 
 
+- DDSA meeting - change back to xpert? 
 
 pluralsight audit, bill
 
