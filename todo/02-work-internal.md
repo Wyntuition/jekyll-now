@@ -7,28 +7,16 @@ https://trello.com/b/Vj7P4Pkf/dd-2018-goals, https://docs.google.com/spreadsheet
 
 ## TO DO
 
-### TODAY
-
-
-- DDSA meeting - change back to xpert? 
-    - MISSION: To work as xPerts towards Excella initiatives, collaborating whenever it makes sense
-    - Our, SA Lead meeting priorities
-    - xperts only; how to collab with others.
-        - MS Infra: microservice from each specialty area (2 ways), Kubernetes expertise - local sandbox, setup in AWS/Azure, presentations on moving to microservices/when/should/etc, tool comparisons, BD materials
-        - CMS infra, needs: https://trello.com/c/pQsaCqGc/11-add-cms-capability
-    
+### TODAY 
 
 pluralsight audit, bill
 
-Scala, ms sandbox
-
-clean up emails
 
 ### FEW DAYS
 
-- brownbags - Jenkins, PG big table, 
+- clean up emails
+- brownbags - Jenkins, PG big table, Docker MS builds
 - docker CMS talk; deploy workshop
-
 
 - LESS concepts; project CL (norms, etc)
 - +add check in on appraisal goals to checklist; grooming excellians & rolling out xpert vision for apprraisal sections
@@ -307,6 +295,15 @@ Development Plan
 
 
 ## xpert group meeting notes
+
+4/16/18 Meeting Notes
+
+ - MISSION: To work as xPerts towards Excella initiatives, collaborating whenever it makes sense
+    - Our, SA Lead meeting priorities
+    - xperts only; how to collab with others.
+        - MS Infra: microservice from each specialty area (2 ways), Kubernetes expertise - local sandbox, setup in AWS/Azure, presentations on moving to microservices/when/should/etc, tool comparisons, BD materials
+        - CMS infra, needs: https://trello.com/c/pQsaCqGc/11-add-cms-capability
+   
 
 - xperts > trello > fadi, tied to Jeff's initatives. 
     - Prep for 
