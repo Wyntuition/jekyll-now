@@ -5,6 +5,9 @@ title: The State of Containers in the Federal Government
 
 Yesterday I attended the Docker Government Summit 2018 in downtown Washington, DC, and came away with some good insights about where the federal government is with implementing containers, related technologies and overall modernization. There was much talk of their motivators behind those things, some of the challanges they're facing, and case studies.
 
+While containers are not in themselves going to modernize government systems, they are a key ingredient to the huge benefits to be gained from cloud moderization.
+
+
 ## Items of interest:
 
 These are the major items that people are looking at when wanting to modernize their software ecosystem.
