@@ -1,0 +1,5 @@
+alias save-ui="code ~/dev/uscis/save-ui"
+alias save-cv "~/dev/uscis/save-case-verifications"
+alias wyn="code ~/dev/wyntuition.github.io"
+alias ms="code ~/dev/microservices-sandbox/"
+alias scala="code ~/dev/scala"
