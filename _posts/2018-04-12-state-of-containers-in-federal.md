@@ -17,6 +17,7 @@ These are the major items that people are looking at when wanting to modernize t
 - Automated application deployments
 - Enterprise DevOps Platform
 - Microsevices & API management
+- Cybersecurity management, auditable services and proper compliance
 
 ## Motivations:
 
