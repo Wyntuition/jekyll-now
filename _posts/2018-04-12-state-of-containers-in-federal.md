@@ -7,7 +7,6 @@ Yesterday I attended the Docker Government Summit 2018 in downtown Washington, D
 
 While containers are not in themselves going to modernize government systems, they are a key ingredient to the huge benefits to be gained from cloud moderization.
 
-
 ## Items of interest:
 
 These are the major items that people are looking at when wanting to modernize their software ecosystem.
