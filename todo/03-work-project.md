@@ -2,8 +2,9 @@
 
 ## TODAY
 
-- prxy for save?
 
+
+## ASAP
 
 - brown bag on our ETL sln
 
@@ -12,10 +13,6 @@
 - prod access check in
 
 - SAVE app; scala app, curric
-
-## NOW
-
-## ASAP
     
 
 ## Notes 
