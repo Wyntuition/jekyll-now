@@ -15,6 +15,8 @@ pluralsight audit, bill
 
 ### FEW DAYS
 
+- git kata to include rebaseline and concepts w/flow
+
 - clean up emails
 - brownbags - Jenkins, PG big table, Docker MS builds
 - docker CMS talk; deploy workshop
