@@ -12,8 +12,6 @@ https://trello.com/b/Vj7P4Pkf/dd-2018-goals, https://docs.google.com/spreadsheet
 
 +tb with Suzasnne; stacey; who for Glenn, Chris?
 
-pluralsight audit, bill
-
 ### FEW DAYS
 
 - git kata to include rebaseline and concepts w/flow
