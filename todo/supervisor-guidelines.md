@@ -32,6 +32,10 @@ Feedback
     - Is there is something I could do better for you, what would it be?
     - Feedback from others. Progress on goals, project, general consultant expectations
     - Share some that I learned. What could I do differently to further help you?
+- Expectations
+  - Project based on role (i.e. assign tasks, mentor, etc.)
+  - External based on role
+  - PD - based on goals
 - Project chat
     - status
     - satisfaction
