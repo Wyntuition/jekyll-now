@@ -10,6 +10,7 @@ https://trello.com/b/Vj7P4Pkf/dd-2018-goals, https://docs.google.com/spreadsheet
 ### TODAY 
 
 
++tb with Suzasnne; stacey; who for Glenn, Chris?
 
 pluralsight audit, bill
 
