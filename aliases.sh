@@ -3,7 +3,7 @@
 shopt -s expand_aliases
 
 alias save-ui="code ~/dev/uscis/save-ui"
-alias save-cv="code ~/dev/uscis/save-case-verifications"
+alias save-cv="code ~/dev/uscis/save-case-verification"
 alias wyn="code ~/dev/wyntuition.github.io"
 alias ms="code ~/dev/microservices-sandbox/"
 alias scala="code ~/dev/scala"
