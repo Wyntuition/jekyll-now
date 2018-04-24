@@ -10,9 +10,6 @@
 
 - postgres, jenkins brown bags
 
-- prod access check in
-
-- SAVE app; scala app, curric
     
 
 ## Notes 
