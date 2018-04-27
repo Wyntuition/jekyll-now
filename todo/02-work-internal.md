@@ -17,6 +17,24 @@ https://trello.com/b/Vj7P4Pkf/dd-2018-goals, https://docs.google.com/spreadsheet
 
 ### FEW DAYS
 
+
+xpert plan & post
+    - summary
+    - ddsa one?
+    - points
+        -6 brown bag docker part 1, 2
+        -3 BD cheatsheet
+        -3 ICMA-RC BD presentation
+        TBD
+        -3 scala bb
+        -5 code camp
+        -5 CMAP
+        -8 Docker workshop - getting started
+        -8 Docker workshop - deploying
+
+
+
+
 - git kata to include rebaseline and concepts w/flow
 
 - clean up emails
