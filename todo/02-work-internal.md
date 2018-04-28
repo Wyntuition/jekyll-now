@@ -9,7 +9,12 @@ https://trello.com/b/Vj7P4Pkf/dd-2018-goals, https://docs.google.com/spreadsheet
 
 ### TODAY 
 
-
++blog:
+Developer Personality Test
+- Is computer science a real science?
+- Do you prefer static or dynamic typing?
+- Favorite IDE?
+- Favorite language?
 
 - prod access check in
 
