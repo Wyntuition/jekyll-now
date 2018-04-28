@@ -15,6 +15,7 @@ Developer Personality Test
 - Do you prefer static or dynamic typing?
 - Favorite IDE?
 - Favorite language?
+- Favorite open source project?
 
 - prod access check in
 
