@@ -1,13 +1,21 @@
 # Excella Excited!<start>
 
-### Reg
-
+### REF 
 - Goals, Ideas
 https://trello.com/b/Vj7P4Pkf/dd-2018-goals, https://docs.google.com/spreadsheets/d/1KSQEzi1h3qyoDNJcSV4Hyjgh_eIkDGZTUMFzC8dt5Cw/edit#gid=0
+
+### Reg
+
++tb with Suzasnne; stacey; who for Glenn, Chris?
+
 
 ## TO DO
 
 ### TODAY 
+
+
+
+### FEW DAYS
 
 +blog:
 Developer Personality Test
@@ -16,13 +24,6 @@ Developer Personality Test
 - Favorite IDE?
 - Favorite language?
 - Favorite open source project?
-
-- prod access check in
-
-+tb with Suzasnne; stacey; who for Glenn, Chris?
-
-### FEW DAYS
-
 
 xpert plan & post
     - summary
