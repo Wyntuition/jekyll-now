@@ -1,12 +1,18 @@
 # Excella Excited!<start>
 
-### REF 
+## REF 
 - Goals, Ideas
 https://trello.com/b/Vj7P4Pkf/dd-2018-goals, https://docs.google.com/spreadsheets/d/1KSQEzi1h3qyoDNJcSV4Hyjgh_eIkDGZTUMFzC8dt5Cw/edit#gid=0
 
-### Reg
+## Reg
 
-+tb with Suzasnne; stacey; who for Glenn, Chris?
+### [D]
+- Project board
+
+### [W]
+- tb with Suzasnne; stacey; who for Glenn, Chris?
+
+
 
 
 ## TO DO
