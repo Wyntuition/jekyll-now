@@ -22,6 +22,9 @@ He is currently a managing consultant & senior developer at Excella, a DC-based 
 
 ### FEW DAYS
 
+- read sales book, communication practices among large teams
+
+
 +blog:
 Developer Personality Test
 - Is computer science a real science?
