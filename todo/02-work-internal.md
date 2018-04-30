@@ -16,6 +16,8 @@ https://trello.com/b/Vj7P4Pkf/dd-2018-goals, https://docs.google.com/spreadsheet
 
 ### TODAY 
 
+He is currently a managing consultant & senior developer at Excella, a DC-based Agile technology firm.
+ 
 
 
 ### FEW DAYS
