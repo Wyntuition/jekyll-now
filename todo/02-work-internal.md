@@ -23,7 +23,7 @@ He is currently a managing consultant & senior developer at Excella, a DC-based 
 ### FEW DAYS
 
 - read sales book, communication practices among large teams
-
+- Docker cert lunch club
 
 +blog:
 Developer Personality Test
