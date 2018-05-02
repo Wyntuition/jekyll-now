@@ -33,6 +33,9 @@ He is currently a managing consultant & senior developer at Excella, a DC-based 
 
     TypeScript helps standardize code with OO pricinples. Scala allows such flexibility that different developer can use different subsets to do the same thing. This can lead to a significant increase in difficulty training new developers as well as increase in cost of maintaining the system.
 
+
+    Systemic issues: no code standards with a lang like Scala, Lead who doesn't know software workflow enough like code standard/norms, overall experience level , 
+
 - read sales book, communication practices among large teams
 - Docker cert lunch club
 
