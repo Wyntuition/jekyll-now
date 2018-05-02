@@ -21,6 +21,7 @@ bio - He is currently a managing consultant & senior developer at Excella, a DC-
 
 expense FA gov panel
 
+july exchange prez - imposter synd - find gaps, prioritize gaps; realize others are similar
 
 ### FEW DAYS
 
