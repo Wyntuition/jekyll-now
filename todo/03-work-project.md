@@ -2,8 +2,14 @@
 
 ## TODAY
 
+try story, service, where are things (make list: postman, )
 scala style, naming guide, coding standards
 test standards
+
+gherkin POC 
+
+?
+    - origin of using postman v scala inte tests
 
 ## ASAP
 
