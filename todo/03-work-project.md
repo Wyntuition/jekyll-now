@@ -6,8 +6,10 @@ Dan
 
 try story, service, where are things (make list, tech: postman, info: codes, etc ;), go thru app.s + proj cl
     +vis-auth-play & lobster
-scala style, naming guide, coding standards
-test standards
+finish norms, 
+    scala style, naming guide, coding standards
+    test standards
+    review PR/dev WF, test suite & git flow/pipelines for CD ok?
 business domain overview?
 - strangler strategies; dist computing school
 
