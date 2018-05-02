@@ -494,3 +494,11 @@ Automated testing:
     - **gamification**: leader, 
         - skill assessment -> publish! Skillu; Glenn's thing
     - JIT learning; ask bot q & offer, detect based on browsing
+
+##### Consensus building / Team decision making
+
+Great approach by Bryce Lively: 
+
+    Who: Team representatives from each of the Three SAVE MOD Development Teams. Representatives should be educated on the subject (RESTful routes & Web Application Structure - specifically Play or Rails Frameworks), and have a proposal to address the meeting topic that they can express clearly and concisely (no more than 2 minutes per proposal, one proposal per person).  Teams should send at least one representative. Teams should send one rep who is authorized to represent the members of the team who are not present.
+    
+    What: A structured decision making meeting on how to structure Save Case Verification's Routes (domains, subdomains, paths for endpoints).  Each representative will be given 2 minutes to outline their proposal to the group without interruption or questions. A discussion period lasting no more than 30 minutes will follow. A single round of voting will determine the outcome.
