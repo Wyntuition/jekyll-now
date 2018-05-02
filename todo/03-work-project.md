@@ -2,7 +2,8 @@
 
 ## TODAY
 
-
+scala style, naming guide, coding standards
+test standards
 
 ## ASAP
 
