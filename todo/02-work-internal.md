@@ -36,7 +36,7 @@ He is currently a managing consultant & senior developer at Excella, a DC-based 
 
     What I see is an idea from microservices, used to utilize languages like Scala in the niche situations where they are best suited. No longer is one language best suited for every situation. Maybe some day, but for now it is just too hard to find Scala developers and too hard for them to ramp up as fast as an OO language like Java or Kotlin when building business applications that have to move fast. So we need the structure and pragmatism of a common languages used for web applications, and when something like Scala has signigicant advantage for an operation, we can easily put it into a microservice or leverage lambda function infrastructure, and get the benefit while isolating it from abuse across the software.
 
-    The economic cost of supporting Java and Scala is higher than Java alone. The economic gain Scala brings must offset that.
+    The economic cost of supporting Java and Scala is higher than Java alone. The economic gain Scala brings must more than offset that in desirable ways.
 
     Systemic issues: no code standards with a lang like Scala, Lead who doesn't know software workflow enough like code standard/norms, overall experience level , lack of scala experience, lack of team org experience (5 people pairing all the time?), 
 
