@@ -7,8 +7,7 @@
 ## ASAP
 
 - brown bag on our ETL sln
-
-- postgres, jenkins brown bags
+- postgres perf, jenkins brown bags
 
     
 
