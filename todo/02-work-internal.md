@@ -33,7 +33,7 @@ He is currently a managing consultant & senior developer at Excella, a DC-based 
 
     TypeScript helps standardize code with OO pricinples. Scala allows such flexibility that different developer can use different subsets to do the same thing. This can lead to a significant increase in difficulty training new developers as well as increase in cost of maintaining the system.
 
-    Scala variability can cause a constant cycle of painful recruitment, on-boarding and maintenance.
+    Scala variability can cause a constant cycle of painful recruitment, on-boarding and maintenance. You could be a top expert in Scala, but that doesn't mean, as a human being, that you can look at any Scala variation someone wrote and easily get it. You have to use extra cognitive load to understand something where this wouldn't be the case if it was written the way you knew. Why have so much variability? It is great when you need it, but on a typical software project you need the code to be stanrdized more than that, but what's more important that language flexibility is productivity, recruitment, on-boarding and maintenance.
 
     Systemic issues: no code standards with a lang like Scala, Lead who doesn't know software workflow enough like code standard/norms, overall experience level , lack of scala experience, lack of team org experience (5 people pairing all the time?), 
 
