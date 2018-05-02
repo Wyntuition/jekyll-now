@@ -2,14 +2,17 @@
 
 ## TODAY
 
-try story, service, where are things (make list: postman, )
+try story, service, where are things (make list, tech: postman, info: codes, etc ;) + proj cl
 scala style, naming guide, coding standards
 test standards
 
 gherkin POC 
 
+print endpoint diagrams (legacy, v1, v2); 
+
 ?
     - origin of using postman v scala inte tests
+    - 
 
 ## ASAP
 
