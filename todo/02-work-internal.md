@@ -37,6 +37,9 @@ He is currently a managing consultant & senior developer at Excella, a DC-based 
 
     Perl, C++ and other multi-paradigm languages went through this. 
 
+    What I see is an idea from microservices, used to utilize languages like Scala in the niche situations where they are best suited. No longer is one language best suited for every situation. Maybe some day, but for now it is just too hard to find Scala developers and too hard for them to ramp up as fast as an OO language like Java or Kotlin when building business applications that have to move fast. 
+    
+
     Systemic issues: no code standards with a lang like Scala, Lead who doesn't know software workflow enough like code standard/norms, overall experience level , lack of scala experience, lack of team org experience (5 people pairing all the time?), 
 
     
