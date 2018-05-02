@@ -25,6 +25,14 @@ He is currently a managing consultant & senior developer at Excella, a DC-based 
 
 ### FEW DAYS
 
+- BLOG: Modern Programming Langauge Selection Strategy
+
+    Let's talk about just the programming language for a moment. It feels to me as though we talk about it all the time in the software industry, but we rarely put languagues through the rigorous analysis we do with frameworks, libraries and other tools since we generally think we know most that we need to about the language and they don't change drastically often enough to merit it. This is probably true, but every so often it is important.
+
+    One time where this is important is if you're considering some kind of major language shift, like going to TypeScript from JavaScript, or to a much greater degree, Scala. 
+
+    TypeScript helps standardize code with OO pricinples. Scala allows such flexibility that different developer can use different subsets to do the same thing. This can lead to a significant increase in difficulty training new developers as well as increase in cost of maintaining the system.
+
 - read sales book, communication practices among large teams
 - Docker cert lunch club
 
