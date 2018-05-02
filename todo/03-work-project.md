@@ -2,6 +2,8 @@
 
 ## TODAY
 
+Dan
+
 try story, service, where are things (make list, tech: postman, info: codes, etc ;), go thru app.s + proj cl
 scala style, naming guide, coding standards
 test standards
