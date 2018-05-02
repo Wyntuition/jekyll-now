@@ -20,6 +20,9 @@ print endpoint diagrams (legacy, v1, v2);
 
 ## ASAP
 
+LIST OF ALL THINGS SAVE:
+    - queue
+
 - brown bag on our ETL sln
 - postgres perf, jenkins brown bags
 
