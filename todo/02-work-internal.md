@@ -10,7 +10,10 @@ https://trello.com/b/Vj7P4Pkf/dd-2018-goals, https://docs.google.com/spreadsheet
 - Project board
 
 ### [W]
-- tb with Suzasnne; stacey; who for Glenn, Chris?
+
+### [M]
+
+- tb with Suzasnne; Sean - stacey; Glenn - David (Josh, Chris)
 
 ## TO DO
 
