@@ -9,6 +9,7 @@ try story, service, where are things (make list, tech: postman, info: codes, etc
 scala style, naming guide, coding standards
 test standards
 business domain overview?
+- strangler strategies; dist computing school
 
 gherkin POC 
 
