@@ -22,7 +22,10 @@ He is currently a managing consultant & senior developer at Excella, a DC-based 
 
 ### FEW DAYS
 
+- systemic issue: lack of experience overall & lack of strong leads
 - BLOG: Modern Programming Langauge Selection Strategy
+
+    *Stack Economics*
 
     Let's talk about just the programming language for a moment. It feels to me as though we talk about it all the time in the software industry, but we rarely put languagues through the rigorous analysis we do with frameworks, libraries and other tools since we generally think we know most that we need to about the language and they don't change drastically often enough to merit it. This is probably true, but every so often it is important.
 
