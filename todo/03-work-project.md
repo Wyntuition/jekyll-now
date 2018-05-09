@@ -10,6 +10,7 @@ test case tracking ss, draft bit to sm group
 high sierra?
 eulick - splunk
 nginx task
+    ? - container threading limit nginx?
 access to systems (list): 
     splunk - 
         - service containers, old containers
