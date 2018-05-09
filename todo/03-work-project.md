@@ -5,7 +5,10 @@ EXCELL3/Golden30!
 
 ## TODAY
 
+perf pr
 test case tracking ss, draft bit to sm group
+high sierra?
+eulick - splunk
 nginx task
 access to systems (list): 
     splunk - 
