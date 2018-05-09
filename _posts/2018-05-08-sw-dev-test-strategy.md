@@ -25,7 +25,7 @@ Services:
 
 ## Terms and Concepts
 
-Most software needs a combination of these test types to have solid coverage: 
+Most software needs a combination of test types to have solid coverage. Generally, software needs a lot of unit tests to cover logic, a smaller amount of integration tests to cover component communcation, configuration and black box functionality (i.e. complex database queries), a very small amount (double-digits or low hundreds depending on software size) of automated acceptance tests (AATs), and a few smoke tests to always ensure system availability.
 
 **Test types**
 
