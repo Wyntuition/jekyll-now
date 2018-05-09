@@ -9,4 +9,6 @@ alias ms="cd ~/dev/microservices-sandbox/ && code ."
 alias scala="cd ~/dev/scala && code ."
 alias etl="cd ~/dev/uscis/vis-case-processing-etl && code ."
 
+alias save-dev="cd ~/dev/uscis/save/save-dev && code ."
+
 alias todo="cd ~/dev/wyntuition.github.io/todo && code 01.md"
