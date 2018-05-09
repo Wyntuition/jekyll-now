@@ -7,6 +7,7 @@ EXCELL3/Golden30!
 
 
 nginx task
+access to systems (list): splunk, new relic, etc, logs for each app
 
 https://git.uscis.dhs.gov/USCIS/save-dev/wiki/getting-started-links
 
