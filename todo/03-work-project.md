@@ -5,6 +5,7 @@ EXCELL3/Golden30!
 
 ## TODAY
 
+interview - vik?
 perf pr
 test case tracking ss, draft bit to sm group
 high sierra?
