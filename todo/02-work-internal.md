@@ -29,11 +29,9 @@ bio - He is currently a managing consultant & senior developer at Excella, a DC-
 
 +daily list(weekly?): clean email
 
-\
 .net sa project ideas
     - learn Azure & .NET Core app, english UI
-    - Find local restrooms app
-    - Ingest local data - steep hill route bike training, search parks (find parks with 1 mile hiking trail),
+    - Ingest local data - steep hill route bike training, search parks (find parks with 1 mile hiking trail), find historical points app, Find local restrooms app
     
 
 expense FA gov panel
