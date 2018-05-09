@@ -14,8 +14,8 @@ nginx task
 access to systems (list): 
     splunk - 
         - service containers, old containers
-    *new relic vs prometheus etc, new relic not checking services comminicating together, what other service health checks needed?
-        health checks for each app, what they're doing
+*   *new relic vs prometheus etc
+        *health checks for each app, what they're doing - services can communicate, what other service health checks needed?
         logs for each app, 
     sqs, 
     web hq
