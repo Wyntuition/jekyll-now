@@ -21,9 +21,14 @@ https://trello.com/b/Vj7P4Pkf/dd-2018-goals, https://docs.google.com/spreadsheet
 
 ### TODAY 
 
-+daily list(weekly?): clean email
+eldp post work - vision stuff
 
 bio - He is currently a managing consultant & senior developer at Excella, a DC-based Agile technology firm.
+
+
+
++daily list(weekly?): clean email
+
 
 expense FA gov panel
 
