@@ -14,18 +14,12 @@
   - what tests should run in what environments
   - what environments are needed to support running a proper test suite properly
   - determine test data needs, strategy
-  
-Services:
-- lobster
-- ESB
-- legacy web services
-- SVS
-- OAuth
-- SProcs in legacy
+
+## Overview 
+
+Most software needs a combination of test types to have solid coverage. Generally, software needs a lot of unit tests to cover logic, a smaller amount of integration tests to cover component communcation, configuration and black box functionality (i.e. complex database queries), a very small amount (double-digits or low hundreds depending on software size) of automated acceptance tests (AATs), and a few smoke tests to always ensure system availability. For decently sized systems, test cases need to be tracked to ensure they are covered by tests, and since that includes all the differnet types of tests, what tests are covering what functionality. There are test tracking tools, and this process can be started with a spreadsheet.
 
 ## Terms and Concepts
-
-Most software needs a combination of test types to have solid coverage. Generally, software needs a lot of unit tests to cover logic, a smaller amount of integration tests to cover component communcation, configuration and black box functionality (i.e. complex database queries), a very small amount (double-digits or low hundreds depending on software size) of automated acceptance tests (AATs), and a few smoke tests to always ensure system availability.
 
 **Test types**
 
@@ -85,3 +79,11 @@ When a bug is found:
 1. Add appropriate test(s). See if any tests can be removed in lieu of new test(s), i.e. if 3 unit tests make 1 integration test obsolete.
   - Add tech task for this if needed
 
+## External Services used
+
+- lobster
+- ESB
+- legacy web services
+- SVS
+- OAuth
+- SProcs in legacy
