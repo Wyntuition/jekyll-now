@@ -7,13 +7,12 @@ EXCELL3/Golden30!
 
 nginx task
     - decipher what the logs are doing, are they outputting to docker console (should be visible doing `docker logs <container id>` on prod, are they wired to splunk?
+    - eulick - splunk demo, get access
     - container threading limit nginx?
-
-interview - vik?
 perf pr
+
 test case tracking ss, draft bit to sm group
 high sierra?
-eulick - splunk
 access to systems (list): 
     splunk - 
         - service containers, old containers
