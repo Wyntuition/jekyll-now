@@ -5,9 +5,9 @@ EXCELL3/Golden30!
 
 ## TODAY
 
-
+test case tracking ss, draft bit to sm group
 nginx task
-access to systems (list): splunk, new relic, etc, logs for each app
+access to systems (list): splunk, new relic, etc, logs for each app, sqs
 
 https://git.uscis.dhs.gov/USCIS/save-dev/wiki/getting-started-links
 
