@@ -14,10 +14,12 @@ nginx task
 access to systems (list): 
     splunk - 
         - service containers, old containers
-    new relic, etc, 
-    logs for each app, 
+    *new relic vs prometheus etc, new relic not checking services comminicating together, what other service health checks needed?
+        health checks for each app, what they're doing
+        logs for each app, 
     sqs, 
     web hq
+
 
 https://git.uscis.dhs.gov/USCIS/save-dev/wiki/getting-started-links
 
