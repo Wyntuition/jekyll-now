@@ -15,10 +15,6 @@ https://trello.com/b/Vj7P4Pkf/dd-2018-goals, https://docs.google.com/spreadsheet
 
 ## TO DO
 
-- list of generalish things all devs should know; then specific to topics (not so much stacks, things common to all). Work into PD plan. 
-    - demo PD plan process with all reports
-    - glenn's tool?
-
 ### TODAY 
 
 eldp post work - vision stuff
@@ -27,8 +23,18 @@ bio - He is currently a managing consultant & senior developer at Excella, a DC-
 
 
 
+- list of generalish things all devs should know; then specific to topics (not so much stacks, things common to all). Work into PD plan. 
+    - demo PD plan process with all reports
+    - glenn's tool?
+
 +daily list(weekly?): clean email
 
+\
+.net sa project ideas
+    - learn Azure & .NET Core app, english UI
+    - Find local restrooms app
+    - Ingest local data - steep hill route bike training, search parks (find parks with 1 mile hiking trail),
+    
 
 expense FA gov panel
 
