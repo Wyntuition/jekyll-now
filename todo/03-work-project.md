@@ -7,7 +7,13 @@ EXCELL3/Golden30!
 
 test case tracking ss, draft bit to sm group
 nginx task
-access to systems (list): splunk, new relic, etc, logs for each app, sqs
+access to systems (list): 
+    splunk - 
+        - service containers, old containers
+    new relic, etc, 
+    logs for each app, 
+    sqs, 
+    web hq
 
 https://git.uscis.dhs.gov/USCIS/save-dev/wiki/getting-started-links
 
