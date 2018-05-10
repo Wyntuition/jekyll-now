@@ -24,7 +24,7 @@ Comments: I am a seasoned speaker with technical depth and experience in these h
 +AZURE
 Kubernetes on Azure Container Service has reached general availability. When you deploy your next generation application to Azure, whether on a PaaS or deployed directly onto Kubernetes itself (or both) you can deploy it onto a managed, supported Kubernetes cluster.
 Furthermore, because we know that the world of PaaS and software development in general is a hybrid one, we’re excited to announce the preview availability of Windows clusters in Azure Container Service. We’re also working on hybrid clusters in ACS-Engine and expect to roll those out to general availability in the coming months.
-
+https://kubernetes.io/blog/2017/02/caas-the-foundation-for-next-gen-paas/
 
 
 ## Business Case for Microservices
