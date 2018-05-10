@@ -20,7 +20,7 @@ This standardization and modern PaaS/CaaS use enables **empowering groups to sel
 
 Generally, **as-a-service** terms like the ones below describe an application, service, or piece of infrastrucure designed to run on cloud architecture. As the diagram shows, each builds on each other.
 
-![as-a-service diagram](2018-05-02-cloud-bd-cheatsheet-As-a-service-birdseye2-ms.png)
+![as-a-service diagram](https://carlfreemandotnet.files.wordpress.com/2017/02/azure-on-premises-vs-iaas-vs-paas-vs-saas.png?w=648)
 
 **IaaS** (infrastructure as a service) - computer infrastructre provided as a service as opposed to running it yourself. **EXAMPLE:** Virtual server, network, storage from AWS, Azure, Google cloud; web server from Heroku.
 
