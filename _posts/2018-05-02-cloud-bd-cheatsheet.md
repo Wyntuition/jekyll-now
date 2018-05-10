@@ -7,6 +7,8 @@ Cloud architecture has a handful of key terms and concepts that are important to
 
 It enables standardization of software delievery, with things like container-based platform-as-a-service systems that can run any software anywhere as long as it's run in containers.
 
+This enables empowering groups to self-service their software creation and deployment needs on the PaaS platform, while taking advantage of other cloud architecture benefits such as commoditizing software, paying only for what you use and less IT management, among other things.
+
 ## Terms
 
 // TODO: Diagram showing how this all fits together
