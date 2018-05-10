@@ -33,8 +33,13 @@ EXCELL3/Golden30!
                     - failures of processes - restart process or redeploy service
                     - response time - scale or descale based on it
                     - ping APIs for 2xx responses
-                - Hardware level
+                - Hardware level - healthy nodes, resource use?
                 - Notifications needed at all levels
+
+                -Reactive healing - system reacts to a failure and heals itself
+
+        - Priority 1: ping service, on 404 or 500 from failed integration test, do what to heal? 
+
         - [Actor Systems](https://doc.akka.io/docs/akka/2.5/general/actor-systems.html)
         - Centralized logging with elasticsearch, logstash
 nginx task
