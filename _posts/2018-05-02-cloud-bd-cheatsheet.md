@@ -22,7 +22,7 @@ Generally, **as-a-service** terms like the ones below describe an application, s
   - Figure out how to convey without aaS terms first, to simplfy aspects into a biggest picture view
   - Add benefits, drawbacks to each?
 
-**SaaS** (software as a service) - licensing and delivery model in which software is licensed on a subscription basis and is centrally hosted. It is sometimes referred to as "on-demand software". **EXAMPLES:** Outlook.com vs. Exchange on-prem, Salesforce.com, AWS services, Dropbox, Slack
+**IaaS** (infrastructure as a service) - computer infrastructre provided as a service as opposed to running it yourself. **EXAMPLE:** Virtual server, network, storage from AWS, Azure, Google cloud; web server from Heroku.
 
 **PaaS** (platform as a service) Provides a platform for delivering software, that is largely being taken over by containers. They can be general, or various PaaS's can be built for specific software verticals such as APIs, Django web apps, etc.  Services include:
 
@@ -30,17 +30,17 @@ Generally, **as-a-service** terms like the ones below describe an application, s
 * reliable, zero-downtime rollout of software versions
 * Healing, auto-scaling, load balancing
 
-  **CaaS** (containers as a service) - container-based PaaS which come in many flavors as needed. **EXAMPLES:** AWS Elastic Container Service, Google Container Engine, Azure Container Service
+**CaaS** (containers as a service) - container-based PaaS which come in many flavors as needed. **EXAMPLES:** AWS Elastic Container Service, Google Container Engine, Azure Container Service
 
-  **EXAMPLES:** Kubernetes with support from AWS, API as a containerized service, Python/Django containerized app platform one-click spin-up
+**EXAMPLES:** Kubernetes with support from AWS, API as a containerized service, Python/Django containerized app platform one-click spin-up
 
-  **Functions as a service** (FaaS) - 
+**Functions as a service** (FaaS)
 
-**IaaS** (infrastructure as a service) - computer infrastructre provided as a service as opposed to running it yourself. **EXAMPLE:** Virtual server, network, storage from AWS, Azure, Google cloud; web server from Heroku.
+**Orchestrators / Container Management Systems** - manages many sets of containers for many apps, I.E. manages scaling, health, security, software packaging, communication, logging, monitoring, etc. of many microservice-based applications across an organization
 
-**Orchestrators / Container Management Systems**
+**SaaS** (software as a service) - licensing and delivery model in which software is licensed on a subscription basis and is centrally hosted. It is sometimes referred to as "on-demand software". **EXAMPLES:** Outlook.com vs. Exchange on-prem, Salesforce.com, AWS services, Dropbox, Slack
 
-* *Microsevices infrastructure, manages many sets of containers for many apps*
+What makes up the appliations:
 
 **Microservices**
 * *Small apps combine to make a full app*
