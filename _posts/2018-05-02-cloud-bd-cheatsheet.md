@@ -1,9 +1,7 @@
 ---
 layout: post
-title: Cloud BD Cheatsheet
+title: Cloud Architecture BD Cheat Sheet
 ---
-
-# Cloud Architecture Cheat Sheet
 
 This cheat sheet goes over key terms and concepts in cloud architecture that are important to be aware of in order to discuss it.
 
