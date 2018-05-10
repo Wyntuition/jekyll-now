@@ -9,7 +9,7 @@ This cheat sheet goes over key terms and concepts in cloud architecture that are
 
 Cloud architecture enables **standardization of software delivery**, with things like container-based platform-as-a-service systems that can run any software anywhere as long as it's run in containers. This enables **standardization of pipelines and software management**.
 
-This standardization and modern PaaS/CaaS use enables **empowering groups to self-service their software creation and deployment** and deployment needs on the PaaS platform, while taking advantage of other cloud architecture benefits such as commoditizing software, paying only for what you use and less IT management, among other things. It can enable teams to **deploy software in less than an hour**. It allows them to build and focus on their specialized software vertical PaaS, and less on the general distributed systems aspects. These are things organizations have expressed strong interest in relating to cloud migration efforts.
+This standardization and modern PaaS/CaaS use enables **empowering groups to self-service their software creation and deployment** and deployment needs on the PaaS platform, while taking advantage of other cloud architecture benefits such as commoditizing software, paying only for what you use and less IT management, among other things. It can enable teams to **deploy software in less than an hour**. It allows them to build and focus on their specialized software vertical PaaS, and less on the general distributed systems aspects. These are things organizations have expressed strong interest in relating to modern cloud migration efforts.
 
 ## Core terms & items in cloud architecture
 
