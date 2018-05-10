@@ -20,11 +20,13 @@ This enables **empowering groups to self-service their software creation and dep
 ## Core terms & items in cloud architecture
 
 // TODO: 
-  - Diagram showing how this all fits together
+  - Replace diagram below with our own based on feedback
   - Figure out how to convey without aaS terms first, to simplfy aspects into a biggest picture view
   - Add benefits, drawbacks to each?
 
 Generally, **as-a-service** terms like the ones below describe an application, service, or piece of infrastrucure designed to run on cloud architecture.
+
+![as-a-service diagram](2018-05-02-cloud-bd-cheatsheet-As-a-service-birdseye2(ms).png)
 
 **IaaS** (infrastructure as a service) - computer infrastructre provided as a service as opposed to running it yourself. **EXAMPLE:** Virtual server, network, storage from AWS, Azure, Google cloud; web server from Heroku.
 
