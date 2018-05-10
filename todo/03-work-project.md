@@ -1,7 +1,10 @@
 # TODO: Work Proj, 12/28/17
 
-
 EXCELL3/Golden30!
+
+## Reg
+
+- Rounds: [D] SAVE rooms; [W] EV rooms, support room
 
 ## TODAY
 
