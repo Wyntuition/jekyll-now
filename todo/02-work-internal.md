@@ -18,10 +18,11 @@ https://trello.com/b/Vj7P4Pkf/dd-2018-goals, https://docs.google.com/spreadsheet
 ### TODAY 
 
 eldp post work - vision stuff
-docker partner
+docker partner stuff
     - videos, SF cert
     - company capabilities: docker large node sandbox imple & management, full paas
     - docker certification study group
+    - cloud capabilities & curric, CaaS specifically too by itself
 
 bio - He is currently a managing consultant & senior developer at Excella, a DC-based Agile technology firm.
 
