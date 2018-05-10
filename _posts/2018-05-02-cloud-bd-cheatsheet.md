@@ -9,7 +9,7 @@ This cheat sheet goes over key terms and concepts in cloud architecture that are
 
 It enables **standardization of software delivery**, with things like container-based platform-as-a-service systems that can run any software anywhere as long as it's run in containers. This enables **standardization of pipelines and software management**.
 
-This enables **empowering groups to self-service their software creation and deployment** and deployment needs on the PaaS platform, while taking advantage of other cloud architecture benefits such as commoditizing software, paying only for what you use and less IT management, among other things. It can enable teams to **deploy software in less than an hour**. It allows them to focus on their specialized software vertical, and less on the general software ecosystem.
+This enables **empowering groups to self-service their software creation and deployment** and deployment needs on the PaaS platform, while taking advantage of other cloud architecture benefits such as commoditizing software, paying only for what you use and less IT management, among other things. It can enable teams to **deploy software in less than an hour**. It allows them to build and focus on their specialized software vertical PaaS, and less on the general distributed systems aspects.
 
 // TODO: add aspects from CIO panel
 
@@ -21,7 +21,7 @@ This enables **empowering groups to self-service their software creation and dep
 
 **SaaS** (software as a service) - licensing and delivery model in which software is licensed on a subscription basis and is centrally hosted. It is sometimes referred to as "on-demand software". **EXAMPLES:** Outlook.com vs. Exchange on-prem, Salesforce.com, AWS services, Dropbox, Slack
 
-**PaaS** (platform as a service) Provides a platform for delivering software, that is largely being taken over by containers. Services include:
+**PaaS** (platform as a service) Provides a platform for delivering software, that is largely being taken over by containers. They can be general, or various PaaS's can be built for specific software verticals such as APIs, Django web apps, etc.  Services include:
 
 * packaging and distribution of software
 * reliable, zero-downtime rollout of software versions
