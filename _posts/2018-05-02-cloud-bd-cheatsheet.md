@@ -3,6 +3,8 @@ layout: post
 title: Cloud BD Cheatsheet
 ---
 
+# Cloud Architecture Cheat Sheet
+
 Cloud architecture has a handful of key terms and concepts that are important to be aware of in order to discuss it.
 
 It enables standardization of software delievery, with things like container-based platform-as-a-service systems that can run any software anywhere as long as it's run in containers.
