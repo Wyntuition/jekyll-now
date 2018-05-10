@@ -27,7 +27,7 @@ This enables **empowering groups to self-service their software creation and dep
 * reliable, zero-downtime rollout of software versions
 * Healing, auto-scaling, load balancing
 
-**EXAMPLES:** Kubernetes with support from AWS
+**EXAMPLES:** Kubernetes with support from AWS, API as a service, Python/Django app platform one-click spin-up
 
   **CaaS** (containers as a service) - cloud-based service for managing a container-based PaaS. **EXAMPLES:** AWS Elastic Container Service, Google Container Engine, Azure Container Service
 
