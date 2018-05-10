@@ -547,3 +547,17 @@ Great approach by Bryce Lively:
     Who: Team representatives from each of the Three SAVE MOD Development Teams. Representatives should be educated on the subject (RESTful routes & Web Application Structure - specifically Play or Rails Frameworks), and have a proposal to address the meeting topic that they can express clearly and concisely (no more than 2 minutes per proposal, one proposal per person).  Teams should send at least one representative. Teams should send one rep who is authorized to represent the members of the team who are not present.
     
     What: A structured decision making meeting on how to structure Save Case Verification's Routes (domains, subdomains, paths for endpoints).  Each representative will be given 2 minutes to outline their proposal to the group without interruption or questions. A discussion period lasting no more than 30 minutes will follow. A single round of voting will determine the outcome.
+
+### Slack Guidelines
+    
+Use more naming conventions, like for our permanent channels, save-<group who cares>-<purpose> to group them together, making them easier to go through in the channel list. 
+So like save-blueteam-dev, save-blueteam-general, save-devs-pr, save-devs-dev, save-all-general, save-alerts-prod, save-alerts-other, save-vis-general
+triage-<task> to indicate a triage channel, where all info on an important task will be dumped, and sorted later, like save-all-prodbugs-triage
+-swarm label in the name indicates a swarm on a task, like save-nginx-swarm. For temp channels the original convention is less important
+Tips here, https://get.slack.help/hc/en-us/articles/217626408-Create-guidelines-for-channel-names
+Create new channels for specific topics/tasks and delete them when done. If the task is big enough to merit multiple pages of chat, it should go in its own temporary task-specific channel
+Use threads for deeper discussion on a topic, but remember to use @’s liberally since notifications may not be received on threads. Create a temp task-specific channel if it gets too long or the topic will last days.
+
+We may actually benefit from a Slack guidelines document as mentioned in the article above.
+
+This sounds awesome: If your triage channel gets a lot of action, developers can build a bot that scans the channel at preset times of day for specific emoji reactions to messages. This will help your team to track any outstanding issues. So we could map emojis to priorities, and be sure to see important stuff. https://get.slack.help/hc/en-us/articles/360000384726-Prioritize-tasks-quickly-with-triage-channels
