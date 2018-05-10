@@ -11,6 +11,8 @@ Cloud architecture enables **standardization of software delivery**, with things
 
 This standardization and modern PaaS/CaaS use enables **empowering groups to self-service their software creation and deployment** and deployment needs on the PaaS platform, while taking advantage of other cloud architecture benefits such as commoditizing software, paying only for what you use and less IT management, among other things. It can enable teams to **deploy software in less than an hour**. It allows them to build and focus on their specialized software vertical PaaS, and less on the general distributed systems aspects. These are things organizations have expressed strong interest in relating to modern cloud migration efforts.
 
+// TODO: add specifics like cloud providers, etc.
+
 ## Core terms & items in cloud architecture
 
 // TODO: 
