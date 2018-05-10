@@ -5,6 +5,10 @@ title: Cloud BD Cheatsheet
 
 # Cloud Architecture Cheat Sheet
 
+**todo*
+-state of fed fr cio conf, etc
+- link to ms cheatsheet (related section)
+
 This cheat sheet goes over key terms and concepts in cloud architecture that are important to be aware of in order to discuss it.
 
 It enables **standardization of software delivery**, with things like container-based platform-as-a-service systems that can run any software anywhere as long as it's run in containers. This enables **standardization of pipelines and software management**.
