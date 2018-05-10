@@ -9,6 +9,8 @@ It enables standardization of software delievery, with things like container-bas
 
 This enables empowering groups to self-service their software creation and deployment needs on the PaaS platform, while taking advantage of other cloud architecture benefits such as commoditizing software, paying only for what you use and less IT management, among other things.
 
+// TODO: add aspects from CIO panel
+
 ## Terms
 
 // TODO: Diagram showing how this all fits together
