@@ -26,7 +26,7 @@ EXCELL3/Golden30!
         - self-healing levels, types and architecture, consul watches with Jenkins
             Fault-tolerant and responsive systems by having services continually check and optimize their state, automatically adapting to changing conditions and returning to the desired state if not working correctly. 
 
-                - Application level - app to heal itself internally, i.e. logging exceptions, stopping execution, failed database connection
+                - Application level - code & design patterns to heal itself internally, i.e. logging exceptions, stopping execution, failed database connection
                     - Connection retries
                 - System level
                 - Hardware level
