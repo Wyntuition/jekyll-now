@@ -28,8 +28,12 @@ EXCELL3/Golden30!
 
                 - Application level - code & design patterns to heal itself internally, i.e. logging exceptions, stopping execution, failed database connection
                     - Connection retries
-                - System level
+                - System level - healing that can be applied to all services independently from the internals, 
+                    - failures of processes - restart process or redeploy service
+                    - response time - scale or descale based on it
+                    - ping APIs for 2xx responses
                 - Hardware level
+                - Notifications needed at all levels
         - [Actor Systems](https://doc.akka.io/docs/akka/2.5/general/actor-systems.html)
         - Centralized logging with elasticsearch, logstash
 nginx task
