@@ -21,6 +21,12 @@ Attendees should come away with a clearer understanding of container management,
 
 Comments: I am a seasoned speaker with technical depth and experience in these hot container topics, and I have helped clarify the container management ecosystem for clients and co-workers. This is a hot topic I am excited to help people understand better.
 
++AZURE
+Kubernetes on Azure Container Service has reached general availability. When you deploy your next generation application to Azure, whether on a PaaS or deployed directly onto Kubernetes itself (or both) you can deploy it onto a managed, supported Kubernetes cluster.
+Furthermore, because we know that the world of PaaS and software development in general is a hybrid one, we’re excited to announce the preview availability of Windows clusters in Azure Container Service. We’re also working on hybrid clusters in ACS-Engine and expect to roll those out to general availability in the coming months.
+
+
+
 ## Business Case for Microservices
 
 The microservices approach has been taking the software industry by storm, promising to make organizations more competitive and faster at delivering software. It doesn’t only have to be for the most complex systems like those at Netflix. The benefits hit many common pain points of so many software projects. Microservices can give organizations more agility with business decisions as the software can respond faster to constant change which is inevitable in the business world. A successfully implemented microservices approach can speed up software delivery, but it is daunting to get into and filled with uncertainty. This presentation will go into more detail to paint the big picture around microservices and where they fit. It will demystify the ecosystem and provide actionable next steps for determining if microservices fit into your strategy.
