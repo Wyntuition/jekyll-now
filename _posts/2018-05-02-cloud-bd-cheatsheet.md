@@ -13,7 +13,7 @@ This enables **empowering groups to self-service their software creation and dep
 
 // TODO: add aspects from CIO panel
 
-## Terms encompassing things that enable cloud architecture
+## Core terms & items in cloud architecture
 
 Generally, **as-a-service** terms like the ones below describe an application, service, or piece of infrastrucure designed to run on cloud architecture.
 
@@ -32,7 +32,7 @@ Generally, **as-a-service** terms like the ones below describe an application, s
 
 **CaaS** (containers as a service) - container-based PaaS which come in many flavors as needed. **EXAMPLES:** AWS Elastic Container Service, Google Container Engine, Azure Container Service
 
-**EXAMPLES:** Kubernetes with support from AWS, API as a containerized service, Python/Django containerized app platform one-click spin-up
+> > **EXAMPLES:** Kubernetes with support from AWS, API as a containerized service, Python/Django containerized app platform one-click spin-up
 
 **Functions as a service** (FaaS)
 
@@ -40,7 +40,7 @@ Generally, **as-a-service** terms like the ones below describe an application, s
 
 **SaaS** (software as a service) - licensing and delivery model in which software is licensed on a subscription basis and is centrally hosted. It is sometimes referred to as "on-demand software". **EXAMPLES:** Outlook.com vs. Exchange on-prem, Salesforce.com, AWS services, Dropbox, Slack
 
-What makes up the appliations:
+### What makes up the appliations:
 
 **Microservices**
 * *Small apps combine to make a full app*
