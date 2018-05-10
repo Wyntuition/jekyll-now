@@ -26,7 +26,6 @@ docker partner
 bio - He is currently a managing consultant & senior developer at Excella, a DC-based Agile technology firm.
 
 
-
 - list of generalish things all devs should know; then specific to topics (not so much stacks, things common to all). Work into PD plan. 
     - demo PD plan process with all reports
     - glenn's tool?
