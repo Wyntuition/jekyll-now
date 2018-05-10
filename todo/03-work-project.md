@@ -6,6 +6,7 @@ EXCELL3/Golden30!
 ## TODAY
 
 +look at dev norms and add to md; add PR guidelines too
+-bio
 nginx task
     - decipher what the logs are doing, are they outputting to docker console (should be visible doing `docker logs <container id>` on prod, are they wired to splunk?
     - eulick - splunk demo, get access
