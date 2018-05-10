@@ -18,7 +18,7 @@
 
 ## Overview 
 
-Most software needs a combination of test types to have solid coverage. Generally, software needs a lot of unit tests to cover logic, a smaller amount of integration tests to cover component communcation, configuration and black box functionality (i.e. complex database queries), a very small amount (double-digits or low hundreds depending on software size) of automated acceptance tests (AATs), and a few smoke tests to always ensure system availability. For decently sized systems, test cases need to be tracked to ensure they are covered by tests, and since that includes all the differnet types of tests, what tests are covering what functionality. There are test tracking tools, and this process can be started with a spreadsheet.
+Most software needs a combination of test types to have solid coverage. Generally, software needs a lot of unit tests to cover logic, a smaller amount of integration tests to cover component communcation, configuration and black box functionality (i.e. complex database queries), a very small amount (double-digits or low hundreds depending on software size) of automated acceptance tests (AATs), and a few smoke tests to always ensure system availability. For decently sized systems, test cases need to be tracked to ensure they are covered by tests, and since that includes all the differnet types of tests, what tests are covering what functionality. There are test case tracking tools, and this process can be started with a spreadsheet.
 
 ## Terms and Concepts
 
