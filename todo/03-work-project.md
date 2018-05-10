@@ -28,6 +28,7 @@ EXCELL3/Golden30!
 
                 - Application level - code & design patterns to heal itself internally, i.e. logging exceptions, stopping execution, failed database connection
                     - Connection retries
+                    - Health checks run integration test (i.e. database query)
                 - System level - healing that can be applied to all services independently from the internals, 
                     - failures of processes - restart process or redeploy service
                     - response time - scale or descale based on it
