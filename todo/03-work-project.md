@@ -19,7 +19,13 @@ EXCELL3/Golden30!
             - IF: not production, smoke tests & AATs ELSE: smoke tests only
     +resources needed for save dev (books, tools, packages, AWS services)
         - configuration management with ansible
-        - 
+        - service registry, service registration, service discovery, service discovery tools, zookeeper, etcd, consul
+        - Proxy services - reverse proxy service with nginx or HAProxy
+        - CI: Jenkis, blue/green deployments
+        - Clustering and scaling: axis scaling, clustering, kubernetes, ECS, 
+        - self-healing levels, types and architecture, consul watches with Jenkins
+            Fault-tolerant and responsive systems by having services continually check and optimize their state, automatically adapting to changing conditions and returning to the desired state if not working correctly.
+        - Centralized logging with elasticsearch, logstash
 nginx task
     - decipher what the logs are doing, are they outputting to docker console (should be visible doing `docker logs <container id>` on prod, are they wired to splunk?
     - eulick - splunk demo, get access
