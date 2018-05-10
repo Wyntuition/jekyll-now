@@ -46,7 +46,7 @@ Generally, **as-a-service** terms like the ones below describe an application, s
 * *Piece of software infrastructure that holds everything needed to run the app execpt the OS*
 * *Can run anywhere that can run Docker*
 
-**Microservices**
+--> **Microservices**
 * *Small apps combine to make a full app*
 * *Usually stored in containers*
 
