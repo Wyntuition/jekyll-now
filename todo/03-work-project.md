@@ -6,6 +6,20 @@ EXCELL3/Golden30!
 ## TODAY
 
 +look at dev norms and add to md; add PR guidelines too
+    - 
+    + deployment standard
+        1. Run pre-deployment tests
+            - Unit, static code analysis
+            - integraetion tests in temp/dev environment
+        1. Compile & package the code in a builder container, and copy the artifacts into a production container with minimal dependencies (i.e. no SDKs). You can use Docker's multi-stage build functionality.
+        1. Push the production image to the Docker registry.
+        1. Deploy the container to the server
+        1. Integrate the container
+        1. Run post-deployment tests
+            - IF: not production, smoke tests & AATs ELSE: smoke tests only
+    +resources needed for save dev (books, tools, packages, AWS services)
+        - configuration management with ansible
+        - 
 nginx task
     - decipher what the logs are doing, are they outputting to docker console (should be visible doing `docker logs <container id>` on prod, are they wired to splunk?
     - eulick - splunk demo, get access
