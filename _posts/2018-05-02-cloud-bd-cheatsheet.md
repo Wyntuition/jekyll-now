@@ -13,9 +13,11 @@ This enables **empowering groups to self-service their software creation and dep
 
 // TODO: add aspects from CIO panel
 
-## Terms
+## Terms encompassing things that enable cloud architecture
 
 // TODO: Diagram showing how this all fits together
+
+// Figure out how to convey without aaS terms first, to simplfy aspects into a biggest picture view
 
 **SaaS** (software as a service) - licensing and delivery model in which software is licensed on a subscription basis and is centrally hosted. It is sometimes referred to as "on-demand software". **EXAMPLES:** Outlook.com vs. Exchange on-prem, Salesforce.com, AWS services, Dropbox, Slack
 
@@ -28,6 +30,8 @@ This enables **empowering groups to self-service their software creation and dep
 **EXAMPLES:** Kubernetes with support from AWS
 
   **CaaS** (containers as a service) - cloud-based service for managing a container-based PaaS. **EXAMPLES:** AWS Elastic Container Service, Google Container Engine, Azure Container Service
+
+  **Functions as a service** (FaaS) - 
 
 **IaaS** (infrastructure as a service) - computer infrastructre provided as a service as opposed to running it yourself. **EXAMPLE:** Virtual server, network, storage from AWS, Azure, Google cloud; web server from Heroku.
 
