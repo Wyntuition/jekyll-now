@@ -15,11 +15,12 @@ This enables **empowering groups to self-service their software creation and dep
 
 ## Terms encompassing things that enable cloud architecture
 
-// TODO: Diagram showing how this all fits together
-
-// Figure out how to convey without aaS terms first, to simplfy aspects into a biggest picture view
-
 Generally, **as-a-service** terms like the ones below describe an application, service, or piece of infrastrucure designed to run on cloud architecture.
+
+// TODO: 
+  - Diagram showing how this all fits together
+  - Figure out how to convey without aaS terms first, to simplfy aspects into a biggest picture view
+  - Add benefits, drawbacks to each?
 
 **SaaS** (software as a service) - licensing and delivery model in which software is licensed on a subscription basis and is centrally hosted. It is sometimes referred to as "on-demand software". **EXAMPLES:** Outlook.com vs. Exchange on-prem, Salesforce.com, AWS services, Dropbox, Slack
 
@@ -29,9 +30,9 @@ Generally, **as-a-service** terms like the ones below describe an application, s
 * reliable, zero-downtime rollout of software versions
 * Healing, auto-scaling, load balancing
 
-**EXAMPLES:** Kubernetes with support from AWS, API as a service, Python/Django app platform one-click spin-up
+  **CaaS** (containers as a service) - container-based PaaS which come in many flavors as needed. **EXAMPLES:** AWS Elastic Container Service, Google Container Engine, Azure Container Service
 
-  **CaaS** (containers as a service) - cloud-based service for managing a container-based PaaS. **EXAMPLES:** AWS Elastic Container Service, Google Container Engine, Azure Container Service
+  **EXAMPLES:** Kubernetes with support from AWS, API as a containerized service, Python/Django containerized app platform one-click spin-up
 
   **Functions as a service** (FaaS) - 
 
