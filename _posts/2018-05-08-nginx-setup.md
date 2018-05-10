@@ -28,7 +28,9 @@ More info, https://blog.codeship.com/tuning-nginx/
 
 ### Logs
 
-log_format main 'site="$server_name" server="$host" dest_port="$server_port" dest_ip="$server_addr" '
+- https://vorozhko.net/how-to-monitor-nginx-logs-with-splunk
+
+- log_format main 'site="$server_name" server="$host" dest_port="$server_port" dest_ip="$server_addr" '
                    'src="$remote_addr" src_ip="$realip_remote_addr" user="$remote_user" '
                    'time_local="$time_local" protocol="$server_protocol" status="$status" '
                    'bytes_out="$body_bytes_sent" bytes_in="$upstream_response_length" '
