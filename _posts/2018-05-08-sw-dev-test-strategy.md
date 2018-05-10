@@ -9,6 +9,7 @@
     - where unit tests don't make sense (i.e. data layer, thin controllers)
     - what journeys AATs are good for, and how to cover other front-end stuff (i.e. javascript unit tests)
   - give examples showing a new feature that requires all types of tests, and how they align and don't overlap
+  - develop test case tracking process & spreadsheet/tool
 - add to strategy:
   - metrics on bugs, most used code, most changed
   - what tests should run in what environments
