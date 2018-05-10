@@ -8,6 +8,8 @@ EXCELL3/Golden30!
 
 ## TODAY
 
++find seams to test stra, and items below
+
 +look at dev norms and add to md; add PR guidelines too
     - 
     + deployment standard
