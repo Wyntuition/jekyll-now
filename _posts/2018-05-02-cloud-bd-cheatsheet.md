@@ -29,7 +29,7 @@ This enables empowering groups to self-service their software creation and deplo
 
   **CaaS** (containers as a service) - cloud-based service for managing a container-based PaaS. **EXAMPLES:** AWS Elastic Container Service, Google Container Engine, Azure Container Service
 
-**IaaS** (infrastructure as a service)
+**IaaS** (infrastructure as a service) - computer infrastructre provided as a service as opposed to running it yourself. **EXAMPLE:** Virtual server, network, storage from AWS, Azure, Google cloud; web server from Heroku.
 
 **Orchestrators / Container Management Systems**
 
@@ -45,6 +45,7 @@ This enables empowering groups to self-service their software creation and deplo
 
 ## Drivers of cloud architecture
 
+* **Standardization** of software delivery, deployment practices & pipelines, infrastructure & software management
 * **Cheaper, faster**
 * **Faster** is now cheaper and better. **Get to market** quickly, **respond to changes fast**
 
