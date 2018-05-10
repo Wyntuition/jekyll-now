@@ -9,10 +9,9 @@ title: Cloud BD Cheatsheet
 
 **SaaS** (software as a service) - licensing and delivery model in which software is licensed on a subscription basis and is centrally hosted. It is sometimes referred to as "on-demand software". **EXAMPLES:** Outlook.com vs. Exchange on-prem, Salesforce.com, AWS services, Dropbox, Slack
 
-**PaaS** (platform as a service)
+**PaaS** (platform as a service) Provides a platform for delivering software, that is largely being taken over by containers. Services include:
 
-Provides a platform for delivering software including:
-* packaging and distribution of software, 
+* packaging and distribution of software
 * reliable, zero-downtime rollout of software versions
 * Healing, auto-scaling, load balancing
 
