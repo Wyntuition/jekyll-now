@@ -9,11 +9,11 @@ title: Cloud BD Cheatsheet
 
 **SaaS** (software as a service) - licensing and delivery model in which software is licensed on a subscription basis and is centrally hosted. It is sometimes referred to as "on-demand software". **EXAMPLES:** Outlook.com vs. Exchange on-prem, Salesforce.com, AWS services, Dropbox, Slack
 
-**CaaS** (containers as a service)
-
-* 
-
 **PaaS** (platform as a service)
+
+**EXAMPLES:** Kubernetes with support from AWS
+
+  **CaaS** (containers as a service) - cloud-based service for managing a container-based PaaS. **EXAMPLES:** AWS Elastic Container Service, Google Container Engine, Azure Container Service
 
 **IaaS** (infrastructure as a service)
 
