@@ -5,6 +5,8 @@ title: Cloud Architecture BD Cheat Sheet
 
 This cheat sheet goes over key terms and concepts in cloud architecture that are important to be aware of in order to discuss it.
 
+## What is Cloud Architecture?
+
 Cloud architecture generally consists of the software and infrastructure services, whether hosted **on-premises or by a third party over the internet**, that enable cloud computing. **Cloud computing** allows pooling of IT resources, lower effort for provisioning resources, lower management overhead, and cost optimization. Cloud architecture enables **standardization of software delivery**, with things like container-based platform-as-a-service systems that can run any software anywhere as long as it's run in containers. This enables **standardization of pipelines and software management**. A container-based platform-as-a-service is called containers-as-a-service (CaaS), and generally is a PaaS leveraging the benefits of containers, and this is **what customers are wanting** to move towards in terms of a **standard software deployment and management platform**.
 
 This standardization and modern CaaS use enables **empowering groups to self-service their software creation and deployment** and deployment needs on the PaaS platform, while taking advantage of other cloud architecture benefits such as commoditizing software, paying only for what you use and less IT management, among other things. It can enable teams to **deploy software in less than an hour**. It allows them to build and focus on their specialized software vertical PaaS, and less on the general distributed systems aspects. These are things organizations have expressed strong interest in relating to modern cloud migration efforts.
