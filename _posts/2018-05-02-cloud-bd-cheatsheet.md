@@ -16,7 +16,7 @@ This standardization and modern PaaS/CaaS use enables **empowering groups to sel
 // TODO: 
   - Replace diagram below with our own based on feedback
   - Figure out how to convey without aaS terms first, to simplfy aspects into a biggest picture view
-  - Add benefits, drawbacks to each?
+  - Add adiitonal seections: benefits, drawbacks to each? Relevant priority initaitives, Landscape, deciders, summary, why/problems addressing, pain points, use cases, alternatives, questions to ask, when will customers ask for them, success stories & key differentiators, getting started, additional resources
 
 Generally, **as-a-service** terms like the ones below describe an application, service, or piece of infrastrucure designed to run on cloud architecture. As the diagram shows, each builds on each other.
 
@@ -30,13 +30,18 @@ Generally, **as-a-service** terms like the ones below describe an application, s
 * reliable, zero-downtime rollout of software versions
 * Healing, auto-scaling, load balancing
 
-**CaaS** (containers as a service) - container-based PaaS which come in many flavors as needed. **EXAMPLES:** AWS Elastic Container Service, Google Container Engine, Azure Container Service
-
 > > **EXAMPLES:** Kubernetes with support from AWS, API as a containerized service, Python/Django containerized app platform one-click spin-up
 
-**Functions as a service** (FaaS)
+**CaaS** (containers as a service) - like a PaaS but using containers. They can more easily and quickly be built for specific groups or uses. **EXAMPLES:** Same as for PaaS but using services like AWS Elastic Container Service, Google Container Engine, Azure Container Service
 
-**Orchestrators / Container Management Systems** - manages many sets of containers for many apps, I.E. manages scaling, health, security, software packaging, communication, logging, monitoring, etc. of many microservice-based applications across an organization
+**Functions as a service** (FaaS) - This is a service that allows deployment of individual functions that can make up an application or just do useful things. EXAMPLES: AWS Lambda, Apache OpenWisk
+
+// TODO: Diagram for how orchestrators live on top of container deployments, and container management systems live on top of that
+
+**Orchestrators** - manages many sets of containers for many apps or a CaaS, I.E. manages scaling, health, security, software packaging, communication, logging, monitoring, etc. of many microservice-based applications across an organization. EXAMPLES: Kubernetes, Swarm, Mesos, Fleet
+
+**Container Management Systems** - lives on top of an orchestrator to provide greater and more centralized management functionalities for deployed container-based applications or CaaS's. Allows management across an organization, with things like centralized security controls and access management and GUI tools. EXAMPLES: Docker Enterprise, OpenShift
+
 
 **SaaS** (software as a service) - licensing and delivery model in which software is licensed on a subscription basis and is centrally hosted. It is sometimes referred to as "on-demand software". **EXAMPLES:** Outlook.com vs. Exchange on-prem, Salesforce.com, AWS services, Dropbox, Slack
 
