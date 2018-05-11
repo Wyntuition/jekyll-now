@@ -23,9 +23,9 @@ Generally, **as-a-service** terms like the ones below describe an application, s
 
 ![as-a-service diagram](https://carlfreemandotnet.files.wordpress.com/2017/02/azure-on-premises-vs-iaas-vs-paas-vs-saas.png?w=648)
 
-**IaaS** (infrastructure as a service) - computer infrastructre provided as a service as opposed to running it yourself. **EXAMPLE:** Virtual server, network, storage from AWS, Azure, Google cloud; web server from Heroku.
+**Infrastructure as a service** (IaaS) - computer infrastructre provided as a service as opposed to running it yourself. **EXAMPLE:** Virtual server, network, storage from AWS, Azure, Google cloud; web server from Heroku.
 
-**PaaS** (platform as a service) Provides a platform for delivering software, that is largely being taken over by containers. They can be general, or various PaaS's can be built for specific software verticals such as APIs, Django web apps, etc.  Services include:
+**Platform as a service** (PaaS) Provides a platform for delivering software, that is largely being taken over by containers. They can be general, or various PaaS's can be built for specific software verticals such as APIs, Django web apps, etc.  Services include:
 
 * packaging and distribution of software
 * reliable, zero-downtime rollout of software versions
@@ -33,7 +33,7 @@ Generally, **as-a-service** terms like the ones below describe an application, s
 
 > > **EXAMPLES:** Kubernetes with support from AWS, API as a containerized service, Python/Django containerized app platform one-click spin-up
 
-**CaaS** (containers as a service) - like a PaaS but using containers. They can more easily and quickly be built for specific groups or uses. **EXAMPLES:** Same as for PaaS but using services like AWS Elastic Container Service, Google Container Engine, Azure Container Service
+**Containers as a service** (CaaS) - like a PaaS but using containers. They can more easily and quickly be built for specific groups or uses. **EXAMPLES:** Same as for PaaS but using services like AWS Elastic Container Service, Google Container Engine, Azure Container Service
 
 **Functions as a service** (FaaS) - This is a service that allows deployment of individual functions that can make up an application or just do useful things. EXAMPLES: AWS Lambda, Apache OpenWisk
 
@@ -62,6 +62,10 @@ Generally, **as-a-service** terms like the ones below describe an application, s
 * **Standardization** of software delivery, deployment practices & pipelines, infrastructure & software management
 * **Cheaper, faster**
 * **Faster** is now cheaper and better. **Get to market** quickly, **respond to changes fast**
+
+## Considerations
+
+* **Hybrid** - organizations are moving towards hybrids over purely third-party clouds
 
 // TODO: add aspects from the CIO panel and from other pubs and notes
 
