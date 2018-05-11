@@ -14,6 +14,7 @@ EXCELL3/Golden30!
     - static code analysis/sonarcube, self-healing services, postgres, postgres perf optimization, jenkinsfile (John said he was thinking of taking that)
     - list we have
 
++api versining brownbag - 1 endpoint mult versions?
 +find seams to test stra, and items below
      +snapshots as a safety net for shared components.  That way, when someone makes a change to our component library, we can quickly and easily see which features are affected by that change and give them the once over to make sure the new changes didn’t have any unintended consequences.
 
