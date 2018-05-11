@@ -8,7 +8,7 @@ EXCELL3/Golden30!
 
 ## TODAY
 
-- brown bag on self healing
+- brown bag on self healing, jenkinsfile + multibranch
 - request access to systems, splunk etc
 +brown bag program
     - static code analysis/sonarcube, self-healing services, postgres, postgres perf optimization, jenkinsfile (John said he was thinking of taking that)
