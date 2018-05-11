@@ -36,14 +36,13 @@ Generally, **as-a-service** terms like the ones below describe an application, s
 
 **Functions as a service** (FaaS) - This is a service that allows deployment of individual functions that can make up an application or just do useful things. EXAMPLES: AWS Lambda, Apache OpenWisk
 
-// TODO: Diagram for how orchestrators live on top of container deployments, and container management systems live on top of that
+// TODO: Diagram for how orchestrators live on top of container deployments, and container management systems live on top of that, etc
 
 **Orchestrators** - manages many sets of containers for many apps or a CaaS, I.E. manages scaling, health, security, software packaging, communication, logging, monitoring, etc. of many microservice-based applications across an organization. EXAMPLES: Kubernetes, Swarm, Mesos, Fleet
 
 **Container Management Systems** - lives on top of an orchestrator to provide greater and more centralized management functionalities for deployed container-based applications or CaaS's. Allows management across an organization, with things like centralized security controls and access management and GUI tools. EXAMPLES: Docker Enterprise, OpenShift
 
-
-**SaaS** (software as a service) - licensing and delivery model in which software is licensed on a subscription basis and is centrally hosted. It is sometimes referred to as "on-demand software". **EXAMPLES:** Outlook.com vs. Exchange on-prem, Salesforce.com, AWS services, Dropbox, Slack
+**SaaS** (software as a service) - abstracted above all the above, you can end of hosting and consuming SaaS. It's a icensing and delivery model in which software is licensed on a subscription basis and is centrally hosted. It is sometimes referred to as "on-demand software". **EXAMPLES:** Outlook.com vs. Exchange on-prem, Salesforce.com, AWS services, Dropbox, Slack
 
 ### What makes up the appliations:
 
