@@ -26,6 +26,11 @@
 
     + git:rebase use cases to core dev curric
     
+
+## Career?
+
+Engineering and Architecture SupportExcella is committed to the idea that asolid foundation results in the best outcome. When starting or joining a project, we take inventory of a project and any existing architecture. Whether that architecture needs to be improved, re-written, or left alone, Excella strivesto understand and evaluate that architecture within the context of the needs of the application or system. The resultsof this attitude are solidly founded applications and systems that are not only coded well butare also scalable and well-engineeredto be agile with things like version control, unit testing, and continuous integration
+
 ## Plan - Current
 
 - ORG PD. This should be on PD plan regularly reviewed
