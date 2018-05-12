@@ -8,7 +8,7 @@ EXCELL3/Golden30!
 
 ## TODAY
 
-- brown bag on self healing, jenkinsfile + multibranch
+- brown bag on self healing, jenkinsfile + multibranch; nginx; summary of microservice competencies
 - request access to systems, splunk etc
 +brown bag program
     - static code analysis/sonarcube, self-healing services, postgres, postgres perf optimization, jenkinsfile (John said he was thinking of taking that)
