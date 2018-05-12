@@ -5,6 +5,17 @@ title: Cloud Architecture BD Cheat Sheet
 
 This cheat sheet goes over key terms and concepts in cloud architecture that are important to be aware of in order to discuss it.
 
+Where does this fall in the cloud world?
+
+* Software
+  * Hosting
+    * Cloud
+      * Applications in the cloud
+        * microservices
+          * containers
+        * non-microservice container-based applications
+        * linux & windows apps
+
 ## What is Cloud Architecture?
 
 Cloud architecture generally consists of the software and infrastructure services, whether hosted **on-premises or by a third party over the internet**, that enable cloud computing. These services generally include virtual server provisioning that can run and host network-based software, supporting services, down to virtual network provisioning. **Cloud computing** allows **pooling of IT resources, lower effort for provisioning resources, lower management overhead, and cost optimization**. A **cloud** could in a sense be thought of a pool of IT resources that achieves economics of scale, like a public utility. A **hybrid cloud** consists of on-premises cloud architecture integrated with third-party cloud infrastructure (i.e. AWS), resulting in users being able to interface with IT services in both places without being able to tell the difference - a single cloud. Cloud services provide easy request for resources, fast delivery, painless management, data transparency, granular billing models, automation support, and intelligent, flexible infrastructure.

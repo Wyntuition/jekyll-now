@@ -1,5 +1,7 @@
 # NGINX Production setup via Docker
 
+**LANDSCAPE: Web internals:infrastrucutre:web servers
+
 ## overview of web servers
 
 - NGINX book, docks
@@ -11,6 +13,10 @@
 here's an example of nginx configured as a reverse proxy production-ready with docker, https://github.com/evertramos/docker-compose-letsencrypt-nginx-proxy-companion
 
 which uses the following repo which generates nginx reverse proxies in docker, https://github.com/jwilder/nginx-proxy 
+
+## Concepts & Key Functionalities
+
+* 
 
 ## Tuning
 
