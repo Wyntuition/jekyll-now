@@ -1,6 +1,6 @@
 # NGINX Production setup via Docker
 
-**LANDSCAPE: Web internals:infrastrucutre:web servers
+**LANDSCAPE: Web internals:infrastructure:web servers
 
 ## overview of web servers
 
