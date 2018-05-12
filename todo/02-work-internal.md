@@ -15,7 +15,7 @@ https://trello.com/b/Vj7P4Pkf/dd-2018-goals, https://docs.google.com/spreadsheet
 
 ## TO DO
 
-### TODAY 
+### TODAY
 
 eldp post work - vision stuff
 docker cert lunch start
