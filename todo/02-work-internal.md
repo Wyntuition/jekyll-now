@@ -27,6 +27,7 @@ docker partner stuff
     - cloud capabilities & curric, CaaS specifically too by itself
 
 
+-+brown bags: history of CS: languages; people; hardware; software
 - list of generalish things all devs should know; then specific to topics (not so much stacks, things common to all). Work into PD plan. 
     - demo PD plan process with all reports
     - glenn's tool?
