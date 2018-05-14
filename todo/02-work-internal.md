@@ -17,6 +17,7 @@ https://trello.com/b/Vj7P4Pkf/dd-2018-goals, https://docs.google.com/spreadsheet
 
 ### TODAY 
 
+01
 eldp post work - vision stuff
 docker cert lunch start
 docker partner stuff
@@ -26,7 +27,7 @@ docker partner stuff
     - docker certification study group
     - cloud capabilities & curric, CaaS specifically too by itself
 
-bio - He is currently a managing consultant & senior developer at Excella, a DC-based Agile technology firm.
+xpert meeting still planned?
 
 
 - list of generalish things all devs should know; then specific to topics (not so much stacks, things common to all). Work into PD plan. 

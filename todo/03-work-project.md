@@ -10,6 +10,8 @@ EXCELL3/Golden30!
 
 - brown bag on self healing
 - request access to systems, splunk etc
+
+
 +brown bag program
     - static code analysis/sonarcube, self-healing services, postgres, postgres perf optimization, jenkinsfile (John said he was thinking of taking that)
     - list we have
