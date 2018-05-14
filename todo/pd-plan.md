@@ -26,6 +26,12 @@
 
     + git:rebase use cases to core dev curric
     
+
+## Career?
+
+Niche:
+    - CaaS's, microservice infrastructures, container architecture and strategy
+
 ## Plan - Current
 
 - ORG PD. This should be on PD plan regularly reviewed

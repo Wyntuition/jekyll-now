@@ -8,7 +8,7 @@ EXCELL3/Golden30!
 
 ## TODAY
 
-- brown bag on self healing
+- brown bag on self healing, jenkinsfile + multibranch; nginx; summary of microservice competencies
 - request access to systems, splunk etc
 
 
@@ -16,6 +16,7 @@ EXCELL3/Golden30!
     - static code analysis/sonarcube, self-healing services, postgres, postgres perf optimization, jenkinsfile (John said he was thinking of taking that)
     - list we have
 
++api versining brownbag - 1 endpoint mult versions?
 +find seams to test stra, and items below
      +snapshots as a safety net for shared components.  That way, when someone makes a change to our component library, we can quickly and easily see which features are affected by that change and give them the once over to make sure the new changes didn’t have any unintended consequences.
 
@@ -32,27 +33,20 @@ EXCELL3/Golden30!
         1. Run post-deployment tests
             - IF: not production, smoke tests & AATs ELSE: smoke tests only
     +resources needed for save dev (books, tools, packages, AWS services)
+        - web
+            - servers
+                - nginx
+                - playw / akka http
+        
         - configuration management with ansible
+
         - service registry, service registration, service discovery, service discovery tools, zookeeper, etcd, consul
         - Proxy services - reverse proxy service with nginx or HAProxy
         - CI: Jenkis, blue/green deployments
         - Clustering and scaling: axis scaling, clustering, kubernetes, ECS, 
-        - self-healing levels, types and architecture, consul watches with Jenkins
-            Fault-tolerant and responsive systems by having services continually check and optimize their state, automatically adapting to changing conditions and returning to the desired state if not working correctly. 
+        - Self-healing - self-healing levels, types and architecture, consul watches with Jenkins; Fault-tolerant and responsive systems by having services continually check and optimize their state, automatically adapting to changing conditions and returning to the desired state if not working correctly.
 
-                - Application level - code & design patterns to heal itself internally, i.e. logging exceptions, stopping execution, failed database connection
-                    - Connection retries
-                    - Health checks run integration test (i.e. database query)
-                - System level - healing that can be applied to all services independently from the internals, 
-                    - failures of processes - restart process or redeploy service
-                    - response time - scale or descale based on it
-                    - ping APIs for 2xx responses
-                - Hardware level - healthy nodes, resource use?
-                - Notifications needed at all levels
-
-                -Reactive healing - system reacts to a failure and heals itself
-
-        - Priority 1: ping service, on 404 or 500 from failed integration test, do what to heal? 
+        - Priority 1: ping service, on 404 or 500 from failed integration test, do what to heal?
 
         - [Actor Systems](https://doc.akka.io/docs/akka/2.5/general/actor-systems.html)
         - Centralized logging with elasticsearch, logstash

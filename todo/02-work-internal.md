@@ -15,7 +15,7 @@ https://trello.com/b/Vj7P4Pkf/dd-2018-goals, https://docs.google.com/spreadsheet
 
 ## TO DO
 
-### TODAY 
+### TODAY
 
 01
 eldp post work - vision stuff
@@ -30,6 +30,7 @@ docker partner stuff
 xpert meeting still planned?
 
 
+-+brown bags: history of CS: languages; people; hardware; software
 - list of generalish things all devs should know; then specific to topics (not so much stacks, things common to all). Work into PD plan. 
     - demo PD plan process with all reports
     - glenn's tool?
