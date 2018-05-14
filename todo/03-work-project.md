@@ -8,6 +8,9 @@ EXCELL3/Golden30!
 
 ## TODAY
 
+- test case tracking with BAs, Pam collab?
+- follwo up on norms, test strateegy, code standards, issues list
+
 - brown bag on self healing, jenkinsfile + multibranch; nginx; summary of microservice competencies
 - request access to systems, splunk etc
 

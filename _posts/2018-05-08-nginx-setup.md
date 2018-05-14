@@ -16,7 +16,20 @@ which uses the following repo which generates nginx reverse proxies in docker, h
 
 ## Concepts & Key Functionalities
 
-* 
+* HTTP
+  * request/response
+  * http/1.1 - HTTP streams possible for infinitely bounded data and receiver can act on in chunks; 
+    * doesn't involve websockets, 
+    * basis for HTML5 SSEs
+    * involves single HTTP transactions; each transaction represents an event as part of a larger event stream
+    * Chunked vs Store & Forward
+      - if you want your browser to stream chunked data, browser needs budder limit (1kb default?), and be aware of how your HTTP library handled chunked data
+      - if you're sending small units that wouldn't benefit from chunking, don't do it
+    * HEADERS to support streaming: 
+      - content-length
+      - must first send Transfer-Encoding, then flush content in chucks according to chunk format. HTTP 
+
+    
 
 ## Tuning
 
