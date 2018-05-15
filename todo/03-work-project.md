@@ -8,6 +8,8 @@ EXCELL3/Golden30!
 
 ## TODAY
 
+
+
 - test case tracking with BAs, Pam collab?
 - follwo up on norms, test strateegy, code standards, issues list
 
