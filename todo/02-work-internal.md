@@ -40,7 +40,9 @@ xpert meeting still planned?
 .net sa project ideas
     - learn Azure & .NET Core app, english UI
     - Ingest local data - steep hill route bike training, search parks (find parks with 1 mile hiking trail), find historical points app, Find local restrooms app
-    
+
++PD learn about software projects with Interface Control Docs, etc. How they are important and fit into agile.
+    +find place with right experience in place
 
 expense FA gov panel
 
