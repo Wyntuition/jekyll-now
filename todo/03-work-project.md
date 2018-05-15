@@ -17,6 +17,27 @@ EXCELL3/Golden30!
 - request access to systems, splunk etc
 
 
+HEALTH NOTES
+
+    sparkleformation: provisioning.save-Spring_api_ecs_service.rb
+    dynamic(:ecs_service)
+    ecs_sevice.rb
+    - gen CF template, 
+    - 
+
+    +cloudWatch 
+    - alerting - *
+    - filtering b/t nonprod on to prod; tag at ecs level w/container id (but not ecs container id, just local container id -> service name - full ecs servuce container id)
+
+    *Ali: -cloud watch dashboard; trying to get to task level; eve-dashboard breaks down by task
+        - new relic agents easy to dpeloy, but automating setup of alerts on new relic itself isn't very automatable
+
+
+    endsup in provisioning folder, ecs service template there too; splunk agent forwarder 
+
+    vis-pipeline-gem
+
+
 +brown bag program
     - static code analysis/sonarcube, self-healing services, postgres, postgres perf optimization, jenkinsfile (John said he was thinking of taking that)
     - list we have
