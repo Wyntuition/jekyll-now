@@ -10,11 +10,15 @@ EXCELL3/Golden30!
 
 
 +Domain
-    - 3rd step required photo validation. Used to be mailed it, now upload
+    - 3rd step = final step (FC03): required photo validation. Used to be mailed it, now upload
+    +story for mod SVS user auth
+    - EADS - 18 mo of employment history requested by agencies provided by SVS verifier to see if qualifying to unemployment
 
 test strategy NS: 
     - test audit, 
     - test case tracking
+    - examples
+    - check in with team
 
 - test case tracking with BAs, Pam collab?
 - follwo up on norms, test strateegy, code standards, issues list
