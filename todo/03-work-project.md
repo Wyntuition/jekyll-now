@@ -9,7 +9,8 @@ EXCELL3/Golden30!
 ## TODAY
 
 
-
++Domain
+    - 3rd step required photo validation. Used to be mailed it, now upload
 
 test strategy NS: 
     - test audit, 
