@@ -10,6 +10,11 @@ EXCELL3/Golden30!
 
 
 
+
+test strategy NS: 
+    - test audit, 
+    - test case tracking
+
 - test case tracking with BAs, Pam collab?
 - follwo up on norms, test strateegy, code standards, issues list
 
