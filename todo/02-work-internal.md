@@ -17,11 +17,23 @@ https://trello.com/b/Vj7P4Pkf/dd-2018-goals, https://docs.google.com/spreadsheet
 
 ### TODAY
 
+notes/outline to fadi
+
+  - Enterprise Jenkins
+
+    Docker & Jenkins are creating better and faster software delivery and can help Excella:
+    •	Differences between CloudBees and open source Jenkins
+    •	How CloudBees can help Create a Container Platform Strategy
+    •	How CloudBees can help Reach DevOps Maturity
+    •	How CloudBees can help Modernize Legacy Applications for a Microservices-Based Deployment
+    •	How CloudBees can help improved speed and efficiency to your automation tasks with CloudBees
+
 01
 
 PD plans - 
     - finis
     - add example templates
+    - add in app outlines
 
 eldp post work - vision stuff
 docker cert lunch start
