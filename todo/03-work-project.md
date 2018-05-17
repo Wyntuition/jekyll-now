@@ -8,11 +8,13 @@ EXCELL3/Golden30!
 
 ## TODAY
 
+-send test strategy
 
 +Domain
     - 3rd step = final step (FC03): required photo validation. Used to be mailed it, now upload
     +story for mod SVS user auth
     - EADS - 18 mo of employment history requested by agencies provided by SVS verifier to see if qualifying to unemployment
+    - LPR - legal permanent resident, a status
 
 test strategy NS: 
     - test audit, 

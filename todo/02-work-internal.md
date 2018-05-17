@@ -18,6 +18,11 @@ https://trello.com/b/Vj7P4Pkf/dd-2018-goals, https://docs.google.com/spreadsheet
 ### TODAY
 
 01
+
+PD plans - 
+    - finis
+    - add example templates
+
 eldp post work - vision stuff
 docker cert lunch start
 docker partner stuff
