@@ -17,16 +17,15 @@ https://trello.com/b/Vj7P4Pkf/dd-2018-goals, https://docs.google.com/spreadsheet
 
 ### TODAY
 
-notes/outline to fadi
+- notes/outline to fadi
+- Docker 
+    - Jim
+    - study group
+    - videos
+    - sandbox work for ramp up - base images, increment on sandbox/workshop
+- health check review 
 
-  - Enterprise Jenkins
-
-    Docker & Jenkins are creating better and faster software delivery and can help Excella:
-    •	Differences between CloudBees and open source Jenkins
-    •	How CloudBees can help Create a Container Platform Strategy
-    •	How CloudBees can help Reach DevOps Maturity
-    •	How CloudBees can help Modernize Legacy Applications for a Microservices-Based Deployment
-    •	How CloudBees can help improved speed and efficiency to your automation tasks with CloudBees
++ent jenikns
 
 01
 
@@ -584,3 +583,25 @@ Use threads for deeper discussion on a topic, but remember to use @’s liberall
 We may actually benefit from a Slack guidelines document as mentioned in the article above.
 
 This sounds awesome: If your triage channel gets a lot of action, developers can build a bot that scans the channel at preset times of day for specific emoji reactions to messages. This will help your team to track any outstanding issues. So we could map emojis to priorities, and be sure to see important stuff. https://get.slack.help/hc/en-us/articles/360000384726-Prioritize-tasks-quickly-with-triage-channels
+
+
+##### Enterprise Cloud Products
+
+##### CloudBees
+
+- Notes from meeting with CloudBees 5-17-18, Enterprise Jenkins
+
+    Docker & Jenkins are creating better and faster software delivery and can help Excella:
+    •	Differences between CloudBees and open source Jenkins
+    •	How CloudBees can help Create a Container Platform Strategy
+    •	How CloudBees can help Reach DevOps Maturity
+    •	How CloudBees can help Modernize Legacy Applications for a Microservices-Based Deployment
+    •	How CloudBees can help improved speed and efficiency to your automation tasks with CloudBees
+
+    - underlying architecture - kubernetes, 
+        - jenkins config as code plugin -> yaml (alpha)
+    - managing multiple masters / central point of management.
+        - operations center (master of masters) - controls inidv masters in jenkins env. Can perform cluster operations, backups, upgrades, share config, rolling access control
+            - *security:
+        - *USE CASES:
+        - ATARC, DevOpsDays, 
