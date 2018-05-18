@@ -17,18 +17,8 @@ https://trello.com/b/Vj7P4Pkf/dd-2018-goals, https://docs.google.com/spreadsheet
 
 ### TODAY
 
-- notes/outline to fadi
-- Docker 
-    - Jim
-    - study group
-    - videos
-    - sandbox work for ramp up - base images, increment on sandbox/workshop
-- health check review 
-
 +ent jenikns
-
-01
-
+    
 PD plans - 
     - finis
     - add example templates
