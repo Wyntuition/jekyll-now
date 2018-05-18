@@ -168,3 +168,19 @@ RP 1/15/18
 - biggest current challenges?
 - Intimate awareness of teams
 
+
+### Development Workflow Issues
+
+@here I am going to throw a meeting together to go through the test strategy, as well as the other issues on the project which include:
+
+* No AATs yet doing CD
+* Need testing strategy guidelines
+* Only building on master
+* Limited static code analysis, needs to be standard across services
+* Need coding standards guidelines
+* Need working norms
+* Overly complex, not modern pipelines. Non-standard, undesirable to learn, severe code duplication, many steps to create pipelines with many spaces for * trivial errors
+* Far from mimicking production locally
+* Overly inconsistent environments, not enough environments
+* Hard to run some services and tests locally
+* Need more bug, code metrics
