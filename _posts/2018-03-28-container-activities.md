@@ -56,6 +56,28 @@ interest is enterprise-grade security for containers. However
 only a quarter of respondents consider it widely
 available today. 
 
+## CaaS Services 
+
+Helps companies containerize applications, create best-practice development workflows, and build robust microservice architectures:
+Deployable Docker and development Subject Matter Experts
+Enterprise container Assessment
+Boot Camp training for Docker
+Architecture development for containers and microservices
+Deployable Jenkins and Docker development Subject Matter Experts
+Blue/Green & Canary Deployment
+Jenkins Pipelining; Bamboo, UCD
+Gitflow experts and implementers
+Continuous Delivery automation that works:
+     Microservice versioning manifests
+     Rollback capabilities
+     Canary Deploys
+Deployable Kubernetes and Swarm Subject Matter Experts
+Production Readiness Audits
+Container Monitoring solutions including CoScale and Prometheus
+Managed services for Orchestration and Cloud
+OpenShift, Docker EE, Rancher installation and management
+
+
 ## Getting Started with Container Deployment Workshop
 
 Many of us have come into interaction with containers, otherwise know it is inevitable. Many may have also noticed that things get complicated when you start to explore deployment options for containers. Getting your hands dirty as soon as possible by deploying a containerized application will demystify a lot of things quickly and allow you to move forward faster. 
