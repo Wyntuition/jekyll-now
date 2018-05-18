@@ -77,6 +77,24 @@ Container Monitoring solutions including CoScale and Prometheus
 Managed services for Orchestration and Cloud
 OpenShift, Docker EE, Rancher installation and management
 
+### Business initiatives
+
+Interesting tidbits I learned from a docker tech sales video:
+
+Common CIO Priorities:
+- Modernization - moving monolithic applications on static hardware to service-based architecture and microservices. 
+- Cloud adoption at scale, Cloud strategy - easy migrations but portable across clouds
+- DevOps practices - CI, moving to Continuous Delivery
+
+Docker offers:
+- The myth of bi-modal IT: analysts are says organizations should have 2 IT practices, 1 for managing traditional apps, and one for modern service-based (microservices, etc) since different types of infrastructure
+  - Docker wants all types of application on any type of hardware to be managed with their tooling
+  - Tries to make them all fast, easily deployable, automatable. Important b/c orgs have such diverse infrastructure b/t mainframes, physical servers, linux and windows servers, mix of old and new applications. 
+  - Developers want to to deliver fast, and Ops is responsible for standardizing and securing running applications
+  - Docker offers a secure, software supply chain to try to tackle these things
+
+
+
 
 ## Getting Started with Container Deployment Workshop
 
