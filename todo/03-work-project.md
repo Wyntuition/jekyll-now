@@ -10,8 +10,7 @@ EXCELL3/Golden30!
 
 -send test strategy
 - audit 
-    - first pass done?
-    - how to get logs of each service
+    - first pass done? Dissenimate: health principles, audit, how to get logs of each service, things to notify, dashboard to watch
 
 +Domain
     - 3rd step = final step (FC03): required photo validation. Used to be mailed it, now upload
