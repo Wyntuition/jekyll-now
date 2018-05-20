@@ -10,6 +10,7 @@ EXCELL3/Golden30!
 
 -send test strategy
 - audit 
+    - first pass done?
     - how to get logs of each service
 
 +Domain
