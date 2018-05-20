@@ -9,6 +9,8 @@ EXCELL3/Golden30!
 ## TODAY
 
 -send test strategy
+- audit 
+    - how to get logs of each service
 
 +Domain
     - 3rd step = final step (FC03): required photo validation. Used to be mailed it, now upload
