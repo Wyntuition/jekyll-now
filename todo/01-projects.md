@@ -10,7 +10,7 @@
 - dev sandbox: deep app w/techniques (real-time streaming, event sourcing, ms, CQRS, v-based arch, ms arch, front end gen, ai tools, ...); 10x4
     - remodelling: Research overview, 3-4 quotes
     - 2: 
-- Excella bot, image recognition from AWS/sci-kit/qcon guy/etc?, bike share aggregator  
+- Excella bot, image recognition from AWS/sci-kit/qcon guy/etc?, bike share aggregator
 - donkey car
 - career exploration
     - AI programs (Excella bot via chatterbot and Lex), book, CURRIC
