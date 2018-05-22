@@ -9,6 +9,7 @@ EXCELL3/Golden30!
 ## TODAY
 
 - drawings for health checks
+- get access to systems
 
 - health check review & bb; -> review with team next week, then self-healing, cloud/ms pattern brown bag
 
