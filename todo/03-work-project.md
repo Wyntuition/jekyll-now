@@ -9,12 +9,13 @@ EXCELL3/Golden30!
 ## TODAY
 
 - drawings for health checks
+    - cloud patterns: retry, circuit breaker; chaos monkey
 - get access to systems
 
 - health check review & bb; -> review with team next week, then self-healing, cloud/ms pattern brown bag
 
-
 - test strategy
+    - next tasks to create list of needed tests
     - draft plan for test audit/enhancement (tracking, initial list of test cases w/o tests, start tackling in bug team, process for QA-could nginx have been tested before prod, )
     - tracking ss buyin
 
