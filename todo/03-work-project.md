@@ -21,12 +21,6 @@ EXCELL3/Golden30!
     - draft plan for test audit/enhancement (tracking, initial list of test cases w/o tests, start tackling in bug team, process for QA-could nginx have been tested before prod, )
     - tracking ss buyin
 
-+Domain
-    - 3rd step = final step (FC03): required photo validation. Used to be mailed it, now upload
-    +story for mod SVS user auth
-    - EADS - 18 mo of employment history requested by agencies provided by SVS verifier to see if qualifying to unemployment
-    - LPR - legal permanent resident, a status
-
 test strategy NS: 
     - test audit, 
     - test case tracking
