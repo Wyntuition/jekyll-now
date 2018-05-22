@@ -8,7 +8,13 @@ EXCELL3/Golden30!
 
 ## TODAY
 
--send test strategy
+- health check review & bb; -> review with team next week, then self-healing, cloud/ms pattern brown bag
+
+
+- test strategy
+    - draft plan for test audit/enhancement (tracking, initial list of test cases w/o tests, start tackling in bug team, process for QA-could nginx have been tested before prod, )
+    - tracking ss buyin
+
 - audit 
     - first pass done? Dissenimate: health principles, audit, how to get logs of each service, things to notify, dashboard to watch
 
