@@ -21,6 +21,12 @@ SAVE domain
 1. If escalated against by applicant, they must upload a doc
 
 
+- 3rd step = final step (FC03): required photo validation. Used to be mailed it, now upload
++story for mod SVS user auth
+- EADS - 18 mo of employment history requested by agencies provided by SVS verifier to see if qualifying to unemployment
+- LPR - legal permanent resident, a status
+
+
 URLs
 
 Legacy/Test	https://legacy-case-verification.vis.nonprod.uscis.dhs.gov
