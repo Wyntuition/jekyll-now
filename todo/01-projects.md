@@ -13,6 +13,13 @@
 - Excella bot, image recognition from AWS/sci-kit/qcon guy/etc?, bike share aggregator
 - donkey car
 - career exploration
+  - pros/cons of now
+    - pros: large teams, human interaction, help opportunities
+    - cons: deep learning, senior mentorship, niche
+
+  - Niche ecosystem:
+    - cloud architecture: docker, microservices, CaaS, AWS, tools
+
     - AI programs (Excella bot via chatterbot and Lex), book, CURRIC
     - problem exploration (sw arch, AI testing, AI dev, data analytics, model-based design/TDK/math sw engineering)
     
