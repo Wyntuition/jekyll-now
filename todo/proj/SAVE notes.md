@@ -19,3 +19,12 @@ SAVE domain
 1. Addl verification (SVS verifier with diff API): many agencies who use web services have to switch to GUI. Some have to reinput case, should be remidied in MOD.
   - Agency sends to SBO (SAVE app again). Human then works it (3-5 days), return to applicant. (auto-closed after 6 mo - all case details data)
 1. If escalated against by applicant, they must upload a doc
+
+
+URLs
+
+Legacy/Test	https://legacy-case-verification.vis.nonprod.uscis.dhs.gov
+Unstable/WS	https://unstable-case-verification.vis.nonprod.uscis.dhs.gov
+Nonprod/Stage	https://nonprod-case-verification.vis.nonprod.uscis.dhs.gov
+Certification/Preview/WS	https://certification-case-verification.vis.nonprod.uscis.dhs.gov
+Production	https://case-verification.vis.nonprod.uscis.dhs.gov
