@@ -7,17 +7,17 @@ EXCELL3/Golden30!
 - Rounds: [D] SAVE rooms; [W] EV rooms, support room
 
 ## TODAY
-    
-- health check review & bb; -> review with team next week, then self-healing, cloud/ms pattern brown bag
-    - drawings for health checks
-    - review cloud patterns, how we're doing
+
+- health check review & bb; -> 
+    - review with team next week, then self-healing bb, cloud/ms pattern bb; review cloud patterns (retry, circuit breaker; chaos monkey), how we're doing
+    - drawings for health checks -> arch diagrams
     - health principles, audit, how to get logs of each service, things to notify, dashboard to watch
-        - cloud patterns: retry, circuit breaker; chaos monkey
 
 - [w] access to systems 
 
 - test strategy
     - next tasks to create list of needed tests
+    - test tracking pilot; draw out test coverage diagram: list seams/contracts, draw and bar chart which tests hit what
     - draft plan for test audit/enhancement (tracking, initial list of test cases w/o tests, start tackling in bug team, process for QA-could nginx have been tested before prod, )
     - tracking ss buyin
 

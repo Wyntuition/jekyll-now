@@ -23,12 +23,12 @@ PD plans -
     - add example templates
     - add in app outlines
     - sch meeting with family
-- PD plans update w/cloud arch tab (ecosystem overview, aws/azure subgroups, microservices infra/deployment/monitoring/netflix list)
-    - add core competencies (diff list?); add brown bag series around core competencies
-    - update list to be more concise like DevOps one
-    - then send mtg invite to reports
-        
-    - +microserivces patterns to brown bag/curric: services gateway, discovery, http://microservices.io/patterns/apigateway.html; check thru resources, NGINX MS book, PS thing Dan sent, MS patterns book, 
+    - PD plans update w/cloud arch tab (ecosystem overview, aws/azure subgroups, microservices infra/deployment/monitoring/netflix list)
+        - add core competencies (diff list?); add brown bag series around core competencies
+        - update list to be more concise like DevOps one
+        - then send mtg invite to reports
+            
+- +microserivces patterns to brown bag/curric, SKILLS GUIDE: services gateway, discovery, http://microservices.io/patterns/apigateway.html; check thru resources, NGINX MS book, PS thing Dan sent, MS patterns book, 
 
 
 
