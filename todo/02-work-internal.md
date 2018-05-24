@@ -18,6 +18,7 @@ https://trello.com/b/Vj7P4Pkf/dd-2018-goals, https://docs.google.com/spreadsheet
 ### TODAY
 
 update cloud BD cheatsheet
+find & send out docker cert materials (free, docker deep dive)
 
 PD plans - 
     - finis
