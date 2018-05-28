@@ -77,6 +77,8 @@ Container Monitoring solutions including CoScale and Prometheus
 Managed services for Orchestration and Cloud
 OpenShift, Docker EE, Rancher installation and management
 
+## Docker Technical/Sales Professional Training
+
 ### Business initiatives
 
 Interesting tidbits I learned from a docker tech sales video:
@@ -93,6 +95,12 @@ Docker offers:
   - Developers want to to deliver fast, and Ops is responsible for standardizing and securing running applications
   - Docker offers a secure, software supply chain to try to tackle these things
 
+According to them also, companies plan to spend more on Docker than any other infrastructural software, though Docker has less market penetration than the other big ones, Red Hat, VMWare, Microsoft, SAP, Oracle. So they think a lot of Docker Enterprise licenses are going to be sold
+
+
+### Vendors most supporting microservices
+
+Semi-related in other vendor news, according to some Docker Technical Sales Training, the vendors companies are planning to spend the most on in 2018 to support their microservices initiatives are Splunk, GitHub, Docker far ahead, then Atlassian, MongoDB, Puppet Labs, AWS Lambda, Chef, Ansible, MuleSoft, AppDynamics, Apogee, Elastic, New Relic, Confluent, Ceph
 
 
 

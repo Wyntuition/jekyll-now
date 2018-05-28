@@ -1,4 +1,7 @@
 
+## Container architecture
+
+A “container” is just a term people use to describe a combination of Linux namespaces and cgroups. Linux namespaces and cgroups are first class objects (like VMs, Jails and BSD Zones) while containers are not.
 
 ### OSes
 
