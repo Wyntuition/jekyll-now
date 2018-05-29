@@ -8,6 +8,9 @@ EXCELL3/Golden30!
 
 ## TODAY
 
++smoke tests for toggle service
+
+
 - health check bb; -> 
     - review with team next week, then self-healing bb, cloud/ms pattern bb; review cloud patterns (retry, circuit breaker; chaos monkey), how we're doing
     - drawings for health checks -> arch diagrams
