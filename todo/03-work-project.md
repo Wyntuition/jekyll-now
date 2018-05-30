@@ -9,12 +9,10 @@ EXCELL3/Golden30!
 ## TODAY
 
 +smoke tests for toggle service
-
-
 - [w] access to systems 
 
 
-- health check bb; then jenkins bb
+- health check bb; then jenkins bb (NS: Mason, review, local->aws)
 
 - test strategy
     - next tasks to create list of needed tests
