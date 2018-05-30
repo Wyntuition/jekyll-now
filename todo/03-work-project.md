@@ -11,14 +11,10 @@ EXCELL3/Golden30!
 +smoke tests for toggle service
 
 
-- health check bb; -> 
-    - review with team next week, then self-healing bb, cloud/ms pattern bb; review cloud patterns (retry, circuit breaker; chaos monkey), how we're doing
-        - service discovery, load balancing, fault tolerance, end-to-end monitoring, dynamic routing for canary deployments and most importantly securing the communication channels
-        
-    - drawings for health checks -> arch diagrams
-    - health principles, audit, how to get logs of each service, things to notify, dashboard to watch
-
 - [w] access to systems 
+
+
+- health check bb; then jenkins bb
 
 - test strategy
     - next tasks to create list of needed tests
