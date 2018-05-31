@@ -1,5 +1,3 @@
-# Docker Cert Study Guide notes
-
 ## Docker Deep Dive notes
 
 1. Containers from 30,000 feet
