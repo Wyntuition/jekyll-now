@@ -32,7 +32,7 @@ TODO:
               - devicemapper
               - btrfs
               - zfs
-          - Windows only supports overlay2
+          - Windows only supports windowsfilter driver
 1. The Big Picture
     - Ops perspective 
         - Docker client, 
