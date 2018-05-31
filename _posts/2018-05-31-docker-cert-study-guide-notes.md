@@ -1,5 +1,11 @@
 ## Docker Deep Dive notes
 
+TODO:
+
+- next meeting - by cert bullets?
+- make list of exercises that will train on hands-on, prod bugs, etc
+
+
 1. Containers from 30,000 feet
     * What are containers, etc
     * Windows vs Linux
