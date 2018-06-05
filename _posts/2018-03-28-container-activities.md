@@ -108,7 +108,15 @@ Semi-related in other vendor news, according to some Docker Technical Sales Trai
 
 Containers have been talked about a lot the last few years, and they are becoming a staple of big modernization projects and cloud architectures. In what ways can they make your team more agile and able to deliver software faster? When software is built using containers, on one end they can quickly give a jolt to developer productivity in standardizing their development platform and getting things running quickly. Eventually, on the other end, when your cloud architecture can fully support well-managed containers in production, ops can more easily manage the software since its standardized in containers, and it significantly clarifies the DevOps interaction. 
 
-We'll go into the details of why containers and its surrounding cloud technology is being asked about by so many executives, and what the short and long term benefits can be realized in delivering software.
+We'll go into the details of why containers and its surrounding cloud technology is being asked about by so many executives to stay competitive, and what the short and long term benefits are across an organization.
+
+* Overview of cloud architecture and containers
+* What managing software with containers entails
+* Benefits to agile software delivery from container-based cloud architecture
+* Pitfalls to watch out for
+* How to get started
+
+People should come away with an overall understanding of the cloud and container ecosystem, and what to think about and what questions to ask next in determining next steps to adopting cloud architecture.
 
 ## Getting Started with Container Deployment Workshop
 
