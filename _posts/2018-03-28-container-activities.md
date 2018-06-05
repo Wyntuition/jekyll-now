@@ -104,6 +104,12 @@ Semi-related in other vendor news, according to some Docker Technical Sales Trai
 
 
 
+## Containers & Cloud Architecture Make You More Agile
+
+Containers have been talked about a lot the last few years, and they are becoming a staple of big modernizations and cloud architecture. In what ways can they make your team more agile and able to deliver software faster? When software is built with containers, on one end they can quickly give a jolt to developer productivity in standardizing the development platform and getting things running quickly. Eventually, when your cloud architecture can fully support well-managed containers in production, ops can more easily manage the software when its standardized in containers, and it significantly enhances the DevOps contract. 
+
+We'll go into the details of why containers and its surrounding cloud technology is being asked about by so many executives, and what the short and long term benefits are in delivering software.
+
 ## Getting Started with Container Deployment Workshop
 
 Many of us have come into interaction with containers, otherwise know it is inevitable. Many may have also noticed that things get complicated when you start to explore deployment options for containers. Getting your hands dirty as soon as possible by deploying a containerized application will demystify a lot of things quickly and allow you to move forward faster. 
