@@ -5,7 +5,7 @@ What does Microsoft have in mind this acquisition of GitHub? It certainly has ra
 
 ## Tools to the cloud
 
-For one, they have historically made money off selling products and tooling.  Microsoft will use its sales channels to get GitHub into more enterprises that don't have it. It will be offered as a service in Microsoft's cloud surely. A natual question is would an AWS offer GitHub-as-a-service.
+For one, they have historically made money off selling products and tooling.  Microsoft will use its sales channels to get GitHub into more enterprises that don't have it. It will be offered as a service in Microsoft's cloud surely. A natural question is would an AWS offer GitHub-as-a-service.
 
 ## New developer audiences
 
