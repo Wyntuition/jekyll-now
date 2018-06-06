@@ -15,9 +15,7 @@ Part of their new business model is Azure growth, and a diverse developer ecosys
 
 ## One-stop development shop
 
-Microsoft wants to make GitHub a central spot for coding, building, optimizing, deploying to (any) cloud, monitoring, QA, Planning, Docs/collab.
-
-GitHub Marketplace - you'll be able to buy cloud services from any provider.
+One way Microsoft could draw a larger audience is by following through with their vision of making GitHub a central spot for coding, building, optimizing, deploying to (any) cloud, monitoring, QA, Planning, Docs/collab. If they create GitHub Marketplace, that'll be the step to external services and cloud deployments.
 
 VS Code integration making it a one-stop cross-platform toolset. It will also have rich integration with GitHub allowing things like PR review to be done without going to the website.
 
