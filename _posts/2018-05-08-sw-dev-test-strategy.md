@@ -143,7 +143,7 @@ When a bug is found:
 
 ## External Services used
 
-Consider making `test doubles` for these services to make our tests more focused on contracts we have with other services, and our software, and be bogged down less with testing external software.
+Consider making `test doubles` for these services to make our tests more focused on contracts (consumer-based contracts) we have with other services, and our software, and be bogged down less with testing external software.
 
 ## Coding practices
 
