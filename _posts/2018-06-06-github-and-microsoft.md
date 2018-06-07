@@ -11,7 +11,7 @@ For one, they have historically made money off selling products and tooling.  Mi
 
 Microsoft wants their new development platform (.NET Core) to be seen as compelling and "cool" as other platforms, like Ruby on Rails or NodeJS. Historically, the .NET ecosystem was an outlier compared to others, running on Windows and using Windows tooling, and all the rest used more Linux tooling similar across stacks. Microsoft has already have embraced open source and written their new web framework with open source, so it's a viable option for all developers instead of just Windows/.NET developers. They want their open source .NET Core platform to be considered amongst Ruby, NodeJs, Python, and others.
 
-Part of their new business model is Azure growth, and a diverse developer ecosystem is an important part of that. The more people using Microsoft development tools, the more opportunities they get to help people deploy into Azure with hooks in the tooling. This includes an enhanced marketplace which they might offer in GibHub, where you could buy cloud services from any provider including Azure, right there.
+Part of their new business model is Azure growth, and a diverse developer ecosystem is an important part of that. The more people using Microsoft development tools, the more opportunities they get to help people deploy into Azure with hooks in the tooling. This includes an enhanced marketplace which they might offer in GitHub, where you could buy cloud services from any provider including Azure, right there.
 
 ## One-stop development shop
 
