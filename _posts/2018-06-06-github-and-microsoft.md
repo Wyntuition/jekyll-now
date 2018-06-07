@@ -17,7 +17,7 @@ Part of their new business model is Azure growth, and a diverse developer ecosys
 
 One way Microsoft could draw a larger audience is by following through with their vision of making GitHub a central spot for coding, building, optimizing, deploying to (any) cloud, monitoring, QA, planning, docs/collab. If they jolt GitHub Marketplace, that'll make the path to cloud deployments easier.
 
-VS Code integration with GibHib could make it a one-stop cross-platform toolset. It will also have rich integration with GitHub allowing things like PR review to be done without going to the website.
+Deep VS Code integration with GibHib could make it a one-stop cross-platform toolset. It will also have rich integration with GitHub allowing things like PR review to be done without going to the website.
 
 They envision a single toolset for developing & deploying using any platform, with VS Code, GitHub and a Github marketplace. You could buy and use cloud services like Enterprise Jenkins (CloudBees) and Azure right in Github. Some are excited about this vision such as Sacha Labourey, CEO of CloudBees, (enterprise Jenkins) who said he "can't think of a better destination for GitHub than 'The New Microsoft.'"
 
