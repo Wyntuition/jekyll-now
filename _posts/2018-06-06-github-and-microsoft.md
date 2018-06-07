@@ -15,7 +15,7 @@ Part of their new business model is Azure growth, and a diverse developer ecosys
 
 ## One-stop development shop
 
-One way Microsoft could draw a larger audience is by following through with their vision of making GitHub a central spot for coding, building, optimizing, deploying to (any) cloud, monitoring, QA, Planning, Docs/collab. If they create jolt GitHub Marketplace, that'll be make the path to cloud deployments easier.
+One way Microsoft could draw a larger audience is by following through with their vision of making GitHub a central spot for coding, building, optimizing, deploying to (any) cloud, monitoring, QA, planning, docs/collab. If they create jolt GitHub Marketplace, that'll be make the path to cloud deployments easier.
 
 VS Code integration with GibHib could make it a one-stop cross-platform toolset. It will also have rich integration with GitHub allowing things like PR review to be done without going to the website.
 
