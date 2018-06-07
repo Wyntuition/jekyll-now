@@ -23,4 +23,4 @@ They envision a single toolset for developing & deploying using any platform, wi
 
 ## Conclusion
 
-There is some backlash in the developer community, such as those who don't want a large corporation controlling their source code, and among hobbyists who don't want to be part of the Microsoft ecosystem. Outside of that, Microsoft sees the need to jolt their statue as a software development tools & services vendor, and it plays into hopeful future Azure revenue in various ways, from a larger developer ecosystem using their tools thus maybe paying for something, and maybe deploying something into Azure.
+There is some backlash in the developer community, such as those who don't want a large corporation controlling their source code, and among others who don't want to be part of the Microsoft ecosystem. Outside of that, Microsoft sees the need to jolt their stature as a software development tools & services vendor, and it plays into future Azure revenue they hope for in various ways, like a larger developer ecosystem using their tools and deploying into Azure.
