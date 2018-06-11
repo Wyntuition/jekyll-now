@@ -1,15 +1,15 @@
 
 # The Future of GitHub at Microsoft
 
-What does Microsoft have in mind this acquisition of GitHub? It certainly has raised a lot of eyebrows and concerns.
+What does Microsoft have in mind with this acquisition of GitHub? It certainly has raised a lot of eyebrows and concerns.
 
 ## Tools to the cloud
 
-For one, they have historically made money off selling products and tooling.  Microsoft will use its sales channels to get GitHub into more enterprises that don't have it. It will be offered as a service in Microsoft's cloud surely. A natural question is, would an AWS offer GitHub-as-a-service from Microsoft.
+For one, they have historically made money off selling products and tooling.  Microsoft will use its sales channels to get GitHub into more enterprises that don't have it. It will most likely be offered as a service in Microsoft's cloud. A natural question is, would an AWS offer GitHub-as-a-service from Microsoft.
 
 ## New developer audiences
 
-Microsoft wants their new development platform (.NET Core) to be seen as compelling and "cool" as other platforms, like Ruby on Rails or NodeJS. Historically, the .NET ecosystem was an outlier compared to others, running on Windows and using Windows tooling, and all the rest used Linux tooling, more standard across stacks. Microsoft has already have embraced open source and written their new web framework with open source, so it's a viable option for all developers instead of just Windows/.NET developers. They want their open source .NET Core platform to be considered amongst Ruby, NodeJs, Python, and others.
+Microsoft wants their new development platform (.NET Core) to be seen as compelling and "cool" as other platforms, like Ruby on Rails or NodeJS. Historically, the .NET ecosystem was an outlier compared to others, running on Windows and using Windows tooling, while many others used Linux tooling, so it is more standard across stacks. Microsoft has already embraced open source and written their new web framework with open source and it's cross-platform, so it's a viable option for all developers instead of just Windows/.NET developers. They want their open source .NET Core platform to be considered amongst those who look at Ruby, NodeJs, Python, and others.
 
 Part of their new business model is Azure growth, and a diverse developer ecosystem is an important part of that. The more people using Microsoft development tools, the more opportunities they get to help people deploy into Azure with hooks in the tooling. This includes an enhanced marketplace which they might offer in GitHub, where you could buy cloud services from any provider including Azure, right there.
 
