@@ -12,3 +12,6 @@ alias ms="cd ~/dev/microservices-sandbox/ && code ."
 alias scala="cd ~/dev/scala && code ."
 
 alias todo="cd ~/dev/wyntuition.github.io/todo && code 01.md"
+
+alias dps="docker ps --format 'table {{.Names}}\\t{{.Image}}\\t{{.RunningFor}} ago\\t{{.Status}}\\t{{.Command}}'"
+alias di="docker images ls --format 'table {{.Repository}}\\t{{.Tag}}\\t{{.ID}}\\t{{.Size}}'"
