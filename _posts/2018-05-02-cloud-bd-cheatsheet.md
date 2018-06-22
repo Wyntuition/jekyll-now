@@ -3,21 +3,7 @@ layout: post
 title: Cloud Architecture BD Cheat Sheet
 ---
 
-TODO: 
-
-- examples of where we’ve done what, and the details of our relationship with AWS, Azure and others.
-
-
-Why Excella?
-* We look at the problems our clients are trying to solve, and pick the right cloud tools for the job, no matter which vendor. Many clients want to move to the cloud to get away from managing infrastructure themselves, to save money by paying only when they use the infrastrucutre, and to deliver faster. Excella uses best practices to build cloud solutions for customers that meet these needs in the unique fashion each client has. We have seen results such as reducing time to deploy by over 90%, reducing infrastructure procurement time by as much as 80%, and reducing software bugs by having consistent, reliable immutable infrastructure. 
-* We have leveraged cloud architecture and deployed client's applications in the cloud on a number of clients, including myUSCIS, Verifications, NCARB and SEVIS.
-  - We have architected AWS infrastructure to support applications we've deployed there, including EC2, load balancers, S3, CloudWatch, Route53, containers in ECS
-  - We have written AWS infrastructure as code, to automatically spin up the infrastructure as often as we need
-  - We've leverage infrastructure as code to create immutable infrastructure, removing common problems associated with servers not being consistent in their configuration
-  - We have gained experience in Azure, Heroku and some other providers on our own projects. We have not had client demand for that yet but expect to eventually.
-* We take an active role in staying up to date on the latest happenings in the cloud ecosystem. We experiment and ramp up on the key cloud tools such as Kubernetes and Docker. We have a sandbox where we deploy side projects, demo, and learn these and many other cloud technologies. We go out frequently into the community and give presentations and workshops on these technologies
-* Excella has partnerships with AWS and Docker
-
+## Overview
 
 This cheat sheet goes over key terms and concepts in cloud architecture that are important to be aware of in order to discuss it.
 
@@ -31,6 +17,32 @@ Where does this fall in the cloud world?
           * containers
         * non-microservice container-based applications
         * linux & windows apps
+
+**Contents**
+
+Relevant Priority Initiatives & Key Differentiators
+What is cloud architecture?
+Problems addressing
+  Federal Priorites
+Why Excella?
+FAQ
+
+Pain points //TODO
+Use Cases //TODO
+Pros & Cons //TODO
+Alternative Choices //TODO
+Questions to ask //TODO
+When will customers ask for them? //TODO
+Success stories // TODO
+Getting Started //TODO
+
+## Relevant Priority Initatives
+
+**Digital Service Delivery** - modern software is typically put onto cloud services, more and more into **complex hybrid systems**, using **containers-as-a-service** (CaaS) to provide **cloud-agnostic**, **cross-server software management**
+
+Embrancing it properly will help our strategic growth and get more impactful work. We can provide pipelines and deployment packages for our software much faster, more efficiently and more securely with it wrapped up in a cloud-native way, in a container, through a standardized pipeline, into a centralized deployment platform, all of which we can build.
+
+**Legacy Systems Modernization** - usually modernization efforts involve using cloud technology in some way, but it is a complex and large ecosystem. We can differentiate ourselves by demystifying the landscape for our clients, guiding them to what's right for them no matter the tool or vendor, demonstrating that we can deliver and manage software and pipelines faster and faster by more and more leveraging cloud and container technology, saving money in labor, software license and infrastructure costs.
 
 ## What is Cloud Architecture?
 
@@ -62,7 +74,7 @@ Generally, **as-a-service** terms like the ones below describe an application, s
 
 > > **EXAMPLES:** Kubernetes with support from AWS, API as a containerized service, Python/Django containerized app platform one-click spin-up
 
-**Containers as a service** (CaaS) - like a PaaS but using containers. They can more easily and quickly be built for specific groups or uses. **EXAMPLES:** Same as for PaaS but using services like AWS Elastic Container Service, Google Container Engine, Azure Container Service
+**Containers as a service** (CaaS) - like a IaaS but using containers and delivered as a managed service, such as from Amazon. **EXAMPLES:** Instead of setting up and managing your own container infrastructure to deploy your apps, you can use services like AWS Elastic Kubernetes Service (EKS), Google Container Engine, Azure Kubernetes Service
 
 **Functions as a service** (FaaS) - This is a service that allows deployment of individual functions that can make up an application or just do useful things. EXAMPLES: AWS Lambda, Apache OpenWisk
 
@@ -85,23 +97,45 @@ Generally, **as-a-service** terms like the ones below describe an application, s
 * *Small apps combine to make a full app*
 * *Usually stored in containers*
 * [Microservices BD Cheatsheet](https://excellaco.sharepoint.com/internal/marketing/marketing2017/Legacy/Shared%20Documents/Capabilities%20info/Microservices%20Business%20Development%20Cheat%20Sheet.pdf#search=cheat%20sheet)
+ 
 
-## Drivers of cloud architecture
+## Problems addressing
+
+Drivers of cloud architecture
 
 * **Standardization** of software delivery, deployment practices & pipelines, infrastructure & software management
 * **Cheaper, faster**
 * **Faster** is now cheaper and better. **Get to market** quickly, **respond to changes fast**
 
-## Considerations
-
-* **Hybrid** - organizations are moving towards hybrids over purely third-party clouds
+* **Hybrid** - organizations are moving towards hybrids over purely third-party clouds, as they are seeing that they don't want to and/or can't move all of their systems to the off-prem cloud
 
 // TODO: add aspects from the CIO panel and from other pubs and notes
 
-### Solutions
+### Federal priorities
 
-// TODO flesh out this and other sections
+The Federal Government is several years behind private industry in cloud migration and utilization. Just recently has the momentum in adoption started getting to towards the tipping point, after OPM advised all agencies move to the cloud whenver possible in 2011.
 
+**For cloud migration**: 
+  - curb the unsustainable increase in the number of data centers by reducing the cost of data center hardware software and operations
+  - increasing the IT security posture of the government
+  - shifting IT investments to more efficient computing platforms
+  - increasing the speed of delivery and innovation
+  - leveraging the computing power of the cloud and unique services like AI
+  - providing self-service, centrally managed, more standardized, vendor-agnostic platforms
+  - promoting the use of Green IT
+  
+  *For more see, [The State of Containers in the Federal Government](2018-04-12-state-of-containers-in-federal.md)*
+
+## Why Excella?
+
+* We look at the problems our clients are trying to solve, and pick the right cloud tools for the job, no matter which vendor. Many clients want to move to the cloud to get away from managing infrastructure themselves, to save money by paying only when they use the infrastrucutre, and to deliver faster. Excella uses best practices to build cloud solutions for customers that meet these needs in the unique fashion each client has. We have seen results such as reducing time to deploy by over 90%, reducing infrastructure procurement time by as much as 80%, and reducing software bugs by having consistent, reliable immutable infrastructure. 
+* We have leveraged cloud architecture and deployed client's applications in the cloud on a number of clients, including myUSCIS, Verifications, NCARB and SEVIS.
+  - We have architected AWS infrastructure to support applications we've deployed there, including EC2, load balancers, S3, CloudWatch, Route53, containers in ECS
+  - We have written AWS infrastructure as code, to automatically spin up the infrastructure as often as we need
+  - We've leverage infrastructure as code to create immutable infrastructure, removing common problems associated with servers not being consistent in their configuration
+  - We have gained experience in Azure, Heroku and some other providers on our own projects. We have not had client demand for that yet but expect to eventually.
+* We take an active role in staying up to date on the latest happenings in the cloud ecosystem. We experiment and ramp up on the key cloud tools such as Kubernetes and Docker. We have a sandbox where we deploy side projects, demo, and learn these and many other cloud technologies. We go out frequently into the community and give presentations and workshops on these technologies
+* Excella is an AWS Advanced Consulting Partner and Docker
 
 ## FAQ 
 
