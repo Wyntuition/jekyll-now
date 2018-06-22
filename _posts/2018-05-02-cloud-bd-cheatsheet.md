@@ -7,6 +7,8 @@ title: Cloud Architecture BD Cheat Sheet
 
 This cheat sheet goes over key cloud technology that is important to be aware of in order discuss solutions involing it.
 
+Cloud technology proving a lot of value to customers, especially the private sector who is years ahead, but government is getting close to the tipping point of mass adoption. 
+
 **Contents**
 
 Relevant Priority Initiatives & Key Differentiators
@@ -26,9 +28,9 @@ Getting Started //TODO
 
 ## Relevant Priority Initatives
 
-**Digital Service Delivery** - modern software is typically put onto cloud services, more and more into **complex hybrid systems**, using **containers-as-a-service** (CaaS) to provide **cloud-agnostic**, **cross-server software management**
+**Digital Service Delivery** - modern software is typically put onto cloud services, more and more into **complex on-premises/off-premises hybrid systems**, using **containers-as-a-service** (CaaS) to provide **portable**, **cloud-agnostic**, **cross-server software management**  and **save costs** in **less infrastructure**, **less operations and maintenance expenses**, and **lower virtualization licensing costs**. All this can be done **much faster** with the automation that's possible in cloud technology including **automated server provisioning**, and **cloud software services** (SaaS).
 
-Embrancing it properly will help our strategic growth and get more impactful work. We can provide pipelines and deployment packages for our software much faster, more efficiently and more securely with it wrapped up in a cloud-native way, in a container, through a standardized pipeline, into a centralized deployment platform, all of which we can build.
+Embrancing it properly will help our strategic growth by building our capability and capturing the **large uptick in demand in the hottest cloud technologies**, and get more impactful work. We can provide pipelines and deployment packages for our software **much faster, more efficiently and more securely** with it wrapped up in a **cloud-native** way, in a container, through **standardized pipelines**, into a **centralized deployment platform**, all of which we can build.
 
 **Legacy Systems Modernization** - usually modernization efforts involve using cloud technology in some way, but it is a complex and large ecosystem. We can differentiate ourselves by demystifying the landscape for our clients, guiding them to what's right for them no matter the tool or vendor, demonstrating that we can deliver and manage software and pipelines faster and faster by more and more leveraging cloud and container technology, saving money in labor, software license and infrastructure costs.
 
@@ -86,7 +88,6 @@ Generally, **as-a-service** terms like the ones below describe an application, s
 * *Usually stored in containers*
 * [Microservices BD Cheatsheet](https://excellaco.sharepoint.com/internal/marketing/marketing2017/Legacy/Shared%20Documents/Capabilities%20info/Microservices%20Business%20Development%20Cheat%20Sheet.pdf#search=cheat%20sheet)
  
-
 ## Problems addressing
 
 Drivers of cloud architecture
