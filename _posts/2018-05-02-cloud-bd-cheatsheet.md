@@ -48,7 +48,7 @@ This standardization and modern CaaS use enables **empowering groups to self-ser
 ## Core terms & items in cloud architecture
 
 // TODO: 
-  - Replace diagram below with our own based on feedback
+  - Replace diagram below with our own based on feedback, and that includes CaaS and FaaS
   - Figure out how to convey without aaS terms first, to simplfy aspects into a biggest picture view
 
 Generally, **as-a-service** terms like the ones below describe an application, service, or piece of infrastrucure designed to run on cloud architecture. As the diagram shows, each builds on each other.
