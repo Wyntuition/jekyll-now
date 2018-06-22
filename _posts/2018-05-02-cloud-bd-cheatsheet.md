@@ -3,6 +3,21 @@ layout: post
 title: Cloud Architecture BD Cheat Sheet
 ---
 
+TODO: 
+
+- examples of where we’ve done what, and the details of our relationship with AWS, Azure and others.
+
+
+Why Excella?
+* We look at the problems our clients are trying to solve, and pick the right cloud tools for the job, no matter which vendor. Many clients want to move to the cloud to get away from managing infrastructure themselves, to save money by paying only when they use the infrastrucutre, and to deliver faster. Excella uses best practices to build cloud solutions for customers that meet these needs in the unique fashion each client has. We have seen results such as reducing time to deploy by over 90%, reducing infrastructure procurement time by as much as 80%, and reducing software bugs by having consistent, reliable immutable infrastructure. 
+* We have leveraged cloud architecture and deployed client's applications in the cloud on a number of clients, including myUSCIS, Verifications, NCARB and SEVIS.
+  - We have architected AWS infrastructure to support applications we've deployed there, including EC2, load balancers, S3, CloudWatch, Route53, containers in ECS
+  - We have written AWS infrastructure as code, to automatically spin up the infrastructure as often as we need
+  - We've leverage infrastructure as code to create immutable infrastructure, removing common problems associated with servers not being consistent in their configuration
+  - We have gained experience in Azure, Heroku and some other providers on our own projects. We have not had client demand for that yet but expect to eventually.
+* We take an active role in staying up to date on the latest happenings in the cloud ecosystem. We experiment and ramp up on the key cloud tools such as Kubernetes and Docker. We have a sandbox where we deploy side projects, demo, and learn these and many other cloud technologies. 
+
+
 This cheat sheet goes over key terms and concepts in cloud architecture that are important to be aware of in order to discuss it.
 
 Where does this fall in the cloud world?
