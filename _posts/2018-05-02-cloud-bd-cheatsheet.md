@@ -5,18 +5,7 @@ title: Cloud Architecture BD Cheat Sheet
 
 ## Overview
 
-This cheat sheet goes over key terms and concepts in cloud architecture that are important to be aware of in order to discuss it.
-
-Where does this fall in the cloud world?
-
-* Software
-  * Hosting
-    * Cloud
-      * Applications in the cloud
-        * microservices
-          * containers
-        * non-microservice container-based applications
-        * linux & windows apps
+This cheat sheet goes over key cloud technology that is important to be aware of in order discuss solutions involing it.
 
 **Contents**
 
@@ -27,12 +16,11 @@ Problems addressing
 Why Excella?
 FAQ
 
-Pain points //TODO
 Use Cases //TODO
 Pros & Cons //TODO
 Alternative Choices //TODO
 Questions to ask //TODO
-When will customers ask for them? //TODO
+When will customers ask for it? //TODO
 Success stories // TODO
 Getting Started //TODO
 
