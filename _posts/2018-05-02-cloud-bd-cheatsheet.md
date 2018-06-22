@@ -11,9 +11,9 @@ Cloud technology proving a lot of value to customers, especially the private sec
 
 **Contents**
 
-* [Relevant Priority Initiatives](#Relevant-Priority-Initiatives)
+* [Relevant Priority Initiatives](#relevant-priority-initiatives)
   * Key Differentiators
-* [What is cloud architecture?](#What-is-cloud-architecture)
+* [What is cloud architecture?](#what-is-cloud-architecture)
 * [Problems addressing](#Problems-addressing)
   * [Federal Priorites](#Federal-priorities)
 * [Why Excella?](#Why-Excella)
