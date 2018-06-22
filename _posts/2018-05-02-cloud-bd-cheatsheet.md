@@ -100,3 +100,65 @@ Generally, **as-a-service** terms like the ones below describe an application, s
 ### Solutions
 
 // TODO flesh out this and other sections
+
+
+## FAQ 
+
+### On-Prem versus Off-Prem
+
+**Pros off-prem**
+o	Managed infrastructure, by experts; automatic updates, backups
+o	Often cheaper by paying only for what you use, and without physical overhead
+o	Up to many times faster to provision infrastructure
+o	Easier to set up scaling
+o	Easier to enable mobile applications
+o	Easier to be following best practices
+o	Easier to guarantee minimal downtime
+o	Need strategy and experience.  A simple “lift and shift” of applications from on-prem into the Cloud will produce minimal benefit, and those may be consumed by the resources required for the move itself. That said, a careful strategy to re-engineer your applications platform into the Cloud could have significant cost savings and operational efficiencies. A very detailed TCO (Total Cost of Ownership) is required before making such a strategic decision.
+o	Pay by the month instead of high up-front costs of on-prem hardware and software, so current money can be used elsewhere
+
+**Cons off-prem**
+o	Can be costlier in certain situations
+o	Can be less flexible
+o	Data is stored remotely
+
+**Pros on-prem**
+o	Full control over infrastructure and data
+o	Can be cheaper in certain situations, like high performance, predictable use 
+
+**Cons of on-prem**
+o	Harder to take advantage of cloud economics
+o	Must manage hardware
+o	High overhead in maintenance and upgrade costs
+o	Harder to find the expertise to manage modern cloud architecture on prem
+o	Harder to keep up with security updates and best practices
+
+•	Integration of Hybrid/Multi-Cloud and what solutions are best suited (e.g., Iaas, SaaS, PaaS), and how to implement/manage security.
+o	In addition to the infrastructure, tools like vSphere, VPNs, hardware devices and more enable hybrid clouds. Which approaches you use depends on the situation. You may use all of the as-a-services’s, such as IaaS via AWS for its virtual servers, CaaS for a container platform, PaaS for enabling developers to spin up infrastructure for a specific app(s) and pipelines on-demand, SaaS for an application you host that you deliver to other departments.
+o	IaaS - computer infrastructure provided as a service as opposed to running it yourself. AWS EC2 instances are an example, and are commonly used when doing your own software deployments in the off-prem cloud and need servers. 
+o	PaaS – the software platform is provided as a service instead of you setting it up. For example, you could have a Python/Django PaaS that allows you to spin up a web application on-demand without having to set it up yourself, then add your custom web application code. It is the software skeleton set up and managed for you as a service, but you still write most of the code.
+o	SaaS – completed software is delivered as a service. Gmail and Office365 are easy examples. You can create your own to provide to your organization.
+o	CaaS – there is a newer term, containers-as-a-service, which is like IaaS built with containers, so it makes it easier and more standard to deploy and manage applications if they are container-based. It makes it easier to deploy PaaS systems on top.
+o	Security – some ways to secure your hybrid system would be to containerizing, ensure everything is properly monitored and has the right logging, continuous security scanning (i.e. of each deployed container in case updates open security holes), dependency scanning, container image scanning, stripped-down base container images for deployment, process for accountability, map your security controls to those offered by cloud provider
+•	To virtualize or not virtualize…….servers and applications. What are deciding factors? Is VMware vShere the defacto server virtualization tool…and does it support Hybrid Cloud solutions? 
+
+## Virtualization/hypervisors & Orchestrators
+
+•	Orchestrators and Hypervisors……how are they used and when are they used in Cloud solutions?
+o	Orchestrators are used to automate and manage resource use of containers that make up your appications
+o	Hypervisors are used to create virtual machines (that containers are deployed on by the orchestrator), and manage resources making them think they each have their own physical machine. They are the way to use hardware virtualization. 
+
+Pros of virtualization
+o	Flexibility in what servers you put on what hardware, i.e. Linux and Windows virtual servers on one machine
+o	High availability & speed is easier to achieve, as spinning up new virtual servers quickly and where you want in response to issues or other things is much faster
+o	Utilization of on-prem infrastructure is enhanced by virtualization
+
+Cons of virtualization
+o	If performance is very important, virtualization adds a layer over the hardware creating resource overhead. If you have more than one virtual server on a machine, there will be competition for resources.
+o	It could be cheaper to not pay for the license for the virtualization technology if you don’t need it enough
+o	You have hardware-dependent software
+
+Standards
+o	Which one is best depends on your needs. VMWare is the most popular.
+o	vSphere – type 1 virtualization, not open source, Enterprise platform is easy to use; Xen – type 1, native drivers for Window, more stable, less functionality, though Hyper-V is popular for Winodws;  KVM – type 2, better performance with Linux, worse otherwise
+
