@@ -15,7 +15,8 @@ Why Excella?
   - We have written AWS infrastructure as code, to automatically spin up the infrastructure as often as we need
   - We've leverage infrastructure as code to create immutable infrastructure, removing common problems associated with servers not being consistent in their configuration
   - We have gained experience in Azure, Heroku and some other providers on our own projects. We have not had client demand for that yet but expect to eventually.
-* We take an active role in staying up to date on the latest happenings in the cloud ecosystem. We experiment and ramp up on the key cloud tools such as Kubernetes and Docker. We have a sandbox where we deploy side projects, demo, and learn these and many other cloud technologies. 
+* We take an active role in staying up to date on the latest happenings in the cloud ecosystem. We experiment and ramp up on the key cloud tools such as Kubernetes and Docker. We have a sandbox where we deploy side projects, demo, and learn these and many other cloud technologies. We go out frequently into the community and give presentations and workshops on these technologies
+* Excella has partnerships with AWS and Docker
 
 
 This cheat sheet goes over key terms and concepts in cloud architecture that are important to be aware of in order to discuss it.
