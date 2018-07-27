@@ -137,5 +137,11 @@
 
 ## Additional Resources
 
-* [it-cfp-list](https://github.com/softwaremill/it-cfp-list)
+Manage abstracts:
 * [Papercall.io](https://www.papercall.io/events)
+* Sessionize.com
+* SpeakerHub.com
+
+Find conferences: 
+* [it-cfp-list](https://github.com/softwaremill/it-cfp-list)
+* [ArrayOfConfs.com](ArrayOfConfs.com)
