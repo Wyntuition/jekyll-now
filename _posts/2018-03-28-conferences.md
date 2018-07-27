@@ -106,6 +106,10 @@
 * Code Camp
   - spring, fall
 
+## Tech Leads
+
+* [Lead Dev](https://upcoming.theleaddeveloper.com/)
+
 ## Thought Leader and Decision Maker heavy
 
 [CIO Mag guide to conferences](https://www.cio.com/article/2976667/it-skills-training/your-guide-to-top-tech-conferences.html)
