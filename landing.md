@@ -9,7 +9,7 @@
 
 # PD
 
-- [https://learning.oreilly.com/playlists/eac8546b-8a2d-48fd-8c99-92134ebae0e8](Safari Queue)
+- [Safair Queue](https://learning.oreilly.com/playlists/eac8546b-8a2d-48fd-8c99-92134ebae0e8)
   - [Building Microservices with Spring Boot]()
 - [SAVE Curricula](https://github.com/excellalabs/reactive-in-java/blob/master/README.md)
 
