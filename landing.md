@@ -16,7 +16,7 @@
 
 ## LIST 
 
-- [Example use with business objects, Integrating Reactor with Spring and Creating Reactive Code]( https://learning.oreilly.com/videos/spring-5-0-project/9781787284210/9781787284210-video5_1)
+- [Example use with business objects, Integrating Reactor with Spring and Creating Reactive Code](https://learning.oreilly.com/videos/spring-5-0-project/9781787284210/9781787284210-video5_1)
 
 - [Lambdas, Streams, Optional](https://learning.oreilly.com/videos/reactive-spring/9781492025733/9781492025733-video317119)
 
