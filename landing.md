@@ -24,6 +24,8 @@
 
 - [Domain-Driven Design Distilled](https://learning.oreilly.com/videos/domain-driven-design-distilled/9780134593449?autoplay=false)
 
+- [Spring Boot Docs](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/#using-boot-structuring-your-code)
+
 ### Cloud Native
 
 - [DevOps-friendly microservices](https://learning.oreilly.com/videos/developing-ops-friendly-microservices/9781771375504?autoplay=false)
