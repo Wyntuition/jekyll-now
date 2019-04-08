@@ -27,6 +27,10 @@
 
 - [Spring Boot Docs](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/#using-boot-structuring-your-code)
 
+### Java
+
+[Articles and Blogs](https://getpocket.com/a/queue/list/curric%20-%20java/)
+
 ### Cloud Native
 
 - [DevOps-friendly microservices](https://learning.oreilly.com/videos/developing-ops-friendly-microservices/9781771375504?autoplay=false)
