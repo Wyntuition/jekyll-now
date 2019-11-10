@@ -13,7 +13,7 @@
   - [Building Microservices with Spring Boot]()
 - [Save Curric](https://gitlab.com/wyntuition/todo/blob/master/kb/save-curric.md)
 
-## Java
+## Java, RFP
 
 - [Reactive in Java](https://github.com/excellalabs/reactive-in-java/blob/master/README.md)
 
@@ -28,6 +28,10 @@
 ## DDD 
 
 - [Domain-Driven Design Distilled](https://learning.oreilly.com/videos/domain-driven-design-distilled/9780134593449?autoplay=false)
+
+## Kuberneters, OpenShift, Cloud, DevOps
+
+- tcp OpenShift curriculum
 
 ## Cloud Native
 
