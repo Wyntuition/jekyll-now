@@ -116,13 +116,10 @@
 
 * [Open FinTech Forum](https://linuxfoundation.smapply.io/prog/open_fintech_forum/)
   - CFP Feb 12 - July 13
-* [Gartner CIO Leadership Forum](Gartner CIO Leadership Forum)
-* [CIO Digital Transformation Summit](http://east.digitaltransformationsummit.us/)
+* [Gartner CIO Leadership Summit](https://www.gartner.com/en/conferences/offerings/cio-executive-forums-na?ef_id=Cj0KCQiAnL7yBRD3ARIsAJp_oLbdto6_ernamy3cdBpod1M7ZzB39PjNGIo59Acv7cGJcvF4_XGQw0kaArc9EALw_wcB:G:s&utm_source=google&utm_medium=cpc&utm_campaign=EVT_NA_2020_CIOS14_CPC_SEM1_NON-BRAND&gclid=Cj0KCQiAnL7yBRD3ARIsAJp_oLbdto6_ernamy3cdBpod1M7ZzB39PjNGIo59Acv7cGJcvF4_XGQw0kaArc9EALw_wcB)
   - March
 * [CIO Cloud Summit](http://ciocloudsummit.com/agenda)
   - March
-* [Ingram Cloud Summit](http://ingrammicrocloudsummit.com/agenda/)
-  - April
 * [MIT Sloan CIO Symposium](http://www.mitcio.com/)
   - May
 * [Landmark CIO Summit (invite only)](https://www.eiseverywhere.com/ehome/282461/616590/)
